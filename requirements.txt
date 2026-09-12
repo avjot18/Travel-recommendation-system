@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+langgraph
+
+chromadb
+sentence-transformers
+
+pydantic
+pydantic-settings
+python-dotenv
