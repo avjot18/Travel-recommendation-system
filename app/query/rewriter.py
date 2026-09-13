@@ -1,41 +1,47 @@
-from langchain_ollama import ChatOllama
-
-
 class QueryRewriter:
-
-    def __init__(self, model_name: str):
-
-        self.llm = ChatOllama(
-            model=model_name,
-            temperature=0
-        )
 
     def rewrite(self, query_analysis):
 
-        prompt = f"""
-You are a travel search query rewriter.
+        parts = []
 
-Convert the following structured travel requirements
-into a concise natural-language search query.
+        # Location
+        if query_analysis.location:
+            parts.append(query_analysis.location)
 
-The query will be used to retrieve relevant travel
-destinations from a knowledge base.
+        # Duration
+        if query_analysis.duration_days:
+            parts.append(
+                f"{query_analysis.duration_days} day trip"
+            )
 
-Travel requirements:
-Intent: {query_analysis.intent}
-Travel styles: {query_analysis.travel_styles}
-Best for: {query_analysis.best_for}
-Budget: {query_analysis.budget}
-Duration: {query_analysis.duration_days} days
-Location: {query_analysis.location}
-Activities: {query_analysis.activities}
-Avoid: {query_analysis.avoid}
+        # Budget
+        if query_analysis.budget:
+            parts.append(
+                f"{query_analysis.budget} budget"
+            )
 
-Create only the search query.
-Do not provide recommendations.
-Do not explain anything.
-"""
+        # Travelers
+        if query_analysis.travelers:
+            parts.extend(
+                query_analysis.travelers
+            )
 
-        response = self.llm.invoke(prompt)
+        # Preferences
+        if query_analysis.preferences:
+            parts.extend(
+                query_analysis.preferences
+            )
 
-        return response.content.strip()
+        # Activities
+        if query_analysis.activities:
+            parts.extend(
+                query_analysis.activities
+            )
+
+        # Constraints
+        if query_analysis.constraints:
+            parts.extend(
+                query_analysis.constraints
+            )
+
+        return " ".join(parts)

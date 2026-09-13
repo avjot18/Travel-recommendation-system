@@ -1,53 +1,273 @@
-from langchain_ollama import ChatOllama
+import re
 from pydantic import BaseModel
 
 
 class QueryAnalysis(BaseModel):
     intent: str
-    travel_styles: list[str]
-    best_for: list[str]
-    budget: str | None
-    duration_days: int | None
     location: str | None
+    duration_days: int | None
+    budget: str | None
+    travelers: list[str]
+    preferences: list[str]
     activities: list[str]
-    avoid: list[str]
+    constraints: list[str]
 
 
 class QueryAnalyzer:
 
-    def __init__(self, model_name: str):
-
-        self.llm = ChatOllama(
-            model=model_name,
-            temperature=0
-        )
-
-        self.structured_llm = self.llm.with_structured_output(
-            QueryAnalysis
-        )
-
     def analyze(self, query: str):
 
-        prompt = f"""
-You are a travel query analyzer.
+        text = query.lower()
 
-Analyze the user's travel request and extract:
-- intent
-- travel styles
-- suitable traveler types
-- budget
-- duration in days
-- location preference
-- activities
-- things to avoid
+        # -------------------------
+        # INTENT
+        # -------------------------
 
-If a value is not mentioned, use null for single-value fields
-and an empty list for list fields.
+        intent = "destination_recommendation"
 
-User query:
-{query}
-"""
+        if any(
+            word in text
+            for word in [
+                "compare",
+                "comparison",
+                "vs",
+                "versus"
+            ]
+        ):
+            intent = "destination_comparison"
 
-        response = self.structured_llm.invoke(prompt)
+        # -------------------------
+        # DURATION
+        # -------------------------
 
-        return response
+        duration_days = None
+
+        duration_match = re.search(
+            r"(\d+)\s*(?:day|days|day's)",
+            text
+        )
+
+        if duration_match:
+            duration_days = int(
+                duration_match.group(1)
+            )
+
+        # -------------------------
+        # BUDGET
+        # -------------------------
+
+        budget = None
+
+        if any(
+            phrase in text
+            for phrase in [
+                "low budget",
+                "cheap",
+                "budget friendly",
+                "budget-friendly",
+                "affordable",
+                "cheap trip"
+            ]
+        ):
+            budget = "low"
+
+        elif any(
+            phrase in text
+            for phrase in [
+                "mid range",
+                "mid-range",
+                "moderate budget",
+                "medium budget"
+            ]
+        ):
+            budget = "mid-range"
+
+        elif any(
+            phrase in text
+            for phrase in [
+                "luxury",
+                "high budget",
+                "expensive"
+            ]
+        ):
+            budget = "luxury"
+
+        # -------------------------
+        # TRAVELERS
+        # -------------------------
+
+        travelers = []
+
+        if any(
+            phrase in text
+            for phrase in [
+                "girlfriend",
+                "boyfriend",
+                "couple",
+                "couples",
+                "romantic trip",
+                "romantic getaway",
+                "partner"
+            ]
+        ):
+            travelers.append("couples")
+
+        if any(
+            phrase in text
+            for phrase in [
+                "family",
+                "parents",
+                "kids",
+                "children"
+            ]
+        ):
+            travelers.append("family")
+
+        if any(
+            phrase in text
+            for phrase in [
+                "solo",
+                "alone",
+                "myself"
+            ]
+        ):
+            travelers.append("solo")
+
+        if any(
+            phrase in text
+            for phrase in [
+                "friends",
+                "group of friends",
+                "friend group"
+            ]
+        ):
+            travelers.append("friends")
+
+        # -------------------------
+        # LOCATION
+        # -------------------------
+
+        location = None
+
+        if any(
+            word in text
+            for word in [
+                "mountain",
+                "mountains",
+                "hill",
+                "hills"
+            ]
+        ):
+            location = "mountains"
+
+        # -------------------------
+        # PREFERENCES
+        # -------------------------
+
+        preferences = []
+
+        if any(
+            word in text
+            for word in [
+                "peaceful",
+                "peace",
+                "quiet",
+                "calm",
+                "relaxing",
+                "relaxed",
+                "serene"
+            ]
+        ):
+            preferences.append("peaceful")
+
+        if any(
+            word in text
+            for word in [
+                "scenic",
+                "beautiful views",
+                "landscape",
+                "photography"
+            ]
+        ):
+            preferences.append("scenic")
+
+        if any(
+            word in text
+            for word in [
+                "adventure",
+                "adventurous"
+            ]
+        ):
+            preferences.append("adventure")
+
+        # -------------------------
+        # ACTIVITIES
+        # -------------------------
+
+        activities = []
+
+        activity_keywords = {
+            "trekking": [
+                "trek",
+                "trekking",
+                "hiking"
+            ],
+            "skiing": [
+                "ski",
+                "skiing"
+            ],
+            "rafting": [
+                "rafting",
+                "raft"
+            ],
+            "camping": [
+                "camping",
+                "camp"
+            ],
+            "photography": [
+                "photography",
+                "photograph",
+                "photos"
+            ],
+            "yoga": [
+                "yoga"
+            ],
+            "meditation": [
+                "meditation"
+            ]
+        }
+
+        for activity, keywords in activity_keywords.items():
+
+            if any(
+                keyword in text
+                for keyword in keywords
+            ):
+                activities.append(activity)
+
+        # -------------------------
+        # CONSTRAINTS
+        # -------------------------
+
+        constraints = []
+
+        if (
+            "don't want extreme cold" in text
+            or "do not want extreme cold" in text
+            or "avoid extreme cold" in text
+            or "no extreme cold" in text
+        ):
+            constraints.append(
+                "avoid_extreme_cold"
+            )
+
+        return QueryAnalysis(
+            intent=intent,
+            location=location,
+            duration_days=duration_days,
+            budget=budget,
+            travelers=travelers,
+            preferences=preferences,
+            activities=activities,
+            constraints=constraints
+        )
