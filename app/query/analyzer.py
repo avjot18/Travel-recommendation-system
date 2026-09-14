@@ -54,13 +54,16 @@ class QueryAnalyzer:
         if duration_match:
             duration_days = int(duration_match.group(1))
 
-        # -------------------------
+                # -------------------------
         # Budget
         # -------------------------
 
         budget_range = None
 
-        if any(
+        if (
+            re.search(r"\blow\b", text)
+            and re.search(r"\bbudget\b", text)
+        ) or any(
             phrase in text
             for phrase in [
                 "low budget",
