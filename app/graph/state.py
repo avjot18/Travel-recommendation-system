@@ -1,31 +1,67 @@
+
 from typing import TypedDict
 
 
 class TravelState(TypedDict, total=False):
 
-    # Original user query
+    # -------------------------------------------------
+    # User input
+    # -------------------------------------------------
+
     query: str
 
-    # Structured understanding of the query
-    query_analysis: object
+    # -------------------------------------------------
+    # Query understanding
+    # -------------------------------------------------
 
-    # Query rewritten for semantic retrieval
+    query_analysis: object
     search_query: str
 
-    # Documents retrieved from Chroma
+    # -------------------------------------------------
+    # Retrieval
+    # -------------------------------------------------
+
     retrieved_documents: list
 
-    # Documents after ranking
+    # -------------------------------------------------
+    # Ranking
+    # -------------------------------------------------
+
     ranked_destinations: list
+
+    # -------------------------------------------------
+    # Recommendation
+    # -------------------------------------------------
 
     recommendation_decision: dict
 
-    # Generated answer
+    # -------------------------------------------------
+    # Structured destination knowledge
+    # -------------------------------------------------
+
+    destination_profile: object
+    destination_profiles: list
+
+    # -------------------------------------------------
+    # Travel planning
+    # -------------------------------------------------
+
+    activity_plan: object
+    itinerary_plan: object
+    budget_plan: object
+    stay_area_plan: object
+
+    # -------------------------------------------------
+    # Final response
+    # -------------------------------------------------
+
     answer: str
 
-    # Groundedness result
+    # -------------------------------------------------
+    # Evaluation
+    # -------------------------------------------------
+
     grounded: bool
     groundedness_explanation: str
-
-    # Number of regeneration attempts
     retry_count: int
+ 

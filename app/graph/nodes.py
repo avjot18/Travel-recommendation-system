@@ -152,36 +152,290 @@ def generate_answer(state):
     return {
         "answer": answer
     }
+
 def check_groundedness(state):
+
+    print("\nGROUNDEDNESS CHECK:")
+    print("------------------------")
+    print("Skipped during V2 graph development.")
+
+    return {
+        "grounded": True,
+        "groundedness_explanation": (
+            "Groundedness evaluation temporarily "
+            "disabled during V2 graph development."
+        )
+    }
+
+
+ 
+def map_destination(state):
 
     start = time.time()
 
-    result = services.groundedness_checker.check(
-    answer=state["answer"],
-    documents=state["retrieved_documents"],
-    requirement_fit=(
-        state["recommendation_decision"]
-        ["candidate"]
-        ["requirement_fit"]
+    decision = state[
+        "recommendation_decision"
+    ]
+
+    candidate = decision.get(
+        "candidate"
     )
-)
+
+    if not candidate:
+
+        print(
+            "\nDESTINATION MAPPING:"
+        )
+        print(
+            "No recommendation candidate available."
+        )
+
+        print(
+            f"[TIME] map_destination: "
+            f"{time.time() - start:.2f}s"
+        )
+
+        return {
+            "destination_profile": None
+        }
+
+    document = candidate[
+        "document"
+    ]
+
+    destination_id = (
+        document.metadata.get(
+            "destination_id"
+        )
+    )
+
+    destination_profile = (
+        services.destination_mapper.document_to_profile(
+            document
+        )
+    )
 
     print(
-        f"[TIME] check_groundedness: "
+        "\nDESTINATION MAPPING:"
+    )
+    print(
+        "Destination:",
+        document.metadata.get(
+            "destination"
+        )
+    )
+
+    print(
+        "Destination ID:",
+        destination_id
+    )
+
+    if destination_profile:
+
+        print(
+            "Profile mapped: YES"
+        )
+
+    else:
+
+        print(
+            "Profile mapped: NO"
+        )
+
+    print(
+        f"[TIME] map_destination: "
         f"{time.time() - start:.2f}s"
     )
 
-    print("\nCLAIM EVALUATION:")
-    print("------------------------")
+    return {
+        "destination_profile":
+            destination_profile
+    }
+ 
 
-    for claim in result.claims:
+def plan_trip(state):
+
+    start = time.time()
+
+    travel_profile = state[
+        "query_analysis"
+    ]
+
+    destination = state.get(
+        "destination_profile"
+    )
+
+    # -------------------------------------------------
+    # No destination available
+    # -------------------------------------------------
+
+    if destination is None:
 
         print(
-            f"{claim.classification}: "
-            f"{claim.claim}"
+            "\nTRAVEL PLANNING:"
         )
 
+        print(
+            "No destination profile available."
+        )
+
+        print(
+            f"[TIME] plan_trip: "
+            f"{time.time() - start:.2f}s"
+        )
+
+        return {
+            "activity_plan": None,
+            "itinerary_plan": None,
+            "budget_plan": None,
+            "stay_area_plan": None
+        }
+
+    # -------------------------------------------------
+    # Activity planning
+    # -------------------------------------------------
+
+    activity_plan = (
+        services.activity_planner.plan(
+            travel_profile,
+            destination
+        )
+    )
+
+    # -------------------------------------------------
+    # Itinerary planning
+    # -------------------------------------------------
+
+    itinerary_plan = (
+        services.itinerary_planner.plan(
+            travel_profile,
+            destination,
+            activity_plan
+        )
+    )
+
+    # -------------------------------------------------
+    # Budget estimation
+    # -------------------------------------------------
+
+    budget_plan = (
+        services.budget_estimator.estimate(
+            travel_profile,
+            destination
+        )
+    )
+
+    # -------------------------------------------------
+    # Stay area recommendation
+    # -------------------------------------------------
+
+    stay_area_plan = (
+        services.stay_area_recommender.recommend(
+            travel_profile,
+            destination
+        )
+    )
+
+    # -------------------------------------------------
+    # Display planning summary
+    # -------------------------------------------------
+
+    print(
+        "\nTRAVEL PLAN:"
+    )
+    print(
+        "-------------"
+    )
+
+    print(
+        "Destination:",
+        destination.name
+    )
+
+    print(
+        "Activities:",
+        len(activity_plan.activities)
+    )
+
+    print(
+        "Itinerary days:",
+        len(itinerary_plan.days)
+    )
+
+    print(
+        "Budget:",
+        budget_plan.total
+    )
+
+    print(
+        "Budget status:",
+        budget_plan.total_status
+    )
+
+    print(
+        "Stay area status:",
+        stay_area_plan.status
+    )
+
+    print(
+        f"[TIME] plan_trip: "
+        f"{time.time() - start:.2f}s"
+    )
+
     return {
-        "grounded": result.grounded,
-        "groundedness_explanation": result.explanation
+        "activity_plan": activity_plan,
+        "itinerary_plan": itinerary_plan,
+        "budget_plan": budget_plan,
+        "stay_area_plan": stay_area_plan
     }
+def route_after_recommendation(state):
+    travel_profile = state["query_analysis"]
+
+    intent = travel_profile.intent
+
+    if intent == "destination_comparison":
+        return "answer"
+
+    if (
+        travel_profile.duration_days
+        or travel_profile.activities
+        or travel_profile.must_have_activities
+    ):
+        return "plan_trip"
+
+    return "answer"
+ 
+
+# def check_groundedness(state):
+
+#     start = time.time()
+
+#     result = services.groundedness_checker.check(
+#     answer=state["answer"],
+#     documents=state["retrieved_documents"],
+#     requirement_fit=(
+#         state["recommendation_decision"]
+#         ["candidate"]
+#         ["requirement_fit"]
+#     )
+# )
+
+#     print(
+#         f"[TIME] check_groundedness: "
+#         f"{time.time() - start:.2f}s"
+#     )
+
+#     print("\nCLAIM EVALUATION:")
+#     print("------------------------")
+
+#     for claim in result.claims:
+
+#         print(
+#             f"{claim.classification}: "
+#             f"{claim.claim}"
+#         )
+
+#     return {
+#         "grounded": result.grounded,
+#         "groundedness_explanation": result.explanation
+#     }

@@ -9,8 +9,11 @@ from app.graph.nodes import (
     rank_destinations,
     evaluate_requirement_fit,
     make_recommendation_decision,
+    map_destination,
+    plan_trip,
     generate_answer,
     check_groundedness,
+    route_after_recommendation,
 )
 
 
@@ -39,13 +42,23 @@ def build_graph():
     )
 
     graph.add_node(
-    "make_recommendation_decision",
-    make_recommendation_decision
-)
-
-    graph.add_node(
         "evaluate_requirement_fit",
         evaluate_requirement_fit
+    )
+
+    graph.add_node(
+        "make_recommendation_decision",
+        make_recommendation_decision
+    )
+
+    graph.add_node(
+        "map_destination",
+        map_destination
+    )
+
+    graph.add_node(
+        "plan_trip",
+        plan_trip
     )
 
     graph.add_node(
@@ -57,6 +70,10 @@ def build_graph():
         "check_groundedness",
         check_groundedness
     )
+
+    # -------------------------
+    # Main pipeline
+    # -------------------------
 
     graph.add_edge(
         START,
@@ -84,14 +101,40 @@ def build_graph():
     )
 
     graph.add_edge(
-    "evaluate_requirement_fit",
-    "make_recommendation_decision"
-)
+        "evaluate_requirement_fit",
+        "make_recommendation_decision"
+    )
+
+    # -------------------------
+    # Conditional routing
+    # -------------------------
+
+    graph.add_conditional_edges(
+        "make_recommendation_decision",
+        route_after_recommendation,
+        {
+            "plan_trip": "map_destination",
+            "answer": "generate_answer",
+        }
+    )
+
+    # -------------------------
+    # Planning path
+    # -------------------------
 
     graph.add_edge(
-    "make_recommendation_decision",
-    "generate_answer"
-)
+        "map_destination",
+        "plan_trip"
+    )
+
+    graph.add_edge(
+        "plan_trip",
+        "generate_answer"
+    )
+
+    # -------------------------
+    # Final response
+    # -------------------------
 
     graph.add_edge(
         "generate_answer",
