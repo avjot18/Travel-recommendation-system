@@ -3,16 +3,21 @@ import re
 
 class DestinationRanker:
 
+    # Hard requirements have a stronger influence
     HARD_WEIGHTS = {
-        "location": 30,
         "duration": 25,
-        "budget": 25
+        "budget": 25,
     }
 
+    # Soft preferences influence ranking but should not dominate
     SOFT_WEIGHTS = {
+        "location": 20,
         "traveler": 10,
-        "preference": 10,
-        "activity": 10
+        "travel_style": 10,
+        "interest": 5,
+        "activity": 10,
+        "season": 5,
+        "pace": 5,
     }
 
     SEMANTIC_THRESHOLD = 0.45
@@ -20,18 +25,18 @@ class DestinationRanker:
     def __init__(self, embeddings):
         self.embeddings = embeddings
 
-    # --------------------------------------------------
-    # BASIC HELPERS
-    # --------------------------------------------------
+    # ---------------------------------------------------------
+    # Utility
+    # ---------------------------------------------------------
 
     def _normalize(self, value):
         return str(value).lower().strip()
 
-    # --------------------------------------------------
-    # SEMANTIC MATCHING
-    # --------------------------------------------------
-
-    def _semantic_similarity(self, user_value, destination_values):
+    def _semantic_similarity(
+        self,
+        user_value,
+        destination_values
+    ):
 
         if not user_value or not destination_values:
             return 0.0
@@ -118,13 +123,11 @@ class DestinationRanker:
         if similarity >= self.SEMANTIC_THRESHOLD:
             return "semantic", similarity
 
-        # We know something about the field,
-        # but it isn't strong enough to call a match.
         return "unknown", similarity
 
-    # --------------------------------------------------
-    # DURATION
-    # --------------------------------------------------
+    # ---------------------------------------------------------
+    # Duration
+    # ---------------------------------------------------------
 
     def _duration_relation(
         self,
@@ -138,7 +141,10 @@ class DestinationRanker:
         ):
             return "unknown"
 
-        if isinstance(destination_duration, list):
+        if isinstance(
+            destination_duration,
+            list
+        ):
 
             if len(destination_duration) >= 2:
 
@@ -157,7 +163,10 @@ class DestinationRanker:
 
                 return "mismatch"
 
-        if isinstance(destination_duration, str):
+        if isinstance(
+            destination_duration,
+            str
+        ):
 
             numbers = re.findall(
                 r"\d+",
@@ -183,9 +192,9 @@ class DestinationRanker:
 
         return "unknown"
 
-    # --------------------------------------------------
-    # LOCATION
-    # --------------------------------------------------
+    # ---------------------------------------------------------
+    # Location
+    # ---------------------------------------------------------
 
     def _location_relation(
         self,
@@ -212,7 +221,7 @@ class DestinationRanker:
             metadata.get("region", "")
         )
 
-        # Direct location match
+        # Exact location match
         if requested_location in {
             destination,
             state,
@@ -220,7 +229,12 @@ class DestinationRanker:
         }:
             return "match"
 
-        # Heuristic geographic relationship
+        # Dataset currently does not contain
+        # a dedicated geographic-type field.
+        #
+        # Therefore mountain/beach/desert style
+        # geographic requests are treated cautiously.
+
         if requested_location in {
             "mountain",
             "mountains",
@@ -242,14 +256,92 @@ class DestinationRanker:
 
         return "mismatch"
 
-    # --------------------------------------------------
-    # MAIN RANKING
-    # --------------------------------------------------
+    # ---------------------------------------------------------
+    # Budget
+    # ---------------------------------------------------------
+
+    def _budget_relation(
+        self,
+        user_budget,
+        destination_budget
+    ):
+
+        if not user_budget:
+            return "unknown"
+
+        if not destination_budget:
+            return "unknown"
+
+        user_budget = self._normalize(
+            user_budget
+        )
+
+        destination_budget = self._normalize(
+            destination_budget
+        )
+
+        if user_budget == destination_budget:
+            return "match"
+
+        return "mismatch"
+
+    # ---------------------------------------------------------
+    # Generic matching
+    # ---------------------------------------------------------
+
+    def _evaluate_values(
+        self,
+        user_values,
+        destination_values,
+        weight,
+        label,
+        score,
+        direct_matches,
+        semantic_matches,
+        unknowns
+    ):
+
+        for user_value in user_values:
+
+            match_type, similarity = (
+                self._match_type(
+                    user_value,
+                    destination_values
+                )
+            )
+
+            if match_type == "direct":
+
+                score += weight
+
+                direct_matches.append(
+                    user_value
+                )
+
+            elif match_type == "semantic":
+
+                score += weight * 0.6
+
+                semantic_matches.append(
+                    f"{user_value} {label}"
+                )
+
+            else:
+
+                unknowns.append(
+                    f"{user_value} {label}"
+                )
+
+        return score
+
+    # ---------------------------------------------------------
+    # Main ranking
+    # ---------------------------------------------------------
 
     def rank(
         self,
         documents,
-        query_analysis
+        travel_profile
     ):
 
         ranked = []
@@ -266,18 +358,20 @@ class DestinationRanker:
             unknowns = []
             mismatches = []
 
-            # ==========================================
+            # =================================================
             # LOCATION
-            # ==========================================
+            # =================================================
 
             location = self._location_relation(
-                query_analysis.location,
+                travel_profile.location,
                 metadata
             )
 
             if location == "match":
 
-                score += self.HARD_WEIGHTS["location"]
+                score += self.SOFT_WEIGHTS[
+                    "location"
+                ]
 
                 direct_matches.append(
                     "location"
@@ -285,7 +379,10 @@ class DestinationRanker:
 
             elif location == "possible":
 
-                score += 15
+                score += (
+                    self.SOFT_WEIGHTS["location"]
+                    * 0.75
+                )
 
                 possible_matches.append(
                     "location"
@@ -293,8 +390,6 @@ class DestinationRanker:
 
             elif location == "mismatch":
 
-                score -= self.HARD_WEIGHTS["location"]
-
                 mismatches.append(
                     "location"
                 )
@@ -305,18 +400,22 @@ class DestinationRanker:
                     "location"
                 )
 
-            # ==========================================
+            # =================================================
             # DURATION
-            # ==========================================
+            # =================================================
 
             duration = self._duration_relation(
-                query_analysis.duration_days,
-                metadata.get("ideal_duration_days")
+                travel_profile.duration_days,
+                metadata.get(
+                    "ideal_duration_days"
+                )
             )
 
             if duration == "match":
 
-                score += self.HARD_WEIGHTS["duration"]
+                score += self.HARD_WEIGHTS[
+                    "duration"
+                ]
 
                 direct_matches.append(
                     "duration"
@@ -324,7 +423,9 @@ class DestinationRanker:
 
             elif duration == "mismatch":
 
-                score -= self.HARD_WEIGHTS["duration"]
+                score -= self.HARD_WEIGHTS[
+                    "duration"
+                ]
 
                 mismatches.append(
                     "duration"
@@ -336,256 +437,223 @@ class DestinationRanker:
                     "duration"
                 )
 
-            # ==========================================
+            # =================================================
             # BUDGET
-            # ==========================================
+            # =================================================
 
-            user_budget = query_analysis.budget
-
-            destination_budget = metadata.get(
-                "budget_tier"
+            budget = self._budget_relation(
+                travel_profile.budget_range,
+                metadata.get("budget_tier")
             )
 
-            if user_budget:
+            if budget == "match":
 
-                if destination_budget:
+                score += self.HARD_WEIGHTS[
+                    "budget"
+                ]
 
-                    if (
-                        self._normalize(user_budget)
-                        ==
-                        self._normalize(
-                            destination_budget
+                direct_matches.append(
+                    "budget"
+                )
+
+            elif budget == "mismatch":
+
+                score -= self.HARD_WEIGHTS[
+                    "budget"
+                ]
+
+                mismatches.append(
+                    "budget"
+                )
+
+            elif (
+                travel_profile.budget_range
+                and not metadata.get("budget_tier")
+            ):
+
+                unknowns.append(
+                    "budget"
+                )
+
+            # =================================================
+            # TRAVELERS
+            # =================================================
+
+            score = self._evaluate_values(
+                travel_profile.travelers,
+                metadata.get("best_for", []),
+                self.SOFT_WEIGHTS["traveler"],
+                "suitability",
+                score,
+                direct_matches,
+                semantic_matches,
+                unknowns
+            )
+
+            # =================================================
+            # TRAVEL STYLES
+            # =================================================
+
+            score = self._evaluate_values(
+                travel_profile.travel_styles,
+                metadata.get("travel_styles", []),
+                self.SOFT_WEIGHTS["travel_style"],
+                "travel style",
+                score,
+                direct_matches,
+                semantic_matches,
+                unknowns
+            )
+
+            # =================================================
+            # INTERESTS
+            # =================================================
+
+            destination_interests = (
+                metadata.get("best_for", [])
+                + metadata.get("activities", [])
+            )
+
+            score = self._evaluate_values(
+                travel_profile.interests,
+                destination_interests,
+                self.SOFT_WEIGHTS["interest"],
+                "interest",
+                score,
+                direct_matches,
+                semantic_matches,
+                unknowns
+            )
+
+            # =================================================
+            # ACTIVITIES
+            # =================================================
+
+            score = self._evaluate_values(
+                travel_profile.activities,
+                metadata.get("activities", []),
+                self.SOFT_WEIGHTS["activity"],
+                "activity",
+                score,
+                direct_matches,
+                semantic_matches,
+                unknowns
+            )
+
+            # =================================================
+            # SEASON
+            # =================================================
+
+            if travel_profile.season:
+
+                # Current dataset has best_months,
+                # but no normalized season field.
+
+                best_months = metadata.get(
+                    "best_months"
+                )
+
+                if best_months:
+
+                    match_type, similarity = (
+                        self._match_type(
+                            travel_profile.season,
+                            best_months
                         )
-                    ):
+                    )
 
-                        score += self.HARD_WEIGHTS[
-                            "budget"
+                    if match_type == "direct":
+
+                        score += self.SOFT_WEIGHTS[
+                            "season"
                         ]
 
                         direct_matches.append(
-                            "budget"
+                            "season"
+                        )
+
+                    elif match_type == "semantic":
+
+                        score += (
+                            self.SOFT_WEIGHTS["season"]
+                            * 0.6
+                        )
+
+                        semantic_matches.append(
+                            "season compatibility"
                         )
 
                     else:
 
-                        score -= self.HARD_WEIGHTS[
-                            "budget"
-                        ]
-
-                        mismatches.append(
-                            "budget"
+                        unknowns.append(
+                            "season compatibility"
                         )
 
                 else:
 
                     unknowns.append(
-                        "budget"
+                        "season compatibility"
                     )
 
-            # ==========================================
-            # TRAVELER TYPE
-            # ==========================================
+            # =================================================
+            # PACE
+            # =================================================
 
-            traveler_values = metadata.get(
-                "best_for",
-                []
-            )
+            if travel_profile.pace:
 
-            for traveler in query_analysis.travelers:
+                # Pace is not currently represented
+                # in the dataset.
 
-                match_type, similarity = (
-                    self._match_type(
-                        traveler,
-                        traveler_values
-                    )
+                unknowns.append(
+                    "pace compatibility"
                 )
 
-                print(
-                    f"[SEMANTIC] "
-                    f"{traveler} -> "
-                    f"{traveler_values} = "
-                    f"{similarity:.3f}"
-                )
+            # =================================================
+            # AVOIDANCES
+            # =================================================
 
-                if match_type == "direct":
+            for avoid in travel_profile.avoids:
 
-                    score += self.SOFT_WEIGHTS[
-                        "traveler"
-                    ]
-
-                    direct_matches.append(
-                        traveler
-                    )
-
-                elif match_type == "semantic":
-
-                    score += (
-                        self.SOFT_WEIGHTS[
-                            "traveler"
-                        ] * 0.6
-                    )
-
-                    semantic_matches.append(
-                        f"{traveler} suitability"
-                    )
-
-                else:
-
-                    unknowns.append(
-                        f"{traveler} suitability"
-                    )
-
-            # ==========================================
-            # PREFERENCES
-            # ==========================================
-
-            preference_values = metadata.get(
-                "travel_styles",
-                []
-            )
-
-            for preference in query_analysis.preferences:
-
-                match_type, similarity = (
-                    self._match_type(
-                        preference,
-                        preference_values
-                    )
-                )
-
-                print(
-                    f"[SEMANTIC] "
-                    f"{preference} -> "
-                    f"{preference_values} = "
-                    f"{similarity:.3f}"
-                )
-
-                if match_type == "direct":
-
-                    score += self.SOFT_WEIGHTS[
-                        "preference"
-                    ]
-
-                    direct_matches.append(
-                        preference
-                    )
-
-                elif match_type == "semantic":
-
-                    score += (
-                        self.SOFT_WEIGHTS[
-                            "preference"
-                        ] * 0.6
-                    )
-
-                    semantic_matches.append(
-                        f"{preference} preference"
-                    )
-
-                else:
-
-                    unknowns.append(
-                        preference
-                    )
-
-            # ==========================================
-            # ACTIVITIES
-            # ==========================================
-
-            activity_values = metadata.get(
-                "activities",
-                []
-            )
-
-            for activity in query_analysis.activities:
-
-                match_type, similarity = (
-                    self._match_type(
-                        activity,
-                        activity_values
-                    )
-                )
-
-                print(
-                    f"[SEMANTIC] "
-                    f"{activity} -> "
-                    f"{activity_values} = "
-                    f"{similarity:.3f}"
-                )
-
-                if match_type == "direct":
-
-                    score += self.SOFT_WEIGHTS[
-                        "activity"
-                    ]
-
-                    direct_matches.append(
-                        activity
-                    )
-
-                elif match_type == "semantic":
-
-                    score += (
-                        self.SOFT_WEIGHTS[
-                            "activity"
-                        ] * 0.6
-                    )
-
-                    semantic_matches.append(
-                        f"{activity} activity"
-                    )
-
-                else:
-
-                    unknowns.append(
-                        f"{activity} activity"
-                    )
-
-            # ==========================================
-            # NEGATIVE CONSTRAINTS
-            # ==========================================
-
-            for constraint in query_analysis.constraints:
-
-                if constraint == "avoid_extreme_cold":
+                if avoid == "extreme_cold":
 
                     unknowns.append(
                         "extreme cold avoidance"
                     )
 
-            # ==========================================
-            # STORE RESULT
-            # ==========================================
+                elif avoid == "crowds":
+
+                    unknowns.append(
+                        "crowd avoidance"
+                    )
+
+                elif avoid == "hectic":
+
+                    unknowns.append(
+                        "hectic itinerary avoidance"
+                    )
+
+                else:
+
+                    unknowns.append(
+                        f"{avoid} avoidance"
+                    )
+
+            # =================================================
+            # RESULT
+            # =================================================
 
             ranked.append({
-
                 "document": document,
-
-                "score": round(
-                    score,
-                    2
-                ),
-
+                "score": round(score, 2),
                 "explanation": {
-
-                    "direct_matches":
-                        direct_matches,
-
-                    "semantic_matches":
-                        semantic_matches,
-
-                    "possible_matches":
-                        possible_matches,
-
-                    "unknowns":
-                        unknowns,
-
-                    "mismatches":
-                        mismatches
+                    "direct_matches": direct_matches,
+                    "semantic_matches": semantic_matches,
+                    "possible_matches": possible_matches,
+                    "unknowns": unknowns,
+                    "mismatches": mismatches
                 }
             })
 
-        # Highest score first
         ranked.sort(
             key=lambda item: item["score"],
             reverse=True
