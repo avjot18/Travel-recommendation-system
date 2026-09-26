@@ -1,0 +1,383 @@
+{
+  "destination_id": "IN-ODISHA-CUTTACK",
+  "destination_name": "Cuttack",
+  "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Biju Patnaik International Airport (BBI), Bhubaneshwar"
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Cuttack Railway Station (CTC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Biju Patnaik International Airport (BBI), Bhubaneshwar",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in the captivating history and vibrant energy of Cuttack, Odisha's enthralling ‘Millennium City.’ This vibrant destination boasts a history stretching back over a thousand years, earning its nickname for a reason. Prepare to be dazzled by the city's famed silver filigree work that adorns the Durga Puja tableaux, the city's grand celebration of Goddess Durga. No wonder Cuttack is known as the ‘Silver City of India!’ Cuttack's past whispers from every corner. The very name, derived from ‘Kataka’ meaning ‘military camp’ or ‘seat of government,’ reflects its historical significance. Explore the ruins of the Barabati Fort , a testament to the city's role as a military base and administrative centre for the Kalinga kings. Cuttack is more than just a museum of history, though. Feel the pulse of Cuttack's unique energy! Witness the fervent devotion of pilgrims seeking blessings at the revered Cuttack Chandi Temple . Just a stone's throw away, the electrifying cheers from Barabati Stadium will immerse you in the city's passion for cricket. In Cuttack, ancient echoes blend seamlessly with modern life, creating a truly unforgettable experience. Ready to discover the magic of the Silver City?",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel back through time at the Barabati Fort, a stoic sentinel guarding the Mahanadi's embrace. Imagine the whispers carried on the wind, tales of a bygone era when a nine-story palace graced these grounds. Now, earthen mounds stand as silent testaments to the Ganga dynasty's reign. Trace the path of warrior’s past along the strategic moat, a tangible reminder of Cuttack's rich martial history. Unveil forgotten stories within the walls of the Odisha State Museum. Here, Kalinga pottery and bronze figurines come alive, transporting you to a bygone era. Marvel at the intricate stone inscriptions, each mark a cryptic clue to forgotten languages and lost scripts. These artifacts are not just relics; they are whispers from the past, waiting to be deciphered.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack's soul sparkles with artistic brilliance, where generations of craftsmen create wonders. In Chaudhury Bazaar, watch as artisans transform silver into delicate filigree (tarkashi) masterpieces, each piece narrating the legacy of the city's rich heritage. These delicate works of art, a testament to generations-old skill, are a collector's dream and a source of immense pride for the city. Wander further and lose yourself in the world of woven textiles. Marvel at the traditional Sambalpuri sarees, renowned for their Ikat weaving technique and vibrant colour combinations. Each saree is a masterpiece, a canvas laced with intricate designs and motifs passed down through generations. Don't miss the exquisite horn works, another art form that Cuttack has perfected over centuries. Witness skilled artisans transform buffalo horn into intricate combs, bangles, and decorative objects. Each piece is a demonstration of their patience and dedication, a unique blend of form and function.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack appeals to all travellers. History enthusiasts will find treasures at the Odisha Maritime Museum , with naval relics that echo Odisha's seafaring legacy. Discover exhibits of ancient shipbuilding, navigational tools, and tales of Odia traders' daring sea voyages. This museum provides a rich glimpse into Cuttack's maritime history.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack is the proud birthplace of Netaji Subhas Chandra Bose, a key figure in India's struggle for independence. Explore his legacy at the Netaji Subhas Chandra Bose Memorial Museum located in his ancestral home, which displays his personal items, photographs, and writings. Nearby, the Shahid Smarak honours all freedom fighters who laid down their lives for India's independence, serving as a poignant reminder of their sacrifice.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack, a city rich in spiritual diversity, is a vibrant mosaic of faiths and communal harmony. The serene Dhabaleshwar Temple on Dhabaleshwar Island, dedicated to Lord Shiva, is renowned for its stunning river views and traditional Odia architecture. It’s connected to the mainland via a picturesque suspension bridge, offering a tranquil retreat for devotion. The ancient Cuttack Chandi Temple, adorned with exquisite carvings, venerates the fierce Goddess Durga, symbolizing the city's deep-rooted Hindu faith. Nearby, the spirit of tolerance is embodied in Kuania Bazaar, where a Sikh Gurdwara and a Jain temple stand harmoniously side by side. Adding to this rich tapestry, the historic Qadam-E-Rasool mosque, with its impressive Islamic calligraphy and architecture, underscores Cuttack’s multicultural ethos, making it a true City of Brotherhood.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No exploration of Cuttack is complete without a delightful dive into its culinary scene. Savor the city's signature dish, \"dahibara,\" where lentil dumplings bask in chilled yogurt, spiced with tangy chutneys and crunchy sev. Adventure further with \"chhena poda,\" a unique baked cheese dessert with a caramelized crust, and don't miss the delectably soft \"rasgullas,\" cheese dumplings soaked in sweet, fragrant syrup.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nature lovers will treasure the State Botanical Garden in Cuttack, a lush oasis perfect for photography with its colourful blooms and rare plant species. The garden offers themed areas, tranquil lakes, and well-kept lawns for a peaceful retreat. For those craving adventure, the nearby Bhitarkanika Wildlife Sanctuary provides thrilling wildlife encounters among the mangroves of the Mahanadi delta. Experience boat safaris to observe saltwater crocodiles, playful dolphins, and a variety of birds, including the rare Indian skimmer and colourful paradise flycatcher.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every November, Cuttack transforms into a vibrant seaport of the past during the Bali Jatra festival, also known as \"Boita Bandana Utsab\" or the \"Festival of Boats.\" Meaning \"Voyage to Bali,\" this event honours the daring Odia mariners, the \"Sadhabas,\" who once navigated vast oceans in their sturdy \"Boita\" vessels. This week-long festival on Kartika Purnima honours Odisha's seafaring legacy. The Barabati Fort becomes a bustling marketplace, while families by the Mahanadi River release miniature boats, honouring the \"Sadhabas\" who once sailed vast oceans. Bali Jatra is a vibrant celebration of trade, history, and Cuttack's enduring maritime spirit.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack awaits with its captivating blend of history, artistry, and modern charm. The best time to visit the city is between October and April. So, are you ready to discover this hidden gem of Odisha?",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack is often called the Silver City due to its exquisite silver filigree jewelry, showcasing the city's rich tradition of craftsmanship.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The traditional Sambalpuri Sarees famous for their ikat technique high light the vibrant cultural tapestry of Sambalpur",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack is the proud birthplace of Netaji Subhas Chandra Bose , a key figure in India's struggle for independence.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cuttack's religious diversity is reflected in its array of worship sites, including the Cuttack Chandi Temple , Dhabaleswar Temple, a Sikh Gurdwara, a Jain temple, and the historic Qadam-E-Rasool mosque.",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Savour the flavours of authentic Odia cuisine in Cuttack",
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Cuttack",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/cuttack",
+        "retrieved_at": "2026-09-22T18:36:40.208992+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

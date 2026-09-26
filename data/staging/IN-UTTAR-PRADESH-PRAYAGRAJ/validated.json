@@ -1,0 +1,322 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-PRAYAGRAJ",
+  "destination_name": "Prayagraj",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Prayagraj Airport (IXD), Prayagraj"
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Prayagraj Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.8,
+        "maximum_celsius": 28.7
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.2,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 44.1
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 45.9
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 24.3,
+        "maximum_celsius": 45.1
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.4,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.5,
+        "maximum_celsius": 36.7
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.7,
+        "maximum_celsius": 36.7
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.3,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of northern India, along the sacred banks of the confluence of the Ganges, Yamuna, and mythical Saraswati rivers, lies the historic city of Prayagraj. Formerly known as Allahabad, Prayagraj stands as a timeless symbol of spirituality, heritage, and cultural confluence. Steeped in history and mythology, this city has been a witness to the ebb and flow of civilizations, making it a fascinating destination for pilgrims, historians, and seekers alike.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prayagraj holds a special place in Hindu mythology as the site of the ancient pilgrimage known as the Kumbh Mela, which is celebrated every twelve years. According to legend, Lord Brahma, the creator of the universe, performed the first-ever yajna (sacrifice) at the confluence of the rivers here, making Prayagraj one of the holiest pilgrimage sites in India.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Throughout history, Prayagraj has been a centre of power, culture, and learning. It served as the capital of various dynasties, including the Mauryas, Guptas, and Mughals, who left behind a rich architectural legacy that still stands today. The city's strategic location made it a focal point of trade and commerce, connecting the northern plains with the Gangetic heartland.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Under British rule, Prayagraj emerged as an administrative and educational center, earning the moniker \"Oxford of the East\" for its prestigious institutions such as Allahabad University and Indian Institute of Information Technology, Allahabad. It also served as the venue for key events in India's struggle for independence, including the Nehru family's famous Anand Bhawan residence, which became a hub for political activism.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Triveni Sangam: The confluence of the Ganges, Yamuna, and Saraswati rivers at Prayagraj is known as the Triveni Sangam, where pilgrims gather to perform rituals and seek spiritual purification. Sangam Literature: Prayagraj is associated with the Sangam period of Tamil literature, during which Tamil poets and scholars convened here to compose their works and celebrate literary excellence. Kumbh Mela: The Kumbh Mela, held every twelve years in Prayagraj, is the largest religious gathering in the world, attracting millions of pilgrims and sadhus who come to bathe in the holy waters and seek blessings.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Today, Prayagraj continues to be a vibrant centre of culture, spirituality, and intellectual discourse. Its historic landmarks, including the Allahabad High Court, Anand Bhawan, and Alfred Park, stand as reminders of its storied past, while its bustling markets, vibrant festivals, and thriving art scene reflect its dynamic present.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Triveni Sangam: Witness the sacred confluence of the Ganges, Yamuna, and Saraswati rivers at the Triveni Sangam and take a boat ride to experience the spiritual ambiance of this revered site. Allahabad Fort: Explore the historic Allahabad Fort, built by Emperor Akbar in the 16th century, which houses the iconic Ashoka Pillar and the Patalpuri Temple. Anand Bhawan: Visit the ancestral home of the Nehru family, now converted into a museum, to learn about India's freedom struggle and the legacy of its prominent leaders. Allahabad High Court: Marvel at the majestic architecture of the Allahabad High Court, one of the oldest high courts in India, known for its grand domes and imposing columns. Prayagraj, with its blend of history, mythology, and modernity, is a city that transcends time and space. Whether you're exploring its ancient temples, immersing yourself in its literary heritage, or simply soaking in the spiritual atmosphere of the Triveni Sangam, Prayagraj offers a journey of discovery and enlightenment that leaves a lasting impression on the soul. As pilgrims have done for millennia, come and experience the sacred confluence of past and present in the timeless city of Prayagraj.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khusro Bagh is a beautiful garden complex, known for its stunning architecture and as the burial place of Prince Khusro, the eldest son of Emperor Jahangir.",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get your shopping bags ready in Prayagraj",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Appreciate the beauty of nature in Prayagraj",
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Prayagraj",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/prayagraj",
+        "retrieved_at": "2026-09-22T18:36:48.403615+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

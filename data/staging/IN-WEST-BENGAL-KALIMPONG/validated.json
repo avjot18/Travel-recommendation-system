@@ -1,0 +1,402 @@
+{
+  "destination_id": "IN-WEST-BENGAL-KALIMPONG",
+  "destination_name": "Kalimpong",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra"
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Jalpaiguri Junction Railway Station (NJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.2,
+        "maximum_celsius": 18.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.6,
+        "maximum_celsius": 20.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 23.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 27.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 28.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 13.9,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 11.6,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.3,
+        "maximum_celsius": 23.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.4,
+        "maximum_celsius": 20.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "New Jalpaiguri Junction Railway Station (NJP)",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away amidst the rolling hills and misty mountains of the Eastern Himalayas, Kalimpong is a quaint little town that beckons travelers with its laid-back charm and breathtaking natural beauty. Perched at an altitude of 1,250 meters, this beautiful hill station is a great getaway to unwind and relax. As you wind your way along the beautiful Teesta River and head upwards to the higher reaches, sprawling lush green carpets of tea gardens interspersed with the vibrant colors of beautiful blooms welcome you. The cool air is fragrant and when you breathe it in you can actually feel worries and anxieties slipping away and peace seeping in. Kalimpong has a rich and fascinating history that dates back centuries. The area around present-day Kalimpong was originally inhabited by the Lepcha and Bhutia communities and still reflects their cultures. The name 'Kalimpong' itself comes from the Lepcha word 'Kalim-pung,' which translates to 'flat lands'. Present day Kalimpong is a melting pot of diverse cultures, colonial British, Bhutanese and Tibetan influences. It has a resilient spirit that has withstood the test of time. This rich tapestry of stories and experiences adds to the town's allure and makes it a truly captivating destination for travellers.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong is a haven for nature lovers and adventure seekers alike. Embark on a trek to the stunning Deolo Hill , where you'll be rewarded with panoramic vistas of the majestic Kanchenjunga range. One can also enjoy horse riding, paragliding and many other exciting adventure activities at this locale.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Durpin Dara Hill is another excellent vantage point for admiring the Himalayas. Durpin Dara Hill is a bit off the beaten path and offers a more secluded experience. It's a great spot for picnics and watching the sunrise or sunset.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking a more laid-back experience, the serene Dr. Graham's Homes offers a tranquil respite, with its well-manicured gardens and colonial-era buildings. It is a great place to stroll around and soak in the history and beauty of the area.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Kalimpong would be complete without a visit to the renowned Zang Dhok Palri Phodang monastery. It is one of the most important Buddhist monasteries in the region and is known world over for its impressive architecture and vibrant religious ceremonies. Watching the monks perform the age-old rituals and chanting is an extremely spiritual and once in a lifetime experiences.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The local markets are a unique blend of Nepali, Tibetan, and Bhutanese influences and are a total treat. You can find an array of handcrafted treasures and savor the mouthwatering delicacies of the local cuisine.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "River rafting on the Teesta River is the perfect adrenalin shot whilst on your getaway. The river-rafting center is located at Teesta Bazaar, 45 kilometers from Kalimpong and is an ideal spot for river rafting activities. Adventure enthusiasts can choose from various rafting packages, ranging from a few hours to full-day adventures. The rapids on the Teesta River are graded from II to IV, offering thrills for both beginners and experienced rafters. The best time for river rafting on the Teesta is from March to June and September to November, when the water levels are optimal and the weather is pleasant.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You must visit the Kalimpong Cactus Nursery, an extraordinary attraction boasting an impressive collection of over 3,000 varieties of cacti and succulents from around the world. The passion project of renowned horticulturist Sukra Mukhia, the displays showcase everything from tiny specimens to towering giants, offering a mesmerising array of shapes, sizes, and colours of these unique plants.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just a short drive from Kalimpong, you'll find the popular Pedong and Relli Valleys, known for their breathtaking natural beauty, lush green landscapes, and traditional villages. Take a leisurely drive through the beautiful countryside and savour local flavours at the charming tea stalls dotted along the roads.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a deeper immersion into Nepali culture and the traditional way of life, venture to the nearby towns of Lava and Loleygaon. Surrounded by forests and perched at altitudes of 7700 and 5500 square feet respectively, both villages are just an hour apart and offer a drive that feels out of this world. Surrounded by numerous tea estates, Kalimpong also invites you to explore and taste some of the finest Darjeeling teas. The picturesque landscape provides a perfect backdrop for a leisurely stroll, witnessing the timeless art of tea plucking and savouring a rejuvenating cup of locally grown Darjeeling tea.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong beckons those seeking a harmonious blend of natural beauty, cultural richness, and tranquillity. With warm hospitality, stunning vistas, and a pace of life that seems to slow down time itself, this Himalayan haven promises an unforgettable experience that will stay with you long after you've returned home.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The nearest major airport to Kalimpong is Bagdogra Airport, which is located approximately 75 km away. There are regular flights connecting Bagdogra to major Indian cities such as Delhi, Kolkata, and Guwahati. From Bagdogra, you can hire a taxi or take a shared vehicle to Kalimpong, which is about a 3-hour trip. The nearest major railway station to Kalimpong is New Jalpaiguri (NJP), located around 72 km away.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong is well-connected by road to major cities in West Bengal, Sikkim, and other parts of Northeast India. The road trip is an enjoyable experience. You can hire a taxi or take a shared vehicle from Siliguri, which will take around 2-3 hours, depending on traffic conditions. The roads leading to Kalimpong are winding and narrow, with steep inclines and hairpin bends. Therefore, it's recommended to travel during daylight hours and take breaks as necessary to avoid fatigue.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong was a personal favorite of Rabindranath Tagore , who had his own home in Kalimpong named Chitrabhanu.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong is well known for its handicrafts, especially weaving.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalimpong's leading trade is in orchids, cactus, and nurseries. It also has a large bazaar and conducts a brisk trade in raw wool.",
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kalimpong",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+        "retrieved_at": "2026-09-22T18:36:51.424328+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

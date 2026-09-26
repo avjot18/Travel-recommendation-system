@@ -1,0 +1,329 @@
+{
+  "destination_id": "IN-KERALA-ALAPPUZHA",
+  "destination_name": "Alappuzha",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Kochi"
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Alleppey Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 23.6,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 25.0,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 25.4,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 25.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Kochi",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "“Here nature has spent up on the land her richest bounties. Alleppey, the Venice of the East”. - Lord Curzon, former Viceroy of India. In the heart of God’s own country, Kerala, lies the enchanting town of Alappuzha. It’s a symphony of natural wonders, where serene waterways, lush lagoons, and verdant paddy fields come together to create a landscape that seems plucked straight from the pages of a dream. As you glide across the shimmering backwaters of Alappuzha , the gentle lapping of the water against your houseboat lulls you into blissful serenity. With its laid-back charm and captivating heritage, Alappuzha beckons you to slow down, immerse yourself in the rhythms of local life, and discover the city's true essence.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Alappuzha's charm lies its captivating network of backwaters - a labyrinth of canals, lakes, and lagoons that wind their way through the coconut-fringed landscape. Embark on a traditional houseboat cruise and let the gentle current guide you past verdant villages, where life unfolds at a languid pace. As you glide past swaying palms and traditional houses perched on the water's edge, you'll get a glimpse into the daily lives of the local communities – catch the local fishermen casting their nets or spot colourful birds flitting through lush greenery.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alappuzha's natural beauty extends far beyond its famed backwaters. Sunbathe on the golden sands of Alappuzha Beach , the city's most popular spot for picnics and relaxation. Stroll along the historic pier, stretching into the sea for over 137 years, or climb the Alappuzha Lighthouse for breathtaking panoramic views. For a unique experience, head to Thottapalli Beach . Here, black sand and a calm ambience create a serene atmosphere, perfect for an evening stroll as you witness the vibrant harbour activity and the magic of a fiery sunset. For the birdwatcher in you, Kumarakom Bird Sanctuary awaits. This lush wetland habitat is a birdwatcher's paradise, home to a dazzling array of avian species that flit and flutter amidst the mangroves and paddy fields. Or you can also head to Pathiramanal . This small island sanctuary, a short journey from the mainland, offers the chance to spot hundreds of rare migrating birds—a true paradise for nature enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For an adrenaline rush unlike any other, time your Alappuzha visit to coincide with the legendary Nehru Trophy Boat Race. The serene Punnamda Lake explodes with energy as 100-foot-long chundan vallams (snake boats) slice through the water, propelled by hundreds of rowers moving in perfect sync. The atmosphere is electric, charged with cheers and the rhythmic drumming that fuels the race. The event is held on the second Saturday of August every year. If you plan to visit in January, do not miss the 10-day Adoor Gajamela festival at the Parthasarathy temple, around 70 km from Alappuzha. This magnificent event is a sight to behold, as it showcases the grandeur of more than 100 elephants, each decorated with jewels and other ornaments, as they participate in a parade.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alappuzha isn't just about stunning landscapes; it's a treasure trove of history and heritage waiting to be explored. Just 5 km east of Ambalapuzha lies a hidden gem – Karumadi Kuttan . Visit this renowned Buddhist pilgrimage centre and witness a captivating 11 th -century Buddha statue carved from solid black granite. Head towards Kollam, and a short journey later, you’ll find the majestic Krishnapuram Palace , built by the legendary Marthanda Varma Maharaja. This 18 th -century marvel houses one of Kerala's largest murals, depicting the captivating tale of ‘Gajendramoksham.’ Discover the museum's collection of burial urns, stone sculptures, bronze antiquities, and ancient weaponry that bring the region's history to life. The Revi Karunakaran Memorial Museum is a must-visit if you're an art lover. It is a haven established in honour of a man who championed Kerala's coir industry. Marvel at the museum's extensive ivory and crystal collections, the vibrant Tanjore paintings and a unique 200-square-foot mural crafted entirely from vegetable dyes. Explore Kerala's rich culture through 3,800 artefacts in the museum's 'Kerala Room'. Visit the unique International Coir Museum to explore the evolution of the coir industry from traditional to modern processes. Don't forget to check out their shop for handcrafted coir products and souvenirs! For a touch of mythology, adventure and natural beauty, head to Pandavan Para , a group of ancient caves believed to be the hiding place of the Pandavas from the epic Mahabharata. Located near Thenmala, you can hike to the base of the hill and discover a beautiful temple dedicated to Lord Shiva. As you ascend, panoramic views unfold – hills, forests, the glistening Kallada Dam and its lake, and even a charming railway line snaking through the landscape.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The temples of Alappuzha are not just places of worship but also architectural gems. Prepare to be dazzled by unique design elements found nowhere else, showcasing Kerala's artistic heritage. Begin your exploration at the iconic Ambalappuzha Sri Krishna Temple , dating back to 790 AD. Dedicated to Lord Krishna, this mesmerising structure is renowned for its ‘Palpayasam’ – a sweet milk porridge offered to the deity. Next, immerse yourself in the grandeur of the Mullakkal Rajarajeswari Temple , a nearly 500-year-old architectural marvel dedicated to Goddess Durga. Venture near Cherthala to discover the vibrant Kanichukulangara Devi Temple . This space pulsates with energy during its main festival, celebrated on the day of ‘Thiruvonam’ in the Malayalam month of Kumbham. Witness the temple come alive with devotees seeking blessings from Goddess Bhagawati. A unique gem awaits at Thuravoor Mahakshetram . This temple complex boasts two sanctum sanctorum within a single structure, dedicated to Lord Narasimha Moorthy and Lord Maha Sudarsana Moorthy. Be captivated by its distinctive architecture and artistic brilliance. For a glimpse into Kerala's ancient past, head to the Chakkulathukavu Sree Bhagavathy Temple , dedicated to Mother Goddess Durga. Steeped in 3,000 years of history, this revered temple offers a serene setting with the Pamba and Manimala rivers flowing on either side.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Craving some deep relaxation on your Alappuzha adventure? Alappuzha is a haven for Ayurveda, the ancient Indian science of wellness. Forget a basic massage – here, it's all about restoring balance to your mind, body, and soul. Dotted around town are tons of Ayurvedic centres offering treatments like Abhyanga (a full-body oil massage, pure bliss!), Shirodhara (where warm oil melts your stress away), and Pizhichil (a rejuvenating medicated oil bath). Expert therapists will guide you so you can lie back and let the magic happen.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alappuzha is a delight for your taste buds. If you crave authentic Kerala cuisine, head to a cosy Uduppi hotel to savour puttu, vada, and chickpea curry served on a fresh banana leaf. Being a coastal town, Alappuzha is also a haven for seafood lovers. From beachfront shacks to renowned restaurants, the options are endless. Don’t miss the traditional karimeen pollichathu—pearl spot fish wrapped in banana leaves, and local specialities – crispy banana chips and melt-in-your-mouth fried banana fritters (pala appam).",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you love to bring back a piece of your travels, Alappuzha is the place for you. Renowned for its captivating array of coir products, carpets, and aromatic spices, Alappuzha's local markets are worth checking out. Hit the bustling Mullakkal Street for a treasure trove of spices, jewellery, souvenirs, and trendy clothing. A unique shopping experience awaits at the floating Triveni Market – a one-of-a-kind market on a large boat in the backwaters, where you can get fresh fish, locally-made coir products, and handcrafted souvenirs.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alappuzha isn't just a destination; it's a feeling. It's the gentle rocking of a houseboat, the caress of the warm breeze on your skin, and the symphony of nature serenading you. So, pack your bags and allow Alappuzha to weave its magic on you. The ideal time to plan a visit to Alappuzha is during the winter season - between October and February.",
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs"
+      ],
+      "source": {
+        "source_name": "Incredible India - Alappuzha",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/alappuzha",
+        "retrieved_at": "2026-09-22T18:36:32.572961+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

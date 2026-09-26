@@ -1,0 +1,292 @@
+{
+  "destination_id": "IN-KARNATAKA-DHARWAD",
+  "destination_name": "Dharwad",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kempegowda International Airport (BLR), Bengaluru Hubballi Airport (HBX), Hubballi Dabolim Airport (GOI), Goa"
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dharwad Railway Station (DWR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.6,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.6,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.3,
+        "maximum_celsius": 31.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 10.6,
+        "maximum_celsius": 30.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kempegowda International Airport (BLR), Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Dharwad, the heartbeat of Karnataka! Get ready to dive into a world where ancient temples stand tall amidst modern skyscrapers, where the aroma of spicy street food mingles with the scent of fresh coffee, and where every corner holds a story waiting to be discovered. So, buckle up and get ready for an adventure filled with culture, cuisine, and community like you’ve never experienced before! Over generations, Dharwad served as a stopping point for travellers and in a way has acted like a door between the western mountains and the plains. No wonder then that the term “Dharwad” originates from the Sanskrit phrase ‘dwarawata’, with ‘dwara’ signifying “door” and ‘wata’ indicating “town”. This important town is located 425 km northwest of the state’s capital Bengaluru.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dharwad, with its rich cultural heritage and natural beauty, offers a variety of attractions for tourists to explore. Whether you’re interested in history, nature, spirituality, or simply soaking in the local culture, Dharwad has something for everyone to enjoy. Some of the top tourist attractions include the following Dharwad Fort: Built during the 18th century by the rulers of the Maratha Empire, Dharwad Fort is a significant historical landmark. Visitors can explore its massive stone walls, bastions, and gateways while enjoying panoramic views of the city. Chandramouleshwara Temple : Dating back to the 12th century, this ancient temple is known for its intricate carvings and architectural grandeur. It is dedicated to Lord Shiva and is a must-visit for history and architecture enthusiasts. Shri Siddharoodha Math: This revered religious institution is dedicated to Shri Siddharoodha Swamy, a saint and spiritual leader. The math attracts devotees seeking blessings and spiritual guidance and is known for its peaceful atmosphere and architectural beauty. Murugha Math: Another important religious site in Dharwad, Murugha Math is dedicated to Lord Murugha, a revered deity in Hinduism. The math hosts various cultural and religious events throughout the year and attracts devotees from far and wide. Unkal Lake: A serene retreat nestled amidst lush greenery, Unkal Lake is perfect for a leisurely stroll, boating, or picnicking with family and friends. The picturesque surroundings and tranquil ambiance make it a popular spot for relaxation and recreation. Regional Science Centre: Ideal for families and science enthusiasts, the Regional Science Centre offers interactive exhibits, planetarium shows, and educational programs that make learning fun and engaging for visitors of all ages.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culture of Dharwad is deeply rooted in tradition and diversity, reflecting the rich heritage of Karnataka. Dharwad is renowned for its contribution to classical music, particularly Hindustani classical music. Also this town has a strong literary tradition, with several renowned writers, poets, and scholars hailing from the region. The city’s libraries and literary events are testimony to its love for literature. Traditional arts and crafts thrive in Dharwad, often reflecting the region's cultural motifs and historical influences. Embroidery work called Dharwad Kasuti is the most popular style of embroidery carried out by the local artisans. Most of the Kasuti designs are inspired by local culture and nature.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cuisine of Dharwad is diverse and flovourful, blending influences from Kannada, Marathi, and other regional cuisines. Dishes like Dharwad Peda, a sweet delicacy, and various savoury snacks are popular among locals and visitors alike. Jalapa roti made from corn flour or Jowar and served along with raita, pickles, fenugreek leaves, papad, chutney, vegetable curry are very popular with the tourists. A visit to local Khanavalis, the restaurants which serve authentic North Karnataka food preparations and other local cuisines as well is a must for the visitors. To sum up, as one bids farewell to Dharwad, he carries with him cherished memories of its rich heritage, delectable cuisine, warm hospitality, and the promise of future adventures. Whether one is a seasoned traveller or a first-time visitor, Dharwad beckons him to return, each visit offering new experiences and discoveries waiting to be explored.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Hubballi Airport is a domestic airport closest to Dharwad. It is 20km away from Dharwad. Another option is Sambre Airport at Belgaum which is approximately 78km from Dharwad. By Train: Dharwad railway station is a major station under Hubli railway division of Indian Railways. It is connected to all the major towns of south India. By Road- Dharwad Bus Stand is located in the centre city of Dharwad. It has bus facility for most of the major towns including Bengaluru and Mumbai.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dharwad Pedha is a popular sweet delicacy from the region.",
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dharwad",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/dharwad",
+        "retrieved_at": "2026-09-22T18:36:31.378464+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

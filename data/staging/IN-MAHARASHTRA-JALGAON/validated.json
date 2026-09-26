@@ -1,0 +1,472 @@
+{
+  "destination_id": "IN-MAHARASHTRA-JALGAON",
+  "destination_name": "Jalgaon",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jalgaon Airport (JLG), Jalgaon Chikkalthana Airport (IXU), Aurangabad"
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jalgaon Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 6.7,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.1,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.5,
+        "maximum_celsius": 41.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.3,
+        "maximum_celsius": 44.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 45.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.1,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.4,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.6,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jalgaon Airport (JLG), Jalgaon Chikkalthana Airport (IXU), Aurangabad",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the northern embrace of Maharashtra, lies Jalgaon, a city that weaves a symphony of nature's melodies with the rich tapestries of culture and spirituality. Often hailed as the 'Banana City' due to its extensive banana cultivation, Jalgaon is a verdant gateway to the regal Satpuda and Ajanta mountain ranges, painting a picturesque landscape that is steeped in legacy, devotion, and natural elegance. The city's roots stretch back to the ancient era of the Vidarbha kingdom, with its name, Jalgaon, implying the abundance of water in this 'village of water', as it translates from Marathi.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The annals of time remember this region as Khandesh, a name that resonates with Khandava forest from the epic Mahabharata. During the Mughal era, Khandesh emerged as a pivotal district, celebrated for its flourishing trade and cultural grandeur. The 15th century witnessed Jalgaon under the Faruqi dynasty's reign, transforming into a beacon of Islamic learning. Later, under the British dominion in the Bombay Presidency, the city etched its name in the history of India's freedom saga, especially during the fervent days of the Quit India Movement in 1942.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In contemporary times, Jalgaon glitters as the 'Gold City', a moniker that mirrors its thriving gold market and the significant pulse of the yellow metal’s trading activities. This label captures the economic vitality of the city and the allure of its vibrant jewellery industry, drawing in aficionados and traders from far and wide.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is cradled by the awe-inspiring Satpuda and Ajanta mountain ranges, which stand tall like age-old sentinels, guarding the secrets and splendours of this enchanting land. Their rugged peaks and lush slopes are a proof to the timeless allure of nature, beckoning travellers from afar to explore their hidden wonders.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst this natural fortress flows the graceful Tapti River, a silvery ribbon that meanders through the city, infusing it with life and tranquillity. Its gentle waters are a mirror to the sky, reflecting the ever-changing hues of dawn and dusk. The riverbanks, adorned with verdant foliage, offer a tranquil retreat for the weary soul, a place where one can immerse in quiet contemplation or simply bask in the glory of nature's canvas.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of the city, a constellation of religious and sacred spaces shimmer, each a testimony to the intertwining of faith and history's rich tapestry. The air resonates with whispers of the past, as each site reveal its unique narrative of devotion and timelessness.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst the mystical aura of Changdev and Amalner, tales of ancient reverence unfold, inviting pilgrims into their sacred embrace. Atraval and Chorwad exude a divine presence, their spiritual ambiance a beacon for those seeking solace and enlightenment.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The architectural splendour of the Padmalaya and Patnadevi temples stands as a testament to the artistic and spiritual prowess of bygone eras. The intricate carvings and peaceful surroundings inspire reverence and serenity in equal measure.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shree Mangal Graha Mandir, a celestial sanctuary, is revered for its divine connection to the cosmos. Devotees flock to this temple to seek blessings from the planets, especially Mangal, the harbinger of energy and positivity.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shree Manudevi Temple, nestled in the embrace of nature, is an architectural marvel that beckons pilgrims with its divine aura. It is a place where the divine feminine is worshipped, and the tranquillity of nature enhances the spiritual experience.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst these sacred spaces, the Gandhi Teerth stands as a monumental homage to Mahatma Gandhi, the Father of the Nation. It offers a profound journey through the life and ideals of a man who shaped the destiny of a nation with his unwavering principles and indomitable spirit.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Each temple, each sacred site in the city, is a portal to the divine, a place where spirituality blend with faith to transcend the boundaries of time.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Jalgaon, the rhythm of life is punctuated by the vibrant hues and joyful melodies of its festivals and fairs. These celebrations are not just events but a rich mosaic of dedication, culture, and communal harmony that paint the city in the colours of festivity.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Shri Rama Rathotsava fair, held during the auspicious Hindu month of Kartik (October-November), is a magnificent spectacle that draws the devout and the curious alike. The air resonates with chants, and the streets come alive with processions, as the city pays homage to Lord Rama in a grand display of faith and reverence.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the moon waxes in the sky, the Navaratri-Mahalaxmi fair unfurls typically in the month of September or October. Devotees throng the temples, their hearts alight with prayers of Goddess Mahalaxmi, the embodiment of prosperity and wealth. The nights reverberate with the rhythmic beats of dandiya and the melodious tunes of bhajans, creating an ambiance of divine ecstasy.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The historic Changdeo temple becomes the epicentre of spiritual adoration during the Changdeo fair, held annually during the month of Magha(January-February). Pilgrims from near and far converge to pay their respects and partake in the rituals that have been a part of the city's heritage for centuries.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the village of Kothali, the Mukatabai fair, usually taking place around May or June, is a testament to the city's enduring spiritual legacy. It is a celebration of the divine, a time when the community comes together to honor the teachings and blessings of the revered deity, Mukatabai.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Each festival and fair in Jalgaon is a unique thread in the rich mosaic of its cultural fabric. They are occasions that transcend the boundaries of religion and caste, uniting the city in a shared spirit of fervour and joy.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jalgaon is a city that sings a song of natural beauty, cultural richness, and spiritual depth. It's a place where every corner tells a story, every festival brings joy, and every landscape inspires admiration. Jalgaon invites you to explore its many wonders and immerse yourself in its harmonious blend of nature, culture, and spirituality. Embark on a journey to Jalgaon, and let its symphony enchant your soul.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Banana City: Being one of the biggest banana producers in India, Jalgaon is often referred to as the \"Banana City\" contributing approximately 16% of the country's banana production.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gold Market Hub: The city is also a popular destination for buying traditional Indian gold jewellery.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Shree Manudevi Temple , situated approximately 35 kilometers from Chopda in the Jalgaon district, was discovered in the year 1251 AD, marking it as a historical site of considerable age and importance. Adjacent to the temple is a stunning 400-foot waterfall.",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking The Hidden Treasures Of Maharashtra",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the beauty of nature in Jalgaon",
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jalgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/jalgaon",
+        "retrieved_at": "2026-09-22T18:36:37.572994+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

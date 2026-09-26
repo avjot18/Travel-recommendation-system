@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-CHANGLANG",
+  "destination_name": "Changlang",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Tinsukia Railway Station (NTSK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated in the south‑eastern corner of Arunachal Pradesh, Changlang is a destination defined by untouched rainforests, historic border routes, and vibrant tribal culture . Spread across rolling hills along the India–Myanmar frontier, the district offers travellers a rare blend of wildlife, war history, and indigenous traditions .",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name Changlang is believed to originate from the local word “ Changlangkan ”, meaning a hilltop where a forest herb was discovered—reflecting the region’s deep connection with nature and traditional knowledge.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of India’s largest protected wilderness areas, Namdapha National Park is the highlight of Changlang tourism. Spanning nearly 2,000 sq km, the park is a global biodiversity hotspot, home to tigers, clouded leopards, red pandas, hornbills, and countless plant species. Located near Miao and the Noa‑Dihing River, Namdapha is ideal for wildlife tourism, birdwatching, trekking, and nature exploration.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forest town of Miao serves as the main base for visiting Namdapha. Surrounded by misty hills and dense forests, it offers access to eco‑trails, forest rest houses, and local community experiences. Most travel arrangements and permits for Namdapha begin here.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The border town of Nampong, located on the historic Stilwell (Ledo) Road, is a key heritage stop. From here, travellers can reach Pangsau Pass, once known as the “Hell Pass” during World War II due to its extreme terrain.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby lies the legendary Lake of No Return, associated with wartime aviation history. The scenic drive from Jairampur to Nampong passes through tea gardens, valleys, and forests, making it a memorable journey in itself.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hidden along the Stilwell Road near Jairampur, this World War II Cemetery contains graves of Allied soldiers, including Indian, Chinese, American, British, and Kachin forces. Quiet and contemplative, it offers a poignant insight into Changlang’s strategic wartime past.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Changlang is also home to the Tutsa tribe, whose vibrant Pongtu Festival adds cultural depth to the destination. Celebrated around mid‑April, Pongtu marks the Tutsa New Year and the start of the agricultural season.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The festival is dedicated to seeking blessings for millet crops, prosperity, and protection from natural calamities. Ritual prayers, drum beats, community feasts, and traditional rice beer mark the celebrations. The festival traditionally begins in Changra village and concludes at Tut village, following age‑old custom.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors during this period can witness the Tutsa community dressed in distinctive hand‑woven attire, showcasing Changlang’s rich textile and weaving heritage.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to April is the best time to visit Changlang, offering pleasant weather and better access to forests and border routes. The monsoon season (May–September) brings heavy rainfall and limited accessibility.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport to Changlang is Dibrugarh (Mohanbari) Airport in Assam, located approximately 136 km away. Dibrugarh is well connected to major Indian cities by regular flights.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The closest major railhead is Tinsukia Railway Station , about 96 km from Changlang. The nearest passenger railway station is Margherita , situated approximately 45 km away.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Changlang is well connected by motorable roads from Assam. The district headquarters is around 140 km from Dibrugarh , 95 km from Tinsukia , and 44 km from Margherita . State transport and private buses operate regularly on these routes.",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Changlang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/changlang",
+        "retrieved_at": "2026-09-22T18:36:21.392869+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

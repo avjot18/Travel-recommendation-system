@@ -1,0 +1,343 @@
+{
+  "destination_id": "IN-MEGHALAYA-CHERRAPUNJEE",
+  "destination_name": "Cherrapunjee",
+  "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Shillong Airport (SHL), Shillong Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati"
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Guwahati Railways Station (GHY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.2,
+        "maximum_celsius": 20.6
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 4.9,
+        "maximum_celsius": 22.2
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.1,
+        "maximum_celsius": 25.3
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 10.4,
+        "maximum_celsius": 26.0
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 26.8
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 16.4,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 15.6,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 11.8,
+        "maximum_celsius": 27.5
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.2,
+        "maximum_celsius": 21.9
+      },
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the mystical embrace of Meghalaya, where clouds gather like old friends, lies Cherrapunjee—a place where rain isn't just a weather phenomenon; it's a symphony. Imagine skies whispering secrets in drizzles and monsoons, where every droplet carries tales of ancient and forgotten monsoons. Perched on the edge of the Himalayas, the city cradles its clouds. They arrive, weary from their journey across distant seas, seeking refuge among the misty hills. Here, they roost on moss-covered branches, their silver-gray feathers brushing against ancient rocks. The air smells of petrichor—the earth's sigh of relief as raindrops kiss its parched skin. Emerald-green terraced fields cling to steep slopes, defying gravity. Waterfalls cascade down cliffs, their voices echoing through valleys. Each blade of grass wears a dewdrop necklace, and ferns unfurl like delicate manuscripts: the forest, dense and secretive, harbors stories of mythical creatures and forgotten tribes. Also known as Sohra, Cherrapunjee dances to the rhythm of rain. Its monsoons are legendary, turning streets into rivulets and rooftops into waterfalls. Umbrellas bloom like wildflowers, and children splash in puddles, their laughter echoing off mist-shrouded cliffs. The skies weep, and the earth drinks as if replenishing its soul. Often hailed as one of the wettest places on Earth, it captivates visitors with its lush landscapes, majestic waterfalls, and remarkable living root bridges.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The journey to Cherrapunjee is as breathtaking as the destination itself. Winding roads traverse emerald-green hills, offering glimpses of vast plains below and dense mists blanketing the scenery, creating an almost ethereal atmosphere. The town is located around 50 kilometers from Shillong, the capital of Meghalaya, making it easily accessible by road. Upon arrival, the cool, moist air immediately envelops visitors, a refreshing preamble to the wonders that lie ahead. Here in Cherrapunjee, the monsoons play a symphony on the drumbeats of the rolling hills. The rain is like a celestial performance that showers life into every nook and cranny of this verdant paradise. However, what sets the city apart is not its copious rainfall but how the local community harnesses this abundance. The living root bridges, ingeniously crafted by guiding the aerial roots of rubber trees across rivers and streams, are a highlight. These bridges, some over a century old, are a marvel of bio-engineering and a symbol of harmony between humanity and nature. Trekking to these bridges, especially the Double-Decker Root Bridge , provides an adventurous and immersive experience into the heart of Cherrapunjee's lush landscapes.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Meghalaya offers a unique blend of natural beauty and cultural heritage. One of the most famous trekking routes to experience these marvels is the trek to the Double Decker Living Root Bridge in Nongriat village. This route begins from Tyrna village, involving a descent of about 3500 steps. It takes you through dense forests, crossing streams and smaller single-root bridges, to finally behold the astonishing double-decker bridge. Another scenic route is to the Rainbow Falls, which extends from the Double Decker Bridge, taking you deeper into the forest and offering a more challenging terrain that rewards trekkers with the sight of a stunning waterfall alongside a living root bridge. For a less strenuous but equally rewarding experience, the trek to the single root bridge in Riwai village near Mawlynnong is an excellent option. This short walk through the quaint village pathways and lush greenery leads to a beautifully formed living root bridge, perfect for those seeking a less demanding adventure. Each of these routes not only showcases the ingenious Khasi tribal craftsmanship of bio-engineering but also immerses you in the tranquil beauty of Meghalaya's forests. The waterfalls in Cherrapunjee are yet another spectacle. During the monsoon, when the rainfall reaches its zenith, they transform into thunderous cascades. Nohkalikai Falls, one of the tallest plunge waterfalls in India, offers a stunning view as the water plummets down a rocky cliff into a serene pool below, enveloped by the verdant forest. Similarly, the Seven Sisters Falls presents a magnificent sight as the water descends in seven segments, mirroring the seven states of northeastern India. Cherrapunjee's climate, marked by heavy rainfall for most of the year, gives rise to its unique ecosystems and rich biodiversity. This abundance of natural beauty encourages outdoor activities such as trekking, cave exploration, and bird watching, making it an ideal destination for nature enthusiasts and adventure seekers.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This enchanting location is known for its skilled artisans passing down their craft through generations. The town’s handicraft scene is predominantly woven around bamboo and cane, with beautiful creations ranging from intricate baskets, mats, and hats to elaborate furniture that showcases local craftsmanship. Visiting Cherrapunjee offers a unique opportunity to explore these traditional crafts, which are best experienced by interacting with the local artisans and visiting the local markets. The town, deeply rooted in Khasi culture, celebrates several traditional festivals that are a spectacle of colour, dance, music, and communal feasting. One of the most significant festivals is the Nongkrem Dance Festival, usually held in October or November. This five-day festival is a thanksgiving ceremony to the Goddess Ka Blei Synshar for a good harvest, featuring vibrant dances, traditional attire, and a peek into the rich cultural heritage of the Khasis. Another must-experience event is the Monsoon Festival, which celebrates the rain that defines this region. The best time to visit Cherrapunjee for its festivals is during autumn, especially from October to November, when the climate is welcoming and the cultural vibrance is at its peak.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city’s local cuisine is characterised by simple yet flavourful dishes that often incorporate rice, pork, fish, and various leafy greens, cooked with minimal spices but infused with unique flavours from local herbs and ingredients. Nestled amidst lush greenery and misty hills, these dining spots serve various traditional Khasi dishes and popular Indian and international cuisines, catering to a wide range of palates. One must-try is the Khasi food, offering a taste of authentic flavours such as jadoh, a spicy rice and meat dish, and tung-rymbai, a fermented soybean delicacy. For those craving a quick bite or local street food, the markets around Sohra are dotted with small stalls that serve delectable putharo (rice cakes) and tungtap (dry fish chutney), offering a glimpse into the local cuisine.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Cherrapunjee is undoubtedly during winter, from November to February. During this period, the town enjoys a relatively dry spell, making it an ideal time for tourists to explore the majestic waterfalls, living root bridges, and the surrounding lush landscapes without the hindrance of continuous rain. The cooler weather also makes it comfortable for outdoor activities such as trekking, spelunking, and sightseeing. In Cherrapunjee, every drop of rain is a verse, every vista a masterpiece, and every moment an everlasting memory. It’s a place where the heavens and earth converge, inviting you to lose yourself in its eternal embrace.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A unique architectural marvel, the Umshiang Double-Decker Root Bridge is made of the hanging roots of live rubber trees.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cherrapunji has one of the world's highest average annual precipitation levels.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cherrapunji also boasts stunning limestone caves and its Mawsmai Cave, stretches 820 feet into the earth.",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cherrapunjee's hidden entertainment gems",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover an adventure-seeker’s paradise in Cherrapunjee",
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Cherrapunjee",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/cherrapunjee",
+        "retrieved_at": "2026-09-22T18:36:38.856190+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

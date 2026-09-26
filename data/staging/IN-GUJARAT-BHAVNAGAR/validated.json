@@ -1,0 +1,553 @@
+{
+  "destination_id": "IN-GUJARAT-BHAVNAGAR",
+  "destination_name": "Bhavnagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bhavnagar Airport (BHU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bhavnagar Terminus Railway Station (BVC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhavnagar Terminus Railway Station (BVC)",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Set along the Gulf of Khambhat on Gujarat's eastern coast, Bhavnagar is a city that combines maritime history, royal heritage, sacred landmarks, and thriving local culture. Founded in 1723 by Maharaja Bhavsinhji Gohil, the city grew into an important trading centre, connecting Gujarat with ports across the Arabian Sea. Today, Bhavnagar offers a fascinating mix of historic temples, old palaces, nature reserves, and pilgrimage sites, making it one of Saurashtra's most rewarding destinations.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its heritage landmarks, Bhavnagar is also known for its culinary traditions. No visit to the city is complete without sampling its much-loved ganthiya and jalebi, a combination that has become synonymous with local food culture. From bustling markets to quiet hilltop temples and vast grasslands teeming with wildlife, Bhavnagar presents many different sides of Gujarat in a single journey.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The history of Bhavnagar is closely linked with the Gohil Rajputs, who established the city as the capital of their princely state in the early eighteenth century. Under successive rulers, Bhavnagar developed into a prosperous centre of trade, education, and administration. Its coastal location helped strengthen commercial links with other parts of India and beyond, contributing significantly to the city's growth.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The legacy of the Gohil rulers can still be seen across the region in the form of palaces, temples, educational institutions, and historic settlements. Nearby Sihor, the former capital of the Gohilwad kingdom, serves as an important reminder of this royal past, with its old palace, murals, temples, and heritage structures preserving stories from an earlier era.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Takhteshwar Temple Rising above the city on a hilltop, Takhteshwar Temple is among Bhavnagar's most recognisable landmarks. Dedicated to Lord Shiva, the white marble temple stands against the skyline and offers sweeping views of the city and the Gulf of Khambhat beyond.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built in the traditional Gujarati style, the temple features eighteen ornate pillars, a spacious hall, and a sanctum housing the Shiva linga. Visitors reach the temple by climbing a series of marble steps that lead to the summit. During the evenings, the hilltop comes alive with locals who gather here to enjoy the breeze, the views, and the peaceful surroundings.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahm Kund and Sihor About 22 kilometres from Bhavnagar lies Sihor , the ancient capital of the Gohilwad kingdom. The historic town retains traces of its royal past through its palace, traditional architecture, and sacred sites.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among its notable attractions is Brahm Kund , a historic stepped water reservoir associated with spiritual traditions and local legends. Nearby, the Gautameshwar Temple Lake and the Shiva temple on its banks offer a serene setting that draws both devotees and visitors interested in the region's heritage. Together, these landmarks provide a glimpse into the cultural and religious life that once flourished in the old capital.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Velavadar Blackbuck National Park Around an hour's drive from Bhavnagar is Velavadar Blackbuck National Park , one of Gujarat's most remarkable wildlife destinations. Spread across vast grasslands between seasonal rivers, the park is known for its thriving population of blackbucks, graceful antelope recognised by their distinctive spiral horns.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "More than 1,800 blackbucks roam these open landscapes, often seen moving in separate groups of males and females. The park is also home to blue bulls, wolves, and over 120 species of birds. During winter, thousands of migratory harriers arrive from Siberia, creating one of the largest gatherings of these birds in the region.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An early morning safari offers the best chances of spotting elusive wildlife, particularly wolves, while accompanying guides add valuable insights into the area's ecology, wildlife, and local communities.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shatrunjaya Hill, Palitana A short journey from Bhavnagar leads to one of Jainism's most revered pilgrimage destinations, Shatrunjaya Hill at Palitana.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Covered with hundreds of intricately crafted temples built over several centuries, the hill is considered sacred because of its association with Adinath, the first Tirthankara of Jainism. Pilgrims begin their ascent before sunrise, climbing more than 3,750 stone steps to reach the temple complex at the summit.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ascent itself forms an important part of the experience. White-robed monks, devoted pilgrims, and breathtaking views accompany travellers on their journey upward. Upon reaching the top, visitors are greeted by a remarkable cluster of temples whose spires create one of the most memorable sacred landscapes in India.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhavnagar's food culture reflects the warmth and simplicity of Gujarat's culinary traditions. The city is especially known for its crisp ganthiya , often paired with freshly prepared jalebi , a favourite breakfast combination among locals.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Traditional Gujarati thalis, farsan, seasonal sweets, and street-side snacks offer travellers plenty of opportunities to explore the flavours of the region during their stay.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Bhavnagar is between November and February , when the weather remains cool and comfortable for sightseeing, wildlife excursions, and pilgrimages.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Winter is particularly rewarding for visits to Velavadar Blackbuck National Park, as migratory birds arrive in large numbers during this period. The cooler temperatures also make climbing Shatrunjaya Hill and exploring outdoor attractions more enjoyable.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Bhavnagar Airport (BHU) offers connectivity to major cities in Gujarat and other parts of India.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Bhavnagar Terminus Railway Station (BVC) is well connected by rail with Ahmedabad, Surat, Mumbai, and other important cities.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: A strong road network links Bhavnagar with Ahmedabad, Rajkot, Junagadh, Palitana, and other destinations across Gujarat. State transport buses and private vehicles provide convenient travel options.",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Velavadar Blackbuck National Park is home to one of India's most significant",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bhavnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/bhavnagar",
+        "retrieved_at": "2026-09-22T18:36:25.719913+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

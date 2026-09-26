@@ -1,0 +1,144 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-CHITRAKOOT",
+  "destination_name": "Chitrakoot",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Prayagraj Airport (IXD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chitrakutdham Karwi Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot is a city located in Baghelkhand that has a strong connection with the Ramayana. The city was first mentioned in the Valmiki Ramayan. According to the legend, Lord Rama, Sita, and Lakshman spent eleven of their 14 years of exile in this city. Additionally, the Chitrakoot forest was a popular location for many sages such as Atri Muni, Rishi Agastya, Sage Sharbhanga, and others. The name ‘Chitrakoot’ itself, means ‘the Hill of Many Wonders’ while others claim the name originated from the abundance of cheetal (deer) found in the area. Situated on the banks of the Mandakini River, this sacred city is a blend of devotion, legend, and traditions. The natural lush green forests, cascading streams, beautiful waterfalls, aesthetically carved temples and the calls of 'Jai Sri Ram' create a unique atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot is a town that holds great significance in Indian culture, philosophy, and everyday life due to its association with the epic Hindu tale, Ramayana. One of the sacred sites in the town is the hill of Kamadgiri, believed to be a physical manifestation of Lord Rama. Devotees walk around the hill seeking divine blessings and hoping for their wishes to be fulfilled. The ‘Bharat Milap Temple,’ where Ram's younger brother Bharat came to meet him and requested him to return, is also located here. Ramghat is another important location, where Lord Rama, Laxman, and Sita are said to have taken a dip. Janaki Kund, a peaceful spot surrounded by lush vegetation, is a pond where Sita is said to have bathed. The Gupt Godavari caves, located near Chitrakoot, are believed to be the site of secret meetings between Lord Rama and his brother. The caves contain two boulders that resemble thrones, adding to the legend.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot is a town where mythology, spirituality, and tradition are an integral part of its culture. The Ramayana has a significant impact on the residents' way of life, artistic practices, and social customs. The locals' crafts, sculptures, colourful murals, and folk paintings depict epic scenarios from the legend. Chitrakoot's festivals are grand, vibrant, and profoundly spiritual, with tremendous jubilation during events like Ram Navami and Diwali, which commemorate Lord Rama's birthday and his return to Ayodhya, respectively. The food in Chitrakoot is strictly vegetarian, with the norm being North Indian cuisine. This includes lentils, veggies, munchies, Indian breads, and more. If you're visiting, be sure to try the local sweets like peda and jalebi. Paans made from betel leaf are also available in Chitrakoot, with a wide range of fillings to suit individual tastes. One of Chitrakoot's specialities is exquisite lacquered hardwood goods, crafted using a distinct method of carpentry known as lac-turnery. Chitrakoot is an ideal destination for those seeking peace, spiritual solace, or historical exploration. It's not just a place to visit; it's an experience that will remain etched in your memory.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name Chitrakoot means \" Hill of many Wonders \".",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forests of Chitrakoot are said to be the place where Rama, Sita, and Lakshmana spent 14 years in exile, along with several hermits",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the uncharted regions of Chitrakoot!",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover treasures awaiting you at Chitrakoot",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot’s retreats that nurture wellness and inspire lives",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary exploration of Chitrakoot’s taste and tradition",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:47.731117+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

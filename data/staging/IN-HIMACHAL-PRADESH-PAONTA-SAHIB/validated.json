@@ -1,0 +1,473 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-PAONTA-SAHIB",
+  "destination_name": "Paonta Sahib",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jolly Grant Airport (DED)"
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dehradun Railway Station (DDN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled on the banks of the Yamuna River, Paonta Sahib is a town that resonates with spirituality and history. Located in the Sirmaur district of Himachal Pradesh, at an altitude of 397 meters, this serene destination is revered as one of the most important Sikh pilgrimage sites in India. The town’s name, meaning “Paonta” or “footprint,” is believed to mark the spot where Guru Gobind Singh Ji, the tenth Sikh Guru, set foot and spent over four years of his life.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you enter Paonta Sahib, the gentle flow of the Yamuna and the rhythmic chants from the Gurudwara Paonta Sahib create an atmosphere of peace and devotion. This is not just a town—it’s a spiritual experience that leaves an indelible mark on every traveler.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The centerpiece of the town is the Gurudwara Paonta Sahib, a magnificent shrine built in memory of Guru Gobind Singh Ji. Its gleaming white structure, adorned with golden domes, stands as a beacon of faith. Inside, you’ll find relics of the Guru, including his weapons and handwritten scriptures, preserved with reverence. The Gurudwara’s langar (community kitchen) serves free meals to all visitors, embodying the Sikh principle of equality and service.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every year, thousands of devotees gather here during Guru Gobind Singh Jayanti, turning Paonta Sahib into a vibrant hub of devotion and celebration.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its spiritual aura, Paonta Sahib offers scenic beauty that soothes the soul. The Yamuna flows gently along the town, its banks perfect for quiet walks and moments of reflection. The surrounding hills and forests make it an ideal base for nature lovers. Just a short drive away lies the Assan Barrage, a birdwatcher’s paradise where migratory species flock during winter.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure seekers can explore the Simbalbara Wildlife Sanctuary, home to leopards, sambars, and a variety of birds. Trekking trails through lush forests and gentle slopes offer a refreshing escape for those who love the outdoors.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The markets of Paonta Sahib are a delightful mix of spirituality and tradition. Shop for Sikh religious items, handicrafts, and Himachali souvenirs. When it comes to food, savor the simplicity of langar meals at the Gurudwara or indulge in local delicacies like Madra, Sidu, and piping hot tea served in roadside dhabas.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Paonta Sahib wears a different charm in every season. Spring and autumn are perfect for sightseeing, with clear skies and pleasant temperatures. Summers bring warmth but remain comfortable for outdoor activities, while winters wrap the town in a cool, misty embrace—ideal for those seeking peace and solitude. Monsoon adds a lush green touch to the landscape, though occasional showers may slow your plans.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No matter when you visit, the spiritual aura of Paonta Sahib remains unchanged, making it a year-round destination for seekers of tranquility.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Paonta Sahib is from October to March , when the weather remains pleasant and comfortable for sightseeing and pilgrimage. During these months, daytime temperatures are moderate and ideal for exploring Gurdwara Paonta Sahib and the nearby banks of the Yamuna River . Summers (April to June) can be quite warm, while the monsoon season (July to September) brings heavy rainfall, which may limit outdoor movement despite the lush surroundings.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Dehradun’s Jolly Grant Airport (DED) , about 70 km away, offering closer access.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest railway station is Dehradun Railway Station (DDN).",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Paonta Sahib is well connected by road and lies on key state and national highway routes. It is about 70 km from Dehradun , 135 km from Chandigarh , and roughly 300 km from Delhi . Regular bus and taxi services operate from nearby cities, making road travel the most convenient option.",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel story: love in/with Bir, Himachal",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 blissful things to do in Manali | Manali travel guide",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chamba – where 10th century traditions survive!",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Self-Drive Biking Trip in Manali: An Adventure I Cannot Forget",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Best Adventure Experiences in Manali",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Offbeat Destinations Near Manali For A Peaceful Holiday",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 Cafes in Shimla: A Guide to the Best Coffee and Snacks in the Queen of Hills",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - Must-Try Local Foods in Shimla and Rest of Himachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hill Stations in Himachal Pradesh That Are Ideal for a Summer Vacation with Kids",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla With Friends? Try Something Different!",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelling from Delhi to Shimla like a Boss!",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tourist Places in Shimla You Must Not Miss on Your Next Trip",
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Paonta Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/paonta-sahib",
+        "retrieved_at": "2026-09-22T18:36:29.713969+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

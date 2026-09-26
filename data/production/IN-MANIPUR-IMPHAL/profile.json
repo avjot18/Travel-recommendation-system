@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-MANIPUR-IMPHAL",
+  "name": "Imphal",
+  "state_or_ut": "Manipur",
+  "region": null,
+  "description": "Imphal is an officially listed tourism destination in Manipur, India. It is best treated as a culture, nature, heritage travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "culture",
+    "nature",
+    "heritage",
+    "adventure"
+  ],
+  "best_for": [
+    "culture",
+    "nature",
+    "local experiences",
+    "history"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 1.6,
+      "maximum_celsius": 25.7
+    },
+    "february": {
+      "minimum_celsius": 3.8,
+      "maximum_celsius": 28.4
+    },
+    "march": {
+      "minimum_celsius": 7.6,
+      "maximum_celsius": 31.9
+    },
+    "april": {
+      "minimum_celsius": 12.1,
+      "maximum_celsius": 33.0
+    },
+    "may": {
+      "minimum_celsius": 15.4,
+      "maximum_celsius": 33.4
+    },
+    "june": {
+      "minimum_celsius": 19.3,
+      "maximum_celsius": 33.0
+    },
+    "july": {
+      "minimum_celsius": 20.9,
+      "maximum_celsius": 32.7
+    },
+    "august": {
+      "minimum_celsius": 20.6,
+      "maximum_celsius": 33.0
+    },
+    "september": {
+      "minimum_celsius": 18.8,
+      "maximum_celsius": 32.9
+    },
+    "october": {
+      "minimum_celsius": 13.3,
+      "maximum_celsius": 32.2
+    },
+    "november": {
+      "minimum_celsius": 6.4,
+      "maximum_celsius": 29.5
+    },
+    "december": {
+      "minimum_celsius": 2.8,
+      "maximum_celsius": 25.9
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Manipur",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Bir Tikendrajit International Airport (IMF), Imphal"
+    ],
+    "railway_station": [
+      "Imphal Railway Station (IMPAL)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Manipur",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Imphal",
+      "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

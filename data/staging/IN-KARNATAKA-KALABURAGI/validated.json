@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-KARNATAKA-KALABURAGI",
+  "destination_name": "Kalaburagi",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kalaburagi Airport (GBI), Kalaburagi Rajiv Gandhi International Airport (HYD), Hyderabad"
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kalaburagi Junction Railway Station (KLBG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 16.3,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 38.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 25.1,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 25.9,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 18.8,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajiv Gandhi International Airport (HYD), Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi Junction Railway Station (KLBG)",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi, previously known as Gulbarga, is a city in the Indian state of Karnataka. It serves as the administrative headquarters of the Kalaburagi district and is the largest city in North Karnataka. Located approximately 575 km north of Bangalore, the state capital, Kalaburagi holds strategic importance in the region. Gulbarga in Urdu roughly translates to a city of flowers and gardens. It was renamed as Kalaburagi in the year 2014. Kal-means stone and Bur means thorns in Kannada and the whole name represents \"The Land of stones and thorns\". Are you ready to spice up your life with a trip to Kalaburagi? Kalaburagi is a city bursting with charm and character, from its ancient forts to its vibrant markets. Whether you're a history buff itching to explore centuries-old temples or a foodie on the hunt for the next culinary delight, Kalaburagi has something for everyone. Winding streets filled with the tantalising aroma of street food vendors dishing out spicy snacks that'll make your taste buds dance with joy. But what truly sets Kalaburagi apart is its people. Warm, welcoming and always ready to share a laugh, the locals will make you feel right at home from the moment you arrive. Kalaburagi is a city brimming with history, culture and vibrant traditions. From ancient monuments to modern marvels, Kalaburagi offers a wide range of experiences for the discerning traveller.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The history of Kalaburagi dates to the sixth century and is believed to have been under the control of the Rashtrakutas. Subsequently a series of dynasties ruled over this historic city. The prominent ones include the Chalukyas, Kalyani Kalachuris, Hoysalas and the Kakatiya kings of Warangal. The Kakatiya power was subdued in 1308 AD and the entire Deccan, including the district of Kalaburagi, passed under the control of the Delhi Sultanate. In the subsequent years Kalaburgi rose as the capital of Bahmani Sultanate before falling to Aurangzeb in 1687 and becoming a part of the Mughal Empire. In the years to come it became a part of the kingdom of Hyderabad finally merging with the Indian Union in 1948.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi boasts a rich historical legacy that dates back centuries. Once a prominent centre of the Bahmani and Barid Shahi sultanates, the city is adorned with magnificent architectural marvels that stand as a testament to its glorious past. The imposing Kalaburagi Fort, built in the 14th century, is a symbol of the city's strategic importance and served as a stronghold for successive rulers.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The fort is said to have originally been built by Raja Gulchand of Warangal and was later strengthened by Alauddin Hasan Bahman Shah, the ruler of the Bahmani dynasty. Also located close by is the Malkheda Fort which is situated around 40 km south-east of Kalaburagi, on the left bank of Kagina river, a tributary of the Bhima River. Another interesting site in the village is an ancient Mallinatha Basadi, which consists of a garbhagriha, a navaranga and a hazara. Many manuscripts written in popular languages like Kannada, Prakrit and Sanskrit have been discovered in this Basadi. Another historically important monument is Chor Gumbaz which is located on a hill with a 30 metre high hemispherical dome and corner towers with arches on each side. People visit this place to experience the echoes that the monument generates and at least seven echoes can be heard inside here.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi is a melting pot of cultures, where diverse traditions coexist harmoniously. The annual Urs festival at the Khwaja Bande Nawaz Dargah is a vibrant celebration of music, dance, and spirituality, attracting devotees from far and wide. The Gulbarga Utsav, held annually, showcases the rich cultural heritage of the region through music, dance, and traditional arts.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No trip to Kalaburagi is complete without savouring its delectable cuisine. From mouth-watering biryanis and kebabs to flavourful vegetarian delicacies, the city offers a culinary journey like no other. Don't miss the opportunity to indulge in local specialities such as Jolada Roti, Enne Gai and Uppittu. Jolada Rotti or Jawar ki Rotti is the staple diet of the region. It is prepared from jowar flour. It is served with Shenga Chutney Pudi. Bele Hoorana Holige is a sweet which is a speciality and prepared on all festivals. It is kind of stuffed pancake, served with a side dish of mango pulp. Another speciality of the place is Tahari which is similar to pulao and is prepared by adding the meat to the rice, as opposed to the traditional biryani where the rice is added to the meat.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi is a city which has a huge mix of history and culture from various eras. This offers a unique blend of experiences for travellers. Whether you're exploring its ancient monuments, indulging in its culinary delights or immersing yourself in its vibrant festivals, Kalaburagi promises an unforgettable journey filled with warmth and hospitality. Some tourist places and attractions not very far-off that can be explored include Sharana Basaveshwara Temple, Chandralamba Temple, Jevargi, Kambharganvi, Narayanapura Dam and Aland Fort. These tourist places and attractions near Kalaburagi offer a mix of historical, religious and natural experiences. Each destination reflects the cultural richness and diversity of Karnataka's heritage.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal season to experience Kalaburagi's charm is during the cooler months spanning from October to March. This period offers a pleasant climate with average temperatures hovering around 25°C, creating perfect conditions for exploration and sightseeing. You can comfortably stroll through the city's historic sites and attractions without the discomfort of heat. Therefore, planning your trip to Kalaburagi during the milder winter season ensures a more comfortable and rewarding experience.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulbarga is famous for its high-quality toor dal (pigeon pea) , a staple ingredient in Indian cuisine.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalaburagi has a thriving handloom industry , producing a variety of traditional textiles and fabrics.",
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kalaburagi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/kalaburagi",
+        "retrieved_at": "2026-09-22T18:36:31.764246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

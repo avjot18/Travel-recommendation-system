@@ -1,0 +1,149 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-TIRUPATI",
+  "name": "Tirupati",
+  "state_or_ut": "Andhra Pradesh",
+  "region": null,
+  "description": "Tirupati is an officially listed tourism destination in Andhra Pradesh, India. It is best treated as a heritage, spiritual, coastal travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "spiritual",
+    "coastal",
+    "food",
+    "nature"
+  ],
+  "best_for": [
+    "temples",
+    "heritage",
+    "families",
+    "pilgrimage",
+    "coast"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 15.0,
+      "maximum_celsius": 33.6
+    },
+    "february": {
+      "minimum_celsius": 15.8,
+      "maximum_celsius": 36.8
+    },
+    "march": {
+      "minimum_celsius": 18.2,
+      "maximum_celsius": 40.4
+    },
+    "april": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 42.5
+    },
+    "may": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 43.7
+    },
+    "june": {
+      "minimum_celsius": 23.7,
+      "maximum_celsius": 41.6
+    },
+    "july": {
+      "minimum_celsius": 23.1,
+      "maximum_celsius": 39.2
+    },
+    "august": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 38.2
+    },
+    "september": {
+      "minimum_celsius": 22.7,
+      "maximum_celsius": 37.6
+    },
+    "october": {
+      "minimum_celsius": 21.0,
+      "maximum_celsius": 36.6
+    },
+    "november": {
+      "minimum_celsius": 18.1,
+      "maximum_celsius": 33.5
+    },
+    "december": {
+      "minimum_celsius": 16.3,
+      "maximum_celsius": 31.5
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Andhra Pradesh",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "railway_station": [
+      "Tirupati Railway Station (TPTY)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Andhra Pradesh",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Tirupati",
+      "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-VIZIANAGARAM",
+  "destination_name": "Vizianagaram",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Visakhapatnam Airport (VTZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vizianagaram Junction (VZM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vizianagaram is a historic town that echoes with tales of royal grandeur, cultural refinement, and spiritual legacy. Located near the northeastern part of Andhra Pradesh it was once the seat of the powerful Pusapati dynasty . Vizianagaram evolved as an important centre of administration, art, education, and classical music. Surrounded by gentle hills of the Eastern Ghats and dotted with reservoirs, temples, and heritage monuments, the town offers travellers a quiet yet enriching journey through Andhra Pradesh’s lesser-explored heritage landscape.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rooted deeply in tradition while retaining a slow, unhurried charm, Vizianagaram stands apart as a destination where history is not confined to museums but lives on through festivals, architecture, and everyday life.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vizianagaram invites travellers who appreciate destinations steeped in history and cultural depth. The town’s legacy as a princely state is most vividly experienced through Vizianagaram Fort , built in the early 18th century, which once served as the political and ceremonial heart of the kingdom. Its imposing gateways, temples, and royal structures reflect the architectural sensibilities of the era and offer a glimpse into the town’s regal past.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cultural soul of Vizianagaram is closely tied to classical music, education, and literature . The rulers of Vizianagaram were great patrons of Carnatic music, and the town continues to be associated with renowned musicians and institutions that nurtured fine arts. This cultural lineage is complemented by its contribution to Telugu literature, most notably through figures such as Gurajada Apparao , whose legacy remains an integral part of the region’s identity.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spiritual seekers will find Vizianagaram equally rewarding. The town is home to revered temples such as Pydithalli Ammavari Temple , deeply connected to local traditions and annual festivals, as well as nearby sacred sites like Ramateertham, Gurubhakta Konda , and Punyagiri , where ancient religious practices blend seamlessly with scenic hilltop settings.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For nature lovers, Vizianagaram offers peaceful escapes through reservoirs like Thatipudi , forested surroundings, and gentle hill landscapes that provide a refreshing contrast to urban life. Combined with its calm pace, warm local hospitality, and strong cultural roots, Vizianagaram promises a travel experience that is reflective, authentic, and deeply rooted in Andhra Pradesh’s heritage.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to February is the ideal time to visit Vizianagaram, when the weather remains pleasant and comfortable for sightseeing, temple visits, and heritage walks. This period also coincides with important festivals such as Sirimanotsavam at the Pydithalli Ammavari Temple, allowing visitors to witness local traditions and celebrations.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Visakhapatnam Airport is the nearest major airport, located approximately 60 km from Vizianagaram. Regular taxis and buses are available from Visakhapatnam to Vizianagaram.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Vizianagaram Junction is a major railway station on the Howrah–Chennai main line, well connected to Visakhapatnam, Vijayawada, Chennai, Hyderabad, and Kolkata.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Vizianagaram is well connected by state highways. APSRTC buses and private transport operate frequently from Visakhapatnam, Srikakulam, and nearby towns, making road travel convenient.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vizianagaram Fort was constructed in 1713 AD by Maharaja Vijayaramaraju of the Pusapati dynasty and houses temples, royal structures, and the historic Drum House (Nagara Khana)",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pydithalli Ammavari Sirimanotsavam , celebrated annually, is one of the most important festivals of the region and draws devotees from across Andhra Pradesh.",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Vizianagaram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/vizianagaram",
+        "retrieved_at": "2026-09-22T18:36:21.142104+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-UJJAIN",
+  "destination_name": "Ujjain",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ujjain Junction Railway Station (UJN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.0,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.0,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 44.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 41.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.5,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.5,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Devi Ahilyabai Holkar Airport (IDR), Indore",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Ujjain, a spiritual city with a rich cultural heritage located on the banks of the sacred Kshipra River in Madhya Pradesh, India. Ujjain, also known as the “city of temples,” is a timeless destination that attracts pilgrims, seekers, and travellers alike with its ancient temples, vibrant festivals, and profound spiritual atmosphere. What's even more fascinating about this city is that the first meridian of longitude passes through it, which is why Ujjain is also called the 'Greenwich of India!' Ujjain is home to numerous magnificent temples, each steeped in history and mythology. Begin your spiritual journey at the Mahakaleshwar Temple , which is one of India’s twelve Jyotirlingas and is dedicated to Lord Shiva. Witness the sacred Bhasma Aarti, a ritual in which sacred ash is offered to the deity. Continue your temple tour by visiting the Kal Bhairav Temple, which is dedicated to Lord Shiva’s fierce form, and the Harsiddhi Temple, where the goddess is believed to grant her devotees’ wishes. Explore the intricately carved structures, vibrant murals, and ancient rituals that give each temple its own charm and significance.",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ujjain is steeped in spiritual traditions dating back thousands of years, making it a sacred pilgrimage destination for Hindus from all over the world. Immerse yourself in the spiritual atmosphere by participating in the holy rituals and ceremonies held daily along the banks of the Kshipra River. Take a dip in the sacred waters of Ram Ghat during the auspicious Kumbh Mela, which occurs every twelve years, to cleanse your soul and seek blessings for spiritual growth and enlightenment. Witness pilgrims’ fervent devotion as they perform rituals, pray and seek divine blessings in Ujjain’s temples and ghats. In addition to its spiritual significance, Ujjain has a rich historical legacy that dates back centuries. Explore the ancient ruins of the Vikram Kirti Mandir, a museum honouring the legendary king Vikramaditya and his court poet Kalidasa. Marvel at the magnificent sculptures, artefacts, and manuscripts that provide glimpses into the city’s glorious past. Wander through the old city’s narrow lanes, where centuries-old buildings, bustling markets, and vibrant street life capture the timeless charm of Ujjain’s cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ujjain has a rich educational heritage and is renowned for its contributions to astrology, astronomy, mathematics, and Sanskrit literature. The city was the capital of the ancient Avanti kingdom, one of the sixteen Mahājanapadas. Ujjain was also the capital of King Vikramaditya, whose court consisted of nine extraordinary people, collectively known as navaratnas. Another fascinating and mystical aspect of the city is that the lingam housed in the Mahakaleshwar Temple is believed to be swayambhu (born of itself).",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ujjain hosts vibrant festivals that showcase its rich cultural heritage and religious fervour, bringing the city to life with colour, music, and celebration. Join the jubilant crowds during the Kumbh Mela, which attracts millions of pilgrims to Ujjain to participate in sacred rituals. Experience the electrifying atmosphere of the Simhastha Kumbh Mela, also happening every twelve years, drawing sadhus, saints, and devotees from all over the country. Immerse yourself in the cultural spectacle of the Kartik Mela and the vibrant colours of the Navratri celebrations, which highlight the city’s rich traditions and heritage. As you leave Ujjain, take with you the divine blessings, memories of sacred rituals, and the echoes of ancient chants that linger in the air. Whether you are looking for spiritual solace, cultural enlightenment, or historical insights, Ujjain promises a transformative journey that will leave an indelible impression on your soul. Soak in the spiritual ambience, immerse yourself in the city’s rich traditions, and embark on a pilgrimage of discovery and devotion in Ujjain, Madhya Pradesh.",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ujjain",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/ujjain",
+        "retrieved_at": "2026-09-22T18:36:36.993227+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

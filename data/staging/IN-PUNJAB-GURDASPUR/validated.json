@@ -1,0 +1,390 @@
+{
+  "destination_id": "IN-PUNJAB-GURDASPUR",
+  "destination_name": "Gurdaspur",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gurdaspur Railway Station (GSP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated in the culturally vibrant Majha region of Punjab, Gurdaspur is a destination that blends history, spirituality, and rural charm. Located between the rivers Ravi and Beas, the district serves as an important administrative and cultural centre in northwestern Punjab. Founded in the 17th century by Mahant Guriya Das, Gurdaspur retains deep historical roots while continuing to evolve as a modern town.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district is known for its agricultural richness, traditional lifestyle, and strong cultural identity. Its proximity to the India–Pakistan border further enhances its significance, while nearby towns and heritage sites reflect centuries of political and social change. Gurdaspur offers a quieter, more grounded travel experience—ideal for those seeking authentic Punjabi culture without the bustle of larger cities.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A key highlight of the region is Dera Baba Nanak , one of the most revered pilgrimage sites associated with Guru Nanak Dev Ji. Located on the banks of the Ravi River, this sacred town is believed to be where Guru Nanak spent his final years, making it a spiritually significant destination for devotees. The site also holds a unique geographical importance, as it lies close to the Indo-Pak border and offers a view of Kartarpur Sahib across the river.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another important religious landmark is Achaleshwar Dham , located near Batala. This ancient temple, dedicated to Lord Shiva and associated with Lord Kartikeya, is believed to date back to mythological times and remains an important centre of devotion in the region. Together, these sites make Gurdaspur a meaningful destination for both spiritual seekers and cultural travellers.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food in Gurdaspur reflects the simplicity and richness of Punjabi cuisine. Visitors can savour comforting dishes such as dal makhani, paranthas, poori sabzi , and freshly fried pakoras , often accompanied by tall glasses of refreshing lassi. A defining highlight is the district’s ODOP (One District One Product) specialty— jaggery (gur) . Made using traditional methods, Gurdaspur’s jaggery is known for its quality and earthy sweetness, capturing the essence of the region’s agricultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gurdaspur serves as a gateway to several attractions that showcase the diversity of Punjab’s cultural landscape. Dera Baba Nanak and Achaleshwar Dham remain central to the region’s religious circuit, while places like Shri Pindori Dham and Dhianpur Shrine offer peaceful environments for spiritual reflection. History enthusiasts can explore nearby sites such as Nurpur Fort , while local parks and riverside areas provide opportunities for relaxed outings. The district’s proximity to destinations like Amritsar and Pathankot also makes it convenient to extend the itinerary.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Gurdaspur is between October and March , when the weather is pleasant and well-suited for sightseeing and travel. Winters are particularly comfortable for exploring temples, gurudwaras, and outdoor attractions. Summers can be hot, while the monsoon season brings greenery but may occasionally disrupt travel plans.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Gurdaspur does not have its own airport. The nearest major airport is Sri Guru Ram Dass Jee International Airport in Amritsar , located about 70–85 km away, with good connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: Gurdaspur Railway Station connects the district to key cities such as Amritsar, Pathankot, Delhi, and Jammu, making train travel convenient.",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Gurdaspur is well connected via highways and state roads to cities like Amritsar, Pathankot, Jalandhar, Chandigarh, and Delhi. Regular buses and taxis ensure easy accessibility for travellers",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Jalandhar’s vibrant markets",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gurdaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/gurdaspur",
+        "retrieved_at": "2026-09-22T18:36:41.310278+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

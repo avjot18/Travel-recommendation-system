@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-MANALI",
+  "destination_name": "Manali",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kullu–Manali Airport (KKU), Kullu (Bhuntar) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Joginder Nagar Railway Station (JGNX)"
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -6.3,
+        "maximum_celsius": 16.2
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -4.0,
+        "maximum_celsius": 18.2
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -1.2,
+        "maximum_celsius": 23.3
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 2.5,
+        "maximum_celsius": 26.2
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 5.2,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 8.5,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 28.5
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 7.7,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 2.8,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -0.4,
+        "maximum_celsius": 20.7
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -2.7,
+        "maximum_celsius": 17.4
+      },
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu–Manali Airport (KKU), Kullu (Bhuntar)",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manali is located in the heart of Himachal Pradesh. According to Hindu mythology, the town's name is derived from \"Manu-Alaya,\" which means \"the abode of Manu,\" the first man and the lawgiver. Legend has it that sage Manu stepped off his ark here to recreate human life after a great flood had deluged the world. Manali is often referred to as the \"Valley of the Gods\" and is nestled in the majestic Himalayas, showcasing the unparalleled creativity of nature. The town's snow-capped peaks, pure rivers, deep woods, and lush green valley’s combine to create a visual symphony that truly tantalises the senses. One of the must-visit places in Manali is the Hadimba Devi Temple , dedicated to Hadimba, the wife of Bhima, a hero of the Pandava clan in the epic Mahabharata. A unique fact of the temple is that it was built to honour a demoness. The temple's Pagoda-style architecture, with its four-tiered structure made of wood and stones, a metal roof, and a 24-metre-high Shikhara is a captivating feature. The nearby Vashisht village is well-known for its 4,000-year-old Vashisht temple, one of the seven great Vedic sages, known as the Saptarishis and sulphurous hot springs said to have extraordinary therapeutic properties. Adjacent to the springs, are temples honouring Lord Shiva and Lord Rama. The Manu temple is dedicated to Rishi Manu who codified the Hindu laws in his book ‘Manusmriti’. The temple is made of stone, wood and tiles and is the only temple in India in his honour. Brighu Lake , legend has it that this was where the great sage Maharishi Bhrigu meditated. The waters of the lake never freeze. Locals believe that the gods and goddesses of the valley come here for a dip.",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manali offers adventures galore (the famous Hampta Pass trek), attracting enthusiasts worldwide for their stunning surroundings and breathtaking views of the Solang Valley . Rohtang Pass , the world's highest motorable pass, the Pandoh dam, an embankment dam on the Beas River, generating hydroelectric power and offering stunning scenic views.",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wildlife enthusiasts head straight for the Manali reserve where dense woods of Deodar, Kail, Horse chestnut, Walnut, and Maple can be seen along the path. Among the frequently observed creatures in this area are musk deer, brown and monal bears, snow leopards, and leopards. One can witness ibex herds travelling in the glacier zone during the summer. For the history and cultural buffs, the festivals celebrated in Manali reflect the diversity of faiths in the area. One of the most popular festivals is Dussehra, which lasts for a month. The Hadimba Devi Fair is held in the temple, where locals gather to pay their respects. The Doongri Forest festival also honours the Goddess Hadimba. Baisakhi and Lohri are significant because it is celebrated as a farewell to the winter season. The Losar Festival is celebrated by the Tibetan community in Manali, with people dressing up in traditional attire and recreating the wedding day of a local princess with Lord Padmasambhava. Manali offers a variety of cuisine options that range from local dishes to international cuisines. The place is well-known for its delicious vegetarian and non-vegetarian food. Some of the popular local vegetarian dishes are kaddu ka khatta, guchhi matter, and sepu vadi. On the other hand, popular non-vegetarian dishes include kullu trout, grilled fish, and chicken anardana. A treasure trove shopping here is an adventure with hidden treasures in every nook and corner. Old Manali offers a variety of markets such as the Tibetan market, Manu Market, Mall Road, and the Himachal Emporium that are well worth exploring.",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manali is renowned for adventure sports such as skiing, hiking, mountaineering, paragliding, rafting, trekking, kayaking and mountain biking.",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manali is the gateway to the Rohtang Pass , one of the highest motorable roads in the world.",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hidimba Devi Temple is dedicated to Hidimba Devi, the wife of Bhima, one of the Pandavas from the Indian epic 'Mahabharata'",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 blissful things to do in Manali | Manali travel guide",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Self-Drive Biking Trip in Manali: An Adventure I Cannot Forget",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Best Adventure Experiences in Manali",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Offbeat Destinations Near Manali For A Peaceful Holiday",
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Manali",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali",
+        "retrieved_at": "2026-09-22T18:36:29.575950+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

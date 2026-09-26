@@ -1,0 +1,422 @@
+{
+  "destination_id": "IN-LADAKH-LEH",
+  "destination_name": "Leh",
+  "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kushok Bakula Rimpochee Airport (IXL), Leh"
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jammu Tawi Railway Station (JAT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -20.0,
+        "maximum_celsius": 6.3
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -15.9,
+        "maximum_celsius": 9.3
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -10.4,
+        "maximum_celsius": 15.9
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": -3.7,
+        "maximum_celsius": 20.8
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 0.6,
+        "maximum_celsius": 24.8
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 30.7
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 9.7,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 2.3,
+        "maximum_celsius": 28.8
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": -6.3,
+        "maximum_celsius": 22.8
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -12.9,
+        "maximum_celsius": 16.0
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -16.5,
+        "maximum_celsius": 9.6
+      },
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kushok Bakula Rimpochee Airport (IXL), Leh",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of the Himalayas, where the air thins and the mountains touch the sky, lies Leh — a canvas painted by the gods themselves. Let's wander through this high-altitude desert, where whispers echo across barren valleys and prayer flags flutter like forgotten dreams. The place wears its ruggedness like a badge of honour. The land stretches, sinewy and unyielding as if it defied time itself. The sun, relentlessly, kisses the earth, leaving behind salted scars. But look closer — between the cracks, life persists. Tiny succulents cling to existence, their roots digging deep into ancient soil. It is a dance of survival, choreographed by wind and solitude. In this beautiful chaos, Ladakh's villages emerge like mirages where their poplar trees sway and their apricot orchards blush. The villagers — stoic yet warm — till the land, their hands calloused by generations of labour. Water, precious as stardust, flows through narrow channels, nurturing life. And when the moon rises, the village square becomes a theatre — a place for stories, laughter, and chai. Cloudless skies stretch overhead — a cerulean expanse that defies gravity. The sun, unfiltered, paints everything in sharp relief. Shadows elongate, and the mountains — those ancient sentinels — reveal their secrets. The air, thin as a whisper, carries prayers to the heavens. And when night falls, the stars — diamonds scattered by cosmic hands — ignite the darkness.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sparsely populated Ladakh, which accounts for two-thirds of the state’s area, is a high - altitude desert. Its harsh lines are softened by the emerald green of oasis villages, the crystal light of cloudless blue skies, and the dramatic silhouettes of ancient Buddhist monasteries which, for many visitors, Ladakh’s main attraction. Leh - Ladakh is at once so traveller-friendly and yet so enchanting and hassle - free. Dotted with stupas and crumbling mud-brick houses, the Old Town is dominated by a dagger of steep rocky ridge topped by an imposing Tibetan - style palace and fort. Beneath, the bustling bazaar area is draped in a thick veneer of tour agencies, souvenir shops, and pizza restaurants but a web of lanes quickly fans out into a green suburban patchwork of irrigated barley fields. Leh’s a place that’s all too easy to fall in love with, but take things easy on arrival. The altitude means that most visitors initially suffer mild headaches and breathlessness. To prevent this from becoming full - blown Acute Mountain Sickness (AMS), drink plenty of ginger tea and avoid strenuous exertion at first.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From the 17th century right until 1949, Ladakh’s principal town, Leh, was the hub of the bustling caravan trade between Punjab and Central Asia, and between Kashmir and Tibet. The large Main Bazaar, with its broad kerbs, was designed to facilitate the passage of horses, donkeys, and camels, and to provide room for the display and storage of merchandise. The town is dominated by the nine-storeyed Leh Palace , built in the 1630s by Sengge Namgyal. A prolific builder of monasteries and forts, with many conquests to his name, he was Ladakh’s most famous king. The palace’s massive inward - leaning walls are in the same architectural tradition as the Potala Palace in Lhasa which the Leh Palace antedates by about 50 years. Sadly, the solidity of its exterior belies the dilapidation inside, although some repair work is now being done. Visitors can go up to the open terrace on the level above the main entrance. Much of Leh’s charm lies in the opportunities it offers for pleasant strolls and walks. In the heart of town are the Main Bazaar and Nowshar, with their eateries and curio shops selling precious stones and ritual religious objects such as prayer wheels. Along the Bazaar’s wide kerb, women from nearby villages sit with large baskets of fresh vegetables, spinning wool on drop spindles and exchanging lively chatter in between intervals of brisk commerce.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Leh’s major monuments are perched on the stark rocky ridge that forms the town’s mesmerising visual focus. Bearing a passing similarity to the Potala Palace in Lhasa (Tibet), is the Leh Palace. This nine - storey dun-coloured palace took shape under 17th-century king Sengge Namgyal. Essentially it has been unoccupied since the Ladakhi royals were stripped of power and shuffled off to Stok in 1846. Today, the very sturdy walls are mostly unadorned and a few interior sections remain in a state of partial collapse; only the palace prayer room gives any sense of former grandeur. Carry a flashlight and watch out for uneven floor. A trio of photogenic religious structures guards the imposing palace entrance of the Palace of Gompas. The courtyard of the 1840 Soma Gompa is used in summer for traditional dances. Behind, the colourfully muralled Chandazik Gompa celebrates the full pantheon of 1000 Buddhas (of which 996 have yet to be born). The main attractions of the red, 1430 Chamba Lhakhang (admission are the medieval mural fragments between the inner and outer walls. Visible from virtually everywhere in Leh, the 16th-century Tsemo (Victory) Fort is a defining landmark that crowns the top of Palace Ridge. Look closely, and you will find that it is surprisingly small. The shattered walls contain little more than flapping prayer flags, however, scrambling around them provides a precarious frisson.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hemis festival (Jun/Jul): Of all Ladakh’s monastery festivals the one at Hemis is the most famous. This religious performance with colourful masks and costumes, offers a wonderfully authentic experience of Buddhist culture. Sindhu darshan (11–13 Jun): This festival is held annually as a homage to the Indus. Held on the river banks, it includes exhibitions, polo matches, and archery contests. Ladakh festival (20–26 Sep): Subsidised by the Tourism Department, this festival is held for a week in the Sindhu Sanskriti Hall, as well as in Kargil and some selected villages. Thiksey festival (Oct/Nov): The annual festival of the Gelugpa sect takes place in a beautiful setting. The precise dates of monastery festivals are fixed according to the Tibetan lunar calendar and vary every year.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched on rocky cliffs, Ladakh's monasteries watch over the land. Their whitewashed walls gleam, and their prayer wheels spin. Inside, monks chant sutras — their voices merging with the wind. Thiksey, Hemis, Diskit — their names resonate like ancient spells. The Buddha smiles, eyes half-closed, as if he knows the universe's deepest riddles. Several of Ladakh’s world-famous monasteries are situated along the Indus Valley, the region’s historical and cultural heartland. Typically, a Ladakhi monastery (gompa) stands on a hill or ridge above the village that adjoins it. Its upper part consists of temples (lhakhang) and assembly halls (dukhang), together with the gonkhang, the Temple of the Fearsome Guardian Deities. The monks’ dwellings spill picturesquely down the hillside. The monasteries are still active centres of worship, so approach them respectfully. The palace at Stok has been the residence of the Namgyals, the former rulers of Ladakh, since its independence in 1843. Part of the palace has been converted into a fine museum of the dynasty and its history. Its collections include a set of 35 thangkas representing the life of the Buddha, said to have been commissioned by the 16th-century king, Tashi Namgyal. Images and ritual religious objects, such as the bell and dorje (thunderbolt), are of unsurpassed workmanship. Secular objects include fine jade cups, the queen's jewellery, a spectacular headdress, the king's turban-shaped crown, and ceremonial robes. There is also a sword with its blade twisted into a knot, said to have been contorted by the enormous strength of Tashi Namgyal. Shey was the ancient capital of Ladakh. Its abandoned palace contains a temple with a gigantic, late 17th - century Buddha image, surrounded by murals of deities, painted in rich colours and gold. Another beautiful Buddha image is housed in a nearby temple. Just below the palace, are huge 11th - century rock carvings of the Five Buddhas of Meditation. The only monastery in Ladakh of the Sakyapa sect, Matho, built in the early 16th century, is also one of the few that continues to attract many new entrants. Its main importance, however, lies in its Oracles – two monks who, after months of purification by fasting and meditation, are possessed by a deity. This event takes place during Matho’s annual festival, held between February and March. The drama of the occasion is tremendous as the Oracles traverse the topmost parapet of the monastery blindfolded, despite the 30-m (98-ft) drop onto the rocks below. The Oracles answer questions put to them about public and private affairs, and great faith is reposed in their predictions. Matho also has a small museum with a rare collection of 16th-century thangkas and costumes. Tucked away up a winding glen in the mountains south of the Indus, Hemis is the largest as well as the richest of the central Ladakh monasteries. It was founded in the 1630s as a Drugpa establishment by King Sengge Namgyal, and continued to be the most favoured monastery of the Namgyal dynasty. Of its several temples, the most rewarding is the tshog-khang, a secondary assembly hall that contains a fine image of the Buddha in front of a huge silver chorten set with flawless turquoises. Hemis is also renowned for its spectacular annual festival, dedicated to Guru Padmasambhava, the 8th-century Indian apostle who took Buddhism to Tibet. A unique feature of this festival, which is held in the summer and attracts huge crowds, is the 12 - yearly unveiling of the monastery’s greatest treasure – an enormous, three-storey high thangka of Padmasambhava, embroidered and studded with pearls and semi-precious stones. The last unveiling of the thangka was held in 2016.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The dance dramas performed at Ladakh’s annual monastery festivals are immensely popular events, constituting a link between popular and esoteric Buddhism. Attended by high lamas and novice monks in their ceremonial robes and hats, as well as by local families dressed in their splendid traditional costumes, these events are a vibrant expression of age-old cultural and religious values. The dancers, representing divine or mythological figures, wear colourful brocade robes and heavy masks as they perform ceremonial dances around the monastery courtyard. The solemnity of the occasion is lightened by comic interludes performed by dancers in skeleton costumes, who bound into the arena performing agile gymnastics, and caricaturing the solemn rites just enacted, to the delight of the assembled spectators. In the climactic scene, the masked figures ritually dismember a doll moulded from barley flour dough (perhaps symbolising the human soul) and scatter its fragments in all directions. Besides attracting large numbers of outside visitors, these monastery festivals also provide people from far-flung Ladakhi villages an eagerly awaited opportunity to meet each other and exchange news and views.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Southeast Ladakh, on the sensitive international border with Tibet, is a region with a series of spectacularly beautiful lakes (or Tso, in local language). The two major lakes, Pangong Tso and Tso Moriri , are accessible by road, although there are no scheduled bus services. The biggest of the lakes is the long and narrow Pangong Tso. It is 130 km (81 miles) in length and lies at an altitude of 4,420 m (14,500 ft), extending far into Western Tibet. Visitors may go as far as Spangmik, 7 km (4 miles) along the lake’s southern shore, from where there are spectacular views to the north of the Chang-chenmo Range, its reflection shimmering in the ever-changing blues and greens of the brackish water. Above Spangmik rise the glaciers and snowcapped peaks of the Pangong Range. Tso Moriri, 30 km (19 miles) to the south of Pangong Tso is a 140-sq km (54-sq mile) expanse of intensely blue water. At an altitude of 4,600 m (15,092ft), it is set among rolling hills behind which lie snow-covered mountains. The region’s only permanent settlement is on the lake’s western shore, Karzok – a handful of houses and a monastery, whose barley fields must be among the highest cultivated areas anywhere in the world. The lake and its freshwater inlets are breeding areas for many species of migratory birds, such as the rare black-necked crane, bar-headed geese, and the great crested grebe. Wild asses, marmots, and foxes can also be seen in the region.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among the human inhabitants of Southeast Ladakh are the nomadic herders, known as Chang-pa, who brave extreme cold (-40° C/-40° F in winter, and freezing nights even in summer) throughout the year, living in their black yak-hair tents. They raise yak and sheep, but their main wealth is the pashmina goat. The severe cold of winter stimulates the goats to grow an undercoat of soft warm fibre, which they shed at the beginning of summer. This fibre, known as pashm, is the raw material for Kashmir’s renowned shawl industry and is, in fact, the unprocessed form of the world-famous cashmere wool. The lucrative trade in pashm from Ladakh’s high-altitude pastures as well as from Western Tibet was the motive behind Ladakh’s annexation by the Maharaja of Kashmir in 1834.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For visitors, Ladakh isn't just a destination; it is a pilgrimage. They arrive seeking more than Instagram-worthy vistas. They seek solace — the kind that seeps into bones, dissolving worries. They seek silence — the kind that births epiphanies. And when they leave, they carry Ladakh within — a talisman against chaos. The tour of the Nubra region starts from Leh and follows the old caravan trade route to Central Asia, a “feeder” of the famous Silk Route. It takes in the world’s highest motorable mountain pass – the Khardung-la, pretty villages with banks of wildflowers and stands of willow and poplar, valleys covered with seabuckthorn shrubs, stretches of dunes and double-humped Bactrian camels, remote monasteries, and medicinal hot springs. The Nubra Valley tour is one of the most popular circuits of Ladakh.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Founded in the early 12th century AD, the religious enclave of Alchi is the jewel among Ladakh’s monasteries. Because Alchi was abandoned as a site of active worship, for reasons unknown, as early as the 16th century, the 12th- and 13th-century paintings in its temples have remained remarkably well preserved, undimmed by the soot from butter lamps and incense sticks. Of the five temples in the enclave, the finest murals are in the two oldest, the Dukhang and the Sumtsek. These have been executed with great delicacy and skill by master painters who were probably from Kashmir. Unknown to the outside world until 1974, when Ladakh was opened up to tourists, Alchi is now one of Ladakh’s major attractions, renowned as a great centre of Buddhist art. It was built as a monument to the Second Spreading – the revival of Buddhism that took place in Tibet in the 11th century, based on religious texts brought from Kashmir. The entire Mahayana Buddhist pantheon of deities is represented within its five temples, together with superb paintings of court life, battles, and pilgrimages, depicting the costumes, architecture, and customs of the time. The ideal time to visit is during Spring-Summer February-October. Remember, Ladakh isn't conquered; it is surrendered to. Let its silence be your guide, and its mountains your companions.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pangong lake is 130 km (81-mile) in length and lies at an altitude of 4,420m",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tso Moriri is at an altitude of 4,600 m (15,092ft), it is set among rolling hills behind which lie snow-covered mountains.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alchi is the jewel among Ladakh’s monasteries.",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Haven't taken a road trip to Ladakh? Don't wait any longer!",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Leh & Ladakh – In the lap of the Himalayas",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Monasteries in Ladakh: The living heritage of Buddhism",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spiritual splendor: A guide to the must-visit Monasteries in Leh - Ladakh",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping guide - Souvenirs to bring back from Leh shopping guide",
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Leh",
+        "source_url": "https://www.incredibleindia.gov.in/en/ladakh/leh",
+        "retrieved_at": "2026-09-22T18:36:53.998372+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

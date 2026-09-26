@@ -1,0 +1,98 @@
+{
+  "destination_id": "IN-PUNJAB-JALANDHAR",
+  "name": "Jalandhar",
+  "state_or_ut": "Punjab",
+  "region": null,
+  "description": "Jalandhar is an officially listed tourism destination in Punjab, India. It is best treated as a spiritual, heritage, food travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "spiritual",
+    "heritage",
+    "food",
+    "culture"
+  ],
+  "best_for": [
+    "Sikh heritage",
+    "food",
+    "history",
+    "culture"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": null,
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Punjab",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "railway_station": [
+      "Jalandhar City Junction Railway Station (JUC)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Punjab",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Jalandhar",
+      "source_url": "https://www.incredibleindia.gov.in/en/punjab/jalandhar",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

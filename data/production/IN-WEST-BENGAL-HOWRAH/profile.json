@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-WEST-BENGAL-HOWRAH",
+  "name": "Howrah",
+  "state_or_ut": "West Bengal",
+  "region": null,
+  "description": "Howrah is an officially listed tourism destination in West Bengal, India. It is best treated as a heritage, culture, mountains travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "culture",
+    "mountains",
+    "food",
+    "nature"
+  ],
+  "best_for": [
+    "food",
+    "heritage",
+    "tea",
+    "mountains",
+    "culture"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 18.0,
+      "maximum_celsius": 31.0
+    },
+    "february": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 34.0
+    },
+    "march": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 36.0
+    },
+    "april": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 39.0
+    },
+    "may": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 39.0
+    },
+    "june": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 36.0
+    },
+    "july": {
+      "minimum_celsius": 21.0,
+      "maximum_celsius": 30.0
+    },
+    "august": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 33.0
+    },
+    "september": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 34.0
+    },
+    "october": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 34.0
+    },
+    "november": {
+      "minimum_celsius": 19.0,
+      "maximum_celsius": 30.0
+    },
+    "december": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 28.0
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of West Bengal",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Netaji Subhash Chandra Bose Airport (CCU), Kolkata"
+    ],
+    "railway_station": [
+      "Howrah Railway Station (HWH)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in West Bengal",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Howrah",
+      "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-HARYANA-GURUGRAM",
+  "name": "Gurugram",
+  "state_or_ut": "Haryana",
+  "region": null,
+  "description": "Gurugram is an officially listed tourism destination in Haryana, India. It is best treated as a heritage, culture, recreation travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "culture",
+    "recreation",
+    "food"
+  ],
+  "best_for": [
+    "weekend trips",
+    "heritage",
+    "family travel",
+    "food"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 3.9,
+      "maximum_celsius": 25.0
+    },
+    "february": {
+      "minimum_celsius": 4.9,
+      "maximum_celsius": 29.2
+    },
+    "march": {
+      "minimum_celsius": 8.6,
+      "maximum_celsius": 35.7
+    },
+    "april": {
+      "minimum_celsius": 14.5,
+      "maximum_celsius": 42.9
+    },
+    "may": {
+      "minimum_celsius": 19.1,
+      "maximum_celsius": 45.0
+    },
+    "june": {
+      "minimum_celsius": 21.6,
+      "maximum_celsius": 45.0
+    },
+    "july": {
+      "minimum_celsius": 23.5,
+      "maximum_celsius": 40.6
+    },
+    "august": {
+      "minimum_celsius": 23.1,
+      "maximum_celsius": 38.1
+    },
+    "september": {
+      "minimum_celsius": 21.8,
+      "maximum_celsius": 37.2
+    },
+    "october": {
+      "minimum_celsius": 13.2,
+      "maximum_celsius": 35.2
+    },
+    "november": {
+      "minimum_celsius": 7.3,
+      "maximum_celsius": 32.8
+    },
+    "december": {
+      "minimum_celsius": 3.5,
+      "maximum_celsius": 26.6
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Haryana",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Indira Gandhi International Airport (DEL), Delhi"
+    ],
+    "railway_station": [
+      "Gurgaon Railway Station (GGN)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Haryana",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Gurugram",
+      "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

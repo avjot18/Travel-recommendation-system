@@ -1,0 +1,493 @@
+{
+  "destination_id": "IN-GUJARAT-GIR-SOMNATH",
+  "destination_name": "Gir Somnath",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Diu Airport (DIU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Somnath Railway Station (SMNH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the southwestern coast of Gujarat, Gir Somnath is a destination where spirituality, history, culture, and nature come together. Best known as the home of the revered Somnath Temple and the world-famous Gir landscape, the district draws pilgrims, wildlife enthusiasts, and travellers seeking to explore one of Gujarat's most iconic regions.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district's identity is shaped by two remarkable attractions. On one hand stands Somnath, one of Hinduism's most important pilgrimage centres, overlooking the Arabian Sea. On the other lies the Gir region, renowned for its forests, diverse wildlife, and unique natural heritage. Together, they create a destination that offers experiences ranging from spiritual reflection to wildlife exploration.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated at Prabhas Patan near Veraval, the Somnath Temple is regarded as the first among the twelve Jyotirlingas of Lord Shiva and remains one of the most visited pilgrimage sites in India. The temple stands majestically along the Arabian Sea, creating a striking blend of sacred significance and coastal beauty.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The site has been associated with pilgrimage traditions for centuries. According to local tradition, it is located near the confluence of the Kapila, Hiran, and Sarasvati rivers, known as the Triveni Sangam, enhancing its spiritual importance.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Somnath Temple has undergone several phases of destruction and reconstruction throughout history. The present structure was rebuilt in the Chalukyan architectural style and completed in 1951, with the reconstruction initiative closely associated with Sardar Vallabhbhai Patel after India's Independence.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The temple's intricate carvings, towering shikhara, and commanding seaside location make it not only a place of worship but also an important architectural landmark in Gujarat.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors to Somnath can explore the temple complex, spend time along the coastal promenade, and witness the spiritual atmosphere that surrounds the shrine throughout the day. The evening sound-and-light show further brings alive the history and legacy of this sacred site.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most celebrated wildlife destinations in India, Gir National Park is globally known as the last natural habitat of the Asiatic lion. The forests, grasslands, rivers, and rugged landscapes of Gir support a rich variety of wildlife, making the region a major attraction for nature lovers and photographers.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its famous lions, the Gir ecosystem is home to leopards, jackals, hyenas, crocodiles, deer, antelope species, and a remarkable diversity of birdlife. The varied terrain creates an immersive wildlife experience that attracts visitors from across the world.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors can explore designated safari routes through the forest, accompanied by trained guides and naturalists. The landscape reveals a fascinating mix of dry deciduous forests, scrublands, riverine habitats, and open grasslands that support the region's biodiversity. Gir offers experiences throughout the safari journey, from wildlife sightings and birdwatching opportunities to understanding the region's conservation legacy.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travellers exploring Gir Somnath can also visit Prabhas Patan , Triveni Sangam , and Bhalka Tirth , which are closely associated with the region's religious heritage. The nearby coastal town of Veraval offers views of Gujarat's maritime culture, while Diu provides beaches, historic architecture, and a relaxed coastal atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Gir Somnath is between October and March , when the weather is relatively comfortable for sightseeing, temple visits, and wildlife experiences.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors planning to explore Gir National Park should note that the main Gir Jungle Trail remains closed during the monsoon season, generally from mid-June to mid-October.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport to Somnath is Diu Airport , located approximately 63 km away. Porbandar Airport is another convenient option for travellers visiting the region.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Somnath Railway Station provides rail connectivity to several cities in Gujarat and other parts of India, making train travel one of the most convenient ways to reach the destination.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Gir Somnath is well connected by road to major cities across Gujarat. Regular state transport and private bus services operate to Somnath, while highways provide convenient access for travellers arriving by car.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The present Somnath Temple was reconstructed after India's Independence, with the initiative led by Sardar Vallabhbhai Patel, and its consecration was performed in 1951 by India's first President, Dr. Rajendra Prasad.",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gir Somnath",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gir-somnath",
+        "retrieved_at": "2026-09-22T18:36:26.323646+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

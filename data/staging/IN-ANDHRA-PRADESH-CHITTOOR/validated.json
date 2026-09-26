@@ -1,0 +1,533 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-CHITTOOR",
+  "destination_name": "Chittoor",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Tirupati Domestic Airport (TRI) Kempegowda International Airport (BLR) Chennai International Airport (MAA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chittoor Railway Station (CTO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the banks of the Neeva River in Andhra Pradesh, the quiet town of Chittoor welcomes you with the gentle chime of temple bells, mango-scented breezes, sun-washed fields, and stories engraved into stone and soil.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With mornings beginning with prayers, afternoons spent resting under a tamarind tree, and evenings glowing with shared meals and memories, Chittoor is not just a destination but an experience that slowly unfolds and leaves you deeply connected to its rhythm.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Chittoor, spirituality isn’t confined to temples, it flows through daily life. Owing to its closeness to Tirupati, the abode of famous Tirumala Venkateswara Temple , its soul is deeply intertwined with devotion.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding more to its spiritual charm is the Kanipakam Vinayaka Temple , which is known for its self-manifested Lord Ganesha idol that is believed to grow in size.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another significant spiritual landmark in the Chittoor is the Sri Mogileswara Swamy Temple . Dedicated to Lord Shiva, the temple is believed to have been discovered by a devotee named Mogiliappa beneath a Mogli tree. Popularly known as Dakshina Kailasam, the temple is renowned for its rare Trimurti presence, offering darshan of Lord Shiva, with idols of Lord Brahma positioned to the left of the sanctum and Lord Vishnu at the rear.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If spirituality speaks to the soul, Chittoor’s landscapes speak to the senses.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kailgal Waterfalls are a refreshing respite to visitors during Monsoons. Dropping from a height of 40 foot into emerald pools, this waterfall is also known as Dumukurallu Waterfalls in Telugu because of their sounds which resembles the falling of stones from a high altitude.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Encircling this scenic marvel is the Koundinya Wildlife Sanctuary , Andhra Pradesh’s only protected reserve for Asian elephants. The sanctuary is also home to a rich variety of wildlife, including the yellow-throated bulbul, cheetal, sloth bear, porcupine, jungle cat, slender loris, jungle fowl, and the star tortoise. With its sweeping panoramic views, tranquil ponds, gushing streams, and hidden waterfalls, this untouched wilderness offers the perfect escape for those seeking a true digital detox.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding more to Chittoor’s natural charm is Horsley Hills , nestled in the Eastern Ghats near the Karnataka border. Often referred to as the “Ooty of Andhra Pradesh,” this popular hill station is celebrated for its cool climate, eucalyptus groves, misty viewpoints, adventure activities, and an atmosphere of calm that invites visitors to slow down and reconnect with nature.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding to Chittoor’s rich cultural heritage are its historic forts, which stand as silent witnesses to the region’s glorious past. Prominent among them is Chandragiri Fort , a former capital of the Vijayanagara Empire, known for its palaces, temples, and impressive stone architecture.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalikiri Fort and Punganoor Fort further add to the district’s historical landscape, bearing traces of the Vijayanagara, Nayak, and later rulers. Together, these forts narrate tales of valor, governance, and architectural excellence, enriching Chittoor’s historical identity.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Renowned for its vast Mango orchards , Chittoor offers a sensory journey through sun-drenched groves filled with the fragrance of world-renowned varieties like the succulent Banganapalle and the tangy Totapuri. Beyond being a global hub for pulp processing and trade at the bustling Damalacheruvu market, Chittoor has evolved into a premier agri-tourism destination, inviting travelers to experience the authentic charm of rural Andhra Pradesh through farm-to-table heritage and the golden harvest of the \"King of Fruits”.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chittoor’s culinary heritage is as rich and comforting as its landscapes, offering flavors that linger long after the meal is over. Rooted in Andhra traditions, the local cuisine celebrates simplicity, freshness, and bold tastes, with rice forming the heart of everyday meals. Signature dishes like ragi mudde paired with spicy gongura or pachi pulusu , aromatic pulihora, and hearty lentil-based curries reflect the region’s agrarian soul.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chittoor does not boast of being loud or grand. It is simply a place where the Neeva River flows quietly, carrying echoes of chants, rustling through rice fields, and reflecting temple bells under the sun.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Places like the Vinayaka Temple at Kanipakam, Kaigal Falls, Kaundinya Wildlife Sanctuary, historical forts, and mango-laden orchards are not just destinations — they are emotional waypoints in a journey that reconnects you with what truly matters: faith, nature, history, community, and the flavours of life.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to February is the best time to visit Chittoor as the weather is very pleasant during this time.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Chittoor Railway Station (CTO) lies on the Renigunta–Katpadi line and is served by several express and passenger trains linking it to Chennai, Bengaluru, Tirupati, and other regional hubs. The station is about 2 km from the city center, ensuring easy access for travelers.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Tirupati Airport (TIR), located approximately 70 km from Chittoor. For international connectivity, Chennai International Airport (MAA) is about 150 km away, while Kempegowda International Airport, Bengaluru (BLR), is around 180 km from Chittoor. Regular taxi and bus services connect these airports to the city.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Chittoor is well linked by National Highways NH 40 and NH 69, offering smooth road connectivity to Tirupati (70 km), Vellore (40 km), Chennai (150 km), and Bengaluru (180 km). State-run APSRTC buses, private coaches, and taxis operate frequently, making road travel convenient and flexible.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Its proximity to Tirupati (about 70 km away) also makes it a spiritual gateway for pilgrims heading to the famous Tirumala temple.",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chittoor",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/chittoor",
+        "retrieved_at": "2026-09-22T18:36:19.760678+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

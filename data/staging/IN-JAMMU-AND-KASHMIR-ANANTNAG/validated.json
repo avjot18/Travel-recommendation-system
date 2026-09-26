@@ -1,0 +1,322 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-ANANTNAG",
+  "destination_name": "Anantnag",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Srinagar International Airport (SXR), Srinagar"
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Anantnag Railway Station (ANT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -12.5,
+        "maximum_celsius": 10.0
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -10.1,
+        "maximum_celsius": 12.8
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -5.6,
+        "maximum_celsius": 19.9
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": -1.0,
+        "maximum_celsius": 24.0
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 2.0,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 29.1
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 4.3,
+        "maximum_celsius": 27.7
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": -1.4,
+        "maximum_celsius": 24.8
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -5.3,
+        "maximum_celsius": 19.0
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -8.8,
+        "maximum_celsius": 12.7
+      },
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srinagar International Airport (SXR), Srinagar",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cradled by the mesmerising valleys and snow-capped mountains of the Kashmir region lies the enchanting district of Anantnag. Renowned for its scenic landscapes, historical depth, and vibrant cultural expressions, Anantnag offers a sanctuary for those drawn to the allure of the Himalayas. Here, travellers can delve into a profound journey, experiencing the serene beauty and the lively traditions that have been preserved and celebrated through the ages.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Anantnag has some of the most picturesque landscapes in the Kashmir Valley. Its lush green meadows, dense forests and crystal-clear streams mesmerise visitors with their pristine beauty. Here the apple orchards make a charming sight. The district is home to several stunning springs, including the famous Verinag Spring, believed to be the source of the mighty Jhelum River. Emperor Jehangir was so much in love with this place that he built a pleasure garden, a summer house and an octagonal pavement raised around it. Another famous spring called “Kokernag” emerges from the foot of a nearby hill covered with evergreen pine trees. It is surrounded by a terraced garden and a Botanical garden full of flower beds of different hues and colours filling the air with their intoxicating aroma. Achabal is probably the most awesome of all the springs. It rushes out of the Sonsanwar Hill and flows through a terrace garden in three channels, making it an unforgettable sight.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Steeped in history, Anantnag bears the imprint of ancient civilizations and diverse cultures. The region is dotted with historical landmarks, including the Martand Sun Temple , an architectural marvel dating back to the 8th century. Anantnag is also known for its religious significance, hosting revered shrines such as the world renowned Amarnath Cave, which attracts thousands of pilgrims every year. It is believed that in this cave Lord Shiva had shared the secret of immortality with Goddess Parvati. Pilgrims walk through most difficult terrains to have darshan of the natural ice lingam of Lord Shiva that forms within the cave. The lingam, believed to wax and wane with the moon's cycle, symbolizes the eternal cycle of creation and dissolution. Anantnag has many venerated shrines like Ziarat Baba Hyder Reshi Shrine, Ishmuqam Shrine and Masjid Baba Dawood Khaki . These shrines are flooded with devotees during annual festivals.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Anantnag is complete without savouring its delectable cuisine, which reflects the rich culinary heritage of Kashmir. From mouth-watering Wazwan feasts to aromatic Kahwa tea, the region offers a tantalising array of flavours and aromas guaranteed to delight the senses. Visitors can indulge in traditional Kashmiri dishes such as Kashmiri Pulao, Rogan Josh, Yakhni, Dum Aloo and phirni, prepared with age-old recipes passed down through generations.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Folk arts are ingrained in Anantnag's cultural fabric, with energetic and colourful dances and music typical to the Kashmir Valley. Common dance forms in the district include Ru, Dambali, and Bhand Pather, each with its own unique style and grace. While Ru is a dance performed by the womenfolk, who dance in a row, humming the Ru song, especially at weddings, Bhand Pather refers to a theatrical form in which social issues are addressed and depicted creatively. Dambali is like the religious dance of Darwesh, which is commonly seen at the Urs festivals celebrated at various shrines in Anantnag. Music also plays a significant role in Kashmiri culture, with Chakri, Classical, and Sufiana Kalam forming the backbone of its musical traditions. Chakri, known for its storytelling through music, is a common feature at Kashmiri weddings, while Sufiana Kalam, promoted by Irani saints, creates an enigmatic atmosphere with its melodious tunes. The commonly used musical instruments are Santoor, Sitar and Dukra. The city also has a penchant for fine arts, which is reflected in its art galleries.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Handicrafts of Kashmir are abundant in Anantnag, with local weavers manufacturing beautiful Kashmiri shawls, carpets, gabbas, namdas and rugs. Additionally, intricate Kashmiri embroidery adorns dress materials. Wood carved products showcase the craftsmanship of the local artisans.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For adventure enthusiasts, Anantnag offers a plethora of outdoor activities amidst its stunning natural landscape. Trekking enthusiasts can embark on exhilarating trails through lush forests and meandering valleys, with routes ranging from gentle hikes to challenging climbs. The Lidder River presents thrilling opportunities for white-water rafting, while camping amidst the serene surroundings offers a chance to reconnect with nature under the starlit sky. Snowfalls in winters open newer avenues of adventure and entertainment in the form of winter sports.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Anantnag stands as a testament to the timeless allure of Kashmir, beckoning travellers with its unparalleled beauty, rich history, and warm hospitality. Whether exploring ancient temples, savouring delectable cuisine, or embarking on outdoor adventures, visitors are sure to be captivated by the charm of Anantnag. As you journey through this enchanting district, let yourself be swept away by the magic of Kashmir's hidden gem.",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrilling Adventures In and Around Anantnag, Kashmir",
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage Clear all Show results",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Anantnag",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+        "retrieved_at": "2026-09-22T18:36:53.029711+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

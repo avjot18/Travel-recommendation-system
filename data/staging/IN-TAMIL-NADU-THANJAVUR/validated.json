@@ -1,0 +1,372 @@
+{
+  "destination_id": "IN-TAMIL-NADU-THANJAVUR",
+  "destination_name": "Thanjavur",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Madurai International Airport (IXM), Madurai Tiruchirappalli International Airport (TRZ), Tiruchirappalli"
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Thanjavur Railway Station (TJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 41.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 41.2
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Madurai International Airport (IXM), Madurai",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirappalli International Airport (TRZ), Tiruchirappalli",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you're a history enthusiast, a connoisseur of ancient art, or simply seeking an authentic cultural experience, Thanjavur promises an unforgettable adventure into the heart of South India's cultural heritage. The ancient historical town of Thanjavur is located in the Indian state of Tamil Nadu and is situated in the Cauvery delta at a distance of about 350 km south-west of Chennai. Thanjavur is also known as Thanjai. This city was also known as Tanjore in the olden times and is an important centre of southern Indian religion, art, and architecture. It is renowned for its spectacular temples, intricate art and classical music. Thanjavur offers travellers an enchanting voyage through the annals of time.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thanjavur boasts of a heritage spanning millennia, once serving as the capital of the mighty Chola Empire. Thanjavur attained prominence under the Chola rulers who were paramount in South India during 9th to 12th centuries. The rulers were both adept leaders and prolific builders, constructing numerous exquisite temples throughout their empire. These temples, some of which are considered prime examples of architectural excellence, have helped distinguish the district within the state. Many of these temples showcase the skill and grandeur of their creators, exhibiting remarkable proficiency in sculpture, painting, and wood carving.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thanjavur is celebrated for its opulent artistic traditions, notably the unique Thanjavur painting style. These vibrant artworks, characterised by intricate detailing and embellishments of gold foil, frequently depict Hindu deities and mythological scenes. Galleries and local shops showcase and offer these exquisite creations for admiration and acquisition. The city also serves as a cultural hub for classical music and dance, with the renowned Thanjavur Quartet credited with refining the Bharatanatyam dance form in the 18th century. Presently, Thanjavur remains a revered centre for Bharatanatyam, with numerous dance academies and performances enriching the city's cultural landscape.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The legacy of the Cholas is epitomised in the city's awe-inspiring monuments, notably the Brihadeeswarar Temple , also known as the \"Big Temple\", recognised as a UNESCO World Heritage site. The temple is dedicated to Lord Shiva. Constructed under the patronage of King Rajaraja Chola I in the 11th century, this architectural marvel stands as a testament to the Chola dynasty's magnificence and architectural finesse. In addition to this, Thanjavur boasts a plethora of impressive temples and monuments. The Airavatesvara Temple , another UNESCO World Heritage site, is lauded for its elaborate carvings and unique architectural elements. Dedicated to Lord Shiva, this temple stands as a testament to the Chola dynasty's artistic achievements and architectural prowess. Visitors also explore the sprawling Thanjavur Maratha Palace , constructed by Maratha rulers in the 17th century. The palace complex houses a museum exhibiting a remarkable array of artifacts, including bronze sculptures, musical instruments, and royal regalia, offering a glimpse into Thanjavur's regal heritage.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to Thanjavur would be incomplete without savouring its sumptuous cuisine. The city's traditional South Indian fare, featuring dishes like dosa, idli, and sambar, delights the taste buds of visitors. Additionally, the renowned \"Thanjavur Thalappakatti Biriyani,\" a fragrant rice dish infused with aromatic spices and tender meat or vegetables, is a must-try culinary delight.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In summary, Thanjavur stands as a veritable treasure trove of culture, history, and artistic brilliance, inviting travellers on an unforgettable journey of discovery. Whether exploring ancient temples, marveling at intricate artworks, or indulging in authentic cuisine, a visit to Thanjavur promises an enriching and memorable experience.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To visit Thanjavur by air the nearest airport is Tiruchirappalli and is connected by many airlines. Indian Airlines connects Tiruchirappalli with many cities in India and abraod. Thanjavur is also well connected by rail and road with major cities in south India. Regular bus service connects places of interest in and around Thanjavur.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thanjavur is known as the \"Rice Bowl of Tamil Nadu\" because of its agricultural activities in the Cauvery delta region.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thanjavur is known for its unique Tanjore painting style.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thanjavur is also known for its bronze casting tradition, silk weaving, and doll-making.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Brihadeeswara Temple also features one of the largest bull statues in India, called Nandi , which is carved out of a single granite rock.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Thanjavur Maratha Palace, also known as \"Thanjavur Aranmanai\" , is home to one of the oldest libraries in Asia.",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Places to visit in Thanjavur travel guide",
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage Clear all Show results",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Thanjavur",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/thanjavur",
+        "retrieved_at": "2026-09-22T18:36:46.104536+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

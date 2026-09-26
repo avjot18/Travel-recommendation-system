@@ -1,0 +1,103 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-SPITI-VALLEY",
+  "name": "Spiti Valley",
+  "state_or_ut": "Himachal Pradesh",
+  "region": null,
+  "description": "Spiti Valley is an officially listed tourism destination in Himachal Pradesh, India. It is best treated as a mountains, nature, adventure travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "mountains",
+    "nature",
+    "adventure",
+    "wellness",
+    "snow"
+  ],
+  "best_for": [
+    "mountains",
+    "trekking",
+    "snow",
+    "couples",
+    "adventure"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "October",
+    "November"
+  ],
+  "season_profile": null,
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Himachal Pradesh",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Kullu–Manali Airport (KKU), Kullu (Bhuntar) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+    ],
+    "railway_station": [
+      "Jogindernagar Railway Station Shimla Railway Station"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Himachal Pradesh",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Spiti Valley",
+      "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/spiti-valley",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

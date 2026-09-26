@@ -1,0 +1,312 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-JHANSI",
+  "destination_name": "Jhansi",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Rajmata Vijaya Raje Scindia Airport (GWL), Gwalior"
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Virangana Lakshmibai Railway Station (VGLB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.4,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.2,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 43.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 46.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 45.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.2,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.8,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajmata Vijaya Raje Scindia Airport (GWL), Gwalior",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Virangana Lakshmibai Railway Station (VGLB)",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "These lines celebrate the bravery of Rani Laxmibai. People frequently refer to Jhansi as the \"City of Warriors\" because of its incredible past. Another name for it is the \"Gateway to Bundelkhand.\" Jhansi is replete with stories of India’s first war of independence. Its historical treasures, complete with palaces and forts, narrate tales from bygone eras. It lies on the banks of the Pahuj River, in the extreme south of Uttar Pradesh.",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jhansi city was named after the Jhansi Fort , which was built by Raja Bir Singh Deo. The fort was named in such a way that the rulers could only see a shadow atop a distant hill when looking at it. The Chandela Dynasty had a significant influence on this ancient city. Jhansi was initially a walled city built around the fort and was known as ‘Balwantnagar.’ The artistic grandeur of the Chandela rulers is still visible in the city's monuments and other ancient structures. Jhansi Government Museum is a 19th century architectural masterpiece dedicated to Rani Lakshmibai. The museum houses historically significant artefacts dating back to the 4th century. Rani Mahal, the 18th-century palace, showcases intricate Indian architecture and royal life. The remaining parts of the palace are now a museum with artefacts dating back to the 9th century. The Jhansi Fort was constructed in the seventeenth century, but a large portion of it was destroyed during the first Indian Independence War. Raja Gangadhar Rao Ki Chhatri, built in 1853, is a Cenotaph of Raja Gangadhar Rao, in memory of her late husband.",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Barua Sagar Tal is a place that is famous for its forts and temple remnants, which had great importance in the past. The lake in the vicinity of this place is also called Barua Sagar Tal, which inspired the name of the town. Parichha Dam is a peaceful haven for wildlife enthusiasts in Jhansi. Surrounded by an abundance of vegetation, it is an ideal destination for a tranquil weekend escape. Birdwatching and picnicking are popular pastimes that offer a glimpse of Jhansi's unspoiled beauty. The Herbal Garden, also known as the Tiger's Prowl, is among Jhansi's most picturesque tourist destinations. It is named after the white tigers that can be seen in Bundelkhand and is home to a variety of medicinal plant species.",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Ganesh Mandir is dedicated to Lord Ganesh, offering a spiritual experience amidst the city's historical sites. St. Jude’s Shrine was built by Francis Xavier Fenech. Karguvanji Jain temple a 700-year-old temple, Karguvanji Jain Temple is the main pilgrimage site of the Digambar Jains.",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jhansi Mahotsav is an annual week-long festival in Jhansi, organised by the Uttar Pradesh Tourism Board and the district administration. It aims to showcase the city's rich cultural heritage through various cultural events, music and dance performances. Other festivals celebrated in Jhansi include Diwali, Holi, and Janmashtami. The city's cuisine includes kadhi samosa, bedai kachori, moong dal halwa, pao bhaji, and the signature dessert, chhena, reflecting the city's position along ancient trade routes and blending flavors from northern India.",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jhansi is known as the City of Veerangana Rani Lakshmi Bai .",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city of Jhansi is commonly known as the Gateway to Bundelkhand .",
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jhansi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/jhansi",
+        "retrieved_at": "2026-09-22T18:36:47.855581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

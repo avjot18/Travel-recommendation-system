@@ -1,0 +1,337 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-RECKONG-PEO",
+  "destination_name": "Reckong Peo",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+  "blocks": [
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step Into the Land of Gods. Imagine waking up to skies so clear they seem painted in blue, with snow-draped peaks shimmering in the distance. Welcome to Reckong Peo, the headquarters of Kinnaur district in Himachal Pradesh, perched at an altitude of 2,290 meters. Known simply as “Peo” by locals, this charming town is more than just an administrative hub—it’s a doorway to the untouched beauty of Kinnaur Valley and the sacred Kinnaur Kailash range, believed to be the winter abode of Lord Shiva.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you drive along the scenic NH5 highway, apple orchards and pine forests line your path, and the crisp mountain air fills your lungs with freshness. Reckong Peo isn’t about rushing through—it’s about slowing down, soaking in the serenity, and letting the Himalayas tell their timeless tales",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reckong Peo is a confluence of Hindu and Buddhist cultures, reflected in its temples, monasteries, and festivals. The town offers breathtaking views of the Kinnaur Kailash Shivling, a revered rock formation that draws pilgrims and trekkers alike. Visit the Chandika Temple, dedicated to Goddess Kali, and feel the spiritual energy that permeates the region.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a taste of Buddhist heritage, head to Brelengi Gompa, a serene monastery adorned with prayer flags fluttering in the wind. Its peaceful ambiance and panoramic views make it a perfect spot for quiet reflection.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reckong Peo is not just a town—it’s a gateway to some of Himachal’s most stunning landscapes. Just 7 km away lies Kalpa, a picturesque village offering jaw-dropping views of the Kinnaur Kailash range. Stroll through its apple orchards, breathe in the scent of pine, and watch the sunset paint the mountains in hues of gold and crimson.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure seekers can explore Bhaba Valley, a paradise for trekkers, or head to Suicide Point near Kalpa for dramatic valley views (with caution!). For those who love offbeat experiences, nearby hamlets like Chango, Leo, and Kanam offer glimpses of traditional Kinnauri life.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reckong Peo’s markets are a treasure trove of Kinnauri handicrafts—handwoven shawls, colorful caps, and exquisite woolens. Don’t miss the chance to interact with locals and learn about their customs and traditions. And when hunger strikes, indulge in authentic Himachali flavors:",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sidu – Steamed bread stuffed with walnuts.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thukpa – A hearty noodle soup with Tibetan roots.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pair these dishes with a cup of hot tea as you gaze at the snow-clad peaks—it’s an experience that warms both body and soul.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Reckong Peo is April to June and September to November, when the weather is pleasant and the skies are clear. Winters (December to February) bring snowfall, turning the region into a white wonderland, but travel can be challenging due to icy roads.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reckong Peo is not just a stopover—it’s a destination that invites you to pause, breathe, and connect with nature and culture. Whether you’re gazing at the mighty Kinnaur Kailash, wandering through apple orchards, or savoring local delicacies, every moment here feels like a step closer to the divine.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, pack your bags and let Reckong Peo’s mystical charm weave its magic on you. This is not just a journey—it’s a story waiting to be written.",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reckong Peo is a confluence of Hindu and Buddhist cultures, reflected in its temples, monasteries, and festivals",
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Reckong Peo",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/reckong-peo",
+        "retrieved_at": "2026-09-22T18:36:30.123241+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

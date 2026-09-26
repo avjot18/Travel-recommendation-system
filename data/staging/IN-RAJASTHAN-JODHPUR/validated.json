@@ -1,0 +1,343 @@
+{
+  "destination_id": "IN-RAJASTHAN-JODHPUR",
+  "destination_name": "Jodhpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jodhpur Airport (JDR), Jodhpur"
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jodhpur Railway Station (JU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.0,
+        "maximum_celsius": 30.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.2,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.7,
+        "maximum_celsius": 43.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 45.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 44.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.6,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.2,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of the Thar Desert in the royal state of Rajasthan, India, lies the enchanting city of Jodhpur, often referred to as the \"Blue City\" and the \"Sun City.\" Steeped in history, culture, and architectural splendour, Jodhpur beckons travellers from far and wide with its majestic forts, vibrant bazaars, and timeless charm.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Founded in 1459 by Rao Jodha, the chief of the Rathore clan, Jodhpur boasts a rich and illustrious history that spans centuries. The city served as the capital of the erstwhile Marwar kingdom, which played a pivotal role in the history of Rajasthan. Over the years, Jodhpur emerged as a flourishing centre of trade, commerce, and craftsmanship, attracting merchants, artisans, and travellers from across the Indian subcontinent and beyond.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most distinctive features of Jodhpur is its azure-hued buildings that dot the landscape of the old city. Legend has it that the Brahmins, the priestly class of Jodhpur, began painting their houses blue to denote their caste and to keep them cool during the scorching summer months. Today, the labyrinthine streets of the old city are a photographer's paradise, with their vibrant blue facades creating a mesmerising tapestry of colours against the backdrop of the desert.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dominating the skyline of Jodhpur is the majestic Mehrangarh Fort , an imposing citadel perched atop a rocky hilltop. Built in the 15th century by Rao Jodha, the fort boasts impressive ramparts, intricately carved balconies, and palatial courtyards, offering panoramic views of the city below. Within the fort complex lie a treasure trove of palaces, including Moti Mahal , Phool Mahal , and Sheesh Mahal , each adorned with exquisite artwork and royal artefacts that narrate the saga of Jodhpur's regal past.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A symbol of opulence and grandeur, Umaid Bhawan Palace is one of the largest private residences in the world and a living testament to Jodhpur's royal heritage. Built in the 20th century by Maharaja Umaid Singh, the palace is a splendid blend of Indo-Saracenic architecture, featuring ornate domes, elegant courtyards, and lush gardens. Today, a part of the palace serves as a luxury heritage hotel, allowing guests to experience the grandeur of Rajasthan's royal era firsthand.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Jodhpur is complete without exploring its bustling bazaars, where the sights, sounds, and smells of Rajasthan come alive. From the bustling lanes of Sardar Market to the colourful stalls of Clock Tower Market, visitors can immerse themselves in the city's vibrant street life, haggling for treasures ranging from handcrafted textiles and jewellery to aromatic spices and local delicacies. Additionally, Jodhpur is renowned for its rich cultural heritage, with vibrant folk music, dance, and festivals adding to the city's festive atmosphere throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mehrangarh Fort : Perched atop a rocky hill, Mehrangarh Fort is one of the largest and most magnificent forts in India. Its massive walls house several palaces, museums, and courtyards, including Moti Mahal, Phool Mahal, and Sheesh Mahal. The fort offers breathtaking panoramic views of the city and hosts cultural events and festivals throughout the year. Umaid Bhawan Palace : A symbol of opulence and grandeur, Umaid Bhawan Palace is one of the world's largest private residences. Built in the 20th century, the palace blends Art Deco and Rajput architectural styles and houses a museum, luxury hotel, and the residence of the royal family of Jodhpur. Jaswant Thada : This stunning white marble memorial was built in the 19th century in honour of Maharaja Jaswant Singh II. Surrounded by lush gardens, Jaswant Thada features intricately carved marble lattice screens, domes and portraits of the Rathore rulers. It offers serene views of the nearby Mehrangarh Fort and the cityscape. Clock Tower (Ghanta Ghar) and Sardar Market : Located in the heart of the old city, the Clock Tower is a prominent landmark surrounded by bustling Sardar Market. The market is a vibrant hub of activity, offering a wide array of handicrafts, textiles, spices, and traditional Rajasthani items. Mandore Gardens : Just a short distance from the city center lies Mandore , the former capital of Marwar. Mandore Gardens are adorned with cenotaphs, temples, and lush greenery, making it a serene spot for picnics and leisurely strolls. The gardens also house the Hall of Heroes, which showcases statues and sculptures of Rajput heroes and deities. Rao Jodha Desert Rock Park : Spread over 72 hectares at the foot of Mehrangarh Fort, this ecological restoration project showcases the native flora and fauna of the Thar Desert. Visitors can explore walking trails, enjoy panoramic views of the fort, and learn about desert conservation efforts. Chamunda Mata Temple : Situated within Mehrangarh Fort, this temple is dedicated to Chamunda Mata, a revered Hindu goddess. Devotees and visitors flock to the temple to seek blessings and admire its intricate architecture and religious significance. Mandaleshwar Mahadev Temple: Located near Mandore Gardens, this ancient temple dedicated to Lord Shiva features intricate carvings, ornate pillars, and a serene ambience. It is a popular pilgrimage site and offers stunning views of the surrounding landscape. Jodhpur, with its storied past, architectural marvels, and vibrant culture, is a destination that captures the imagination and leaves an indelible impression on all who visit. From the towering ramparts of Mehrangarh Fort to the labyrinthine lanes of the Blue City, every corner of Jodhpur is infused with a sense of timeless elegance and regal charm, beckoning travellers to embark on a journey through the annals of Rajasthan's illustrious history.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jodhpur is more popularly known as the Blue City , an apt name as most houses in the old city are shades of blue.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is also called the Sun City as the sun shines (very bright and hot!) almost every day of the year.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jodhpur is the second largest city in the north Indian state of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Of blues & golds: Jodhpur Jaisalmer 4 day itinerary",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A lip-smacking culinary journey of Jodhpur",
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jodhpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jodhpur",
+        "retrieved_at": "2026-09-22T18:36:43.997472+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

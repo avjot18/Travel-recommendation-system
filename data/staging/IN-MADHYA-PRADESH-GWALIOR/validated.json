@@ -1,0 +1,319 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-GWALIOR",
+  "destination_name": "Gwalior",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gwalior Junction Railway Station (GWL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.3,
+        "maximum_celsius": 28.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.4,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 45.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 45.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 36.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.4,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.7,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajmata Vijayaraje Scindia Airport Gwalior (GWL), Gwalior",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If Madhya Pradesh is the soulful heartbeat of incredible India, then Gwalior is the chamber where history's most captivating tales echo. It is where valiant warriors and artistic visionaries lived. It is where an invincible citadel stood tall for centuries. Gwalior's story stretches back centuries, etched in the city's very foundation. Legends recount the tale of Suraj Sen, a chieftain who, after being healed by the hermit saint Gwalipa, established the city and a fort as a mark of gratitude in the saint’s honour. Over time, the city bloomed. Empires rose and fell, leaving their mark on the city's soul. From the courage of the Kachchhapaghatas to the artistic spirit fostered by poets and saints, Gwalior evolved with each dynasty. Mughal grandeur mingled with Maratha's resilience, culminating in the reign of the Scindia dynasty. Even freedom fighters like Tatya Tope and the legendary Rani of Jhansi have left their indelible mark on Gwalior's spirit. You will be captivated by Gwalior's mesmerising melody in every sense. Etched on the stones of its Chaturbhuj Temple is the world's first occurrence of zero as a written number! This city is also the birthplace of Tansen, a legendary Indian classical singer whose voice inspires generations. No wonder Gwalior's rich musical heritage earned it the 'Creative City of Music' title by UNESCO. Come, let Gwalior cast its spell on you—a symphony of history, culture, and unforgettable experiences. From exploring the grandeur of the Gwalior Fort to immersing yourself in the vibrant music scene, Gwalior promises to offer you a one-of-a-kind journey.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gwalior Fort , the city’s most iconic landmark, stands tall, its silhouette commanding attention from every corner of the city. Aptly named the ‘pearl among fortresses in India’, this majestic hill fort is a sight to behold. Perched on a solitary rock outcrop, it is a colossal structure hewn from the heart of a steep sandstone mass. As you approach, you'll be enchanted by the intricate blue and gold tessellations that adorn its facade, adding a touch of captivating colour to its grandeur. Within its towering 10-meter-high walls, you'll discover a treasure trove of history. Prepare to be awestruck by the Man Singh Palace (or Man Mandir), the jewel in the fort's crown. This two-story marvel boasts elaborately decorated ceilings and courtyards, offering a glimpse into the grandeur of an early Hindu palace. Next, take a step back in time at the Sas Bahu Temples, an 11 th -century architectural masterpiece. Marvel at the intricate carvings adorning these twin temples, one dedicated to Lord Vishnu and the other to Lord Shiva. For a panoramic view and a touch of spiritual serenity, climb to the Teli ka Mandir, the fort's oldest monument. This 100-foot-tall wonder showcases a unique blend of Dravidian and Nagar styles, making it a true architectural gem. Located within easy reach of the Teli ka Mandir, find a haven of peace at the Gurudwara Data Bandi Chhor Shahib. This revered Sikh pilgrimage site holds a special place in history, commemorating Sri Guru Hargobind Sahib's imprisonment and subsequent release. Head to the Gopachal Parvat and stand in awe of the stunning rock-cut sculptures of the 24 Jain Tirthankars (revered spiritual teachers in Jainism), a testament to the artistic mastery of a bygone era. Another site not to be missed is the Gujari Mahal , right at the fort entrance. This palace, built by King Man Singh Tomar for his beloved queen Mrignayani, now houses an archaeological museum with ancient artefacts and intricate sculptures. Look out for the ‘Shalabhanjika,’ a captivating stone figure known as the ‘Mona Lisa of India.’ As night falls, the Gwalior Fort comes alive with a breathtaking light and sound show. Catch it for a mesmerising journey through its history.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gwalior's story isn't confined to the walls of its majestic fort. Venture beyond and discover more gems of a bygone era. Step into a world of luxurious living with Jai Vilas Palace. Converted into a museum, some of its opulent rooms showcase rare and impressive art pieces. Prepare to be dazzled by its durbar hall, adorned with some of the world's grandest chandeliers. Just nearby, you can explore the 19 th -century Moti Mahal, one of the city's most historic structures. Stroll through its serene gardens adorned with sparkling fountains, or marvel at the exquisite wall murals and vibrant tempera paintings depicting Ragas and Raginis, the traditional Indian musical modes.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Go a little further and pay your respects at the samadhi (memorial) of Rani Lakshmi Bai, the legendary warrior queen of Jhansi. A magnificent 26-foot-high metal statue immortalises her bravery and spirit. This poignant memorial is a must-visit for history buffs. Lastly, discover the serene beauty of the Sun Temple (or Surya Mandir). Inspired by the iconic Konark Sun Temple, this architectural gem welcomes you with its majestic red sandstone exterior and intricate white marble carvings inside. Come here at dawn or dusk to capture the sandstone bathed in the golden hues of the rising or setting sun.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indian classical music flows like a mighty river through Madhya Pradesh, and Gwalior stands tall as its source. The city has been a breeding ground for musical legends for centuries. These include masters like Mohammad Ghaus and Mian Tansen, both belonging to the illustrious Gwalior Gharana, a renowned school of Indian classical music. To embark on a melodious journey through Gwalior's musical heritage, start with exploring the tomb of Mohammad Ghaus, a revered musician known for his mastery of Dhrupad, who was once an Afghan prince who found solace in music. His final resting place is a rustic sandstone structure adorned with intricate latticework amid serene gardens. Just steps away lies the simple yet elegant marble tomb of Tansen, Ghaus' illustrious student. A gem in the court of Emperor Akbar, Tansen is remembered for his captivating Dhrupad compositions and mesmerising vocals. To pay homage to Mian Tansen, Gwalior comes alive every December with the Tansen Samaroh, a vibrant five-day festival. If you appreciate Indian classical music, plan your trip around this musical extravaganza.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gwalior isn't just a journey through time; it's a delicious adventure for your taste buds! Gwalior's cuisine is influenced by Gupta emperors, Mughal grandeur, and even the British. Indulge in local delicacies like Bedai, a crispy poori bursting with a flavourful lentil filling, or head to SS Kachori Wala for piping hot snacks or Dilli Parathewala for their legendary parathas. But don't leave Gwalior without a box of Gajak, a sweet and crunchy delight made with sesame and jaggery. This local speciality is perfect for sharing with family and friends back home. And to satisfy your sweet tooth further, explore the melt-in-your-mouth motichoor laddu from Bahadura. Try Naariyal Paak and Bhind ke Pede, two local gems that will leave you wanting more.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Gwalior is not just about buying things; it’s an experience in itself. The old city’s bazaars are like open-air museums, and the buildings are architectural wonders that blend Mughal, Persian, and Hindu influences. Gwalior is a hub for textiles and handlooms, famous for its Chanderi and Maheshwari silks and even intricate carpets. Head straight to Maharaj Bada, one of Gwalior's biggest markets, for a sensory overload in the best way possible. There are plenty of options for silk sarees and colourful fabrics. Check out Sarafa Bazaar and Topi Bazaar for sparkling jewellery and unique handicrafts! Don’t miss buying the Batto Bai Dolls in Gwalior’s markets. These adorable dolls, dressed in all their traditional finery, are the epitome of Gwalior's charm. If you love arts and crafts, Mrignayani is your happy place.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gwalior caters to every kind of traveller. Even the nature lover. Stroll through the Italian Garden, a picturesque garden in the city's heart that showcases a captivating blend of Italian architectural influences and Indian aesthetics. Lush greenery unfolds before you, offering a moment of peace and serenity. Head to the Gandhi Zoological Park (or Gwalior Zoo), located just a stone's throw away from the Italian Garden, and encounter a variety of fascinating creatures. For an adventurous experience, head to the Tighra Dam. This scenic spot offers an abundance of activities. Glide across the tranquil waters on a boat, feel the thrill of a water scooter ride, or lose yourself in the beauty of nature. Birdwatchers, keep your binoculars handy!",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just a short escape away from Gwalior lie some hidden gems. Head north of the city and a mere 35 km away, you will find the Bateshwar Temples, a complex of around 200 temples carved in sandstone, dating from the 8 th to 10 th centuries. Just a stone's throw away, discover the imposing Padavali Fort. Built in the 18 th century, this majestic structure stands proudly guarded by a pair of stone lions. Within its walls lies a serene temple once dedicated to Lord Shiva, offering a glimpse into the spiritual side of the fort's history. Venture further and reach the quaint village of Mitaoli. Here, perched atop a hill, stands the enigmatic and renowned Chausath Yogini Temple. This captivating circular temple is shrouded in mystery. Legend whispers that it was once a centre of learning, where students delved into the secrets of astrology and mathematics, guided by the sun's movements!",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gwalior, the heart of Madhya Pradesh, welcomes you with open arms throughout the year. However, for an experience truly unlike any other, the best time to visit is between October and March. This is when you can explore the city's vibrant energy, from its historical marvels to hidden gems, without the scorching sun holding you back. So, pack your bags (if you haven't already) and embark on an unforgettable journey to Gwalior, the city of history, royalty, and music.",
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airport Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gwalior",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/gwalior",
+        "retrieved_at": "2026-09-22T18:36:35.730424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

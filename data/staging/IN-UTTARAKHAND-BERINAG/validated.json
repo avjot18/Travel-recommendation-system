@@ -1,0 +1,413 @@
+{
+  "destination_id": "IN-UTTARAKHAND-BERINAG",
+  "destination_name": "Berinag",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Pantnagar Airport (PGH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kathgodam (KGM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the rolling hills of Kumaon, Berinag is one of those rare Himalayan destinations that reveals itself slowly. Far from the crowds that gather in Uttarakhand's more famous hill stations, this peaceful town sits amid pine-covered slopes, terraced farmlands, and sweeping views of snow-clad peaks. Life moves gently here, measured by temple bells, changing seasons, and the quiet rhythm of village life.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the Pithoragarh district of Uttarakhand, Berinag is often known as the \"Town of Snake Temples.\" The settlement derives its name from the revered Nag temples scattered across the region, reflecting a deep-rooted spiritual heritage that continues to shape local traditions. According to local legends and mythology, the area has long been associated with serpent worship, giving Berinag a distinctive cultural identity that sets it apart from other Himalayan towns.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched amidst the Kumaon Himalayas, Berinag is blessed with an extraordinary natural setting. Dense forests of pine, oak, and rhododendron surround the town, while terraced fields cascade down the hillsides like giant stairways carved into the mountains. The region enjoys a pleasant climate throughout much of the year, making it an ideal retreat for travelers seeking peace and fresh mountain air.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "On clear days, the horizon unfolds into a magnificent panorama of some of the Himalayas' most celebrated peaks, including Panchachuli, Nanda Devi, and Trishul. Sunrise and sunset transform the snow-covered summits into shades of gold, pink, and crimson, creating spectacular views that remain etched in memory long after the journey ends.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The changing seasons lend Berinag a different charm throughout the year. Spring brings blooming rhododendrons and mustard-covered fields, monsoon wraps the hills in mist and greenery, autumn offers crystal-clear mountain vistas, and winter introduces a tranquil stillness to the landscape.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Berinag's cultural identity is deeply intertwined with its temples and local beliefs. The principal Nag Devta Temple stands as one of the town's most significant landmarks, attracting devotees who visit to seek blessings and offer prayers. Alongside it, shrines dedicated to Fenni Nag, Harinag, and Bashukinag form an important spiritual network across the region.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Faith here is woven into everyday life. Residents continue traditions passed down through generations, whether it's offering prayers before sowing crops, lighting lamps before important journeys, or gathering at temples during festivals. These customs create a sense of continuity and community that remains central to Berinag's way of life.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Festivals such as Harela and Makar Sankranti fill the town with color and celebration. Traditional music, folk songs, community gatherings, and local rituals bring together families from nearby villages, reinforcing the close-knit social fabric that defines the region.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its temples and mountain scenery, Berinag once earned recognition for its tea gardens. During the British era, the area's slopes were cultivated extensively for tea production, and Berinag tea developed a reputation that extended beyond the Himalayan region. Historical trade routes carried locally produced tea toward Tibet, making it an important economic activity for the area.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While many of the old tea estates have faded with time, the legacy remains an important chapter in Berinag's history. Visitors can still sense this heritage in conversations with locals and in the enduring tea culture that continues to thrive in homes and marketplaces across the town.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What makes Berinag memorable is not a single monument or attraction, but the authenticity of daily life. Stone houses with slate roofs dot the hillsides, smoke rises gently from kitchen hearths in the morning, and families work together in terraced fields growing crops such as mandua, potatoes, and rajma.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The local bazaars provide a glimpse into the social heartbeat of the town. Small shops, vegetable vendors, traditional snacks, and bustling tea stalls create an atmosphere where conversations flow as freely as the tea being served. Hospitality remains a defining characteristic of the region, and visitors are often welcomed with warmth that feels genuine rather than transactional.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every walk through Berinag reveals a different aspect of local life, from farmers tending fields and children walking to school to elders sharing stories beneath deodar trees. It is this simplicity and human connection that leave a lasting impression on travelers.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Berinag also serves as an excellent base for exploring nearby Chaukori, one of Kumaon's most scenic destinations. Surrounded by fruit orchards, forests, and breathtaking Himalayan vistas, Chaukori is especially known for its mesmerizing sunrises, spectacular sunsets, and star-filled night skies. Together, Berinag and Chaukori offer a refreshing escape into some of Uttarakhand's most unspoiled landscapes.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Berinag is from March to June and September to November , when the weather remains pleasant and mountain views are at their clearest. Spring brings blooming flowers and comfortable temperatures, while autumn offers crisp air and excellent visibility of the Himalayan peaks. Monsoon months transform the region into a lush green paradise, although frequent rainfall may affect travel plans. Winters are cold but peaceful, making them ideal for travelers seeking solitude and clear mountain mornings.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest major airport is Pantnagar Airport (PGH) , located approximately 195 km from Berinag. Taxis and private vehicles are available from the airport for the onward journey. Naini Saini Airport in Pithoragarh is another option, though flight connectivity is comparatively limited.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: The nearest railway stations are Kathgodam (KGM) (169 km) and Tanakpur (TPU) (160 km) . Kathgodam is well connected to major cities including Delhi, while taxis and buses are readily available for travel to Berinag.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Berinag enjoys good road connectivity with major towns across Uttarakhand. Regular bus services and private vehicles connect the town with destinations such as Almora, Champawat, Haldwani, Tanakpur, and Pithoragarh. The scenic drive through the Kumaon hills is itself one of the highlights of the journey.",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling the Top 8 Adventure Activities in Dehradun",
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Berinag",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/berinag",
+        "retrieved_at": "2026-09-22T18:36:48.978083+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

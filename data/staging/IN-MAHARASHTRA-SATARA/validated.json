@@ -1,0 +1,284 @@
+{
+  "destination_id": "IN-MAHARASHTRA-SATARA",
+  "destination_name": "Satara",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Pune Airport (PNQ), Pune"
+      },
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Satara Railway Station (STR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Satara is a jewel situated amidst the majestic Sahyadri Mountains in the heart of Maharashtra . This city, named for the seven hills (‘Saat Tara’) that rise around it, boasts a rich Maratha legacy and a relaxed charm that will leave you wanting more.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched at the base of the Ajinkyatara Fort, where the rivers Krishna and Venna meet, Satara offers a unique blend of historical intrigue, breathtaking landscapes, and the promise of unforgettable experiences. Founded in the 16th century, the city was once the seat of power for the formidable Maratha Empire under Shahu I.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you love the outdoors, then Satara is your haven! Hike through stunning landscapes, breathe in fresh mountain air, and witness a kaleidoscope of plants and animals. Be mesmerised by cascading waterfalls and serene lakes – perfect for a relaxing picnic or a spot of meditation. But the star of the show is the Kaas Plateau, a UNESCO World Natural Heritage Site. During the season, witness this plateau transform into a magical valley of flowers, a vibrant carpet blooming in a riot of colours.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Satara's history stretches back centuries. The district even boasts the region's oldest known settlement – Karad, its name echoing back to 200 BC as Karhakada. Legend suggests Wai, a town within the district, might be the very ‘Viratnagari’ where the Pandavas sought refuge during their 13-year exile!",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just a six-hour drive from the bustling metropolis of Mumbai , Satara promises an escape into a world where lush green hills and azure water bodies converge, creating spellbinding natural splendour.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The rich Maratha history whispers from every corner of Satara, and there's no better way to experience it than by exploring its majestic forts.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Start your journey at the iconic Ajinkyatara Fort, a 16th-century marvel that dominates the city skyline. Hike or trek your way up to the fort, and be rewarded with breathtaking views of Satara sprawling beneath you from a height of 3,300 feet. Marvel at the intricate carvings on the grand main door and within the fort walls, pay your respects at the temples dedicated to Devi Mangalai, Lord Shiva, and Lord Hanuman, each adding to the spiritual significance of the site.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Delve deeper into the region's Maratha legacy at the nearby Shri Chhatrapati Shivaji Maharaj Museum . Here, you'll witness a treasure trove of memorabilia – weapons, artworks, engravings and more – that bring the era of the legendary Maratha warrior-king, Chhatrapati Shivaji Maharaj, to life.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek a blend of history and spirituality, head to Sajjangad Fort. This ancient hill fort is not just a historical monument but also the final resting place of Samarth Ramdas, the spiritual guru of Chhatrapati Shivaji Maharaj. Hike up to the fort and discover a serene haven with two lakes, temples dedicated to Lord Rama, Lord Hanuman, and Anglai Devi, a Math (Hindu monastery), and the sacred tomb of Swami Samarth Ramdas.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine a vibrant bed of wildflowers stretching as far as the eye can see. Welcome to the Kaas Plateau (or Kaas Pathar), aptly nicknamed Maharashtra's Valley of Flowers, situated around 25 km from Satara. During the late monsoons, the plateau undergoes a magical transformation. Every 15-20 days, the landscape explodes in a kaleidoscope of colours as different endemic flower species bloom and wither in a breathtaking display. With over 850 documented plant and flower species, Kaas Plateau is a haven for nature enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Up for a splash of adventure? Just a stone's throw away from Kaas lies Bhambavli Vajrai Waterfall, claiming the title of India's tallest. This cascading giant, measuring a staggering 1840 feet, originates from the Urmodi River. The surrounding area is a haven for nature lovers and trekkers, offering stunning views and a chance to reconnect with the wilderness.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a different kind of waterfall experience, head to the Thoseghar Waterfalls! Tucked away at the edge of the Konkan region, this beauty spot boasts one of India's highest waterfalls. During the monsoon, it transforms into a powerful cascade, thundering down into a deep gorge.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Don't miss the nearby Chalkewadi Windmill Farm. One of the largest wind farms in Asia, this colossal cluster of windmills creates a mesmerising spectacle against the backdrop of the Sahyadri Mountains.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There’s more to Satara than its historical and natural beauty. If you seek spiritual solace, the city and nearby regions offer a haven of temples and ancient sites.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visit the Shri Uttar Chidambaram Nataraj Mandir, dedicated to Lord Shiva in his cosmic dance pose (Nataraja) and his consort, Goddess Shivakamasundari. Marvel at the intricate architecture, with 18 pillars in the main hall symbolising Hinduism's 18 Puranas (ancient scriptures) and six pillars representing the 6 Shastras (philosophical treatises). This temple is a replica of the original Nataraja temple in Chidambaram.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short journey from the Nataraj Mandir takes you to the village of Sangam Mahuli. Here, admire the exquisite Hemadpanth style of architecture of the Sri Kashi Vishweshwar temple, built in 1735 AD. Across the river lies Kshetra Mahuli, where the Rameshwar temple beckons, renowned for its tall stone 'deepasthambha' (lamp tower).",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take a half-hour drive from Satara to Degaon and discover the Pateshwar Temple, a 16th-century marvel dedicated to Lord Shiva. Explore the eight ancient caves surrounding the temple, seek blessings at the intricately carved Shiva statue, and marvel at the sheer number of Shivalingas (representations of Lord Shiva)—over 1000 can be found within the temple complex and its surroundings!",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Satara district is home to numerous beautiful places to visit. Here are some places that you should definitely check out to make your trip even more memorable. Head north to Panchgani , a stunning hill station amidst the majestic Sahyadri ranges. This aptly named ‘Land of Five Hills’ offers breathtaking views and a chance to conquer your fear of heights with paragliding.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Venture westward and discover Mahabaleshwar , the ‘Queen of the Sahyadri Hills’. This charming hill town is renowned for its lush evergreen forests, mesmerising valley vistas, and gushing waterfalls. Breathe in the fresh mountain air and indulge in locally grown strawberries and mulberries! A 20-km journey from Mahabaleshwar leads you to the iconic Pratapgad Fort , perched 3500 feet above ground level. This fort holds immense historical significance as the site of the legendary Battle of Pratapgad between Chhatrapati Shivaji Maharaj and Afzal Khan.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For nature lovers seeking a wilder adventure, two options await. The Koyna Wildlife Sanctuary , a 2.5-hour drive from Satara, boasts rich regional flora and fauna. Alternatively, head southeast to the Mayani Bird Sanctuary, a haven for birdwatchers.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No adventure is complete without treating your taste buds, right? Satara offers a delicious introduction to Maharashtrian cuisine, known for its vibrant mix of aromatic spices, sweetness from jaggery, tangy tamarind, and the unique nuttiness of peanuts. The traditional food here is all about simple yet bursting-with-flavour dishes.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Some must-try dishes include Bharli Vangi (a classic Maharashtrian dish), Batata Bhaji (a potato-based curry packed with flavour), Misal Pav (tangy curry served with soft bread), Vada Pav (the iconic Maharashtrian street food), Puran Poli (a sweet flatbread), Kothimbir Vadi (savoury rice and lentil cakes) and many more! Don't miss out on Kandhi Pedhe, a local melt-in-your-mouth delicacy! The best places to experience these local gems are the family-run eateries and restaurants in Satara city's areas like Rajwada, Powai Naka, and Choupati.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With its rich history, breathtaking natural beauty, and delicious cuisine, Satara offers an unforgettable adventure for every kind of traveller. So, pack your bags, lace up your hiking boots, and come explore the hidden gems of Satara. The ideal time to visit is between September and February, when the monsoon rains have retreated, revealing lush landscapes and the waterfalls are at their most spectacular.",
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Satara",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+        "retrieved_at": "2026-09-22T18:36:38.528466+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

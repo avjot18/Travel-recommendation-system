@@ -1,0 +1,352 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-ANANTAPUR",
+  "destination_name": "Anantapur",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kempegowda International Airport (BLR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Anantapur Railway Station (ATP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 42.2
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Far from the frenetic pace of India's mega-cities, Anantapur warmly welcomes travellers, offering a unique blend of history, culture, and vibrant local life. Located in the western part of Andhra Pradesh, and once a stronghold within the mighty Vijayanagara Empire, Anantapur is a city that surprises with its diverse attractions—from historical landmarks to natural wonders and spiritual centres. Often overlooked in mainstream travel itineraries, the city provides a distinctive, authentic experience that lets you explore India's heritage and natural beauty away from the bustling crowds. Let's dive deeper into why Anantapur should be your next travel destination.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Anantapur's history is a compelling narrative of resilience and cultural amalgamation, shaped by the tides of numerous kingdoms that have left their mark on this enigmatic city. The city saw significant influence under the Chalukya dynasty, known for their contribution to the architectural and cultural landscape of South India. However, it was under the mighty Vijayanagara Empire that Anantapur truly flourished. Established in the 14th century, the Vijayanagara Empire was renowned for its immense power and the profound impact it had on arts, culture, and religion in South India. During these times, Anantapur experienced a period of unparalleled prosperity and architectural development, evidenced by the grand edifices and temples that still dot its landscape. The Penukonda Fort , a majestic structure built by the Vijayanagara kings, stands as a testament to their architectural prowess. Further south, the imposing Rayadurg and Gooty forts tell the tales of battles fought and territories won. Anantapur's ancient significance extends beyond grand structures. The clock tower, standing tall at the heart of the city, serves as a silent sentinel, keeping watch over generations.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Each monument in Anantapur is a chapter from the past, bringing to life the tales of courage, devotion, and artistry that characterised the dynasties of South India. Whether you are a history buff, a peace seeker, or simply a lover of beautiful landscapes, Anantapur’s monuments provide not only a walk through the remnants of history but also an experience of the lingering spirit of India’s majestic past. Originally called \"Ghanagiri\" or \"big hill,\" Penukonda Fort was the second capital of the Vijayanagara Empire. Approximately 70 kilometres from Anantapur, the citadel’s extensive grounds contain over 365 temples, reflecting the empire’s deep religious roots and architectural ingenuity. The grandeur of this castle can be seen in its intricate stonework and the majestic Gagan Mahal palace within its premises, which was the king’s residence. Today, Penukonda Fort stands as a proud reminder of the might and cultural richness of the Vijayanagara era, attracting historians and tourists alike. Ahobilam, a significant pilgrimage site located within the Nallamala Hills near Anantapur, holds the Ahobilam Temple dedicated to Lord Narasimha. Unique in its existence, the complex houses nine different shrines for the nine forms of Lord Narasimha, making it a comprehensive site for devotees. The temples, built in the Vijayanagara style, are spread across the hills, with each depicting a form of Lord Narasimha in a different posture and mood, symbolizing his various attributes. The rugged terrain adds to the mystique and sacredness of Ahobilam, making it a must-visit for those interested in divine history and natural beauty. Another gem in Anantapur’s crown is Gooty Fort , often referred to as the 'King of Forts'. Perched on a hill, it exhibits a mix of Hindu and Muslim architectural styles, a proof of the various dynasties that ruled over it. The fort's natural rock formations and the panoramic view it offers of the surrounding plains make it a photographer's paradise. Gooty Fort was a strategic outpost for many rulers, from the Vijayanagara kings to the Marathas and later the British. In the bustling heart of Anantapur stands the Clock Tower, not just as a functional piece of architecture but as a historical landmark imbued with significance. Erected at the time of India's independence in 1947 to commemorate the nation's newfound freedom, it serves as a poignant reminder of the city's journey through time. Standing tall at 71 meters, it offers a striking focal point against the cityscape of Anantapur.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For anyone looking to explore the mystical landscape of India, Anantapur’s famous shrines provide a captivating and enlightening journey. They offer a unique glimpse into the region's deep-rooted spirituality and its ongoing tradition of worship, making Anantapur a must-visit destination. The Lepakshi Temple , located just outside Anantapur district in the small village of Lepakshi, is famed for its architectural grandeur and intricate carvings. Dedicated to Lord Veerabhadra, an incarnation of Lord Shiva, this sacred site is a masterpiece of the Vijayanagara architectural style. It features stunning frescoes, a large statue of Nandi, and the iconic hanging pillar, which is a marvel of engineering. The temple's sculptures and murals narrate stories from Indian mythology, making it not just a place of worship but also a repository of art and history. The ISKCON Temple in Anantapur is part of the global chain of shrines established by the International Society for Krishna Consciousness. Known as the Radha Parthasarathi Temple, it is distinct for its design that mimics a chariot, complete with sculptures of horses at the entrance. Its beautiful construction and the peaceful ambiance make it a popular spot for both devotion and meditation. Located near the town of Tadipatri in Anantapur district, the Bugga Ramalingeswara Swamy Temple is dedicated to Lord Shiva. It is famous for its natural spring that flows underneath the religious complex, emerging directly under the Shiva Lingam in the sanctum sanctorum. According to local beliefs, this natural occurrence signifies Lord Shiva's divine presence and blessings. The temple architecture is a fine example of the Dravidian style, with elaborate carvings and a serene pond that adds to its mystique.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located 35 km from Anantapur, Pennahobilam is an uninhabited village famous for the Sri Lakshmi Narasimha Swamy Temple, also known as \"Degurla Narasimha Swamy.\" Set upon a small hill, this sacred site houses footprints about 5'' by 3'', believed to belong to Lord Narasimha. The site becomes a hub of devotion during the chariot festival in Vaisakam (April-May), drawing visitors from neighbouring states to partake in the celebrations. Just 29 km from Anantapur, the charming area of Guguddu, amidst the Mutchukota Hills, is a must-visit destination which is a living example of shared devotional space. Renowned for its shrine of Kullayi Swamy, also known as Pir Kullayappa, Guguddu is also known for its Hanuman Temple and Sri Anjaneya Swamy Temple. During the Moharram festival, a unique ceremony ‘Agnigundam ‘ is held where devotees walk on holy fire on the 11th night of Moharram. These rituals are under an umbrella of Sufi practices and with the participation of Hindus, have spawned a pluralistic devotional culture. Gutibayalu, home to one of the largest Banyan trees in South India, known as \"Thimmamma Marrimanu,\" covers about 5 acres. This Guinness World Record holder is accompanied by a quaint temple dedicated to Thimmamma, symbolizing hope for couples seeking children. The temple of Nettikanti Veera Anjaneya Swamy in Kasapuram is a revered site attracting pilgrims from Anantapur and beyond. Celebrated for its inclusivity, the temple sees a significant number of visitors from the Muslim community alongside Hindu devotees, highlighting the harmonious coexistence of different faiths. Marking the start of the year, the temple's annual procession winds through the streets after Ugadi (Telugu New Year Day). The event is a vivid reflection of the region's ethos of unity in diversity. The Yadiki Caves, positioned between Gooty and Tadipatri, offer an exhilarating escape for nature lovers and adventurers. Stretching over 5km, with accessible pathways extending 2km inside, these caves showcase fascinating stalactite and stalagmite formations. Adjacent to these natural wonders is the Kona Ramalingeswara temple, enhancing the spiritual allure of this location. For those keen on adventure, the surrounding landscape offers opportunities for rock climbing, trekking, and nature walks.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For anyone visiting Anantapur, the silk saree centres and markets provide a colourful and enriching experience. The dedication to preserving the age-old art of silk weaving is vividly on display in all bustling markets and specialized saree centres throughout the region. These venues not only offer a glimpse into the intricate weaving process but also serve as marketplaces for some of the most beautifully crafted sarees in India. Located within Anantapur district, Dharmavaram is affectionately known as the ‘Silk City’ due to its long-standing tradition of high-quality silk and cotton weaving. Silk sarees from Dharmavaram are celebrated for their bright colours and elaborate designs featuring religious motifs and traditional patterns. These sarees are a bridal staple in the region, revered for their durability and the grandeur they bring to any occasion. Visitors to Dharmavaram can explore numerous shops and weaving centres where artisans diligently work on traditional handlooms, transforming silk threads into exquisite pieces of art.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Anantapur’s cuisine is a potpourri of flavours, offering a unique gastronomic journey. The region is famed for its Rayalaseema biryani, notable for its fiery spice and aromatic blend of local spices. This robust dish, with its deep flavours and tender meat, epitomises the celebration of regional culinary traditions. Another staple, Pulihora or tamarind rice, is beloved for its tangy zest. Infused with tamarind paste, turmeric, curry leaves, mustard seeds, and chilies, it’s a staple at festivities and encapsulates the essence of Andhra cuisine with its bold and straightforward flavours. Besides these signature dishes, Anantapur's culinary landscape features other traditional Andhra favourites like Gutti Vankaya (stuffed eggplant curry), Ulava Charu (horse gram soup), and Pesarattu (mung bean dosa). Each dish adds its own flavour to the region’s gastronomic identity, providing a delicious way to experience local culture and history. Whether dining in a quaint eatery or a local home, the tastes of Anantapur promise a memorable gourmet adventure.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a travel experience filled with discovery and enchantment, this unique destination in Andhra Pradesh welcomes you with open arms, offering unforgettable moments that promise to enrich your understanding of its vibrant heritage. The best time to experience Anantapur's charm is from October to February, when the climate is comfortable and inviting.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "According to the inscriptions, the Penukonda state was gifted by the King Bukka-I to his son Virupanna and Penukonda Fort was built at the time of Virupanna in the 14th century.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ahobilam , translating to \"beautiful caves,\" is divided by nine temples dedicated to different avatars of Lord Narasimha Swamy. Some temples are nestled within caves, giving rise to the name \"Ahobilam.\"",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gooty Fort possesses various damaged inscriptions that appear to be from the times of the Western Chalukya Empire, under the rule of Vikramaditya VI.",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Anantapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/anantapur",
+        "retrieved_at": "2026-09-22T18:36:19.546494+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

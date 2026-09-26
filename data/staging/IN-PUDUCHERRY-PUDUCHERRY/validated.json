@@ -1,0 +1,382 @@
+{
+  "destination_id": "IN-PUDUCHERRY-PUDUCHERRY",
+  "destination_name": "Puducherry",
+  "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Puducherry Airport (PNY), Puducherry Chennai International Airport (MAA), Chennai Tiruchirappalli International Airport (TRZ), Tiruchirappalli"
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Puducherry Railway Station (PDY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.6,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.6,
+        "maximum_celsius": 41.3
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 18.8,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai International Airport (MAA), Chennai",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirappalli International Airport (TRZ), Tiruchirappalli",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Buckle up your metaphorical berets and get ready to dive into the delightful chaos of Puducherry. Try to visualise a city as a quirky blend of French finesse and Indian zest, where baguettes meet dosas and croissants mingle with chai. Yes, you heard it right—it's like a culinary crossover episode happening on the shores of the Bay of Bengal. Join us on this wild ride through lanes adorned with bougainvillaea, where every street corner seems to whisper \"bonjour\" and \"vanakkam\" simultaneously. Puducherry —it's not just a place; it's a state of mind, and we're here to soak it all in, one laugh and one pastry at a time! Puducherry, formerly known as Pondicherry, gained its significance as \"the French Riviera of the East\" after the advent of French colonisation in India. Puducherry is the Tamil interpretation of \"new town\" and mainly derives from \"Poduke\", the name of the marketplace or \"port town\" for Roman trade in the 1st century. The settlement was once an abode of learned scholars versed in the Vedas, hence it was also known as Vedapuri. Often referred to as the French capital of India, Puducherry is a vibrant, coastal city with a quaint charm. The original name of the territory, Putucceri, is derived from the Tamil words putu (“new”) and ceri (“village”) or \"New settlement\". The French changed this to Pondichéry, which it was called until its name was officially changed to Puducherry in 2006. The city sits on the southeastern coast of India, about 170 kms from Chennai.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During the French Revolution in the year 1793 the British “East India Company” took control of the region and returned to the French “East India Company” in 1814. However, when the British “East India Company” gained control of the whole of India in the late 1850s, they allowed the French “East India Company” to retain their settlements at Pondicherry, Mahe, Yanam, Karaikal and Chandronagor. In 1947, the independence of India gave impetus for the union of France’s Indian possessions with former British India and an agreement between the French Government and the Indian Government in 1948 stipulated that the inhabitants of France’s Indian possessions would choose their political future. On a de facto basis, the bureaucracy had been united with India on 1 November 1954, and the de jure union of French India with the Indian Union took place in the year 1963. In the process, Chandronagor opted to be merged with the State of West Bengal, and Pondicherry, along with Karaikal, Mahe and Yanam, was constituted as a Union Territory in the Indian Union.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puducherry, as a tourist destination, offers a multi-cultural experience. Amongst the many attractions that this charming town boasts of, the most outstanding is the French Colony, also called the White Town. Flaunting cobblestone streets and yellow houses, this old French residential area retains its old world charm, picturesqueness and also the architecture of the old French quarters . The historic building housing the French consulate also stands tall, literally, in this area. Over the years, and while keeping up with the growing tourist population of the place, most of these got converted into heritage hotels, restaurants, quirky cafes and art galleries. Clean Streets, well-paved pathways, lined-up Victorian-era lamp posts, and yellow walls laden with vibrant Bougainvilleas lend this old French settlement a charm that takes tourists back in time. The houses, restaurants and streets also retain their old French names, giving the place a unique touch. So, if you take a heritage walk through the streets of this area, you will read names like Rue Dumas, Rue Romain Rolland, Rue Suffren and Rue La Bourbonnais.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another major highlight of Puducherry is Sri Aurobindo Ashram, a spiritual community founded in 1926 by Sri Aurobindo and the Mother (Miraa Alfassa). The Ashram is a centre of yoga and meditation and has gained popularity in recent years, attracting tourists from all over the world who are keen to have a spiritual experience. The famous experimental centre, Auroville, is located nearby. It houses 'Matri Mandir' (Sanskrit for Temple of the Mother). Made in spherical style, it is an edifice of spiritual importance for practitioners of Integral Yoga and draws visitors from all classes.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Apart from the rich history and spiritual centres, Puducherry has some of the most amazing beaches. Promenade Beach, with its long waterfront promenade, and Paradise Beach are some of the more noticeable ones. There is a lot of evening activity, and tourists come here for leisurely evening strolls and amazing sunsets.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit can be complete without savouring Puducherry Franco-Tamil culinary offerings. From freshly baked Pizzas and croissants to typical South Indian Dosa and a variety of seafood, Puducherry is a food lover's delight. On the side, you may even be left amazed by the multilingual French staff running these restaurants, greeting you in Hindi, English, French, and Tamil. In conclusion, Puducherry is a destination that offers a unique blend of history, culture, spirituality, and natural beauty. Whether you're taking a stroll through the well-maintained streets of the French Colony, meditating in the serene surroundings of the Sri Aurobindo Ashram, or soaking up the sun on its pristine beaches, you're sure to be captivated by the charm and allure of this enchanting town.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The French Quarter in Puducherry is known for its well-preserved colonial architecture.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Auroville , a utopian community near Puducherry is known for its unique experimental lifestyle, and spiritual atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puducherry is a multilingual city where Tamil, French, English, and Telugu are widely spoken.",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bicycle Touring: Chennai to Pondicherry Cycling",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where to eat, shop and sightsee in Pondicherry",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unleash the spirit of adventure in Puducherry",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A symphony of tastes: Exploring Puducherry's gastronomic palette",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop like a local: Exploring Puducherry's vibrant markets and boutiques",
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Puducherry",
+        "source_url": "https://www.incredibleindia.gov.in/en/puducherry/puducherry",
+        "retrieved_at": "2026-09-22T18:36:54.252289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "destination_id": "IN-MIZORAM-LUNGLEI",
+  "destination_name": "Lunglei",
+  "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lengpui Airport (AJL), Aizawl Silchar Airport (IXS), Silchar Bir Tikendrajit International Airport (IMF), Imphal"
+      },
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Silchar Railway Station (SCL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bir Tikendrajit International Airport (IMF), Imphal",
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name 'Lunglei' literally means a rock bridge. Locals attribute the name to a bridge-like rock once discovered in a riverine near Nghasih, a tributary of the river Tlawng. Charming villages nestled among pine meadows dot the untouched stretch of beautiful countryside surrounding Lunglei, the second-largest city in Mizoram.",
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is rich in architectural history and stands out for its unique Mizo-style homes, characterised by elaborate carvings and vivid colours. A monument to the town's cultural history, Thuruk Vanmawi Memorial Hall is a masterpiece of Mizo craftsmanship and architectural elegance. Touring its historic sites offers a glimpse into the town's legendary past. Thangliana Lung, a historical site located in the centre of Lunglei town, is a must-see for history lovers. The fabled Mara chief Thangliana, who fought against British control in the 1800s, is believed to rest there. Saikuti Hall, a cultural hub, bears the name of the legendary Mizorami poet. It presents native dance, music, and traditional clothing at several cultural events all year round. The charming Nghasih Brook winds through Lunglei town. Furthermore, the glistening, clean water is ideal for swimming. Lunglei view point on the outskirts of Lunglei town, offers a stunning panoramic view of the surrounding hills and valleys. About 20 kilometres outside of Lunglei town, Serkawn Village provides a window into Mizoram's rural way of life. Serkawn Village serves guests local food, as well as the customary Mizo hospitality. Khawnglung Village served as the capital city of the Mara dynasty before its relocation to Saitual Village in the Kolasib District. One can discover Mizoram's rich cultural legacy and tour historic ruins. This sports academy offers training in various sports like football, basketball, volleyball, etc., to underprivileged children from Mizoram's rural areas. Because it is home to some prominent wildlife sanctuaries, Lunglei serves as a biodiverse region. Visit the Saza Wildlife Sanctuary and surround yourself with the lush green and peaceful nature, beautiful wildflowers, exotic flora, and fauna, which includes so many species of animals and birds. In the lap of nature, you can find serenity that will soothe your senses and refresh your mind. Take a trip to the Thorangtlang Wildlife Sanctuary to spot elephants, tigers, leopards, wild dogs, barking deer, and more. A must see also is Chhingpui Thlan waterfall about 15 km from Lunglei town and offers breathtaking views amidst lush green surroundings. The town is a melting pot of Mizo culture and traditions, where time-honoured practices and modern ways of life exist in perfect harmony. The town's bustling markets, such as Zobawk Market and Kawlkulh Market, provide a sensory thrill with local handicrafts, traditional clothing, and mouthwatering street food. Must try here are Bai (vegetable stew), Vawksa rep (smoked pork), Chhum han (steamed vegetables), Sawhchiar (rice and meat dish), along with Zu (rice beer). Mizo festivities such as Chapchar Kut and Mim Kut provide visitors with the opportunity to take part in the exciting celebrations that take place during these festivals. Visitors can watch traditional dances and folk performances that commemorate a sense of community and friendship.",
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Lunglei",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/lunglei",
+        "retrieved_at": "2026-09-22T18:36:39.418797+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

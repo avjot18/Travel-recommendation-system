@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-KARNATAKA-BENGALURU",
+  "destination_name": "Bengaluru",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kempegowda International Airport (BLR), Bengaluru"
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bangalore City Railway Station (SBC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 31.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 18.8,
+        "maximum_celsius": 30.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kempegowda International Airport (BLR), Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Bengaluru, the Silicon Valley of India. This vibrant metropolis, nestled in Karnataka, is not just about its dynamic tech scene. It offers a variety of experiences—from lush parks to serene lakes and ancient temples to bustling markets. Whether exploring the majestic Bangalore Palace, enjoying a stroll through Cubbon Park, or indulging in the city's legendary coffee culture, Bengaluru has something to captivate your heart and inspire your soul! Bengaluru, a major research centre, stands at the forefront of India’s technological revolution. It has a trendy, high-speed self-image unlike anywhere else in South India, symbolizing the city's rapid progress and potential. In the 1800s, Bengaluru’s gentle climate, broad streets, and green public parks made it the “Garden City.” However, Bengaluru has undergone a massive transformation for well over a decade. Many foreigners pass through to see Satya Sai Baba at his ashram in Puttaparthy in Andhra Pradesh or his temporary residence at the Whitefield ashram on the city's outskirts. That said. Bengaluru is a Westernized Indian city that not only offers good shopping, and hotels, but it is the only place on the subcontinent to boast anything resembling a pub culture. The lack of cows in large parts of the city indicates its Western orientation. For dusty and weary travellers. Bengaluru can offer a few days in a relaxed cosmopolitan city with a haven reputation.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru began life as the minor “village of the half-baked gram,” to this day (beans) remain an important local product. In 1537, Magadi Kempe Gowda, a devout Hindu and feudatory chief of the Vijayanagar empire, built a mud fort and erected four watch towers outside the village, predicting that it would, one day, extend that far; the city now, of course, stretches way beyond. During the first half of the seventeenth century, Bengaluru fell to the Muslim Sultanate of Bijapur and changed hands several times before returning to Hindu rule under the Mysore Wadiyar Rajas. In 1758, Chikka Krishnaraja Wadiyar II was deposed by the military genius Haider Ali, who set up arsenals here to produce muskets, rockets, and other weapons for his formidable anti-British campaigns. Both he and his son, Tipu Sultan, greatly extended and fortified Bengaluru, but Tipu was overthrown by the British in 1799. They then set up a cantonment, making the city an important military station and passing the administration to the Maharaja of Mysore in 1881. After Independence, the erstwhile Maharaja became governor of Mysore State. Bengaluru was designated capital in 1956 and retained that status when Karnataka State was created in 1973.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Founded in 1537 by Kempegowda, the town boasts the majestic Bangalore Palace, reminiscent of English castles, and Tipu Sultan's Summer Palace, a testament to the Tiger of Mysore's grandeur. Wander through the ancient Bull Temple, where stone structures stand tall in silent reverence. Should you walk through the ancient structures, which stand tall in silent reverence, remember that each corner of Bengaluru echoes stories of dynasties, colonial eras, and freedom struggles, making it a living chronicle of India's past.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A welcome green space in the city's heart, shaded by massive clumps of bamboo, Cubbon Park is entered from the western end of MG Road, presided over by a statue of Queen Victoria. On Kasturba Road, which runs along its southern edge, the Government Museum features prehistoric artifacts, Vijayanagar, Hoysala, and Chalukya sculptures, musical instruments, Thanjavur paintings, and Deccani and Rajasthani miniatures. It includes the adjacent Venkat Appa Art Gallery, which exhibits 20th-century landscapes, portraits, abstract art, wood sculpture, and occasional temporary art shows.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built in 1956, Bengaluru’s vast State Secretariat, Vidhana Soudha, northwest of Cubbon Park, is the largest civic structure of its kind in the country. K. Hanumanthaiah, chief minister at the time, wanted a “people’s palace” that, following the transfer of power from the royal Wadiyar dynasty to a legislature, would “reflect the power and dignity of the people.” Theoretically, its design is entirely Indian, combining local models from Bengaluru, Mysore, and Somnathpur with features from Rajasthan and the rest of India.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Inspired by the splendid gardens of the Moghuls and the French botanical gardens at Pondicherry in Tamil Nadu, Sultan Haider Ali set to work in 1760 laying out the Lalbagh Botanical Gardens, 4km south of the centre. Originally covering 40 acres, just beyond his fort - where one of Kempe Gowda’s original watch towers can still be seen - the gardens were expanded under Tipu Sultan’s rule, who introduced numerous exotic species of plants, and today, the gardens house an extensive horticultural. The British brought in gardeners from Kew in 1856 and - naturally —built a military bandstand and a glasshouse based on London's Crystal Palace, which hosts wonderful flower shows.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Founded in 1537 by Kempegowda, the town boasts of the majestic Bangalore Palace, reminiscent of English castles, and Tipu Sultan's Summer Palace, a testament to the Tiger of Mysore's grandeur. Next door, the Venkataramana Swamy Temple, dating from the early 18th century, was built by the Wadiyar Rajas. The Gopuras are architectural masterpieces in Bengaluru's temples, such as those at the Bull Temple (Dodda Basavana Gudi) and the Kote Venkataramana Temple. These towering structures are adorned with intricate carvings and sculptures depicting scenes from Hindu mythology, showcasing the region's craftsmanship and artistic heritage. It is said that Gopuras act as spiritual gateways, marking the entrance to the divine abode. Devotees pass through these ornate towers to leave behind the secular world and enter a space of worship and contemplation. This physical and symbolic transition prepares the mind and spirit for communion with the divine.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The big boom may be over, but Bengaluru’s bright young things still have money to spend, and nightlife in the city is thriving. A night on the town generally starts with a bar crawl along Brigade Road, Residency Road, or Church Street. For quiet, elegant drinking, head for the bars of five-star hotels such as the Jockey Club at the Taj Residency or its competition, the Polo Club at the Oberoi, and for a taste of colonial grandeur, the Colonnade at the Taj West End.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru has many fine shops, particularly if you’re looking for silk. A wide range of silk is available at Karnataka Silk Industries Corporation. Handicrafts such as soapstone sculpture, brass, carved sandalwood, and rosewood are also good value; emporia include Central Cottage Industries Emporium; the Cottage Industries Exposition Ltd, and Karnataka State Emporium, Cauvery, at the MG Road and Brigade Road crossing.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Historically, the local cuisine in Bangalore has been predominantly South Indian, with rice, ragi, and millet forming the staple diet. Udupi restaurants are famous for serving traditional vegetarian fare. Andhra-style eateries brought spicier flavors to the city, adding diversity to the food scene.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru is surrounded by some very pleasant countryside, including a good walking country in the Nandi Hills to the north and the Bannerghatta National Park to the south. Many visitors to Bengaluru, however, are on their way to or from Mysore. Between the two, the Janapada Loka Folk Arts Museum gives a fascinating insight into Karnataka culture. At the same time, anyone wishing to see or study classical dance in a rural environment should check out the Nrityagram Dance Village.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Janapada Lok Folk Arts Museum, 53km southwest of Bengaluru on the Mysore Road, includes an amazing array of Karnataka agricultural, hunting, and fishing implements, weapons, ingenious household gadgets, masks, dolls, and shadow puppets, carved wooden bhuta (spirit-worship) sculptures and larger-than-life temple procession figures, manuscripts, musical instruments, and Yakshagam theatre costumes. In addition, an incredible 1600 hours of audio and video recordings of musicians, dancers, and rituals from the state are available for viewing on request.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nrityagram Dance Village is a delightful, purpose-built model village 30 km west of Bengaluru. It was designed by the award-winning architect Gerard de Cunha and founded by the Late Protima Gauri, who tragically died in an avalanche during a pilgrimage to Kailash in Tibet in 1998. Gauri, who had left Nrityagram sometime before her death, had a colourful career in media and film and eventually became renowned as an exponent of Odissi dance. The school continues without her and attracts pupils from all over the world.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru—the city that codes poetry, brews coffee, and dances to its rhythm. Let’s explore its pixels and palimpsests, one byte at a time.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru wears multiple hats. It’s not just the “Silicon City of India” ; it’s also known as the “City of Gardens” and the “Pub Capital of India.”",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru is the third-most populous city in India and the fifth-urbanest assembly in the country.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every two years, the urban town of Yelahanka in Bengaluru hosts an International Air Show.",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The delectable cuisine of Karnataka – 13 must try local dishes in Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru: A metropolis characterised by prosperous artistic community",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the spiritual gems of Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Outdoor activities to quench your adrenaline rush",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bengaluru: The tranquil wellbeing domain",
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Clear all Show result",
+        "Shopping Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bengaluru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bengaluru",
+        "retrieved_at": "2026-09-22T18:36:31.105806+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

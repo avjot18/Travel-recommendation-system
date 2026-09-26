@@ -1,0 +1,402 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-VISAKHAPATNAM",
+  "destination_name": "Visakhapatnam",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Visakhapatnam International Airport (VTZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Visakhapatnam Railway Station (VSKP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 14.2,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 16.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 38.1
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 41.0
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 40.0
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 37.9
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.8,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam International Airport (VTZ)",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you step out at Visakhapatnam airport a sign welcomes you saying welcome to the city of destiny and you wonder why? \"City of Destiny\" – a place where the waves sing, the skies dazzle, and every corner is filled with a promise of adventure. Prepare to be captivated by Visakhapatnam's stunning beaches. From the serene sands to the bustling shores, there's no shortage of seaside bliss here. Don't miss catching a mesmerising sunset over the horizon – it's a sight to behold! For history buffs, Visakhapatnam or Vizag offers a treasure trove of stories right from the Buddhist era. And when you are done with history lessons, indulge in freshly caught mouthwatering seafood! Vizag is more than just a city – it's a destination where nature, history, and culture intertwine to create an unforgettable experience. So, get ready to soak in the laid-back coastal vibes and discover why Vizag truly lives up to its title as the \"City of Destiny.\" Visakhapatnam, a coastal gem nestled along the eastern coast of India in the state of Andhra Pradesh, offers a captivating blend of natural beauty, cultural heritage, and modernity.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The locals believe that there was a king in the 4th century, who on his pilgrimage halted at Lawson's Bay and built a temple dedicated to Lord Vishakha. The Hindu God of Courage “Visakha“ inspired the name Visakhapatnam. It is said that destiny favours the brave, probably, that is why it’s called ‘City of Destiny’. Visakhapatnam has a rich history that spans centuries, marked by the rise and fall of various dynasties, colonial rule, and modern development. Visakhapatnam and its surrounding regions have been inhabited since ancient times, with evidence of human settlements dating back to the Stone Age. Visakhapatnam is surrounded by ancient Buddhist sites, many of which have been recently excavated, showcasing the legacy of Buddhism in the area. The region was once under the rule of the Kalinga Empire, an ancient Indian kingdom that thrived along the eastern coast. Kalinga lost its territory to King Ashoka in one of the bloodiest battles of its era. This pivotal event changed his life and led King Ashoka on path of peace and he became a follower of Gautam Buddha and embraced Buddhism. The city's strategic location along the Bay of Bengal made it an important trading centre and was an important port under foreign influence of Portuguese, Dutch and thereafter the British empire. After India gained independence in 1947, Visakhapatnam continued to grow and develop as a leading industrial and commercial hub.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam is not only known for its natural beauty but also for its vibrant culture and rich traditions. The main festival here is the Telugu New Year known as Ugadi. It marks the beginning of a new lunar calendar year and is observed with traditional rituals, feasting and cultural performances. Another popular festival is Dasara, also known as Vijayadashami. It is a major Hindu festival celebrated with grandeur in Visakhapatnam. The city comes alive with colourful processions, temple festivities and cultural events, symbolising the triumph of good over evil. Another festival in the list is Navratri, a nine-day festival dedicated to the worship of the Hindu goddess Durga. Additionally, Visakhapatnam is also home to vibrant folk dance forms like Dhimsa and Kolattam. Dhimsa is a tribal dance performed by the indigenous people of the region, while Kolattam is a rhythmic dance performed with sticks by women during festive occasions.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam boasts a rich culinary heritage with a variety of delicious dishes to try. Seafood is a highlight, given its coastal location. You can savour mouth-watering preparations of prawns, fish and crab in local restaurants. Additionally, traditional Andhra dishes like Pesarattu (green gram dosa), Gongura Pachadi (sorrel leaves chutney), and Chapala Pulusu (fish curry) are must-tries for a taste of authentic local cuisine. Pootharekulu, a popular sweet delicacy from Visakhapatnam, is made from thin layers of rice starch and jaggery, rolled into cylindrical shapes. It's a must-try dessert for visitors exploring the city's culinary delights.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam, a city rich in history and culture, is home to several architectural marvels that reflect its diverse heritage and influences. One of the most notable architectural monuments in Visakhapatnam is the Submarine Museum (INS Kursura). The INS Kursura, a decommissioned submarine of the Indian Navy, has been transformed into a museum showcasing the maritime history and technological advancements of India. Located on the Ramakrishna Beach, this unique museum offers visitors a glimpse into the life of submariners and the underwater world. Visakha Museum is another attraction housed in a Dutch bungalow dating back to the colonial era. This museum is a treasure trove of artefacts, manuscripts, and exhibits highlighting the cultural heritage and history of Visakhapatnam and the surrounding regions. The museum's architecture itself is a testament to the city's colonial past. People also throng to the Sri Varaha Lakshmi Narasimha Temple also known as the Simhachalam Temple. Perched atop Simhachalam Hill, this ancient temple is dedicated to Lord Varaha Narasimha, an incarnation of Lord Vishnu. The temple's architecture features a blend of Dravidian and Kalinga styles, with intricate carvings, sculptures, and a towering gopuram that captivate visitors. Some other major monuments include the Dutch Cemetery, VUDA Park Entrance Arch, Tenneti Park Entrance Arch and King George Hospital. These architectural monuments stand as testaments to Visakhapatnam's rich history, cultural heritage, and architectural legacy, attracting visitors from near and far to explore the city's bountiful treasures.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During the fifth century, the Visakhapatnam region was part of Kalinga, which extended to the Godavari River, as mentioned in Hindu texts. There are relics found in the area which prove the existence of a Buddhist empire in the region. Visakhapatnam is surrounded by ancient Buddhist sites, many of which have been excavated recently, showcasing the legacy of Buddhism in the region. One of the important Buddhist heritage sites in the region is Bavikonda Stupa, located on a hill about 15 km (9.3 mi) northeast of Visakhapatnam city. Bavikonda consists of the remains of an entire Buddhist complex which includes 26 structures from three phases. An urn recovered here is believed to contain a piece of bone belonging to the mortal remains of the Buddha. The word \"Bavikonda\" in Telugu means \"a hill of wells\", which aptly describes the place as a hill with wells.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam's coastline stretches for miles, adorned with golden sands and azure waters, making it a haven for beach lovers. From the bustling fishing harbour to the serene beaches, there's a lot to see. You can visit places like Dolphin's Nose for a panoramic view and Bheemili Beach for its historical significance and tranquillity. One of its most famous beaches is the Ramakrishna Beach, known for its scenic beauty and vibrant atmosphere. Visitors can stroll along the promenade, enjoy panoramic views of the Bay of Bengal, and indulge in a variety of water sports and recreational activities. Other popular beaches include Rushikonda Beach and Yarada Beach. Each offers its own unique charm. Plus, don't miss the chance to taste some fresh seafood along the coast - it's a treat!",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its beaches Visakhapatnam is blessed with an abundance of natural wonders waiting to be explored. The Kambalakonda Wildlife Sanctuary is a verdant oasis teeming with diverse flora and fauna, offering nature lovers the opportunity to embark on safari adventures and trekking expeditions amidst lush greenery. You can explore the scenic Araku Valley with its waterfalls and coffee plantations, hike up to Kailasagiri Hill for panoramic views of the city and coastline. The Eastern Ghats surrounding the city also offer stunning vistas and opportunities for trekking and wildlife spotting.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam airport is located very close to the city centre and is well connected to most of the major cities of the country. Cabs are available at airport to take you to the city. By railways too Visakhapatnam is well connected to major rail routes of the country. Public buses run by state transport corporation (APSRTC) nicely connect Visakhapatnam most of the important places in the state.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam is home to the INS Kursura Submarine Museum , which showcases India's maritime heritage.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dolphin's Nose is a prominent rock formation located along the coastline of Visakhapatnam.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The only city of India with 2 major ports.",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Visakhapatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/visakhapatnam",
+        "retrieved_at": "2026-09-22T18:36:20.999891+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

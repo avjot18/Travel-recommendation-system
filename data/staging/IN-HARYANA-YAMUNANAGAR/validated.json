@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-HARYANA-YAMUNANAGAR",
+  "destination_name": "Yamunanagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chandigarh International Airport (IXC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Yamunanagar Jagadhri Railway Station (YJUD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Yamunanagar Jagadhri Railway Station (YJUD)",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cradled on the banks of the sacred Yamuna River and nestled against the verdant Shivalik foothills, Yamunanagar is a destination that surprises at every turn. Known for its timber industry and scenic landscapes, this vibrant district in Haryana is a gateway to nature, spirituality, and history. For travelers seeking an escape from the ordinary, Yamunanagar offers a journey that is as serene as it is soulful.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Yamunanagar begins with its lifeline—the Yamuna River. Flowing gracefully through the region, the river has shaped its culture, economy, and spiritual ethos for centuries. Legends link this land to the Mahabharata, where the Pandavas are believed to have roamed its forests. Today, Yamunanagar stands as a harmonious blend of myth and modernity, inviting travelers to explore its natural and cultural treasures.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If there’s one reason nature lovers flock to Yamunanagar, it’s Kalesar National Park . Spread across 11,000 hectares, this lush sanctuary is a haven for wildlife enthusiasts and trekkers. Home to leopards, wild boars, sambar deer, and a dazzling array of birds, Kalesar offers an immersive experience in the lap of nature. The park’s dense sal forests and winding trails make it perfect for jungle safaris and photography.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby, the Pathrala Barrage and Tajewala Barrage on the Yamuna create picturesque settings for picnics and birdwatching. Early mornings here are magical, with mist rising from the river and the calls of migratory birds filling the air.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Yamunanagar is often called the “Timber Town of India” thanks to its thriving plywood and woodcraft industry. A visit to local workshops offers a fascinating glimpse into the artistry that transforms raw timber into elegant furniture and décor. For travelers, buying a handcrafted piece isn’t just shopping, it’s taking home a slice of Yamunanagar’s living heritage.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its natural beauty, Yamunanagar is steeped in spirituality. The Kapal Mochan pilgrimage site, located near Bilaspur, is a revered destination for Hindus. Legends say Lord Rama visited this sacred tank to atone for his sins after the battle with Ravana. Today, devotees throng Kapal Mochan during annual fairs, creating a vibrant tapestry of faith and festivity.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another highlight is the Chaneti Buddhist Stupa , dating back to the Mauryan era. This ancient mound, believed to have been built by Emperor Ashoka, adds a historical dimension to Yamunanagar’s spiritual landscape.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Yamunanagar’s heritage isn’t confined to temples. The district is dotted with remnants of Mughal and colonial architecture, each narrating stories of a bygone era. Explore the Adibadri Temple Complex , a cluster of shrines nestled in the Shivalik foothills, offering panoramic views and a serene ambiance. These sites are perfect for travelers seeking both history and tranquility.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food in Yamunanagar is a celebration of Haryana’s rustic flavors. Relish Bajra Roti with white butter , spicy kadhi pakora , and seasonal delights like sarson da saag . Sweet lovers can indulge in ghee-soaked peda , rewaris , and piping hot jalebis from local halwai shops. For an authentic experience, head to a roadside dhaba and savor a hearty meal under the open sky.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to explore Yamunanagar is October to March , when the weather is cool and pleasant. Summers can be harsh, so winter and early spring are perfect for nature walks, heritage tours, and outdoor activities.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Chandigarh International Airport (90 km).",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Ymunanagar-Jagadhri Railway Station links the city to major destinations across North India.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Yamunanagar is well-connected via NH-344, with regular buses and taxis from Delhi, Chandigarh, and Ambala.",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 14 things to do in Gurgaon: A melting pot of culture, art, and entertainment",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrilling escapades in and around Gurgaon",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 things to do in Gurgaon: A melting pot of culture, art, and entertainment",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurukshetra - Exploring The Religious And Heritage Sites",
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Yamunanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/yamunanagar",
+        "retrieved_at": "2026-09-22T18:36:28.355343+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

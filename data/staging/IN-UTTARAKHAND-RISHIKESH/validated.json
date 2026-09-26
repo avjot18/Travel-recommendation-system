@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-UTTARAKHAND-RISHIKESH",
+  "destination_name": "Rishikesh",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jolly Grant Airport (DED), Dehradun Indira Gandhi International Airport (DEL), Delhi"
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rishikesh Railway Station (RKSH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.4,
+        "maximum_celsius": 24.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.0,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.4,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 45.7
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 44.8
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.5,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.3,
+        "maximum_celsius": 27.2
+      },
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the foothills of the Himalayas, Rishikesh stands as a beacon of tranquillity and enlightenment. This small yet profound city of Uttrakhand is popularly known as the 'Yoga Capital of the World'. The sacred Ganga River, with its crystal-clear waters, weaves through the heart of Rishikesh, its gentle murmur providing a constant backdrop to the chants of devotees and the rhythmic flow of yoga practices. From the iconic suspension bridges that sway gently in the mountain breeze to the colorful ashrams that dot the landscape, Rishikesh offers a sensory journey that awakens the soul and calms the mind. Here, ancient traditions seamlessly blend with modern spiritual seeking, creating an atmosphere where both seasoned yogis and curious travellers find their path to inner peace.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh's rich history is intricately woven with threads of Hindu mythology and timeless spiritual practices. The very essence of this sacred town is captured in its name, derived from the ancient Sanskrit words \"Rishi\" (sage) and \"Kesh\" (hair), painting a vivid picture of the countless sages and saints who have sought enlightenment in its hallowed grounds. It is believed that amidst the serene backdrop of the Himalayas and the rhythmic flow Ganga, Lord Rama performed penance for killing Ravana at the serene Triveni Ghat .",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh has earned global acclaim as a centre for yoga, meditation, and holistic healing. It was here that the Beatles famously visited in the 1960s, seeking spiritual guidance from Maharishi Mahesh Yogi. Today, Rishikesh attracts yoga enthusiasts and spiritual seekers from around the world, who come to study under the guidance of renowned gurus, practice yoga asanas in ashrams by the hallowed riverside, and immerse themselves in the teachings of ancient wisdom.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh serves as the gateway to the Char Dham pilgrimage circuit, comprising the sacred sites of Yamunotri, Gangotri, Kedarnath, and Badrinath. Pilgrims embark on their spiritual journey from Rishikesh, seeking blessings and purification before undertaking the arduous trek to these revered shrines lying amidst the Himalayan peaks.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh unfolds like a spiritual panorama, each attraction a brushstroke in its divine canvas. This spiritual city is home to the iconic Ram Jhula , a suspension bridge spanning the sacred Ganga, offers breathtaking views and serves as a silent witness to countless pilgrims' journeys. Not far away, the Beatles Ashram stands as a testament to the town's global appeal, its meditation domes still echoing with the creative spirits of the Beatles who sought inspiration here. The ancient Raghunath Temple , with its serene atmosphere invites you into a world of quiet contemplation, while the Bharat Mandir , believed to house a stone manifestation of Lord Vishnu, pulses with centuries of devotion. The sprawling Gita Bhawan, with its vibrant frescoes depicting scenes from the Bhagavad Gita, offers a visual feast for both the eyes and the soul. Meanwhile, the majestic Trayambakeshwar Temple stands as a 13-story marvel dedicated to Lord Shiva.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Rishikesh's spiritual aura captivates the soul, its natural splendour ignites the spirit of adventure. The mighty Ganga offers world-class white-water rafting experiences. While the trekking enthusiasts find their calling in the nearby trails through diverse landscapes and hidden waterfalls.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As dusk paints the sky in hues of gold and crimson, the ghats of Rishikesh come alive with the soul-stirring spectacle of the Ganga Aarti. The rhythmic chants, the dance of flames, and the fragrance of incense captures the very essence of Rishikesh. For those seeking to carry a piece of this spiritual haven with them, the bustling markets along the ghats offer a treasure trove of spiritual artefacts, from intricately carved idols to fragrant incense sticks. Here, amidst the colorful stalls, one can also find the perfect kurta to embrace the local tradition and style.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the wheel of seasons turns, Rishikesh reveals different facets of its eternal charm. From September to November and February to April this city offers the perfect canvas for spiritual exploration and outdoor adventures. Yet, Rishikesh's allure transcends seasons, beckoning seekers, adventurers, and wanderers alike to its sacred shores throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh is a vegetarian-only and alcohol-free city.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rishikesh offers many water sports, including river rafting, bungee jumping, parasailing, and paragliding.",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 3 unmissable waterfalls in Rishikesh",
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Rishikesh",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+        "retrieved_at": "2026-09-22T18:36:50.774181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

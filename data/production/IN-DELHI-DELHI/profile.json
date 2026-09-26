@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-DELHI-DELHI",
+  "name": "Delhi",
+  "state_or_ut": "Delhi",
+  "region": null,
+  "description": "Delhi is an officially listed tourism destination in Delhi, India. It is best treated as a heritage, urban, food travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "urban",
+    "food",
+    "culture",
+    "shopping"
+  ],
+  "best_for": [
+    "history",
+    "food",
+    "museums",
+    "shopping",
+    "city breaks"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 3.6,
+      "maximum_celsius": 25.2
+    },
+    "february": {
+      "minimum_celsius": 6.8,
+      "maximum_celsius": 29.4
+    },
+    "march": {
+      "minimum_celsius": 10.5,
+      "maximum_celsius": 36.2
+    },
+    "april": {
+      "minimum_celsius": 16.3,
+      "maximum_celsius": 42.8
+    },
+    "may": {
+      "minimum_celsius": 19.7,
+      "maximum_celsius": 45.9
+    },
+    "june": {
+      "minimum_celsius": 20.6,
+      "maximum_celsius": 45.6
+    },
+    "july": {
+      "minimum_celsius": 22.8,
+      "maximum_celsius": 41.5
+    },
+    "august": {
+      "minimum_celsius": 23.1,
+      "maximum_celsius": 38.3
+    },
+    "september": {
+      "minimum_celsius": 21.5,
+      "maximum_celsius": 37.2
+    },
+    "october": {
+      "minimum_celsius": 14.5,
+      "maximum_celsius": 36.2
+    },
+    "november": {
+      "minimum_celsius": 9.8,
+      "maximum_celsius": 32.2
+    },
+    "december": {
+      "minimum_celsius": 3.2,
+      "maximum_celsius": 27.7
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Delhi",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Indira Gandhi International Airport (DEL), Delhi"
+    ],
+    "railway_station": [
+      "New Delhi Railway Station (NDLS)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Delhi",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Delhi",
+      "source_url": "https://www.incredibleindia.gov.in/en/delhi/delhi",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

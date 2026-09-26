@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-NAGALAND-KOHIMA",
+  "name": "Kohima",
+  "state_or_ut": "Nagaland",
+  "region": null,
+  "description": "Kohima is an officially listed tourism destination in Nagaland, India. It is best treated as a culture, mountains, adventure travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "culture",
+    "mountains",
+    "adventure",
+    "nature"
+  ],
+  "best_for": [
+    "culture",
+    "festivals",
+    "trekking",
+    "nature"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 3.0,
+      "maximum_celsius": 18.9
+    },
+    "february": {
+      "minimum_celsius": 4.3,
+      "maximum_celsius": 22.1
+    },
+    "march": {
+      "minimum_celsius": 7.5,
+      "maximum_celsius": 27.4
+    },
+    "april": {
+      "minimum_celsius": 9.7,
+      "maximum_celsius": 28.6
+    },
+    "may": {
+      "minimum_celsius": 11.3,
+      "maximum_celsius": 28.4
+    },
+    "june": {
+      "minimum_celsius": 14.6,
+      "maximum_celsius": 29.4
+    },
+    "july": {
+      "minimum_celsius": 15.1,
+      "maximum_celsius": 29.0
+    },
+    "august": {
+      "minimum_celsius": 15.5,
+      "maximum_celsius": 29.4
+    },
+    "september": {
+      "minimum_celsius": 14.5,
+      "maximum_celsius": 28.4
+    },
+    "october": {
+      "minimum_celsius": 10.0,
+      "maximum_celsius": 27.9
+    },
+    "november": {
+      "minimum_celsius": 6.4,
+      "maximum_celsius": 25.4
+    },
+    "december": {
+      "minimum_celsius": 3.2,
+      "maximum_celsius": 20.9
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Nagaland",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Dimapur Airport (DMU), Dimapur"
+    ],
+    "railway_station": [
+      "Dimapur Railway Station (DMV)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Nagaland",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kohima",
+      "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

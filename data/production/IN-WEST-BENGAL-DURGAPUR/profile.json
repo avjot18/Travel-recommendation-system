@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-WEST-BENGAL-DURGAPUR",
+  "name": "Durgapur",
+  "state_or_ut": "West Bengal",
+  "region": null,
+  "description": "Durgapur is an officially listed tourism destination in West Bengal, India. It is best treated as a heritage, culture, mountains travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "culture",
+    "mountains",
+    "food",
+    "nature"
+  ],
+  "best_for": [
+    "food",
+    "heritage",
+    "tea",
+    "mountains",
+    "culture"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 8.0,
+      "maximum_celsius": 29.5
+    },
+    "february": {
+      "minimum_celsius": 11.2,
+      "maximum_celsius": 33.9
+    },
+    "march": {
+      "minimum_celsius": 15.3,
+      "maximum_celsius": 39.4
+    },
+    "april": {
+      "minimum_celsius": 20.0,
+      "maximum_celsius": 42.3
+    },
+    "may": {
+      "minimum_celsius": 21.7,
+      "maximum_celsius": 42.8
+    },
+    "june": {
+      "minimum_celsius": 23.1,
+      "maximum_celsius": 41.1
+    },
+    "july": {
+      "minimum_celsius": 23.5,
+      "maximum_celsius": 36.5
+    },
+    "august": {
+      "minimum_celsius": 23.8,
+      "maximum_celsius": 35.8
+    },
+    "september": {
+      "minimum_celsius": 23.3,
+      "maximum_celsius": 35.6
+    },
+    "october": {
+      "minimum_celsius": 18.7,
+      "maximum_celsius": 35.1
+    },
+    "november": {
+      "minimum_celsius": 13.7,
+      "maximum_celsius": 32.8
+    },
+    "december": {
+      "minimum_celsius": 9.2,
+      "maximum_celsius": 29.8
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of West Bengal",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Kazi Nazrul Islam Airport (RDP), Durgapur"
+    ],
+    "railway_station": [
+      "Durgapur Railway Station (DGR)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in West Bengal",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Durgapur",
+      "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

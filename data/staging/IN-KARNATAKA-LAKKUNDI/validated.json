@@ -1,0 +1,111 @@
+{
+  "destination_id": "IN-KARNATAKA-LAKKUNDI",
+  "destination_name": "Lakkundi",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gadag Junction (GDG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heartland of Karnataka, India, lies a hidden gem awaiting discovery – Lakkundi, a quaint village steeped in history, adorned with architectural marvels, and brimming with tales of antiquity. Nestled amidst the picturesque landscape of the Malaprabha River basin, Lakkundi beckons travellers on a journey through time, offering a glimpse into the rich cultural heritage of the region.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lakkundi's history traces back to the heyday of the Western Chalukya Empire, which flourished between the 10th and 12th centuries. It served as an important centre for trade, religion, and culture during this period, with the rulers patronizing art and architecture on a grand scale. The village thrived under the benevolent rule of the Chalukyas, leaving behind a legacy of magnificent temples, step wells, and inscriptions.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of Lakkundi's most striking features is its exquisite temple architecture, characterized by intricate carvings, ornate pillars, and elaborate sculptures. The Kashi Vishveshvara Temple, dedicated to Lord Shiva, stands as a testament to the Chalukyan craftsmanship, with its elaborately carved ceilings and delicately sculpted panels depicting scenes from Hindu mythology. The Lakshmi Narasimha Temple, adorned with sculptures of gods, goddesses, and celestial beings, is another architectural gem that transports visitors to a bygone era of opulence and devotion.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lakkundi is also renowned for its step wells, locally known as 'kalyani' or 'pushkarni,' which served as sources of water for ritualistic purposes and community gatherings. These step wells, such as the Manikesvara Pushkarni and the Musukina Bavi, are not only functional marvels but also architectural masterpieces adorned with intricate carvings and sculptures.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lakkundi is not just a repository of stone and mortar; it is a living testament to the cultural heritage of Karnataka. The village resonates with tales of valour, devotion, and everyday life, as passed down through generations in folklore and oral traditions. Visitors can immerse themselves in the rich tapestry of local legends and stories, gaining insight into the ethos of the land and its people.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The artistic legacy of Lakkundi extends beyond its temples and step wells. The village is known for its traditional craftsmanship, including metalwork, wood carving, and stone sculpture. Artisans skilled in these ancient crafts continue to uphold their heritage, creating intricate artifacts and decorative pieces that reflect the timeless beauty of Karnataka's artistic traditions.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lakkundi invites travellers to embark on a journey of exploration and enlightenment, where every stone tells a story and every sculpture whisper secrets of the past. Whether you are a history enthusiast, an architecture aficionado, or a cultural connoisseur, Lakkundi promises an enriching experience that transcends time and space. Lakkundi stands as a testament to Karnataka's rich cultural heritage, a sanctuary of art, architecture, and history nestled amidst the serene beauty of the Malaprabha River basin. As you wander through its ancient temples, marvel at its intricate carvings, and delve into its storied past, you will discover a village that embodies the timeless spirit of India's heritage, beckoning you to unravel its mysteries and embrace its legacy.",
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Lakkundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/lakkundi",
+        "retrieved_at": "2026-09-22T18:36:31.881236+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

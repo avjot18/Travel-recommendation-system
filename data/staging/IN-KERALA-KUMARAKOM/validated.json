@@ -1,0 +1,184 @@
+{
+  "destination_id": "IN-KERALA-KUMARAKOM",
+  "destination_name": "Kumarakom",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Kochi"
+      },
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kottayam railway station (KTYM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Kochi",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the serene backwaters of Kerala, Kumarakom emerges as a sanctuary of serenity, where time slows down, and nature's symphony takes centre stage. With its lush greenery, shimmering waterways, and rich cultural heritage, Kumarakom captivates the soul and invites travellers to embark on a journey of discovery, inspiration, and rejuvenation. The history of Kumarakom is intertwined with the ancient tales of Kerala's backwaters and the communities that have thrived along its shores for centuries. Originally a cluster of small islands formed by the Vembanad Lake, Kumarakom was once a vital trading hub, where merchants from distant lands converged to exchange goods and stories. Over time, the region evolved into a tranquil retreat, attracting travellers seeking solace amidst its natural beauty and timeless charm.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The backwaters of Kumarakom , comprising a network of canals, lakes, and lagoons, are its most prominent attraction. Tourists can explore the tranquil backwaters on houseboat cruises , offering an opportunity to soak in the scenic beauty of the surroundings while gliding past coconut groves, rice paddies, and traditional villages. Houseboats in Kumarakom range from luxurious to budget-friendly, providing options for all types of travellers.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated on the banks of Lake Vembanad, the Kumarakom Bird Sanctuary is a paradise for birdwatchers and nature enthusiasts. Spread over an area of 14 acres, the sanctuary is home to a diverse range of migratory and resident bird species, including herons, egrets, kingfishers, cuckoos, and migratory Siberian cranes. Visitors can explore the sanctuary on foot or by boat, spotting birds amidst the dense mangrove forests and marshy wetlands.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lake Vembanad, one of the largest freshwater lakes in India, forms the backdrop of Kumarakom's scenic beauty. The lake provides opportunities for boating, fishing, and recreational activities, allowing visitors to witness stunning sunsets and panoramic views of the surrounding landscape. The annual Nehru Trophy Boat Race, held on Lake Vembanad in August, is a major cultural event that attracts participants and spectators from across Kerala.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kumarakom is a place rich in cultural heritage, with a history that goes back centuries. One notable example is the Jatayu Rock, a large rock sculpture depicting the mythical bird Jatayu from the epic Ramayana. Kumarakom also features traditional Kerala architecture, including heritage homes, temples, and churches, which showcase the region's cultural and religious diversity. You can wander through the charming streets of Kumarakom, engage with locals, and immerse yourself in the traditional rural way of life in Kerala. Kumarakom is even known for its Ayurvedic wellness centres and spa resorts, offering rejuvenating treatments and therapies based on ancient Ayurvedic principles. Visitors can indulge in traditional massages, yoga sessions, and holistic healing practices, promoting relaxation, rejuvenation, and overall well-being.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kumarakom offers a delectable culinary experience, with a variety of seafood delicacies and traditional Kerala dishes to tantalise the taste buds. Freshly caught fish, prawns, crabs and mussels are prepared in authentic Kerala style, flavoured with coconut, spices and aromatic herbs. Visitors can savour these culinary delights at local restaurants, homestays and houseboats, enjoying the flavours of Kerala's coastal cuisine.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its natural beauty and tranquil vistas, Kumarakom inspires visitors with its rich cultural heritage, warm hospitality, and reverence for nature. It is a place where the echoes of ancient traditions mingle with the whispers of the wind, where every sunrise paints the sky in hues of gold and crimson, and where the rhythm of life flows like the gentle ebb and flow of the backwaters. As you wander through the verdant landscapes of Kumarakom, breathe in the fragrant air, listen to the symphony of birdsong, and feel the gentle caress of the breeze against your skin, you'll find yourself transported to a realm of peace, beauty, and harmony. It is a destination that nourishes the soul, rejuvenates the spirit, and reminds us of the timeless connection between humanity and the natural world.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Biodiversity Hotspot: Kumarakom is home to the Kumarakom Bird Sanctuary, which spans over 14 acres of lush mangrove forests, wetlands, and meadows.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Traditional Houseboats: Kumarakom is famous for its traditional houseboats, locally known as \"kettuvallams.\" These houseboats were originally used for transporting goods but have now been converted into luxurious floating accommodations for tourists.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ayurvedic Treatments: The tranquil surroundings of Kumarakom make it an ideal destination for wellness retreats and Ayurvedic treatments.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rice Boat Races: Kumarakom hosts the annual Nehru Trophy Snake Boat Race, one of the most prestigious boat races in Kerala. Teams of rowers compete in traditional snake boats, known locally as \"chundan vallams,\" in a thrilling display of skill, strength, and camaraderie.",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kumarakom",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kumarakom",
+        "retrieved_at": "2026-09-22T18:36:33.789677+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

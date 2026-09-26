@@ -1,0 +1,153 @@
+{
+  "destination_id": "IN-KERALA-THIRUVANANTHAPURAM",
+  "name": "Thiruvananthapuram",
+  "state_or_ut": "Kerala",
+  "region": null,
+  "description": "Thiruvananthapuram is an officially listed tourism destination in Kerala, India. It is best treated as a backwaters, nature, wellness travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "backwaters",
+    "nature",
+    "wellness",
+    "beach",
+    "food",
+    "culture"
+  ],
+  "best_for": [
+    "backwaters",
+    "wellness",
+    "couples",
+    "food",
+    "nature"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 20.2,
+      "maximum_celsius": 34.6
+    },
+    "february": {
+      "minimum_celsius": 21.1,
+      "maximum_celsius": 35.3
+    },
+    "march": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 35.8
+    },
+    "april": {
+      "minimum_celsius": 22.9,
+      "maximum_celsius": 35.6
+    },
+    "may": {
+      "minimum_celsius": 22.8,
+      "maximum_celsius": 34.9
+    },
+    "june": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 33.2
+    },
+    "july": {
+      "minimum_celsius": 21.9,
+      "maximum_celsius": 32.5
+    },
+    "august": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 32.7
+    },
+    "september": {
+      "minimum_celsius": 22.3,
+      "maximum_celsius": 33.3
+    },
+    "october": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 33.2
+    },
+    "november": {
+      "minimum_celsius": 21.8,
+      "maximum_celsius": 33.4
+    },
+    "december": {
+      "minimum_celsius": 20.5,
+      "maximum_celsius": 34.1
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Kerala",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Thivandrum International Airport (TRV), Thiruvananthapuram"
+    ],
+    "railway_station": [
+      "Thiruvananthapuram Central Railway Station (TVC)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Kerala",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Thiruvananthapuram",
+      "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

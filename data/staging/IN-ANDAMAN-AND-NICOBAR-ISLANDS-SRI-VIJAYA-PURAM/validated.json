@@ -1,0 +1,480 @@
+{
+  "destination_id": "IN-ANDAMAN-AND-NICOBAR-ISLANDS-SRI-VIJAYA-PURAM",
+  "destination_name": "Sri Vijaya Puram",
+  "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Veer Savarkar International Airport (IXZ), Sri Vijaya Puram"
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.1,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 31.1
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 20.6,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Veer Savarkar International Airport (IXZ), Sri Vijaya Puram",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram, formerly known as Port Blair, the capital of the Andaman and Nicobar Islands , is far more than a typical beach destination. While it boasts the turquoise waters of the Bay of Bengal and rainforests lush with emerald secrets, it also holds a storied past etched in the remnants of a bygone era. Picture a phoenix rising from the ashes of a penal colony—that's Sri Vijaya Puram. Established in 1789 and named after Captain Archibald Blair of the East India Company, this city has witnessed the establishment of penal colonies by the Britishers where convicts, primarily political prisoners, were subjected to life imprisonment under inhumane conditions. It also saw the resistance of imprisoned freedom fighters. Sri Vijaya Puram offers a journey through history while treating all your senses to new experiences.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "World War II saw the island painted in new, unsettling colours under Japanese occupation in 1942. But even amidst the turmoil, a spark of defiance flickered. From 1943 to 1944, Sri Vijaya Puram served as the headquarters of the Azad Hind government, a provisional Indian government-in-exile led by Netaji Subhash Chandra Bose. Post-independence, Sri Vijaya Puram transformed into a significant administrative hub and the site of India's first tri-service command, reinforcing its pivotal role in national security.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram's beauty is undeniable, but its history is equally captivating. The Cellular Jail, a chilling reminder of India's struggle for freedom, stands in stark contrast to the island's pristine beaches. During the late 19th century, as the Indian independence movement gained momentum, the massive Cellular Jail was built between 1896 and 1906 to incarcerate Indian freedom fighters in solitary confinement. Known as Kala Pani, or \"Black Waters,\" the Cellular Jail earned its ominous name due to the severe torture and mistreatment of its inmates. Now it serves as a national memorial. Walking its silent halls, one can still sense the remnants of the sacrifices made by freedom fighters. The light and sound show brings these stories to life, while Netaji Subhash Chandra Bose Island (formerly Ross Island) offers a glimpse into the island's colonial past. Explore the ruins of grand buildings and imagine the bygone era of British brutality.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram's charm transcends its historical and cultural treasures. Nature enthusiasts will find ecstasy in the lush green embrace of rainforests teeming with exotic flora and fauna. Sparkling white sand and gentle waves awaits you at Corbyn's Cove Beach , the perfect spot for pure relaxation. Craving an underwater adventure? A short ferry ride whisks you to Havelock Island, where brightly coloured coral reefs teeming with colourful fish await exploration through snorkelling or scuba diving. For the adventurous, Mount Harriet National Park offers trekking trails leading to the highest peak in the Andamans. Seek a truly unique experience on Baratang Island, where captivating limestone formations stand in stark contrast to bubbling mud volcanoes, a proof of the earth's raw energy. The island's natural beauty extends far beyond rainforests and beaches. North Bay Island, a short boat trip away, boasts coral reefs teeming with life, ideal for a day of swimming and exploration. Birdwatchers flock to Chidiya Tapu , a scenic viewpoint renowned for its stunning sunsets and diverse avian population. Geographically curious? Embark on a thrilling boat journey to Barren Island, the only active volcano in India. Witness wisps of smoke rising from its caldera, a constant reminder of the earth's fiery power. While safety precautions prevent setting foot on the island, witnessing it from afar remains an unforgettable experience. Escape the crowds and discover tranquillity on Neil Island (Shaheed Dweep) . Renowned for its picturesque beaches, laid-back charm, and slower pace of life, Neil Island offers a welcome respite. Explore the island by bicycle, traversing scenic pathways and encountering natural wonders like the limestone formations at Laxmanpur Beach. Keep your eyes peeled for dolphins frolicking in the clear waters – a perfect end to a day of exploration. In the southern part of South Andaman lies Wandoor Beach , a haven for relaxation. Unwind on its serene shores, embraced by a laid-back atmosphere. Wandoor Beach serves as the gateway to the rich marine biodiversity of the Mahatma Gandhi Marine National Park , offering launching points for exploring nearby islands and their captivating marine ecosystem. Enjoy a refreshing swim, build sandcastles, or simply soak up the sun on this slice of paradise.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram, the lively capital of the Andaman and Nicobar Islands, offers an eclectic mix of historical depth and cultural richness, making it an enchanting destination for the intrepid traveller. Embark on a journey beyond the usual attractions and discover the hidden gems of this island city. The exploration begins at Chatham Island, a site steeped in history. Once a penal settlement, it now houses the Chatham Saw Mill, one of Asia’s oldest. This site blends historical significance with a tranquil ambiance, providing a unique glimpse into the colonial past. Just a short distance away, Phoenix Bay Jetty buzzes with the daily life of the Bengali community. Here, exciting scenes unfold as fishermen unload their fresh catch against a backdrop of colourful boats swaying on crystal waters, offering a lively portrayal of the island’s diverse cultural tapestry. The journey into Sri Vijaya Puram’s rich heritage continues at the Anthropological Museum, an invaluable repository of tribal artifacts that offer a window into the indigenous ways of life. Adjacent to it, the open-air Anthropological Settlement Museum exhibits traditional dwellings, enriching visitors’ understanding of the architectural styles and living conditions of the island's original communities. Art aficionados will delight in the exquisite craftsmanship on display at the Sagarika Government Emporium. This venue celebrates local artistry, transforming seashells into intricate jewellery and decorative items that reflect the island’s natural beauty and artistic heritage. For nature enthusiasts, the Mahatma Gandhi Marine National Park is a must-visit. This conservation area spans across 15 islands, boasting clean beaches and lush coral reefs that provide a sanctuary for a diverse range of marine life. Ideal for snorkelling and diving, this park offers an immersive experience of the underwater world. Not far from the urban centre, the rubber plantations near Wandoor reveal a unique aspect of the island’s economy. Visitors can learn about the rubber-making process, from latex tapping to the production of rubber sheets, providing insight into this significant local industry. Enhancing the cultural experience, Aberdeen Bazaar stands as the pulsating heart of Sri Vijaya Puram. This bustling marketplace is a haven for souvenir hunters and foodies alike, offering a lively atmosphere where local flavours and crafts converge. Concluding the journey, Gandhi Park offers a serene escape with lush greenery ideal for leisure and reflection, anchored by a statue of Mahatma Gandhi, symbolizing peace and resilience.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram's cultural landscape is as vibrant as the coral reefs that envelop it. The city boasts a rich heritage shaped by the ancient traditions of the indigenous Jarawa, Sentinelese, and Great Andamanese tribes, whose ties to these islands span millennia. These deep-rooted traditions are complemented by the diverse communities from mainland India like communities from West Bengal and Southern parts of India, enriching Sri Vijaya Puram's cultural tapestry.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Religious landmarks add depth to this mosaic. Gurdwara Dr. Diwan Singh in Aberdeen Bazaar, established in 1937 by the exiled freedom fighter Dr. Diwan Singh Kalapani, stands as a beacon of Sikh faith and resilience. Built with wood and supported by iron pillars, it's among Sri Vijaya Puram’s oldest Sikh shrines. Nearby, the Delanipur Jama Masjid, constructed in 1932, draws visitors with its stunning architecture, featuring graceful minarets and elegant domes, providing a serene space for worship and reflection.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Christian heritage is equally prominent with St. Patrick’s Cathedral, the oldest Catholic church in the Andaman and Nicobar Islands, built in 1895 showcasing Gothic Revival architecture. Another notable site, the Holy Rosary Church established in 1952, offers a tranquil sanctuary for the local Catholic community.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culinary scene in Sri Vijaya Puram is a symphony of tastes, a delightful fusion where Indian spices waltz with local produce. Take home a jar of locally produced honey, known for its unique flavour derived from the island's diverse flora or Andaman’s cinnamon and nutmeg for their heady fragrance. Dive into a feast with succulent prawns bathed in creamy coconut gravies, while the delicate sweetness of grilled lobster dances on your tongue. Quench your thirst with coconut water, the life force of these islands. But for a truly local experience, venture beyond the restaurants. Steam rises from street food stalls, inviting you to sample their offerings. Steaming hot samosas, crispy pakoras, flavourful dosas, grilled fish, and fish curries, all bursting with fresh ingredients and local spices, promise an explosion of taste. For a touch of elegance, head to harbour-side havens, were international flavours blend with Indian flair, all under the mesmerizing gaze of the turquoise sea. Sri Vijaya Puram's multicultural essence extends beyond its people. Here, the influence of neighbouring Burma is evident in dishes like Mohinga, a hearty rice noodle soup, and Aloo Samosa, a crispy potato patty. Don't miss out on sampling local specialties like Chatam, a fermented fish dish, and Tenga, a tangy fish curry, proof of the island's unique culinary style.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram is a kaleidoscope of cultures where the air hums with the fervour of festivals, the pungent aroma of freshly caught seafood mingles with the scent of incense, and the rhythmic thrum of life pulsates through the streets. So, ditch the usual tourist trail. Sri Vijaya Puram offers an experience unlike any other – a chance to listen to the whispers of history, feel the pulse of a resilient spirit, and get lost in the vibrant tapestry of a city reborn.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Also known as Kala Pani, Cellular Jail is one of the unmissable tourist attractions located at Sri Vijaya Puram in Andaman. The three storied building has 698 cells that are connected to each other in the shape of a starfish.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chidiya Tapu is filled with 46 varieties of endangered species of birds, and white spotted deer.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Andaman and Nicobar Islands are a birdwatcher's paradise, hosting over 500 species of birds .",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Barren Island is the only confirmed active volcano in South Asia.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The scenic North Bay Island , depicted on the Indian 20 rupee note, is visible from top of the Mount Harriet.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Vijaya Puram's Anthropological Museum preserves the only existing skeleton of a Jarawa, highlighting the tribe’s shrinking numbers.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Little Andaman , in spite of its name is the fourth largest island in the group of islands at Andaman and Nicobar, with an area of about 734 square kilometers, separated from the Great Andaman by the Duncan Passage.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahatma Gandhi Marine National Park consists of 15 islands and boasts of the unimaginable size it spreads that is about 281.5 sq.km which have 17 small islands and the open sea creeks.",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure sports in and around Sri Vijaya Puram: Thrills amidst nature's beauty",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take in the #YehMeraIndiaWaaliFeeling in Andamans!",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food guide: What and where to eat in Sri Vijaya Puram",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Compelling Reasons to Visit the Andamans This Monsoon",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the Fascinating Colonial Heritage of Andamans!",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Fascinating Facts You Didn't Know About Andaman Islands",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the natural gems of Sri Vijaya Puram",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A tapestry of rich culture and tradition",
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Sri Vijaya Puram",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/sri-vijaya-puram",
+        "retrieved_at": "2026-09-22T18:36:52.178284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

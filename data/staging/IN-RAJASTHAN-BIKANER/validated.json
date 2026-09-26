@@ -1,0 +1,333 @@
+{
+  "destination_id": "IN-RAJASTHAN-BIKANER",
+  "destination_name": "Bikaner",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI), Jaipur Indira Gandhi International Airport (DEL), Delhi Bikaner Airport (BKB), Bikaner"
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bikaner Railway Station (BKN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.2,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.8,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 43.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 46.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 45.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.6,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.5,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 40.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.9,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur International Airport (JAI), Jaipur",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to the land where the echoes of history resonate through the vibrant streets and the aroma of spicy delicacies tantalises your taste buds. Bikaner, the desert jewel of Rajasthan, is a treasure trove of culture, heritage and endless tales waiting to be discovered. If there's one thing that defines Bikaner, it's the majestic camels that grace its landscape. From the bustling streets to the vast desert expanse, these \"ships of the desert\" are an integral part of daily life. Take a camel safari through the golden sands of the Thar Desert, and let the rhythmic sway of the camel transport you to a bygone era of caravanserais and trading routes. Bikaner is located in the northwestern state of Rajasthan, India. It lies in the Thar Desert region, also known as the Great Indian Desert. Bikaner has a rich and storied history that dates back several centuries. The earlier name was ‘Jungladesh’ or the kingdom of jungles. Bikaner has long been a major hub for trade and business, mostly because of its advantageous location along the caravan routes that link India and Central Asia. The city flourished as a centre for the camel trade and was essential in enabling trade between Indian merchants and traders from other countries. Bikaner’s current name is owed to Rao Bika, a Rajput prince and the son of Rao Jodha, the founder of Jodhpur, who founded it in 1488. He conceptualised a rich state by inviting prosperous Marwadi business people and giving them land to build their lavish havelis, a sign of a thriving region. Today, Bikaner is renowned for its rich cultural heritage, historical landmarks, and vibrant traditions. The city is famous for its majestic forts, opulent palaces, intricately carved temples, and bustling markets. The city is also known for its delectable cuisine, especially its mouthwatering snacks like bhujia and rasgulla. Visiting Bikaner is like an apposition from yesterday to today. Sights of the graceful sway of the camels with the bustle of modern traffic are common. Sites ranging from the 16th century and traditional havelis were influenced by the Art Deco movement and housed Marwadi merchants. One of the most prominent landmarks in Bikaner is the Junagarh Fort, an imposing structure built in the 16th century.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the majestic Junagarh Fort , a 16th-century marvel at the heart of Bikaner's royal legacy. Built by Raja Rai Singh, a trusted general of Emperor Akbar, this rose-red sandstone fortress once housed the city's rulers. The fort's stunning architecture captivates you with its intricate carvings, beautiful balconies, and formidable ramparts. Inside the fort, you can explore opulent palaces adorned with exquisite Rajasthani art.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "History comes alive in the fort's museum, showcasing an impressive collection of artefacts. From ornate palanquins and mediaeval weaponry to captivating paintings, each item tells a story of Bikaner's past. The unexpected highlight? A restored World War I aeroplane. Whether you're an architecture enthusiast, history buff or a curious traveller, Junagarh Fort offers an unforgettable journey through time, promising a glimpse into the grandeur of Rajasthan's royal past.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the majestic Junagarh Fort, Bikaner offers even more treasures for history and culture enthusiasts. A must-visit destination is the captivating Sadhul Museum, nestled within the grand Lallgarh Palace , where the royal family still resides. Marvel at the royal railway coach displayed at the entrance, once used for regal journeys. Inside, explore the family's legacy through a captivating collection of images, paintings, and artefacts. If you want to explore Bikaner's architectural marvels, the Rampuria Havelis in Old Bikaner are an absolute delight. This protected area showcases the pinnacle of Rajasthani craftsmanship with its intricately carved walls, serene open courtyards, and magnificent red sandstone structures. The beautiful jharokhas (overhanging enclosed balconies) offer a glimpse into the artistic brilliance of a bygone era. Journey back in time at the Seth Bhandasar Jain Temple, built in 1428 before Bikaner's founding. This architectural gem, maintained by the Archaeological Survey of India, dazzles you with its spectacular paintings. Pay respects at the Devikund Sagar Cenotaphs, commemorating Bikaner's royalty. These monuments feature intricate carvings of Lord Krishna and Chhatris, blending Rajput and Mughal styles. For a unique experience, visit the National Research Centre on Camel (NRCC) , dedicated to the study and conservation of these desert icons. Spiritual seekers will find solace in Bikaner's temples. The Shri Laxminath temple impresses with its opulent interiors, while the 500-year-old Shree Karni Mata Temple also known as the Rat Temple offers a fascinating glimpse into local beliefs surrounding reincarnation. Nearby wildlife sanctuaries and reserves, such as the Gajner Wildlife Sanctuary and Tal Chhapar Sanctuary, are now accessible. Also, visit Khimsar, a village in the Thar Desert, renowned for its mesmerising dunes, providing visitors with a chance to immerse themselves in the stunning desert landscape.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bikaner's vibrant festivals include the Camel Festival, showcasing the significance of camels in the region's culture and heritage, and the Kolayat Fair, held at Kolayat, about 50 kilometres from Bikaner. The fair is organised between October and November during the Kartik Purnima. Pilgrims take a holy dip in the Kolayat Lake and offer prayers at the temples. Other important festivals in Bikaner include the Gangaur Festival, which is an 18-day-long festival when women pray to the Goddess Parvati, and the Sheetla Ashtami, which is dedicated to Sheetla Mata, the goddess of smallpox and other infectious diseases. Karni Mata Fair is celebrated in honour of Karni Mata, a Hindu sage worshipped as the incarnation of Goddess Durga.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Bikaner is a visual as well as sensory feast showcasing the rich culture and traditions of the region. The city offers a range of accommodation options to suit various preferences and budgets, including heritage hotels, luxury resorts, boutique guesthouses, and budget-friendly lodgings. Bikaner's culinary scene is a symphony of flavours that tantalise the taste buds with every bite. Bikaner is renowned for its delicacies, including Bikaneri Bhujia, Raj Kachori, samosa and kachori. For meals, try authentic Rajasthani Thali, with options from Laxmi Niwas Palace to budget restaurants. Sweet dishes include Ghewar, Kesar kulfi and Rasgulla. Bikaner offers a vibrant shopping experience with a variety of markets and stores selling local handicrafts, spices and sweets. Bada Bazaar and Kote Gate markets are popular for textiles and jewellery, while Kote Gate market specialises in leather goods. Visit Kote Gate Handicrafts Emporium, a renowned marketplace featuring local artisans' handicrafts and Khari Bazaar for aromatic spice shops. Bikaner's locals are known for their hospitality and friendliness, often welcoming visitors warmly and eager to share their culture, traditions, and local insights.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the magic of Bikaner from October to March, when the city unveils its most enchanting face. This golden period offers the perfect climate to indulge in the Rajasthani culture and history. Winter evenings in Bikaner are particularly special. As the sun sets, the desert air takes on a refreshing chill, ideal for savouring local delicacies at outdoor cafes or enjoying cultural performances under starlit skies. If you seek authentic desert experiences, this season presents optimal conditions for camel safaris and camping adventures in the nearby Thar Desert. Plan your visit to this extraordinary city of Rajasthan and experience the warmth, hospitality, and timeless charm at its finest.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Did you know that the Junagarh Fort is one of the few forts in India that has never been conquered, boasting a rich history of valor and resilience.",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the religious spots in Bikaner",
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bikaner",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bikaner",
+        "retrieved_at": "2026-09-22T18:36:42.995850+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

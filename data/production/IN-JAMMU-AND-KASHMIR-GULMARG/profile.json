@@ -1,0 +1,130 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-GULMARG",
+  "name": "Gulmarg",
+  "state_or_ut": "Jammu and Kashmir",
+  "region": null,
+  "description": null,
+  "travel_styles": [
+    "scenic",
+    "adventure",
+    "winter"
+  ],
+  "best_for": [
+    "snow",
+    "skiing",
+    "mountains",
+    "nature",
+    "photography"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": -12.4,
+      "maximum_celsius": 6.1
+    },
+    "february": {
+      "minimum_celsius": -11.1,
+      "maximum_celsius": 7.1
+    },
+    "march": {
+      "minimum_celsius": -8.4,
+      "maximum_celsius": 11.8
+    },
+    "april": {
+      "minimum_celsius": -3.4,
+      "maximum_celsius": 18.0
+    },
+    "may": {
+      "minimum_celsius": 1.2,
+      "maximum_celsius": 21.3
+    },
+    "june": {
+      "minimum_celsius": 4.8,
+      "maximum_celsius": 24.7
+    },
+    "july": {
+      "minimum_celsius": 7.9,
+      "maximum_celsius": 25.5
+    },
+    "august": {
+      "minimum_celsius": 7.8,
+      "maximum_celsius": 24.2
+    },
+    "september": {
+      "minimum_celsius": 4.7,
+      "maximum_celsius": 22.5
+    },
+    "october": {
+      "minimum_celsius": -0.4,
+      "maximum_celsius": 19.4
+    },
+    "november": {
+      "minimum_celsius": -5.0,
+      "maximum_celsius": 14.5
+    },
+    "december": {
+      "minimum_celsius": -8.7,
+      "maximum_celsius": 9.8
+    }
+  },
+  "ideal_duration_days": [
+    2,
+    4
+  ],
+  "budget_tier": null,
+  "activities": [
+    {
+      "name": "skiing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "snow activities",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "hiking",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Kashmiri cuisine"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Srinagar International Airport (SXR), Srinagar"
+    ],
+    "railway_station": [
+      "Jammu Tawi Railway Station"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "notes": "Richer seed record; verify live operational details before display.",
+  "data_quality": "high",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Gulmarg",
+      "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-BAREILLY",
+  "destination_name": "Bareilly",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bareilly Airport (BEK), Bareilly"
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bareilly Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.5,
+        "maximum_celsius": 25.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.5,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.5,
+        "maximum_celsius": 41.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 43.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 38.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.6,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.7,
+        "maximum_celsius": 27.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the serpentine Ramganga River, this city in the Rohilkhand region of Uttar Pradesh has earned a reputation as a spiritual sanctuary. Revered as the 'Nath Nagari' -Land of Lord Shiva, Bareilly's spiritual essence resonates through its sacred sites, where devotees seek solace in the divine.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bareilly's spiritual essence transcends religious boundaries, making it a revered destination for seekers of all faiths. Hindus flock to ancient temples like Hari Mandir, ISKCON Temple, Shri Dauji Ka Mandir, Shri Bankey Bihari Temple, Lakshmi Narayan Temple, and the revered Pashupati Nath Temple. For Muslims, architectural marvels such as the Dargah Ala Hazrat Imam Ahmed Raza Khan, Dargah Hazrat Shah Sharafat Miyan, Bibi ki Masjid, and the iconic Jama Masjid stand as testament to the region's rich Islamic heritage. The Sikh community finds solace in the serene environs of gurudwaras like the Bada Gurudwara and Gurudwara Guru Teg Bahadur Sahib. Historically known as 'Sanjashya,' Bareilly is also believed to be the very place where the Buddha descended from the celestial realm of Tushita to grace the earthly plane.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This harmonious coexistence of diverse spiritual traditions has fostered an atmosphere of tolerance and respect, making Bareilly a sought-after sanctuary for those seeking inner peace and enlightenment, regardless of their religious affiliations.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of the sugarcane belt, Bareilly is a city that weaves a tapestry of history, culture, and artistic craft. Known as the 'Zari Nagari’ of India, Bareilly is famed for the artistic prowess of its craftsmen in creating exquisite furniture and woodwork that have garnered global acclaim. If you are on the lookout for beautiful furniture to grace your home make a beeline for Bareilly.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short drive from the bustling streets of Bareilly lies the quaint Khurja Pottery Village, a captivating haven where ancient traditions blend seamlessly with modern artistry. This picturesque hamlet is renowned for its skilled potters, whose deft hands have been shaping clay into exquisite works of art for generations. As you wander through the narrow lanes, the rhythmic whirring of potter's wheels and the earthy aroma of clay fill the air. Each pottery studio is a treasure trove of intricate designs, vibrant colors, and intricate patterns, reflecting the rich cultural heritage of the region. Whether you're a collector seeking unique pieces or simply mesmerized by the art of pottery, a visit to Khurja Pottery Village promises to be a memorable experience.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aonla Handicrafts Emporium is a celebration of the region's rich artisanal heritage. This sprawling emporium displays an abundance of unique handicrafts, a testament to the skill and creativity of local artisans. From intricately woven textiles to delicately carved wooden artifacts, the emporium is a bonanza for those seeking a unique souvenir or a masterpiece to adorn their home.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For the inquisitive wayfarer, Bareilly offers a plethora of diversions that cater to varied interests. The Shahi Mosque, an architectural marvel dating back to the 17th century, stands as a testament to the city's opulent past. Its intricate carvings and imposing facade transport visitors to an era when artisans poured their souls into their creations.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Navalgarh Palace, a magnificent edifice adorned with exquisite frescoes and intricate latticework, beckons those with a penchant for regal grandeur. Its meticulously manicured gardens provide a serene escape from the city's hustle and bustle.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For epicureans Bareilly's culinary landscape is a gastronomic delight. The city's signature dish, the mouth-watering Bareilly ka Rosgulla, a delicacy crafted from sweetened cottage cheese and drenched in sugar syrup, tantalize even the most discerning palate.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To have a truly immersive experience visit the vibrant Bareilly weekly markets. Indulge in the art of bargaining and procure locally crafted wares that capture the essence of the region.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking respite from the urban cacophony, the verdant surroundings of the Sanjay Van Vihar National Park and the serene waters of the Gomati River offer a tranquil escape into nature's embrace.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bareilly has its own domestic airport, the Bareilly Air Force Station Airport, which is located around 6 km from the city center. This airport has regular flights connecting Bareilly to Delhi and Lucknow, operated by Air India and private airlines. The next nearest major airport is Pantnagar Airport, located around 160 km away in Uttarakhand. From Pantnagar, you can hire a taxi or take a bus to reach Bareilly. Alternatively, you can fly to Lucknow's Chaudhary Charan Singh International Airport, which is around 270 km from Bareilly, and then take a train or a cab to reach Bareilly.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bareilly is well-connected by rail to all the major cities across India. The city has two primary railway stations: Bareilly Junction and Bareilly City. Several trains, including the Shatabdi Express and the Sampark Kranti Express, connect Bareilly to Delhi. The journey from Delhi to Bareilly by train takes around 4-5 hours.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bareilly is situated on the Grand Trunk Road on NH-24 and is well-connected by a network of national and state highways. From Delhi, you can take the NH- 24 Delhi-Lucknow Highway and cover the distance of 260 kilometers in around 6-7 hours. Alternatively, you can take NH-9 Delhi-Dehradun Highway and then NH-119 to reach Bareilly, covering a distance of around 280 km. Regular bus services also operate between Bareilly and major cities like Delhi, Lucknow, and Agra.",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enjoy the delicious Gastronomy of Bareilly",
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bareilly",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/bareilly",
+        "retrieved_at": "2026-09-22T18:36:47.603042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "destination_id": "IN-HARYANA-PANIPAT",
+  "destination_name": "Panipat",
+  "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Indira Gandhi International Airport (DEL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL)",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "On the historic Grand Trunk Road, about 90 km north of Delhi, lies Panipat , a city that has witnessed the clash of empires and the weaving of dreams. Known as the “City of Weavers” and the stage for three decisive battles that shaped Indian history, Panipat is a destination where every monument whispers tales of valor, and every street hums with the rhythm of tradition. For travelers seeking a journey through time, Panipat offers an experience that is as profound as it is picturesque.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panipat’s name evokes images of warriors, strategies, and turning points in India’s destiny. The First Battle of Panipat (1526) saw Babur defeat Ibrahim Lodi, laying the foundation of the Mughal Empire. The Second Battle (1556) brought Akbar to power, and the Third Battle (1761) between the Marathas and Ahmad Shah Abdali altered the subcontinent’s political landscape forever.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Walking through Panipat is like strolling through a living museum. The Kabuli Bagh Mosque , built by Babur after his victory, stands as a silent witness to the dawn of Mughal rule. Its Persian-style architecture and sprawling gardens transport you to an era of grandeur and conquest.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby, the Grave of Ibrahim Lodi marks the resting place of the last Sultan of Delhi—a poignant reminder of a dynasty’s fall. For history enthusiasts, these sites are not just monuments; they are chapters of India’s epic saga.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the battlefield, Panipat is celebrated as the “Textile City of India.” Renowned for its handloom industry, the city produces world-class carpets, rugs, and durries that adorn homes across the globe. A visit to local weaving units offers a fascinating glimpse into the artistry that has sustained generations. Watching craftsmen at work—deft fingers dancing over looms—is an experience that blends tradition with creativity.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For shoppers, Panipat’s markets are a paradise. From elegant home furnishings to vibrant shawls, the choices are endless. Carry a piece of Panipat back home, and you carry a story woven in threads.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panipat’s heritage extends beyond its battlefields. The Kala Amb Memorial , named after a black mango tree that stood witness to the Third Battle, is a solemn site honoring the martyrs. The Hemu Samadhi Sthal commemorates the valiant Hindu king Hemu, who fought bravely against the Mughals in the Second Battle.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another gem is the Devi Temple , perched on a mound and believed to date back to the Mahabharata era. Its sanctity and simplicity draw devotees and travelers alike, adding a spiritual dimension to Panipat’s historical aura.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst the echoes of war and weaving, Panipat offers pockets of tranquility. The Kabuli Bagh Gardens , with their manicured lawns and Mughal-style fountains, are perfect for a leisurely stroll. Early mornings here are magical, with dew-kissed grass and the soft chirping of birds - a serene contrast to the city’s tumultuous past.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food in Panipat is a celebration of North India’s robust flavors. Start your day with stuffed paranthas dripping with ghee , paired with a glass of creamy lassi . For lunch, savor dal makhani , paneer butter masala , and tandoori delights at local dhabas. Sweet lovers can indulge in gajar ka halwa , pinni , and piping hot jalebis from traditional sweet shops.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panipat’s street food scene is equally vibrant—think spicy chaat, golgappas, and samosas that pack a punch of flavor. For an authentic experience, eat where the locals eat—the taste is as genuine as the hospitality.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panipat comes alive during festivals like Diwali and Holi , when homes glow with lamps and streets burst into colors. Local fairs showcase Haryana’s rich traditions, folk dances, wrestling bouts, and handicrafts that make for an unforgettable cultural immersion. If you’re lucky, you might witness a Haryanvi folk performance , raw and energetic, echoing the spirit of the land.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to explore Panipat is October to March , when the weather is cool and pleasant. Summers can be harsh, so winter and early spring are perfect for heritage walks and outdoor activities.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Indira Gandhi International Airport, Delhi (90 km) . By Road: Panipat lies on NH-44 (Grand Trunk Road) , making it easily accessible from Delhi and Chandigarh. By Rail: Panipat Junction connects the city to major destinations across North India.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "· Carry light woolens in winter and cottons in summer.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "· Respect local customs when visiting temples and heritage sites.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "· Keep cash handy for local market digital payments may not be widely accepted.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "· Hire a local guide to uncover hidden stories behind monuments.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Why Panipat Should Be on Your Travel Map",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panipat is more than a city—it’s a chronicle of India’s triumphs and tribulations. Here, every dome whispers Mughal elegance, every memorial hums with patriotic fervor, and every loom sings of artistry. Whether you’re a history buff, a culture enthusiast, or a shopaholic, Panipat promises experiences that linger long after your journey ends.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kabuli Bagh Mosque – The First Mughal Monument in India Built by Babur in 1527 after his victory in the First Battle of Panipat, Kabuli Bagh Mosque marks the beginning of Mughal architecture in India. Its name honors Babur’s wife, Kabuli Begum",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ibrahim Lodhi’s Tomb – Resting Place of the Last Sultan of Delhi Ibrahim Lodhi, who fell in the First Battle of Panipat (1526), was the last ruler of the Lodhi dynasty. His tomb stands quietly in Panipat, a reminder of the battle that changed India’s history.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hemu’s Samadhi Sthal – Tribute to a Brave Warrior Hemu, the valiant Hindu king who fought Akbar’s forces in the Second Battle of Panipat (1556), was executed after his defeat. His memorial, Hemu’s Samadhi Sthal, honors his courage and sacrifice.",
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Panipat",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/panipat",
+        "retrieved_at": "2026-09-22T18:36:28.246976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

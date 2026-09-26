@@ -1,0 +1,343 @@
+{
+  "destination_id": "IN-BIHAR-PATNA",
+  "destination_name": "Patna",
+  "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaiprakash Narayan International Airport (PAT), Patna"
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Patna Junction Railway Station (PNBE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.0,
+        "maximum_celsius": 26.8
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.1,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 41.2
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 41.4
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.1,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.6,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaiprakash Narayan International Airport (PAT), Patna",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of Bihar, where ancient whispers still echo through the streets, lies a city that has watched the world change for over two millennia. Once the jewel of the Maurya and Gupta empires, Pataliputra stood proudly, its name synonymous with grandeur across the great cities of Asia. Now known as Patna, it’s a tapestry of time where history and modernity intertwine along the sacred Ganges. West Patna, with its British colonial legacy, boasts stately mansions and solemn administrative edifices, standing as silent sentinels to a bygone era of order and elegance. Venture east and you’ll find yourself in the old city’s embrace—a labyrinth of narrow lanes, where every turn reveals a piece of history, from medieval monuments to the vibrant chaos of the bazaars, alive with the spirit of centuries. This city, a living museum, breathes the legacy of empires while pulsing to the rhythm of contemporary life—a place where the past is not just remembered, but relived every day. The capital of Bihar is a modern city with ancient roots going back to 600 BC. During the reign of the Maurya and Gupta empires, then known as Pataliputra, was renowned as one of the great cities of Asia, but today it is a congested urban sprawl, stretching along the banks of the Ganges. West Patna, laid out by the British, has gracious mansions and administrative buildings, while the eastern end comprises the old city, a warren of crowded lanes surrounding medieval monuments and bustling bazaars.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Patna’s signature landmark, the Golghar (literally “roundhouse”), is an extraordinary dome that resembles a giant beehive. Built in 1786 by Captain John Garstin as a silo to store grain during the famines that occurred frequently in those days, the Golghar was never actually put to use. The structure is 125 m (410 ft) wide at the base and gradually tapers up to a height of 29m (95ft). Two external staircases spiral upwards along its sides, with platforms to rest on along the way. The idea was to haul the grain up and pour it down a hole at the top into the dome’s pit, which had a capacity of 124,285 tonnes. A remarkable echo can be heard inside the structure. During the monsoon, the dome’s summit offers impressive views of the Ganges which, in this season, can swell to a width of 8 km (5 miles). Some remarkable treasures are displayed in the Patna Museum . Among them is the Mauryan-era (probably 3rd century BC) polished stone image of the Didarganj Yakshi (female attendant), considered a masterpiece of Indian sculpture. Other highlights include Gandharan-style statues of Bodhisattvas; outstanding Buddha images in bronze and black stone, dating from the Pala period (8th–12th centuries); terracotta figurines, ancient Buddhist scriptures, and a collection of Tibetan thangkas. The museum also boasts a 15-m (49-ft) long fossilized tree trunk, believed to be 200 million years old. Founded in 1900, the Khudabaksh Library has a renowned collection of rare Persian and Arabic manuscripts, including a group of beautiful illuminated medieval Korans, and superb Mughal miniature paintings. Its rarest exhibits are volumes salvaged from the sacking of the Moorish University in Cordoba, Spain, in the 11th century, though how they found their way to India still remains a mystery.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This historic Sikh gurdwara, Harmandir Sahib marks the birthplace of the firebrand tenth guru, Gobind Singh, who was born here in 1666. Regarded as one of the four holiest Sikh shrines, the marble temple was built in the 19th century by Maharaja Ranjit Singh. On the floor above the main sanctum is a museum with the guru’s relics.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Jalan Museum also known as Qila (“Fort”) House, museum’s eclectic collection, gathered by a 19th-century ancestor of the Jalan family, includes Chinese paintings, Mughal jade and silverware, Napoleon’s bed and Marie Antoinette’s Sèvres porcelain. Qila House itself is an interesting structure, built on the ruins of a 16th-century fort constructed by the Afghan ruler, Sher Shah Suri. The Kumrahar Site contains the ruins of the ancient city of Pataliputra. Excavations have unearthed elaborately carved wooden ramparts, polished sandstone pillars, and the remains of a vast Mauryan assembly hall that is said to have stood here in the 2nd century BC. A museum here displays some of these finds, which date from an era when Patna was described by Megasthenes, the Greek envoy to the Mauryan court, as “a city of light, where even wooden walls shine bright as glass”.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maner , 30 km (19 miles) west of Patna, is a major centre of Islamic learning. It has the fine 16th-century mausoleum of the Sufi saint Hazrat Makhdum Yahya Maneri. It is also famous for laddoos, a confection made of gram flour and molasses.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The dusty town of Sasaram, a three-hour drive west of Patna on the historic Grand Trunk Road, is famous for the Mausoleum of Sher Shah Sur, the great Afghan ruler. This mid-16th-century architectural masterpiece is, to quote architectural historian Percy Brown, a testament to, “the aesthetic capacity of the Indian architect at its greatest, and his genius at its highest”. With a spectacular setting in the middle of an artificial lake, the pyramidal sandstone structure rises in five tiers to a height of 45 m (148 ft). The first two tiers comprise a stepped basement and a high terrace that seems to emerge from the water, with a pavilion at each corner. The octagonal tomb is set on this plinth and tapers towards the dome in three elegant layers of arches, crenellated parapets, and small pillared kiosks. The broad dome is crowned by a large gilded lotus finial. All these elements combine to create a superbly proportioned structure that appears to float above the lake. Curiously, the tomb is orientated eight degrees off its main axis – a mistake that the architect, Aliwal Khan, has skilfully disguised. The brilliant yellow and blue tiles are still seen in places. Nearby is the tomb of Sher Shah’s father, Hasan Sur, built by the same architect.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sonepur, north of Patna, across the 7.5 km (5 mile) long Mahatma Gandhi Bridge over the Ganges, is the little town of Sonepur, known for its annual mela, reputedly the largest livestock fair in Asia. The month-long fair begins on the full moon of Kartik Purnima, which usually falls in October or November. The mela site is a sandy bank at the confluence of the Ganges and Gandak rivers and attracts millions of sadhus, pilgrims, and local rural families, as well as livestock traders from all over India. On sale are elephants, camels, horses and cows, and an array of exotic birds. As a sideshow to the buying and selling of animals, grain, and fodder, are several troupes of folk singers and magicians, nautanki (vaudeville) groups, dance bands, wrestlers, and gymnasts, all exhibiting their skills on the sands. In between trading and entertainment, everyone takes a holy dip in the river during this most auspicious period in the Hindu calendar. The state tourism department sets up a tourist village a week in advance of the fair, and cottages and tents can be booked at their office in Patna. Even if buying an elephant (prices begin at about US$200) is not on a visitor’s agenda, the Sonepur Mela, with its colourful combination of religion, entertainment, and commerce, is an unforgettable experience.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Takht Sri Harminder Sahib is the holy birthplace of the revered Sri Guru Gobind Singh Ji Maharaj.",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the essence of Patna through shopping",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling the scrumptious flavours of Patna",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the entertainment and vibrancy of Patna",
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Patna",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/patna",
+        "retrieved_at": "2026-09-22T18:36:24.486136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

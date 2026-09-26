@@ -1,0 +1,89 @@
+{
+  "destination_id": "IN-KERALA-MUNNAR",
+  "name": "Munnar",
+  "state_or_ut": "Kerala",
+  "region": null,
+  "description": null,
+  "travel_styles": [
+    "scenic",
+    "nature",
+    "wellness"
+  ],
+  "best_for": [
+    "tea plantations",
+    "mountains",
+    "nature",
+    "trekking",
+    "couples",
+    "family"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [],
+  "season_profile": null,
+  "ideal_duration_days": [
+    3,
+    5
+  ],
+  "budget_tier": null,
+  "activities": [
+    {
+      "name": "tea plantation tours",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "trekking",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "hiking",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "mountain biking",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "camping",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Kerala cuisine",
+    "tea"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Cochin International Airport (COK), Cochin Coimbatore International Airport (CJB), Coimbatore Madurai Airport (CIB), Madurai Thiruvananthapuram International Airport (TRV), Thiruvananthapuram"
+    ],
+    "railway_station": [
+      "Aluva Railway Station (AWY) Ernakulam Town Station(ERN) Ernakulam South Junction (ERS)"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "notes": "Richer seed record; verify live operational details before display.",
+  "data_quality": "high",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Munnar",
+      "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

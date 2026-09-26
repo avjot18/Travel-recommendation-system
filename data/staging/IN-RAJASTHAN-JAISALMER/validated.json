@@ -1,0 +1,443 @@
+{
+  "destination_id": "IN-RAJASTHAN-JAISALMER",
+  "destination_name": "Jaisalmer",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaisalmer Airport (JSR), Jaisalmer Jodhpur Airport (JFR), Jodhpur"
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jaisalmer Railway Station (JSM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.6,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.6,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 43.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 46.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 45.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.6,
+        "maximum_celsius": 40.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.5,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.5,
+        "maximum_celsius": 30.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Jaisalmer, the ‘Golden City’ of India, where time seems to have stood still and history is brought to life. This enchanting city located in the heart of the Thar Desert, is a traveller's delight with grand fortresses, ancient temples, tranquil lakes, and mesmerising sand dunes. Steeped in rich cultural heritage, Jaisalmer exudes an old-world charm that is hard to resist. A thriving centre of trade and commerce since medieval times, the grandeur and opulence of Jaisalmer’s rich past are still reflected in its imposing palaces, ornate havelis, and colourful bazaars. And yet, Jaisalmer offers far more than a peep into its awe-inspiring past. It adds a thrill to your visit with a diverse range of activities, from desert safaris and camel rides to camping, folk dances, and music performances. With its vivid mix of colours, sights, sounds, and tastes, Jaisalmer is truly an extraordinary destination.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the captivating world of Jaisalmer, where history, mystery, and natural beauty converge to offer an unforgettable experience. Jaisalmer traces its inception to the 12th century. As per legend, Raja Rawal Jaisal was looking for a new location for his capital when he met a sage who told him about a prophecy by Lord Krishna that a descendant of his Yaduvanshi clan would establish a new kingdom at this site, atop Trikuta Hill. As the story goes, he was told that Lord Krishna had blessed the spot, and a fort built there would be almost invisible to enemies. It was at that very site where he built the magnificent Jaisalmer Fort, the city's most prominent attraction and a stunning UNESCO World Heritage Site, which rises like a gigantic mirage out of the sands of Thar desert. The only ‘living fort’ in Rajasthan, it has nearly 3000 residents within its walls, along with temples, shops and restaurants. Nearby, the haunting allure of Kuldhara, an abandoned village steeped in mystery and intrigue, draws you in to explore its mystical folklore. And the Akal Wood Fossil Park takes you on a journey through time, where prehistoric fossils offer a glimpse into the Earth's ancient past, while the natural splendour of Gadisar Lake presents an oasis of serenity amidst the arid surroundings. Come, discover the beauty of Jaisalmer's fascinating history.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Each step at the heritage sites of Jaisalmer reveals tales of a glorious past. Once you have explored the city’s pièce de résistance Jaisalmer Fort, a UNESCO World Heritage Site and a “living fort” that stands majestically like a steep cliff of 30 feet, there’s plenty more to discover. Admire the architectural brilliance of Nathmal-ki-Haveli, where intricate carvings and stunning designs tell stories of bygone eras, inviting you to step back in time. Marvel at the stunning Salim Singh ki Haveli and Mandir Palace, architectural marvels that showcase the opulence and splendour of Rajasthan's royal heritage. Visit Bada Bagh, where royal cenotaphs pay tribute to the revered Maharajas of Jaisalmer, preserving their legacy for generations to come. Pay tribute to the valour of soldiers at the Longewala War Memorial, a poignant reminder of their heroic sacrifice during battle. With each heritage site you explore, Jaisalmer invites you to immerse yourself in its rich history and timeless beauty, promising a journey through the ages.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the spiritual essence of Jaisalmer, where the spirit of divinity whispers through its holy temples. Explore the intricately carved group of seven Jain temples within Jaisalmer Fort, where spirituality merges with history, offering a glimpse into the timeless traditions of the region. Go further to pay homage at the revered Tanot Mata Temple, a revered shrine that is said to offer divine protection for our brave soldiers, standing strong near the Longewala border. Delve into the architectural marvels of Lodhruva, where the ancient Jain temple stands as a testament to Rajasthan's rich cultural heritage, adorned with ornate gateways and intricate stone carvings. Experience the multi-faith devotion at Ramdevra Temple, where people from all walks of life gather to honour the saint revered across faiths. In the land of the Golden City, let the spirit of divinity guide you on a journey to inner peace.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Jaisalmer, evenings are more than just a transition from day to night—they're a celebration of cultural richness and tradition. The people of Jaisalmer know how to enjoy themselves. Unlike an urban metropolis, evenings in the desert sands bring alive the cultural traditions. The city offers a variety of music and dance performances every evening, offering a window into the cultural traditions of the region. While visiting Jaisalmer, be sure to check out the entertainment options at the hotel or campsite where you’re staying as many organise folk music and dance performances right on their own premises. Join the fun at the Desert Festival, a three-day extravaganza held amidst the sand dunes near the Golden City, showcasing the colourful Rajasthani folk culture through puppet shows, camel races, and lively folk dances. Experience the fervour of the Gangaur Festival, celebrated for 18 days with devotion to Lord Shiva and Goddess Parvati, especially by women, adding a touch of spirituality to the city's atmosphere. Don't miss the Ramdevra Fair near Pokhran, where devotees gather to sing devotional songs in honour of Baba Ramdevji, creating an ambiance of faith and celebration under the desert sky. Whether you're enjoying the entertainment at your hotel or campsite or soaking in the festive atmosphere, Jaisalmer promises a celebration of tradition, culture, and the spirit of togetherness like never before.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaisalmer is synonymous with the arts. Tradition and creativity intertwine here to create enthralling performances and cherished handicrafts of the region. Witness the enchanting art of Kathputli, a unique puppeteering tradition that brings Rajasthan's rich history and mythology to life through intricate string puppets. Feel the rhythm of Rajasthan's folk traditions with Ghoomar, a dance celebrating community and tradition, passed down through generations to captivate audiences with its energy and grace. Experience the graceful movements of the Kalbelia dance, performed by the famed snake-charmers of Rajasthan, as they pay homage to their centuries-old cultural heritage with swirling skirts and shimmering jewellery. And journey to Barmer, a handicraft hub in the heart of the desert, where exquisite hand-block printing, wood carving, and intricate pottery await to enchant you with their beauty and craftsmanship. Explore the artistic wonders of Jaisalmer and immerse yourself in a world of creativity and culture.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Jaisalmer isn't just an activity, it's a journey into the heart of Rajasthan's handicraft culture. With labyrinthine bazaars overflowing with exotic souvenirs waiting to be cherished. No visit to Jaisalmer is complete without picking up a gorgeous souvenir of ethnic wear. Pick from a wide variety of ghagras, sarees, dupattas, kurtis, skirts, scarves, even turbans and more. Discover exquisite applique work, mirror work and gota work on traditional batik, tie & dye and block prints. As is evident as soon as you land in Jaisalmer, Rajasthani women and men are fond of wearing jewellery. No surprise then that you will find exquisite silver, gold and gemstone jewellery in the local bazaars here. Not to forget the exquisite ‘juttis’ – traditional leather footwear with bright embroidered patterns – and camel hide products, all showcasing the rich craftsmanship of local artisans. Whether you're exploring the diverse offerings of Sadar Bazaar, the ancient charm of Bhatia Bazaar, or the treasures of jewellery at Sonaron ka Bas, each market promises a unique shopping experience for you to take home a piece of Rajasthan's heritage to treasure forever.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Feel the rush as you embark on a heart-pounding jeep safari across the majestic sand dunes of the Thar Desert, with the wind in your hair and the desert landscape stretching endlessly before you. For those craving an extra dose of excitement, dune bashing offers an exhilarating ride like no other, as you navigate the rugged terrain in a sturdy 4x4 vehicle. Quad biking takes you on a thrilling journey across the golden dunes, while parasailing offers a bird's eye view of the spectacular desert landscape. And for a taste of tradition, hop on a camel for a leisurely safari through the undulating sand dunes, or experience the magic of camping under the starry desert sky.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If Jaisalmer is a visual wonder on steroids, its culinary delicacies are not far behind. The unique treats with their aromatic spices and flavours will have you craving for more. Succumb to the temptation of its mouth-watering street foods like Mirchi Bhajiya and Pyaz ki kachori, along with its local coolers like Kesariya Thandai and Makhania Lassi, the perfect pick me up in its hot and arid climate. If you’d like to check out some authentic Rajasthani meals, you might want to try Dal Baati Choorma, Gatte ki sabzi, Kadhi, Ker Sangri or the non-vegetarian speciality - Rajasthani Laal Maas. While you will find these offerings at most local eateries, an unforgettable Jaisalmer experience is an authentic Rajasthani meal at one of the many picturesque rooftop restaurants with a view of the city skyline.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Jaisalmer, nature reveals its raw and captivating beauty, inviting you to explore its vast expanse of golden sands and serene oases. Witness the spellbinding sunrise and sunset over the majestic sand dunes of the Thar Desert, where you can engage in thrilling activities like camel rides and desert safaris. Immerse yourself in the tranquility of Gadisar Lake, a serene oasis nestled within the heart of the city, offering peaceful boat rides and breath-taking views of the surrounding landscape. For a glimpse into the diverse wildlife of the region, embark on a safari adventure in the Desert National Park, home to exotic species like the Great Indian Bustard and a myriad of migratory birds. Experience the unparalleled magic and wonders of nature in desert sands.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The allure of Jaisalmer is incomparable. The majestic beauty of the landscape. The rhythmic beats of folk music and dance. The thrill of adventure amidst the golden sands of the desert. It has something for everybody. And with the best time to visit spanning from November to March, when temperatures are mild and outdoor excursions are at their peak, plan your winter escapade to the magic of Jaisalmer now.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the outskirts of Jaisalmer, Kuldhara is a hauntingly beautiful but deserted village.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend has it that the village was abandoned due to an unfathomable tragedy , and almost a thousand residents vanished overnight without a trace. No one has been able to settle here ever since.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spanning 21 hectares, the Akal Wood Fossil Park was once a forest approximately 180 million years ago. Over time, the area got submerged in the sea, leaving behind fossilised tree trunks that are now on display at the park.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Tanot Mata temple , located close to the India-Pakistan border, gained nationwide fame during the India-Pakistan wars of 1965 and 1971, as despite heavy shelling in the area, none of the bombs that fell around the temple exploded.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The exquisitely carved Nathmal ki Haveli was built by two architect brothers who began the construction of the haveli simultaneously from opposite ends, creating two similar but asymmetrical halves.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Thar Desert is a vast, arid region in northwest India known for its unique sand dunes, camel safaris, and mesmerising desert landscapes.",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Less than a hundred Great Indian Bustard remain in the wild, with around 70 of those being in and around the Desert National Park .",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of golden beauty and natural wonders",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through its religious spots in Jaisalmer",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enter Jaisalmer's treasure-filled markets",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Jaisalmer's culinary kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage Clear all Show results",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jaisalmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer",
+        "retrieved_at": "2026-09-22T18:36:43.864081+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

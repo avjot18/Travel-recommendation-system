@@ -1,0 +1,148 @@
+{
+  "destination_id": "IN-TELANGANA-HYDERABAD",
+  "name": "Hyderabad",
+  "state_or_ut": "Telangana",
+  "region": null,
+  "description": "Hyderabad is an officially listed tourism destination in Telangana, India. It is best treated as a urban, heritage, food travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "urban",
+    "heritage",
+    "food",
+    "culture",
+    "nature"
+  ],
+  "best_for": [
+    "city breaks",
+    "history",
+    "food",
+    "forts"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 11.5,
+      "maximum_celsius": 33.0
+    },
+    "february": {
+      "minimum_celsius": 14.6,
+      "maximum_celsius": 36.0
+    },
+    "march": {
+      "minimum_celsius": 18.1,
+      "maximum_celsius": 39.4
+    },
+    "april": {
+      "minimum_celsius": 20.3,
+      "maximum_celsius": 41.2
+    },
+    "may": {
+      "minimum_celsius": 21.8,
+      "maximum_celsius": 42.8
+    },
+    "june": {
+      "minimum_celsius": 21.2,
+      "maximum_celsius": 40.6
+    },
+    "july": {
+      "minimum_celsius": 21.0,
+      "maximum_celsius": 35.2
+    },
+    "august": {
+      "minimum_celsius": 20.8,
+      "maximum_celsius": 33.8
+    },
+    "september": {
+      "minimum_celsius": 20.4,
+      "maximum_celsius": 34.1
+    },
+    "october": {
+      "minimum_celsius": 17.2,
+      "maximum_celsius": 33.9
+    },
+    "november": {
+      "minimum_celsius": 13.6,
+      "maximum_celsius": 32.5
+    },
+    "december": {
+      "minimum_celsius": 11.3,
+      "maximum_celsius": 31.6
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Telangana",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "railway_station": [
+      "Hyderabad Deccan Railway Station (HYB)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Telangana",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Hyderabad",
+      "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

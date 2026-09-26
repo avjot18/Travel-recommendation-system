@@ -1,0 +1,319 @@
+{
+  "destination_id": "IN-CHHATTISGARH-RAIPUR",
+  "destination_name": "Raipur",
+  "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Raipur Junction Railway Station (R)"
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 9.4,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.1,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 43.0
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 45.3
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 44.1
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.1,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 10.4,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Swami Vivekananda International Airport (RPR), Raipur",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raipur, the capital of Chhattisgarh, is the kind of city that grows on you. It's a place where ancient traditions and modern ambitions come together in a lively dance. At first glance, you might be struck by Raipur's industrial might. After all, this is one of India's biggest steel markets, home to over 200 mills and six significant plants. The whirring machinery and towering smokestacks are hard to miss. But scratch beneath that industrial surface, and you'll discover a city brimming with soul. While the old part of the city stands steeped in history, offering glimpses of the region's rich heritage and culture, its modern counterpart is a glistening example of a smart city. Once home to several prosperous kingdoms, Raipur is a blend of rich heritage and modern lifestyle. Wander through the vibrant markets, and you'll find traditions lovingly preserved for generations. From the intricate handicrafts to the mouthwatering street food, the city's rich culture is on full display. A visit to the city's numerous temples and serene lakes showcases the rich natural and cultural diversity of Chhattisgarh. Come, let’s explore the city in all its glory!",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raipur is a city steeped in history, evident in its architectural styles and cultural influences. The city's story begins with the Kalchuri kingdom, a powerful dynasty that left its mark on the region with intricate temples like the Shree Rajiv Lochan Temple in Ranjim. The Marathas followed, adding forts and palaces, and their legacy lives on in local festivals and traditions that blend seamlessly with the Kalchuri heritage. While the Mughals never directly ruled Raipur, their influence seeped in through trade, enriching the city with new architectural styles, culinary practices, and art forms. Finally, the British Raj saw Raipur develop into a significant administrative centre. So, a visit to Raipur is not just a vacation; it's a journey through time! Today, Raipur’s rich heritage is evident in its architecture, customs, and cultural traditions, making it a fascinating destination for history enthusiasts. Walking through the old city, you can see colonial-era buildings alongside ancient temples and forts. For a deep dive into the city’s layered past, visit the Mahant Ghasidas Memorial Museum. Here, you'll encounter a treasure trove of rich artefacts, archaeological finds, intricately crafted idols, ancient stone inscriptions, and rare coins. Then, head to Town Hall to explore the history of the various dynasties and kings that once ruled Raipur. Don’t miss visiting Purkhauti Muktangan, a tranquil garden that beautifully showcases Chhattisgarh’s rich culture.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Raipur boasts a bustling cityscape, it also offers a surprising oasis for nature lovers. Nandanvan Zoo and Safari is a must-visit, home to over 700 animals, including tigers, leopards, and endangered species. Explore its four safaris for an up-close encounter with the wonders of the wild. For a serene escape, head to Vivekananda Sarovar, Raipur's oldest lake. This island garden, also known as Budha Talab, offers a peaceful retreat amidst the city. Nature enthusiasts can also visit Kankali Talab, a lake steeped in legend, where you can still witness meditating sages around the pond. Experience a unique blend of education and recreation at Urja Park or Energy Park. This park, dedicated to raising awareness about renewable energy sources, offers a beautiful escape with lush greenery, vibrant flowers, captivating fountains, and even waterfalls. For those seeking a grand adventure, a day trip to Ghatarani Waterfalls, 85 km from Raipur, is an unforgettable experience. As the largest waterfall in Chhattisgarh, its cascading waters and stunning natural beauty promise a breathtaking escape into the heart of nature.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek spiritual solace, Raipur is a haven. Embark on a journey through time at Dudhadhari Temple , the city's oldest. This unique temple boasts artworks dating back to the Ramayana period, making it a treasure trove for history and religion enthusiasts. Delve into the Mahamaya Temple, an ancient temple that not only attracts devotees but also historians and archaeologists. Here, witness a mesmerising natural phenomenon – at sunset, the sun's rays bathe the feet of Maa Mahamaya in a golden glow, while at sunrise, they illuminate Maa Samaleswari. Beyond these two iconic sites, seek blessings at the popular Banjara Mata Temple, Shree Hatkeshwar Mahadev Temple, Kevalya Dham Jain Temple or venture further to the Jatmai Temple, 85 km from the city.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raipur's culinary scene is vibrant, offering a delightful mix of traditional Chhattisgarhi cuisine and irresistible street food. Wander through bustling markets like Telibandha Talab, MG Marg, Netaji Chowk, or Sadar Bazaar, and let the sights and aromas ignite your senses. Here, you'll find familiar favourites like Bhajiya, Samosa, Jalebi, Pani Puri, and Chaat, but prepared with a special Raipur twist that will tantalise your taste buds. Venture beyond the familiar and taste traditional Chhattisgarhi dishes. Savour Muthia, steamed dumplings bursting with flavour, or Farra, rice flour dumplings filled with savoury chana dal. Aamat, a unique dish similar to Sambar, offers a tangy and comforting experience, while Bara, crispy lentil vadas, and Bafauri, a healthy snack, are perfect for a quick bite. Finish your exploration with Khurmi, a sweet delicacy that will leave you wanting more. Raipur's food scene is a delightful adventure waiting to be savoured!",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raipur's culture is a vibrant reflection of the wider Chhattisgarh region. Chhattisgarhi, the local language, fills the air with a melodic rhythm, while unique music and dance styles like Raut Nacha, Dewar Nacha, Panthi & Soowa, Padki, and Pandwani bring the cultural spirit to life. Be mesmerised by Pandwani, a captivating musical narration of the Mahabharata epic. Raipur's festivals are a kaleidoscope of colours, energy, and traditions. Witness Hareli in July or August, the festival of greenery, where farmers worship their farm equipment and cows, seeking blessings for a bountiful harvest. Join the festivities as children engage in playful competitions and showcase their skills on \"Gedi,\" a bamboo walking contraption. Hareli marks the beginning of the festive season, leading into Pola and Teej. Pola is a vibrant celebration dedicated to bullocks. Witness the reverence for these majestic animals through worship ceremonies, and get your adrenaline pumping at the exciting bull races. Teej, a women's festival, fills the city with a sense of togetherness and devotion.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into Raipur’s sleek shopping malls or trendy cafes, and you'll see how the city has embraced modernity with open arms. This city strikes a perfect balance between honouring its roots and welcoming progress. At the heart of it all is a warm, welcoming spirit that pervades every corner. Raipur is the kind of place where strangers become friends over a shared plate of piping hot kachori or a cup of fragrant chai. When night falls, Raipur transforms into a different kind of adventure. The city's vibrant nightlife comes alive with trendy bars and clubs buzzing with music and energy.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Raipur is during the winter, from November to February, when the weather is cool and pleasant. This is ideal for comfortably exploring the city's many attractions.",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring religious and heritage marvels in Raipur",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the culinary delights of Raipur",
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Raipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/raipur",
+        "retrieved_at": "2026-09-22T18:36:24.987242+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

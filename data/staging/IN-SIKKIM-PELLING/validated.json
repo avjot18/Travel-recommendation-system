@@ -1,0 +1,154 @@
+{
+  "destination_id": "IN-SIKKIM-PELLING",
+  "destination_name": "Pelling",
+  "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra Pakyong Airport (PYG), Gangtok"
+      },
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Jalpaiguri Railway Station (NJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling, a charming town in West Sikkim, India, offers stunning views of the Kanchenjunga range, the world’s third-highest mountain. Standing at an elevation of 2,150 meters (7,050 feet), Pelling is a haven for nature lovers and adventure seekers. The town beautifully captures the essence of Sikkim with its lush landscapes, cascading waterfalls, and rich cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling is blessed with unparalleled natural beauty, with panoramic views of the Kanchenjunga range, the third-highest peak in the world, dominating the skyline. The town is enveloped in a blanket of mist and clouds, adding to its ethereal charm and mystical allure. The verdant valleys and meandering rivers that crisscross the landscape provide an ideal setting for outdoor activities such as trekking, mountain biking, and birdwatching. The Khangchendzonga National Park , a UNESCO World Heritage Site, is a haven for biodiversity enthusiasts, with its diverse flora and fauna offering glimpses into the rich ecological tapestry of the region.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling is steeped in history and culture, with influences from Tibetan Buddhism, Nepali traditions, and indigenous customs shaping its identity over the centuries. The town is dotted with ancient monasteries, gompas, and stupas, which serve as spiritual sanctuaries and centers of worship for the local community. The Pemayangtse Monastery , founded in the 17th century, is one of the oldest and most revered monastic institutions in Sikkim, housing rare artifacts, thangka paintings, and sacred relics. The Sangachoeling Monastery , perched atop a hilltop overlooking Pelling, offers panoramic views of the surrounding landscape and serves as a tranquil retreat for meditation and contemplation.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling is a paradise for adventure enthusiasts, offering a wide range of adrenaline-pumping activities amidst breathtaking natural surroundings. The nearby Yuksom Valley is a popular trekking destination, with trails leading to pristine lakes, alpine meadows, and high mountain passes. The Khecheopalri Lake , also known as the \"Wishing Lake,\" is revered by Buddhists and Hindus alike and is believed to possess sacred powers of healing and purification. For those seeking more leisurely pursuits, the Rimbi Waterfall and Kanchenjunga Falls offer opportunities for picnicking, photography, and relaxation amidst the soothing sounds of cascading water.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling is a spiritual sanctuary, where pilgrims and seekers from all walks of life come to seek solace, enlightenment, and inner peace. The Tashiding Monastery , nestled in the verdant hills of West Sikkim, is a revered pilgrimage site associated with Guru Padmasambhava, the patron saint of Sikkim. The annual Bumchu Festival, held at the Tashiding Monastery, is a colorful celebration of faith and devotion, where devotees gather to receive blessings and participate in sacred rituals. The nearby Rabdentse Ruins , the ancient capital of Sikkim, offer a glimpse into the region's royal heritage and architectural splendor, with its crumbling palaces and temples evoking a sense of nostalgia and wonder.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling is renowned for its warm hospitality and vibrant community spirit, with locals welcoming visitors with open arms and genuine warmth. The town's bustling markets, teahouses, and eateries offer a taste of local cuisine and culture, with dishes such as momos, thukpa, and yak butter tea tantalizing the taste buds. The annual Pang Lhabsol Festival, celebrated with great fervor and enthusiasm, showcases the rich cultural heritage and diversity of Sikkim through music, dance, and traditional performances. Visitors to Pelling are treated not just as tourists but as honored guests, invited to partake in the joys and festivities of local life.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pelling in Sikkim is a veritable paradise for nature lovers, adventure enthusiasts, and spiritual seekers alike. From its breathtaking landscapes and cultural landmarks to its warm hospitality and vibrant community spirit, Pelling offers visitors a truly immersive and transformative experience. As we navigate the challenges of the modern world, places like Pelling serve as reminders of the timeless beauty and enduring spirit of the natural world, inviting us to reconnect with ourselves, each other, and the wonder of life itself.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khecheopalri Lake in Pelling is believed to be a wish-fulfilling lake where prayers are said to be answered. Locals believe that the lake is protected by guardian spirits, adding to its mystical allure.",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spiritual spots in Pelling - A journey of serenity and divinity",
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pelling",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/pelling",
+        "retrieved_at": "2026-09-22T18:36:44.891590+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

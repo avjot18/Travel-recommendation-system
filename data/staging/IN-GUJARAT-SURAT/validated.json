@@ -1,0 +1,330 @@
+{
+  "destination_id": "IN-GUJARAT-SURAT",
+  "destination_name": "Surat",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Surat Railway Station (ST)"
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 23.5
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.5,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.8,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat International Airport (STV), Surat",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the vibrant city of Surat, located on the banks of the Tapi River in Gujarat, India. This dynamic city boasts a history that spans over 600 years, making it one of the oldest in Gujarat. Founded in the 15th century by a Brahmin named Gopi, Surat swiftly flourished into a bustling port city and a pivotal hub for maritime trade along the Arabian Sea coast. Throughout the ages, Surat has seen the ebb and flow of empires, from the Mughals to the British, each leaving an indelible mark on the city's architectural landscape and cultural fabric. Experience the captivating tapestry of Surat's history, culture, and entrepreneurial dynamism.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat has long been recognized as the \"Gateway to the World\" because of its strategic location on the trade routes between India and the rest of the world. During the medieval period, Surat became a major centre for global trade, drawing in merchants from Europe, Africa, Arabia, and Southeast Asia. The city's busy port became associated with wealth, prosperity, and cultural exchange, creating a cosmopolitan atmosphere that still exists today.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat is even globally recognised as the \"Diamond Capital of the World,\" responsible for nearly 90% of the world's diamond cutting and polishing. The city's diamond industry, which has its roots in the 1960s, has thrived due to Surat's skilled workforce, advanced technology, and entrepreneurial drive. Today, Surat's diamond merchants and artisans continue to impress the world with their exceptional craftsmanship and precision.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "That's right, there's still more to this amazing city! Surat has a rich textile heritage dating back centuries. Its famed silk and cotton fabrics have been coveted by traders and connoisseurs around the globe. The city's textile industry boomed during the Mughal era and remains a powerhouse of innovation and craftsmanship. It produces a dazzling array of sarees, dress materials, and embroidered fabrics that showcase Surat's artistic prowess and cultural legacy.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat's culinary scene is an exciting blend of flavours. Its street food stalls, eateries, and restaurants offer a wide variety of Gujarati, Indian, and international cuisines. From the iconic Surati Undhiyu and Locho to the delicious Ghari and Surti Sev Khamani, Surat's culinary delights showcase the city's diverse cultural influences and gastronomic heritage.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When it comes to architecture and heritage, Surat is home to a wealth of historical buildings, mosques, temples, and step-wells that display the city's rich architectural legacy. Landmarks like the Surat Castle, Dutch Garden, and Sardar Patel Museum provide insights into Surat's colonial past and cultural heritage, encouraging visitors to explore its historic streets and neighbourhoods.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat is a city known for its lively festivals and vibrant celebrations that bring communities together in a spirit of joy and cultural exchange. From the colourful Navratri celebrations and the exhilarating kite-flying extravaganza of Uttarayan to the deep sense of celebration during Eid and Diwali, the festivals in Surat unite people from all walks of life in a spirit of togetherness and joy. Steeped in history, thriving in the present, and promising a bright future, Surat is a testament to the unwavering spirit of Gujarat and India. Whether you're exploring its rich heritage, indulging in its diverse culinary offerings, or admiring its entrepreneurial spirit, Surat offers an enchanting journey!",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat is known as the Diamond City of India because 90% of the world's rough diamonds are cut and polished in the city.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat is renowned for its lip-smacking street food - The city is a food lover’s paradise, offering a wide range of delicious dishes like Undhiyu, Locho, and Surti Ghari.",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surat is famous for its intricate Zari work .",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Surat",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/surat",
+        "retrieved_at": "2026-09-22T18:36:27.222041+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

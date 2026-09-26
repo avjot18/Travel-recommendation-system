@@ -1,0 +1,82 @@
+{
+  "destination_id": "IN-SIKKIM-GANGTOK",
+  "name": "Gangtok",
+  "state_or_ut": "Sikkim",
+  "region": null,
+  "description": null,
+  "travel_styles": [
+    "scenic",
+    "cultural",
+    "relaxation"
+  ],
+  "best_for": [
+    "mountains",
+    "culture",
+    "nature",
+    "couples",
+    "family"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [],
+  "season_profile": null,
+  "ideal_duration_days": [
+    3,
+    6
+  ],
+  "budget_tier": null,
+  "activities": [
+    {
+      "name": "sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "nature trips",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Sikkimese cuisine",
+    "Tibetan food"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Bagdogra International Airport (IXB), Bagdogra Pakyong Airport (PYG), Gangtok"
+    ],
+    "railway_station": [
+      "New Jalpaiguri Junction Railway Station (NJP)"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "notes": "Richer seed record; verify live operational details before display.",
+  "data_quality": "high",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Gangtok",
+      "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

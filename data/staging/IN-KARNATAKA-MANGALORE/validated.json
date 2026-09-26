@@ -1,0 +1,382 @@
+{
+  "destination_id": "IN-KARNATAKA-MANGALORE",
+  "destination_name": "Mangalore",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Mangaluru International Airport (IXE), Mangalore"
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mangalore Central Railway Station (MAQ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangaluru International Airport (IXE), Mangalore",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the pristine coastline of Karnataka, India, lies the captivating city of Mangalore, a vibrant tapestry of culture, commerce, and coastal charm. With its rich history dating back centuries, coupled with its modern dynamism, Mangalore beckons travellers with a blend of tradition and progress.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangalore's history traces back to ancient times when it served as a flourishing port city, known then as 'Mangalapura'. The city's strategic location on the Arabian Sea made it a hub for maritime trade, attracting traders from distant lands such as Arabia, Persia, and Europe. Over the centuries, Mangalore witnessed the rise and fall of dynasties, from the Kadambas and the Vijayanagara Empire to the Portuguese, who left an indelible mark on the city's cultural landscape.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the 16th century, the Portuguese explorer Vasco da Gama landed on the shores of Mangalore, marking the beginning of European influence in the region. The Portuguese established a fort and several churches, including the iconic St. Aloysius Chapel, adorned with exquisite frescoes depicting scenes from the life of Jesus Christ.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangalore's cosmopolitan character is reflected in its diverse population, comprising people from various ethnicities, religions, and linguistic backgrounds. The city's cultural fabric is woven with threads of Tulu, Konkani, Kannada, and Malayalam influences, creating a vibrant tapestry of traditions, festivals, and cuisine.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangalore tiles: The city is renowned for its distinctive red clay roof tiles, known as Mangalore tiles, prized for their durability and weather resistance.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udupi cuisine: Mangalore is famous for its delectable cuisine, heavily influenced by Udupi cuisine, characterised by dishes such as dosa, idli, neer dosa, and Mangalorean fish curry.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Educational hub: With prestigious institutions like Mangalore University and Manipal Academy of Higher Education, Mangalore has emerged as an educational hub, attracting students from across the country and beyond.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coffee capital: Karnataka's coastal region, including Mangalore, is known for its coffee plantations, producing some of India's finest Arabica and Robusta coffee beans.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beaches: With its pristine beaches and palm-fringed coastline, Mangalore offers a paradise for beach lovers and water sports enthusiasts. Popular beaches include Panambur Beach, Tannirbavi Beach, and Someshwara Beach, where visitors can relax, swim, and soak in the sun's rays.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Temples and churches: Mangalore boasts a rich architectural heritage, with ancient temples and historic churches dotting its landscape. The Kadri Manjunath Temple, Mangaladevi Temple, and St. Aloysius Chapel are among the city's most revered religious landmarks.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panambur Beach: With its golden sands and gentle waves, Panambur Beach is a popular spot for leisurely walks, water sports, and beachside picnics. Sultan Battery: This historic watchtower, built by Tipu Sultan in the 18th century, offers panoramic views of the Arabian Sea and insights into Mangalore's maritime history. Kadri Manjunath Temple : Dating back to the 10th century, this ancient temple dedicated to Lord Shiva features intricate carvings, a sacred tank, and a serene ambiance conducive to meditation and reflection. Ullal Beach : Located just outside the city, Ullal Beach offers pristine sands, swaying palm trees, and breathtaking sunset views, making it a popular spot for picnics and leisurely strolls. Mangaladevi Temple : Dedicated to the goddess Mangaladevi, this ancient temple is believed to be the namesake of the city and is a sacred pilgrimage site for devotees. Pilikula Nisargadhama: This sprawling eco-tourism park offers a range of attractions, including a zoo, botanical garden, boating facilities, and an artificial lake, providing a perfect retreat for nature lovers and families. Mangalore's allure lies in its seamless blend of history, culture, and natural beauty. Whether exploring its ancient temples, savouring its culinary delights, or simply soaking in the coastal charm, visitors are sure to be enchanted by the city's timeless appeal and warm hospitality. Mangalore invites travellers to embark on a journey of discovery, where every street corner, temple, and beach tells a story of the city's rich heritage and vibrant spirit.",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Must-visit places in Mangalore for adventure and spirituality",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food guide - 10 must-try local dishes in Mangalore",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A summer weekend in the placid coast of Karnataka",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the thrill of adventure sports in vibrant Mangalore",
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mangalore",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mangalore",
+        "retrieved_at": "2026-09-22T18:36:32.012812+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

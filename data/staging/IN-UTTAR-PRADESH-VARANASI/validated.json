@@ -1,0 +1,505 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-VARANASI",
+  "destination_name": "Varanasi",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lal Bahadur Shastri International Airport (VNS), Varanasi"
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Varanasi Junction Railway Station (BSB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.5,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.7,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 45.2
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 44.4
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.4,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.8,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 29.1
+      },
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lal Bahadur Shastri International Airport (VNS), Varanasi",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Some call it Kashi, some call it Banaras, Varanasi as we know it is one of the world's oldest living cities, and among the most revered spiritual destinations in India. It has drawn pilgrims, philosophers, seekers, artists and travellers to its ancient riverfront.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is tough to describe Kashi in one word. It is ancient, vibrant, chaotic, spiritual, artistic and yet deeply human. Its very name evokes images of temple bells, rising incense, sacred chants drifting over the Ganges, labyrinthine lanes, silk weavers at work, and sunsets painted in gold. According to legends, this is the city where the first ray of light touched the earth, earning it the name Kashi , derived from the Sanskrit word Kash , meaning \"to shine\". Revered as the City of Light , Varanasi is believed to have been founded by Lord Shiva himself and remains one of Hinduism's seven sacred cities.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Varanasi, life and death coexist parallelly. A wedding procession may pass a funeral cortege. Priests perform ancient rituals while students rush to class. The sacred and the ordinary are intertwined. Mark Twain fittingly captured its essence best when he wrote \"Banaras is older than history, older than tradition, older even than legend.\" The city's enduring appeal lies in this remarkable ability to remain timeless while continuously reinventing itself.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The riverfront is the defining image of Varanasi, where iconic ghats line the sacred Ganga, each with its own history and significance. Dashashwamedh Ghat is renowned for the spectacular Ganga Aarti held every evening, while Assi Ghat is famous for Subah-e-Banaras, a serene sunrise gathering of yoga, music and devotion. Manikarnika Ghat , one of Hinduism's holiest cremation grounds, offers a profound reflection on the cycle of life, death and liberation, making the ghats the spiritual heart of the city.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Temples and sacred spaces are woven into the very fabric of Varanasi, earning it the reputation of being a city of temples. At its spiritual heart stands the revered Kashi Vishwanath Temple , dedicated to Lord Shiva and visited by millions of devotees each year. The city is also home to the unique Bharat Mata Temple , which houses a remarkable marble relief map of India, as well as the peaceful Sankat Mochan Temple dedicated to Lord Hanuman. Another architectural gem is the Nepali Temple , often called the \"Little Khajuraho of Varanasi,\" admired for its intricate wooden craftsmanship and distinctive Nepali design. Complementing these sacred landmarks, a dawn boat ride on the Ganga offers an unforgettable experience, as priests offer prayers, devotees take ritual dips and temple bells echo across the river while the ghats glow in the soft golden light of sunrise.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Few cities have inspired as many saints, poets, philosophers and seekers as Varanasi. From Kabir , Guru Nanak Dev Ji , Sant Ravidas and Tulsidas to generations of sages and scholars, countless luminaries have been drawn to its timeless spiritual energy. Their legacy continues through the city's temples, ghats, cultural traditions and renowned institutions such as Banaras Hindu University , Sampurnanand Sanskrit University and Mahatma Gandhi Kashi Vidyapith , reinforcing Varanasi's enduring reputation as a centre of learning and spiritual thought.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If the ghats are Varanasi's soul, its lanes are its heartbeat. The city's famous galis form a maze of winding passages that reveal hidden shrines, centuries-old homes, bustling markets, street food stalls and unexpected moments of everyday life. Famous lanes such as Vishwanath Gali , Kachauri Gali and Thatheri Bazaar offer some of the most authentic experiences in the city. There is no better way to discover Varanasi than by simply wandering. Turn a corner, and you may find a tiny temple. Turn another, and you may stumble upon a craftsman weaving silk, a musician practising ragas, or a shop selling sweets prepared using recipes passed down for generations.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varanasi is one of India's most celebrated cultural capitals and proudly holds recognition in UNESCO's Creative Cities Network as a City of Music . The city gave the world legends such as Ustad Bismillah Khan , whose shehnai became synonymous with Banaras, classical vocalist Girija Devi , sitar maestro Pandit Ravi Shankar , and kathak exponent Birju Maharaj . Music here flows through temple courtyards, riverside gatherings, festivals and family traditions. Whether it is a morning raga drifting across the ghats or a classical recital under the stars, music remains woven into the city's everyday life.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its temples and ghats, Banaras is equally renowned for its rich artisanal heritage. For centuries, skilled craftsmen have transformed silk, metal, wood, glass and stone into exquisite works of art that reflect the city's traditions and identity. The crown jewel of these crafts is the world-famous Banarasi Silk Saree , celebrated for its fine silk, intricate zari work and timeless elegance, and protected with GI status. The region is also known for its GI-certified crafts, including Banaras Zari Work , Gulabi Meenakari , Metal Repoussé , Wooden Lacquerware and Toys , Glass Beads , and Soft Stone Jali Work . Together, these traditions showcase the remarkable creativity of Banaras, where generations of artisans continue to preserve age-old skills while keeping the city's artistic legacy alive.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food is an integral part of the Banaras experience, reflecting the city's rich culture, traditions and love for flavour. Its vibrant culinary scene is known for iconic delicacies such as Kachori Sabzi , Tamatar Chaat , Choora Matar , Malaiyyo , Chena Dahi Vada and the ever-popular Banarasi Lassi and Banarasi Chai . From hearty breakfasts and flavour-packed street food to delicate seasonal sweets, every dish carries a distinct local character. Whether enjoyed at a bustling roadside stall or a generations-old eatery, the flavours of Banaras offer a memorable journey into the city's living culinary heritage.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No culinary journey through Banaras is complete without tasting Banarasi Paan , an iconic preparation of betel leaf and aromatic fillings that has become synonymous with the city itself. A GI-recognized cultural symbol, it remains one of Banaras' most famous gastronomic ambassadors.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varanasi celebrates its spiritual and cultural heritage throughout the year, but certain festivals transform the city into a truly unforgettable spectacle. Dev Deepawali , held fifteen days after Diwali, is the most iconic, when thousands of lamps illuminate the ghats and their reflections shimmer across the Ganga. Other major celebrations include Ganga Mahotsav, which showcases the region's music, dance and crafts, and the renowned Ramnagar Ramlila , a grand month-long enactment of the Ramayana. Festivals such as Nag Nathaiya , Dhrupad Mela and Buddha Purnima further highlight the city's rich cultural diversity and living traditions.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just a short drive from Varanasi lies Sarnath , one of the most sacred Buddhist sites in the world. It was here that Lord Buddha delivered his first sermon after attaining enlightenment, setting in motion the spread of Buddhism. The site offers a serene contrast to the intensity of Varanasi, with its monasteries, stupas, museums and landscaped grounds. For many visitors, a journey to Varanasi feels incomplete without experiencing the quiet spirituality of Sarnath.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varanasi can be visited throughout the year, but the most pleasant time to explore the city is from October to March , when the weather is ideal for walking through the ghats, exploring the old city, taking boat rides on the Ganga and attending cultural events. Winter mornings often bring a mystical fog over the river, adding to the city's timeless charm.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking Varanasi at its most spectacular, planning a visit around Dev Deepawali , Ganga Mahotsav , Mahashivaratri , or the city's many cultural and religious festivals offers an unforgettable experience. During these celebrations, the ghats, temples and streets come alive with music, rituals, processions and thousands of glowing lamps.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Varanasi is served by Lal Bahadur Shastri International Airport (VNS) , located approximately 25 km from the city centre. The airport offers regular domestic and international connections, making Varanasi easily accessible from major Indian cities and select overseas destinations.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: One of North India's most important railway hubs, Varanasi enjoys excellent rail connectivity with major cities across the country. Major Railway Stations are Varanasi Junction (BSB), Banaras Railway Station (BSBS), Pt. Deen Dayal Upadhyaya Junction (DDU), Kashi Railway Station (KEI) .",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Varanasi is well connected by a network of national highways and expressways. Comfortable bus services, taxis and self-drive options link the city with nearby destinations such as Prayagraj, Ayodhya, Lucknow, Bodh Gaya and Gorakhpur, as well as major metropolitan centres across North India.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During the 18 th century Ramnagar Fort used to be the treasury for a military base.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ancient Hindu epic Ramcharitmanas was written at Tulsi Manas Mandir by the revered poet-saint, Goswami Tulsidas ji.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bharat Mata Temple uniquely depicts India as a goddess. The temple also features a 75-foot-tall statue of Mother India.",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to the historic Chaukhandi Stupa",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Let us walk in Varanasi for 7 riveting stories",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Our special find in Benaras - The house of Lahiri Maharaj",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling shopper’s paradise in Varanasi",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Unmissable travel and food experiences",
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Click to Visit Kashi Tourism",
+        "Click Here To Download Kashi Broucher"
+      ],
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Varanasi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi",
+        "retrieved_at": "2026-09-22T18:36:48.548772+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

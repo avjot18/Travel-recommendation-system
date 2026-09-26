@@ -1,0 +1,282 @@
+{
+  "destination_id": "IN-WEST-BENGAL-DURGAPUR",
+  "destination_name": "Durgapur",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kazi Nazrul Islam Airport (RDP), Durgapur"
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Durgapur Railway Station (DGR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 41.1
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.7,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kazi Nazrul Islam Airport (RDP), Durgapur",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the Burdwan district Durgapur seamlessly blends industrial prowess with natural beauty. Established in the late 1950s, Durgapur was envisioned as a hub for the steel industry, earning it the moniker \" The Steel City of West Bengal.\" One can visit the Durgapur Steel Plant to see the steel-making process up close. Despite its industrial roots, Durgapur boasts several architectural wonders that are worth exploring. The Deul Park , a sprawling green oasis in the heart of the city, is home to the remarkable Shiva Temple, a stunning example of Bengali temple architecture. The park itself offers a serene respite from the city's hustle and bustle, with its well-manicured gardens and tranquil ponds. Durgapur is surrounded by natural beauty, making it an ideal destination for nature enthusiasts. The Bidhannagar Lake, a picturesque water body, offers opportunities for boating and picnicking amidst lush greenery. The nearby Bakreshwar Temple is one of the 51 Shakti Peethas where there is a temple dedicated to Adi Shakti, Also popular spot for rejuvenation and relaxation. For those who wish to enjoy picnics or parks, Durgapur has a host of them to explore. Troika Park and Anand Amusement Park both offer fun filled rides, water slides, and entertainment options for all ages. For a fun outdoor picnic make a beeline to Durgapur Barrage, a beautiful, scenic spot on the Damodar River with amazing views and serenity.",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "West Bengal is known for its deep cultural connect and Durgapur is no different. Its cultural landscape is enriched by its vibrant festivals and traditions. The city celebrates various festivals with great fervour, including Durga Puja, Diwali and Chhath Puja. Visitors can immerse themselves in the local culture by attending these celebrations and savouring the delectable Bengali cuisine. Durgapur is shopaholics delight and offers a delightful shopping experience with its bustling markets and modern malls. The City Centre mall, one of the largest shopping complexes in the region, is a hub for retail therapy, housing a wide array of local and international brands. For entertainment, the city boasts several multiplexes, providing a variety of cinematic experiences. Explore local markets like Benachity Market and Bidhannagar Market for shopping and experiencing the local culture. If you are seeking a blend of urban and natural delights, Durgapur is a destination that promises to captivate and enchant. Embrace the city's unique charm and discover the many facets that make it a sought after destination of West Bengal.",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Durgapur is well-connected to major cities, especially Kolkata by air, train and road, making it easily accessible for travellers. The nearest airport to Durgapur is Kazi Nazrul Islam Airport in Andal, which is located about 15 kilometres away. The airport is well-connected to major cities like Kolkata, Delhi and Mumbai. From the airport, you can hire a taxi or take a bus to reach Durgapur. Durgapur is a major railway junction and is well-connected to various cities across India. It is served by several trains, including express and superfast trains. Durgapur Railway Station is located in the heart of the city, making it convenient for travellers. Durgapur is well-connected by road to major cities like Kolkata, Asansol and Ranchi. National Highway 19 (Durgapur Expressway) passes through Durgapur. You can either drive down or take a bus from nearby cities.",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It was the dream of former prime minister Jawaharlal Nehru and chief minister Bidhan Chandra Roy.",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It's one of India's main steel-producing centres.",
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Durgapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/durgapur",
+        "retrieved_at": "2026-09-22T18:36:51.160268+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "destination_id": "IN-GUJARAT-PORBANDAR",
+  "destination_name": "Porbandar",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Porbandar Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the pristine coastline of Gujarat, India, Porbandar is a city steeped in history, culture, and maritime heritage. Let's embark on a journey through time to uncover the captivating story of Porbandar:",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar boasts a rich historical legacy dating back centuries. It is believed to have been an important port city since ancient times, with references in texts dating back to the Maurya and Gupta periods. Over the centuries, Porbandar flourished as a prominent trading centre, attracting merchants from distant lands and fostering cultural exchange.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of Porbandar's most famous claims to fame is that it is the birthplace of Mohandas Karamchand Gandhi, also known as Mahatma Gandhi, the father of the Indian nation. Gandhi's childhood home, now known as Kirti Mandir , has been transformed into a museum and memorial dedicated to his life and teachings, attracting visitors from around the world.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar's maritime heritage is deeply ingrained in its identity. The city's bustling port has been a lifeline for trade and commerce for centuries, connecting Gujarat to distant shores across the Arabian Sea. Fishing is also a significant part of Porbandar's economy, with its fishermen renowned for their seafaring skills and traditional fishing techniques.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar is a melting pot of religious diversity, with Hinduism, Islam, Jainism, and Christianity coexisting harmoniously. The city is dotted with temples, mosques, churches, and Jain derasars, each offering a glimpse into the spiritual tapestry of the region. The Sudama Mandir, dedicated to the friendship between Lord Krishna and Sudama, is a notable religious landmark in Porbandar.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar's ghats, or waterfront steps, offer serene vistas of the Arabian Sea and serve as gathering places for locals and visitors alike. The Ram Krishna Mission Beach and Chowpatty Beach are popular destinations for leisurely strolls and picnics, while the temples of Porbandar, such as the Bharat Mandir and Gayatri Mandir, attract devotees seeking solace and spiritual fulfilment.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar celebrates a myriad of cultural festivals throughout the year, including Navratri, Diwali, and Janmashtami. These vibrant celebrations feature traditional music, dance, and cuisine, providing a colourful glimpse into the city's rich cultural heritage and religious traditions.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar is a pilgrimage destination for followers of Mahatma Gandhi, who flock to Kirti Mandir to pay homage to the iconic leader. The museum houses artifacts, photographs, and memorabilia associated with Gandhi's life and struggles, offering insights into his philosophy of truth, nonviolence, and social justice.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar's culinary scene is a delightful fusion of Gujarati, Kathiawadi, and coastal flavors. Local delicacies such as dhokla, khandvi, and seafood dishes tantalize the taste buds of visitors, offering a gastronomic journey through the diverse culinary traditions of the region. Porbandar, with its rich history, cultural diversity, and maritime charm, is a hidden gem waiting to be explored. Whether tracing the footsteps of Mahatma Gandhi, exploring its ancient temples, or savouring its culinary delights, Porbandar offers a captivating journey through Gujarat's coastal heritage and timeless traditions. Visit the attractions - Kirti Mandir, Sudama Temple, Porbandar Beach, Shree Hari Temple, Porbandar Bird Sanctuary, Jambuvan Caves, and many more.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar has a thriving fishing industry, with its fishermen known for their expertise in traditional fishing techniques.",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Porbandar offers a variety of culinary delights, including traditional Gujarati cuisine and coastal delicacies",
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Porbandar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/porbandar",
+        "retrieved_at": "2026-09-22T18:36:26.921393+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

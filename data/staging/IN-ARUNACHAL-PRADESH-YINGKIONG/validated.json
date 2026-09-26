@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-YINGKIONG",
+  "destination_name": "Yingkiong",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Pasighat Railway Station (PAGT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the scenic landscapes of Arunachal Pradesh, Yingkiong is a serene town that serves as the administrative headquarters of the Upper Siang district. Surrounded by lush green hills, dense forests, and the flowing Siang River, this quiet Himalayan settlement offers an untouched charm that sets it apart from more frequented destinations.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Known for its peaceful atmosphere and raw natural beauty, Yingkiong is an ideal retreat for travellers seeking solitude, cultural depth, and a closer connection with nature in the Eastern Himalayas.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated along the banks of the majestic Siang River —one of the primary tributaries of the Brahmaputra—Yingkiong holds both geographical and administrative importance in the Upper Siang region.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Its location makes it a gateway to remote and lesser-explored parts of Arunachal Pradesh, offering access to pristine forests, tribal villages, and high-altitude landscapes that remain largely untouched by mainstream tourism.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The surrounding environment remains largely unspoiled, allowing visitors to experience nature in its purest form—far removed from the noise and congestion of urban life.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The town is deeply rooted in the traditions of the Adi tribe , one of the major indigenous communities of the region. Known for their warm hospitality, vibrant festivals, and rich cultural practices, the Adi people contribute significantly to the identity of Yingkiong.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors can gain insights into traditional lifestyles by exploring nearby villages, observing local architecture, and engaging with community life that continues to thrive in harmony with nature.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Siang River is central to Yingkiong’s appeal. Visitors can enjoy scenic views along its banks, while seasonal activities like river rafting offer an adventurous way to experience its powerful currents and vast expanse.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The surrounding hills and forests provide excellent opportunities for trekking, hiking, and nature walks. These trails lead through rich biodiversity zones, offering glimpses of the region’s flora and fauna while immersing visitors in untouched landscapes.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring nearby tribal villages allows travellers to experience the authentic culture of the Adi community. From traditional homes to local crafts and daily practices, these interactions offer a deeper understanding of life in the Eastern Himalayas.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Yingkiong offers a laid-back and peaceful environment , making it perfect for travellers looking to disconnect and unwind. However, being a remote destination, infrastructure remains basic, with accommodation primarily available in guesthouses and homestays.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mobile connectivity may be limited, and facilities such as ATMs can be scarce, so visitors are advised to plan accordingly and carry essential supplies.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Yingkiong is between October and April , when the weather is pleasant, skies are clear, and outdoor activities can be enjoyed comfortably.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The monsoon season (May to September) brings heavy rainfall, which enhances the region’s greenery but may also lead to landslides and challenging travel conditions.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Dibrugarh Airport (DIB) in Assam, located approximately 200–220 km from Yingkiong. From the airport, travellers can hire taxis or use shared transport to reach Pasighat or directly proceed towards Yingkiong by road.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The closest railway station is Pasighat Railway Station , while Tinsukia Railway Station (in Assam) is another major railhead with better connectivity to cities across India. From these stations, visitors can continue their journey by road to Yingkiong.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Yingkiong is primarily accessible by road from Pasighat and Itanagar . The route, though scenic, passes through hilly terrain and may be challenging during monsoon months. Taxis and shared vehicles are available, making road travel the most common way to reach the town.",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indian citizens require an Inner Line Permit (ILP)",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Foreign nationals require a Protected Area Permit (PAP)",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Yingkiong",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/yingkiong",
+        "retrieved_at": "2026-09-22T18:36:22.616978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

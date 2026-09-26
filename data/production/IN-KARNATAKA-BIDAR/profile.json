@@ -1,0 +1,153 @@
+{
+  "destination_id": "IN-KARNATAKA-BIDAR",
+  "name": "Bidar",
+  "state_or_ut": "Karnataka",
+  "region": null,
+  "description": "Bidar is an officially listed tourism destination in Karnataka, India. It is best treated as a heritage, nature, beach travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "nature",
+    "beach",
+    "wildlife",
+    "food",
+    "adventure"
+  ],
+  "best_for": [
+    "heritage",
+    "beaches",
+    "wildlife",
+    "food",
+    "road trips"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 12.3,
+      "maximum_celsius": 32.4
+    },
+    "february": {
+      "minimum_celsius": 14.9,
+      "maximum_celsius": 35.5
+    },
+    "march": {
+      "minimum_celsius": 17.2,
+      "maximum_celsius": 39.1
+    },
+    "april": {
+      "minimum_celsius": 19.6,
+      "maximum_celsius": 40.9
+    },
+    "may": {
+      "minimum_celsius": 20.9,
+      "maximum_celsius": 42.2
+    },
+    "june": {
+      "minimum_celsius": 20.3,
+      "maximum_celsius": 40.2
+    },
+    "july": {
+      "minimum_celsius": 20.0,
+      "maximum_celsius": 34.1
+    },
+    "august": {
+      "minimum_celsius": 19.5,
+      "maximum_celsius": 32.2
+    },
+    "september": {
+      "minimum_celsius": 19.4,
+      "maximum_celsius": 32.8
+    },
+    "october": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 33.4
+    },
+    "november": {
+      "minimum_celsius": 14.6,
+      "maximum_celsius": 31.7
+    },
+    "december": {
+      "minimum_celsius": 12.3,
+      "maximum_celsius": 30.7
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Karnataka",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Bidar Airport (IXX), Bidar Rajiv Gandhi International Airport (HYD), Hyderabad Kalaburagi Airport (GBI), Kalaburagi"
+    ],
+    "railway_station": [
+      "Bidar Railway Station (BIDR)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Karnataka",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Bidar",
+      "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

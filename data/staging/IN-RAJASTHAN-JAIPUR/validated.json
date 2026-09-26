@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-RAJASTHAN-JAIPUR",
+  "destination_name": "Jaipur",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI), Jaipur"
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jaipur Junction Railway Station (JP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.5,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.7,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.6,
+        "maximum_celsius": 37.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 44.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 44.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 39.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.4,
+        "maximum_celsius": 37.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.4,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur International Airport (JAI), Jaipur",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur, a bustling modern metropolis, is one of the three points of the Golden Triangle, which comprises Delhi, Agra, and Jaipur. It was established in 1727 by Kachhwaha Rajput ruler Jai Singh II, who named it after himself. Jaipur is beieved to be India’s first planned city in the Common Era and was developed by Vidyadhar Bhattacharya. Built according to the principles of Vastu Shastra, which divides the city into nine blocks - two for state buildings and palaces and seven for public blocks. The city's fortification walls and gates ensure its security. As the capital city of Rajasthan, it is known worldwide for its beautiful gems and blends the charm of its ancient heritage with all the benefits of a metropolis.In 1876, to welcome the Prince of Wales, Maharaja Ram Singh of Jaipur had the entire city painted pink, as the colour symbolised hospitality. Today, all buildings in Jaipur are still required to be painted pink. Thus, earning its moniker 'Pink City'.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culinary heritage of Jaipur is a tapestry of flavours and aromas that reflect the cultural diversity of Rajasthan. Some of the must-try dishes in Jaipur include the iconic Dal Bati Churma, a traditional platter consisting of lentil curry, ghee-infused dumplings and a sweet dessert. Kachoris, a beloved Rajasthani snack, are also a must-try. During festivals, Ghevar, a sweet made with flour and ghee, is a popular delicacy. Another popular street food is Mirchi Bada, which is a spicy delight made with tangy green chillies. Ker Sangri, a traditional Rajasthani preparation, combines dried berries and beans, showcasing the region's love for unique ingredients and bold flavours. Bajra ki Roti, a traditional Rajasthani bread made from pearl millet flour, is a regional staple and is often paired with Lehsun Chutney, a flavourful garlic chutney. Non-vegetarians can head for Laal Maas, a signature Rajasthani dish, which is a spicy mutton curry made with red chillies, aromatic spices and ghee, resulting in tender, succulent meat that combines bold flavours.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur is known for its heritage comprising magnificent forts, palaces, and timeless structures. The Hawa Mahal , also known as the Palace of Winds, a beautiful architectural marvel built in 1799, is an iconic symbol of Jaipur's finesse. Its intricate latticework and 953 windows allowed royal women to observe street festivities without being seen. The City Palace blends Rajasthani and Mughal architecture and showcases artefacts, manuscripts, and the famous Peacock Gate. The palace complex includes the Mubarak Mahal and Chandra Mahal, offering a glimpse into Jaipur's regal past. The Amber Fort , also known as Amer Fort, is a UNESCO World Heritage Site with a history dating back to 1592. The Jal Mahal is a beautiful palace that rises from the centre of Man Sagar Lake. The palace appears to float on the sparkling lake, yet a closer glance reveals it is partially buried. Only one of its five storeys is currently visible. Although the building is inaccessible, Nahargarh Fort provides a glimpse of its past magnificence. Jantar Mantar is another UNESCO World Heritage Site that you will not want to miss, especially if you are interested in astronomy. The Jantar Mantar is a collection of 19 astronomy instruments constructed between 1728 – 1734 AD. It houses the world's largest stone sundial. Nahargarh Fort was once a critical component in the city's defence. Attached to the Jaigarh Fort , it provides panoramic views of Jaipur as well as the Jal Mahal, which is no longer open to tourists. Jaigarh Fort is positioned 500 feet above sea level in the Aravalli Mountain range. It was built in 1726 to guard the Amer Fort Palace complex and provides a view of both the Amer Fort and Maota Lake.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur is a city in India that is famous for its vibrant culture, traditional crafts, and bustling markets. The city is known for its music and dance performances, including the Ghoomar and Chari dances, where dancers perform on a pot with a lit diya on their heads. Folk songs are also sung using traditional instruments such as the sarangi, ektara, and jhalar. There are many cultural festivals throughout the year in Jaipur, including the Gangaur Festival, Jaipur Literature Festival, Kite Festival, Teej Festival, Shitla Mata Fair, Chaksu Fair, Elephant Fair, and Chhat ka Mela in Amber during Navratri. Jaipur is also a popular destination for shoppers. Nehru Bazar, Johari Bazaar Road, Bapu Bazar, Tripolia Bazar, and Chandpole Bazar are some of the most popular shopping areas in the city. Johari Bazaar Road is famous for Rajasthani jewellery, clothing, and textiles. Bapu Bazar is known for Mojari, camel skin shoes, and Rajasthani textiles. Tripolia Bazar is a bustling market with bangles, fabrics, carpets, and rugs, while Chandpole Bazar is known for intricately carved marble statues.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur's well-developed transportation system makes it easily accessible and convenient to visit. It is 5 hours from Delhi via the well-maintained NH 8, both private and state-run buses are available. Jaipur’s International Airport receives direct international flights from Muscat, Singapore, Abu Dhabi etc. and 23 domestic flights from most major Indian cities. Jaipur Railway Station offers direct trains to major cities, including Delhi via Shatabdi, Rajdhani, Duronto, and Mandor Express. The luxurious \"Palace on Wheels\" train offers opulence and luxury and a glimpse of the life of the Maharaja.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur was the first planned city of India.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur has the biggest circular park in Asia, built on a highway traffic circle.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur hosts the world's largest literary festival for free, every year.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur is the only city that is home to three forts , and more than five palaces.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If Surat is the biggest market for Diamonds , then Jaipur is for Emerald!",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur is famous for its block print textiles, known for Sanganeri prints, Bagru prints, and Dabu prints. The unique aspect of this block printing is the use of natural colors in the process.",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Best Jaipur viewpoints – where to go for Jaipur sunset views",
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+        "retrieved_at": "2026-09-22T18:36:43.675668+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

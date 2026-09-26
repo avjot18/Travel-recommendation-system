@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-TAMIL-NADU-COIMBATORE",
+  "destination_name": "Coimbatore",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Coimbatore International Airport (CJB), Coimbator"
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Coimbatore Junction Railway Station (CBE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.2,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 37.9
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 37.8
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore International Airport (CJB), Coimbator",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore Junction Railway Station (CBE)",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Coimbatore, an alluring blend of stunning natural beauty, rich cultural heritage, and a booming textile industry that gives it the moniker \"Manchester of South India.\" Surrounded by the breath-taking landscapes of the UNESCO World Heritage Site, the Western Ghats, Coimbatore is home to a host of scenic attractions, including rolling hills, cascading waterfalls, serene lakes, and awe-inspiring wildlife sanctuaries. Its scenic location in the lap of lush green hills also ensures that Coimbatore enjoys a delightful climate year-round. Rooted in history, Coimbatore, once known as Kongunadu and now affectionately called Kovai, has a rich heritage dating back to the era of tribal chiefs known as Koyan or Kovan. Over the centuries, it has been home to illustrious dynasties such as the Rashtrakutas, Chalukyas, Pandyas, Hoyasalas, and the Vijayanagaras. It was renamed Coimbatore by the British who also established numerous textile mills here.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take an unforgettable journey to Coimbatore, where ancient temples and modern masterpieces beckon with their allure. Discover a magnificent temple dedicated to a protective Goddess, where devotees seek blessings and meditate in its peaceful ambiance. Explore a 1500 year old temple steeped in historical and spiritual significance. Delve into the mystique of an ancient temple renowned for its healing powers and serene atmosphere. Immerse yourself in wonder at an awe-inspiring masterpiece that stands as the world's largest bust sculpture of Lord Shiva, embodying the essence of divine grace and spiritual enlightenment. Journey into the rich history of law enforcement with artifacts and exhibits offering insights into the evolution of the police force in the region. Check out the bustling ‘knitwear capital’ of India, explore a fascinating collection of vintage vehicles, or simply let yourself relax and rejuvenate at a yoga retreat. With a rich blend of heritage and modernity, Coimbatore has something for everyone.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore is a land where ancient traditions are still held in high esteem. The city is home to some of the most revered and peaceful spiritual destinations in India. Discover the magnificence of Bannari Amman Temple, an ancient temple dedicated to the powerful Goddess Mariamman. Also known as Bannari Amman , the Goddess is believed to protect her devotees from misfortune. Experience the spiritual energy at Marudhamalai Temple , a 1200-year-old temple dedicated to Lord Murugan, standing tall amidst the highlands of Western Ghats and said to have healing powers. Marvel at the religious, cultural, and historical significance of the 1500-year-old Arulmigu Pateeswarar Swamy Temple, a masterpiece of Dravidian architecture with intricate carvings, paintings, and sculptures. Gaze in awe at Asia's largest stone idol of Lord Ganesha at the stunning Puliakulam Vinayagar Temple. Standing 20 feet tall and weighing 190 tonnes, the idol is said to have been sculpted from a single rock by 21 highly skilled sculptors over six years. And immerse yourself in a serene yogic experience at the Adiyogi Shiva Statue, the world's largest bust sculpture of Lord Shiva. Rising majestically against the magnificent Velliangiri Mountains where Lord Shiva is believed to have meditated, the 112 feet tall statue is located at the remarkable Isha Yoga Complex. Experience the wonder of this masterpiece designed by Sadhguru Jaggi Vasudev. Whether you're a devotee seeking solace or a curious traveller looking to explore the religious history of the region, Coimbatore has a rich array of spiritual places.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore is abuzz all year long with celebrations of festivals and events. The year begins with the joyous atmosphere of Pongal, a four-day harvest festival where people come together to express their gratitude through prayer, colourful decoration, delicious food, and cultural events. Also among the first festivals of the year is Tahipoosam, celebrated in honour of Lord Murugan with elaborate processions, traditional music, dance performances, and fireworks. March witnesses an abundance of festivals in Coimbatore. Sri Koniamman temple Festival is celebrated with a procession of Goddess Sri Koniamman – believed to be the protector of the city – on a beautifully decorated chariot. The Panguni Uthiram festival is celebrated with a grand colourful procession, led by beautifully decorated chariots carrying idols of Lord Shiva and Goddess Parvati. And the Aranganathar Temple Festival, also called Vaikunta Ekadasi festival, is a grand celebration at Aranganathar Temple with beautiful decorations, devotional music, chanting, and the Vaikunta Dwara darshan. In June, the Anthoniar Church Festival is celebrated with prayers, lights, flowers, music, dance, and a procession led by a statue of St. Antony carried on the shoulders of devotees. And the months of November-December witness the beauty of Thirukarthigai, dedicated to Lord Murugan, celebrated with prayers and the lighting of lamps placed in rows along the streets and in front of houses.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the rich heritage of Coimbatore in a variety of attractions. Experience the fascinating history of the state's police force at the Tamil Nadu Police Museum, with its display of old weapons, uniforms, medals, vintage police vehicles and even a mock police station. Marvel at the vintage cars at the Geedee Car Museum with its impressive collection of classic 20th century cars from around the world, including Britain, Japan, France, Germany, and the United States. Learn about the amazing biodiversity of the region at the century old Gass Forest Museum, with its diverse collection of preserved specimens of flora and fauna. Or simply take a walk through the charming town of Tiruppur, the ‘Knitwear Capital’ of India on the banks of the serene Noyyal river. With such diverse sites to discover, Coimbatore promises to delight history enthusiasts and culture seekers alike.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore is truly blessed with nature’s bounties. A visit to Coimbatore provides all that a nature lover could ask for – rolling hills, meandering rivers, spectacular waterfalls, dense alluring forests, exotic plants and animals. Cradled amidst lush green forests, it opens the door to some of the most awe-inspiring and diverse wildlife sanctuaries in India. Take a safari through the Anamalai Tiger Reserve and catch a glimpse of the majestic Bengal tiger or explore the tropical forests of the Silent Valley National Park and spot its rare inhabitants such as the Malabar giant squirrel. For a more immersive experience, head to the Nilgiri Biosphere Nature Park, home to a wide variety of flora, fauna, and over 150 species of butterflies. Get ready to embark on an unforgettable journey into the wild! Experience the beauty of nature in Valparai, a stunning hill station in the Anamalai mountain range, with tea plantations stretching out for miles and several waterfalls, including the stunning Athirapally Falls, one of the largest waterfalls in India. Or head to Pollachi, a beautiful jewel known for its scenic beauty and the location for over 1500 film shoots. Discover the mesmerising Triveni of the South at Bhavani – the confluence of Rivers Bhavani, Kaveri and an invisible water source, Agaya Gangai. Experience the serene and picturesque surroundings of Bhavani Sagar Dam , a popular spot for boating and an excellent spot for bird watching. Do add Vydehi Falls, one of the most sought-after waterfalls in the area, and TNAU Botanical Garden, a mesmerising paradise spread over 300 acres bursting with a rich collection of rare trees, shrubs, and herbs to your Coimbatore itinerary to reconnect with nature and revel in its splendour.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore has a rich tradition of holistic wellness, with a focus on physical, mental, and spiritual wellbeing. Yoga, meditation, naturopathy, and Ayurveda are widely embraced in the city, home to several renowned wellness centres and retreats that offer a variety of services, such as yoga and meditation. The world-renowned Isha Yoga Centre is based in Coimbatore. Founded by Sadhguru Jaggi Vasudev, it offers a comprehensive approach to yoga and meditation, with a focus on inner transformation and personal growth. If you're looking to rejuvenate your mind, body, and soul, Coimbatore is the place to be.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In addition to the thriving contemporary arts, Coimbatore has a rich heritage of folk and traditional arts. One of the most popular art forms in Coimbatore is traditional folk dance, including Karagattam, Kavadi, and Puli Attam. The city is also known for its traditional handicrafts, such as handloom sarees, Toda embroidery and Bhavani Durries. Discover the allure of the exquisite Village Cotton or 'Village Cot' handloom sarees crafted by skilled weavers of Negaman village near Coimbatore. These sarees are made in pure cotton, dyed with natural colours to create intricate designs with heavy cotton threadwork in motifs of parrots, peacocks, paisleys, swans, and elephants. Admire the exquisite beauty of Toda embroidery, a remarkable art form nurtured by the pastoral Toda community. With an intricate blend of red and black threads on white, this embroidery style draws inspiration from nature, with motifs featuring local flowers, animals, and farming nuances. Delve into the stunning art of Bhavani Durry, a centuries-old tradition of carpet weaving from the Coimbatore region. Add a touch of tradition to your home decor with the multicoloured Jamakkalam with its distinctive woven crossbars.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore offers the pure joy of entertainment! Beyond the typical movie theatres, restaurants, and malls, the city boasts of a wide range of exciting options like theme parks, water parks and amusement parks that offer adrenaline-pumping rides and attractions. Experience the thrill of a lifetime with exciting motorsports adventures. Explore the racing tracks at Kari Motor Speedway, which has hosted various national and international events. Feel the rush of speed and power as you witness the rev of engines and the race to the finish line. Golf enthusiasts can hit the links and play a round of golf at one of the city's stunning courses. And with a variety of cultural events and festivals throughout the year, there's never a dull moment in Coimbatore.",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore is indeed a spectacular fusion of nature's wonders, rich heritage, holistic wellness and adventure. The city offers an enchanting experience year-round from its lush green landscapes to ancient temples steeped in history, from its festive spirit to thrills and fun in the lap of nature. For the ultimate experience, plan your visit between September and March to revel in the city's pleasant weather. Get ready for an unforgettable journey, where every moment is filled with excitement and wonder!",
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Coimbatore",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/coimbatore",
+        "retrieved_at": "2026-09-22T18:36:45.157314+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "destination_id": "IN-KERALA-KANNUR",
+  "destination_name": "Kannur",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kannur International Airport (CNN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kannur Railway Station (CAN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur is one of Kerala’s most serene and authentic destinations, offering a rare blend of quiet beaches, living traditions, rich flavours, and beautiful landscapes. Located along the Malabar Coast, Kannur invites travellers to slow down and experience Kerala in a more meaningful way, where culture is lived every day and nature remains refreshingly untouched.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mornings here begin on wide, uncrowded shores, afternoons unfold amid temple rituals and village life, and evenings are spent watching the sun dip into the Arabian Sea. From vibrant folk traditions and sacred spaces to backwaters, forests, and soulful cuisine, Kannur offers a journey shaped by simplicity, depth, and warmth. It is a destination that rewards those who seek calm exploration, cultural immersion, and a genuine connection with place.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur’s coastline is calm, scenic, and refreshingly uncrowded. Muzhappilangad Beach , India’s longest drive-in beach, stretches for four kilometres with firm sands and gentle waves, allowing visitors to drive right up to the sea. It is ideal for long walks, photography, and relaxed family time .",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Payyambalam Beach offers a quieter setting with golden sands and soothing sunsets, perfect for evening strolls and moments of stillness by the Arabian Sea.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur is the cultural heartbeat of North Malabar. It is best known for Theyyam , a powerful ritual art where performers transform into deities through elaborate costumes, rhythmic drums, and intense expressions. Witnessing Theyyam is a deeply immersive experience that stays with you.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The region is also closely associated with Kalaripayattu , one of the world’s oldest martial arts. Demonstrations and traditional training spaces offer visitors a glimpse into Kerala’s warrior heritage.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur’s temples reflect the region’s inclusive and distinctive spiritual traditions. The Parassinikkadavu Muthappan Temple , set along the Valapattanam River, is especially unique, known for its open rituals and the sacred presence of dogs within the temple complex.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forest-fringed Kottiyoor Temple , located near the Western Ghats, draws thousands during its annual monsoon festival, blending devotion with natural beauty.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short drive from Kannur brings you to Thalassery , a historic coastal town known for its role in shaping Kerala’s cultural, literary, and culinary heritage. Influenced by Arab traders and European powers, Thalassery is also celebrated as the birthplace of the iconic Thalassery biryani, made with fragrant jeerakasala rice. Overlooking the Arabian Sea nearby is St. Angelo Fort (Kannur Fort) , a well‑preserved laterite fortress built by the Portuguese in the 16th century. Its massive walls and sea‑facing bastions offer sweeping views and a quiet glimpse into Kannur’s colonial and maritime history, making it a rewarding stop for heritage lovers.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur’s food scene is deeply satisfying and rooted in Malabar traditions. Local kitchens serve iconic dishes such as Thalassery biryani made with aromatic jeerakasala rice, mussel biryani, coconut-based mutton korma, neypathiri and pathiri breads, and rich fish curries. Street-side eateries and small cafés offer authentic flavours that make every meal memorable.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Handloom and handicrafts are integral to Kannur’s identity, it is the largest handloom-producing district in Kerala. Also known for its finely woven textiles like cotton sarees, dhotis, home furnishings and bronze lamps, wooden artefacts, and traditional coir crafts. Visits to local markets and heritage villages allow travellers to engage directly with artisans and take home poignant souvenirs.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Kannur is from October to March , when the weather stays clear, pleasant, and ideal for exploring the city’s beaches, forts, and cultural sites. The sea breeze is comfortable during these months, making outdoor activities enjoyable throughout the day. The monsoon season, from June to September , transforms Kannur into a lush green destination with frequent rainfall, offering a scenic atmosphere for travelers who enjoy the charm of rain-washed landscapes. April and May bring warmer temperatures and higher humidity, typical of Kerala’s summer, though evenings near the coast remain comfortable. This seasonal pattern helps visitors plan their trip based on the experiences they prefer—clear sunny days, monsoon greenery, or calm coastal evenings.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Kannur International Airport (CNN) offers excellent connectivity to major Indian cities and international destinations, especially in the Middle East.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Kannur is well connected by national and state highways to major towns across Kerala and neighbouring states. Regular KSRTC buses and private taxis are easily available.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Kannur Railway Station (CAN) , lies on the west coast railway line and connects Kannur to major cities across India.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kannur is considered the cultural heartland of Theyyam , a powerful ritual tradition performed in village shrines where artists transform into deities through elaborate costumes, music, and sacred storytelling.",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kannur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kannur",
+        "retrieved_at": "2026-09-22T18:36:32.824390+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

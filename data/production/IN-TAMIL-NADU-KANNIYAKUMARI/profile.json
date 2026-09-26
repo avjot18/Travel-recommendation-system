@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-TAMIL-NADU-KANNIYAKUMARI",
+  "name": "Kanniyakumari",
+  "state_or_ut": "Tamil Nadu",
+  "region": null,
+  "description": "Kanniyakumari is an officially listed tourism destination in Tamil Nadu, India. It is best treated as a heritage, spiritual, beach travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "spiritual",
+    "beach",
+    "food",
+    "culture"
+  ],
+  "best_for": [
+    "temples",
+    "heritage",
+    "food",
+    "pilgrimage",
+    "coast"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 21.4,
+      "maximum_celsius": 32.9
+    },
+    "february": {
+      "minimum_celsius": 21.9,
+      "maximum_celsius": 33.8
+    },
+    "march": {
+      "minimum_celsius": 23.2,
+      "maximum_celsius": 34.6
+    },
+    "april": {
+      "minimum_celsius": 23.7,
+      "maximum_celsius": 35.2
+    },
+    "may": {
+      "minimum_celsius": 23.4,
+      "maximum_celsius": 35.2
+    },
+    "june": {
+      "minimum_celsius": 22.4,
+      "maximum_celsius": 33.7
+    },
+    "july": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 33.9
+    },
+    "august": {
+      "minimum_celsius": 22.3,
+      "maximum_celsius": 33.9
+    },
+    "september": {
+      "minimum_celsius": 22.6,
+      "maximum_celsius": 33.6
+    },
+    "october": {
+      "minimum_celsius": 22.4,
+      "maximum_celsius": 32.8
+    },
+    "november": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 32.9
+    },
+    "december": {
+      "minimum_celsius": 21.8,
+      "maximum_celsius": 32.4
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Tamil Nadu",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Thiruvananthapuram International Airport(TRV), Thiruvananthapuram"
+    ],
+    "railway_station": [
+      "Kanniyakumari Railway Station (CAPE)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Tamil Nadu",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kanniyakumari",
+      "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

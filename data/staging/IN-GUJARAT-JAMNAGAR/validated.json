@@ -1,0 +1,357 @@
+{
+  "destination_id": "IN-GUJARAT-JAMNAGAR",
+  "destination_name": "Jamnagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+  "blocks": [
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "On the western coast of Gujarat, where the Arabian Sea sparkles under the golden sun and the air hums with tales of royalty and devotion, lies Jamnagar—a city that is both a historical treasure and a modern marvel. Known as the “Jewel of Kathiawar”, Jamnagar is a destination where palaces whisper stories of kings, temples radiate spiritual serenity, and nature unfolds in its most pristine form. This is not just a city—it’s an experience that lingers in memory like the fragrance of its famous Bandhani fabrics.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Jamnagar begins in 1540 when Jam Rawal , a Jadeja Rajput ruler, founded the city on the banks of the Rangmati and Nagmati rivers. Originally called Nawanagar , it was envisioned as a kingdom of prosperity and culture. Over centuries, Jamnagar grew into a vibrant hub of trade, art, and spirituality, earning its reputation as one of Gujarat’s most enchanting cities.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Today, Jamnagar is a harmonious blend of old-world charm and modern dynamism. Its streets echo with the clatter of brass artisans, its markets burst with colors of Bandhani textiles, and its coastline cradles India’s first Marine National Park —a sanctuary of coral reefs and marine life.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Walk through Jamnagar, and history greets you at every turn. The Pratap Vilas Palace , with its Indo-Saracenic architecture and sprawling gardens, stands as a proud sentinel of royal grandeur. Its ornate balconies and carved pillars narrate tales of opulence from a bygone era.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby, the Lakhota Palace , perched on an island in the middle of Lakhota Lake , is another jewel. Once a fortress, it now houses a museum showcasing artifacts from the city’s regal past—swords, sculptures, and manuscripts that transport you to the days of valor and artistry. The ancient town of Ghumli , another major attraction near Jamnagar, is known for its historic ruins and the famous Navlakha Temple, which showcases intricate Solanki-era architecture. Surrounded by scenic landscapes, the site offers a glimpse into Gujarat’s rich cultural heritage and attracts tourists interested in history, archaeology, and photography.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jamnagar is a city of faith, and its temples are living testaments to devotion. The Swaminarayan Temple , a masterpiece of marble and craftsmanship, radiates serenity and grace. Its intricate carvings and sanctum dedicated to Bhagwan Swaminarayan make it a spiritual epicenter.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Equally captivating is the Bala Hanuman Temple , famous for its continuous chanting of “Ram Dhun” since 1964—a feat that earned it a place in the Guinness Book of World Records . Sit here for a while, and you’ll feel the rhythm of devotion seep into your soul.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its cultural treasures, Jamnagar is a paradise for nature lovers. The Marine National Park , India’s first marine sanctuary, sprawls across 458 sq km in the Gulf of Kutch. Here, coral reefs bloom like underwater gardens, and creatures like octopuses, dolphins, and sea turtles glide through crystal waters.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take a boat ride to Pirotan Island , and you’ll witness a world untouched by time—mangroves swaying in the breeze, migratory birds painting the skies, and tidal pools teeming with marine wonders. For photographers and adventurers, this is a dream come true.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of the city lies Lakhota Lake , a serene expanse that mirrors the changing hues of the sky. Its promenade is perfect for evening strolls, while the island palace adds a touch of romance to the landscape. Feed the ducks, watch the sunset, and let the calmness of the lake wash over you.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No journey is complete without savoring Jamnagar’s culinary delights. From spicy Kathiawadi thalis to sweet treats like ghughra and sutarfeni , the city’s food is a celebration of Gujarat’s rich flavors. Don’t miss the local street food— fafda-jalebi , kachoris , and gathiya served with tangy chutneys.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal season to explore Jamnagar is October to March , when the weather is cool and pleasant. Winter adds a festive charm with cultural events and fairs, while monsoons drape the city in lush greenery.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Jamnagar Airport (8 km from city center), well-connected to major Indian cities. By Rail: Jamnagar Railway Station links the city to Ahmedabad, Mumbai, and Delhi. By Road: Excellent highways connect Jamnagar to Rajkot, Dwarka, and Somnath.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jamnagar is not just a destination—it’s a story waiting to be lived. From the chants of Bala Hanuman Temple to the coral gardens of Marine National Park, from the grandeur of Lakhota Palace to the aroma of Kathiawadi cuisine, every moment here is a brushstroke on the canvas of memory.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its cultural treasures, Jamnagar is a paradise for nature lovers. The Marine National Park, India’s first marine sanctuary, sprawls across 458 sq km in the Gulf of Kutch. Here, coral reefs bloom like underwater gardens, and creatures like octopuses, dolphins, and sea turtles glide through crystal waters. Take a boat ride to Pirotan Island, and you’ll witness a world untouched by time—mangroves swaying in the breeze, migratory birds painting the skies, and tidal pools teeming with marine wonders. For photographers and adventurers, this is a dream come true.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Barabati Stadium was constructed near the ancient Barabati fort and has reportedly been used for hundreds of years as a battleground and recreational area.",
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jamnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+        "retrieved_at": "2026-09-22T18:36:26.472012+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

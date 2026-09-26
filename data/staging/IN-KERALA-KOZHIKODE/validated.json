@@ -1,0 +1,483 @@
+{
+  "destination_id": "IN-KERALA-KOZHIKODE",
+  "destination_name": "Kozhikode",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Calicut International Airport (CCJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kozhikode Railway Station (CLT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode, also known as Calicut, is a destination where centuries of history blend seamlessly with vibrant coastal life. Once celebrated as the legendary City of Spices , Kozhikode was among the world’s most important trading ports during the Middle Ages. Arab, Chinese, and East African traders once thronged its shores, drawn by its spices and maritime wealth. The city entered global history when Vasco da Gama arrived here in 1498, opening new sea routes between Europe and the Malabar Coast.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Today, Kozhikode stands as a dynamic destination that combines historic landmarks, golden beaches, rich traditions, lush landscapes, and a cuisine that is renowned across Kerala. Its bustling streets, heritage quarters, and serene natural escapes promise a deeply immersive travel experience.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With its legendary history, vibrant culture, scenic coastline, rich cuisine, and warm hospitality, Kozhikode offers a travel experience that is both enriching and memorable. Whether exploring ancient trade routes, enjoying sunset beaches, tasting Malabar flavours, or discovering serene backwaters, Kozhikode invites travellers to connect deeply with the soul of Kerala.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode’s historical legacy is etched into its landmarks and public spaces. Kappad Beach holds immense global significance as the site where Vasco da Gama first set foot in India. A stone inscription commemorating this moment still stands here, overlooking a clean, open stretch of sea framed by rocky outcrops.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of the city lies Mananchira Square , once part of the royal palace complex of the Zamorins. Today, it is a serene urban park with a central water body, musical fountain, sculptures, and shaded walkways that reflect the cultural soul of Kozhikode.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "History enthusiasts can also visit the Kunjali Marakkar Museum , dedicated to the legendary naval admiral who fiercely resisted Portuguese rule. The museum houses weapons, war relics, and exhibits that narrate the maritime resistance of the Malabar Coast.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode is a cultural crossroads shaped by Arab, European, and indigenous influences. Traditional art forms such as Theyyam bring folklore and spirituality to life through vivid costumes and ritual performances. The region is also deeply associated with Kalaripayattu , one of the world’s oldest martial arts.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadakara, the birthplace of the legendary warrior Thacholi Othenan , remains closely tied to this martial tradition. Sites such as Thacholi Manikkoth Kalari and the revered Lokanarkavu Temple attract visitors interested in Kerala’s warrior lore and temple architecture. The historic Tali Shiva Temple , dating back to the 14th century, is another architectural gem known for the annual Revathi Pattathanam cultural gathering.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode’s coastline offers a mix of lively public beaches and historically significant shores. Kozhikode Beach is known for its lively atmosphere, food stalls, sunsets, and local interactions, while Kappad Beach offers a quieter, contemplative experience.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the sea, Kozhikode’s backwaters present a tranquil escape. The Kallai River and the historic Canolly Canal open up scenic boating routes through coconut-lined waterways. Kadalundi Bird Sanctuary , with its mangroves and migratory birds, is a haven for nature lovers and birdwatchers.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode has also emerged as a leading aquatourism hub, hosting the internationally recognised Beypore International Water Festival . This annual event showcases kayaking, sailing regattas, boat races, bamboo rafting, surfing, and cultural festivities, transforming the district into a vibrant celebration of its maritime heritage.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The landscape of Kozhikode extends into lush hills and misty highlands. Destinations such as Thusharagiri and Arippara waterfalls attract trekkers and nature enthusiasts with forest trails, cascading streams, and natural pools. One of the most striking journeys in the region is through Thamarassery Churam , a winding ghat road offering panoramic views of valleys and mountains, originally built to transport spices from Wayanad to the coast.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode is widely regarded as the culinary heart of Malabar. Its cuisine reflects centuries of spice trade and cultural exchange. Signature dishes include Kozhikode Biryani , seafood preparations, Pathiri , and the iconic Kozhikode Halwa . The bustling SM Street, also known as Mittai Theruvu , is a sensory delight filled with sweet shops, spice stores, and traditional eateries that capture the true flavour of the city.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district is known for its skilled artisans and handloom traditions. Visitors can explore markets for kasavu textiles, wooden handicrafts, and traditional souvenirs, gaining insight into Kozhikode’s artistic heritage while supporting local craftsmanship.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Kozhikode International Airport is well connected to major Indian cities and international destinations, particularly in the Middle East.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Kozhikode has excellent road connectivity with major cities in Kerala and neighbouring states through national and state highways. Regular bus services and taxis are easily available.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Kozhikode Railway Station is a major railhead on the west coast route, offering frequent trains to cities across India.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kappad Beach is where Vasco da Gama first set foot in India. A commemorative stone inscription still stands here, making it one of the most historically significant beaches in the country.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The legendary SM Street, also known as Mittai Theruvu , is famous for its Kozhikode halwa and traditional Malabar snacks, earning the city a reputation as one of India’s most celebrated food destinations.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode hosts the internationally recognised Beypore International Water Festival, showcasing kayaking, sailing, boat races, and adventure sports that highlight the region’s deep-rooted maritime culture.",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kozhikode",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kozhikode",
+        "retrieved_at": "2026-09-22T18:36:33.618165+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

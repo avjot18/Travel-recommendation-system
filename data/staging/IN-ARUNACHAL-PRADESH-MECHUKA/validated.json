@@ -1,0 +1,312 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-MECHUKA",
+  "destination_name": "Mechuka",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Murkongselek Railway Station (MZS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 42.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "High in the Himalayas, situated amid breathtaking beauty, lies the enchanting hamlet of Mechuka. Cradled 6,000 feet above sea level in the eastern state of Arunachal Pradesh, Mechuka (also known as Menchuka) offers a captivating blend of nature, culture, and adventure. This hidden gem, tucked away in the West Siang district, is a haven for nature lovers. Shrouded in pine trees and bushes, it is one of the lesser-explored valleys in the region, preserving its immaculate beauty with snow-capped peaks, a pristine lake, and the mighty Siyom River (locally known as Yargyap Chu) carving its way through the landscape. Mechuka Valley offers a variety of adventure activities, making it an exciting playground for those seeking an adrenaline rush. Mechuka's untouched beauty, combined with its exotic tribal communities – the Membas, Ramos, Bokars, and Libos—draws tourists in search of an off-the-beaten-path experience. Mechuka holds historical and religious importance with its iconic 400-year-old Samten Yangchag Monastery, Gurudwara Guru Nanak Taposthan and more spiritual sites. The name ‘Mechuka’ itself whispers stories of the land. In the local dialect, ‘Men’ means ‘medicinal,’ ‘Chu’ means ‘water,’ and ‘Kha’ means ‘ice.’ The melted glacial water flowing through the valley is believed to possess healing properties.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mechuka isn't just a place; it's a postcard that comes to life. Picture giant mountains cradling virgin forests and vast meadows dotted with quaint villages adorned with colourful wooden houses. Prayer flags flutter in the breeze, hanging bamboo bridges weave across rushing rivers, and horses graze peacefully. Embark on a spiritual journey at the heart of Mechuka's heritage – the 400-year-old Samten Yongcha Monastery perched atop a hill overlooking the valley. Step inside and be captivated by the collection of ancient statues, including one of Guru Padmasambhava, the revered founder of the Nyingma sect. Pay your respects at Gurudwara Guru Nanak Taposthan, built in the 1980s by soldiers from the Sikh regiment. Legend says Guru Nanak Dev ji himself meditated here on his way to Tibet. Step into a scene straight out of a painting at Dorjeeling village. Scattered houses dot the vast grasslands where horses graze freely. The Siyom River flows peacefully through the village, adding a touch of tranquillity to the scene. Marvel at the wonders of nature at Hanuman Point . A natural rock formation in the hills bears an uncanny resemblance to Lord Hanuman, a Hindu god. For a deeper spiritual connection, visit the nearby Hanuman Temple. Don’t miss the 200-foot-tall Siko Dido Waterfalls located in Irgo village, before Mechuka, that will leave you breathless. Venture to the Yarlung Army Camp, nestled near the Indo-Tibet Border, for a chance to meet the courageous soldiers who guard this remote frontier. With a bit of luck, you might even spot an IAF aircraft soaring through the sky.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The picturesque Yargyap Chu River, meandering through the valley, is Mechuka’s lifeline, which also serves as a tranquil backdrop against the majestic mountains. Spending a leisurely afternoon by the riverside, listening to the soothing sound of flowing water and basking in the warmth of the sun, is a truly rejuvenating experience. As the day draws to a close, Mechuka treats visitors to some of the most spectacular sunsets imaginable. The sky transforms into a canvas of vibrant hues – fiery oranges, soft pinks, and deep purples – painting a mesmerising picture against the backdrop of snow-capped peaks.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For an unforgettable experience, go beyond sightseeing and truly immerse yourself in Mechuka's vibrant culture. Opt for a local homestay or live in a traditional Memba tribal home and get a close-up view of their daily lives. The Memba people are the heart and soul of Mechuka. Interact with them, learn about their rich culture and traditions, and witness their warm hospitality firsthand. Sample their delicious local delicacies and Tibetan cuisine, such as momos, thukpa, thenthuk, butter tea, and millet beer, sip on some Chhang (a local beverage), and share laughter and stories with the welcoming residents.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mechuka isn't just for nature lovers and culture enthusiasts; it's a playground for adventure seekers as well. The Mechuka Adventure Park caters to your inner daredevil, offering activities like paragliding for a bird's-eye view of the valley's majesty. Feel the rush of adrenaline as you zip around the valley on an ATV or navigate the mighty Yargyap Chu River on a kayak. Plan your trip in November to coincide with the electrifying ‘Adventure at Mechuka’ festival. This annual extravaganza celebrates all things adventurous, offering activities like aeromodelling, trap shooting, paragliding, mountain biking, rappelling, river crossing, and trekking. The festival also incorporates traditional games and sports, allowing you to experience the local culture in a whole new way.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Mechuka welcomes visitors year-round, the true magic unfolds during the winter months (October to March). Imagine captivating snow-capped peaks and the gentle touch of snowfall, creating a winter wonderland unlike any other. No matter when you choose to visit, Mechuka has something special to offer. Come and discover the magic of this hidden paradise for yourself.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mechuka is often referred to as the 'Last Shangri-La' of India due to its remote location and pristine natural beauty.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Birdwatching expeditions in Mechuka offer the chance to spot a diverse array of avian species, including rare and endangered birds such as the Sclater's Monal and the Satyr Tragopan in their natural habitat.",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mechuka",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/mechuka",
+        "retrieved_at": "2026-09-22T18:36:21.781570+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "destination_id": "IN-GUJARAT-AHMEDABAD",
+  "destination_name": "Ahmedabad",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ahmedabad Junction (ADI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 23.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.5,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.8,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sardar Vallabhbhai Patel International Airport (AMD)",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It’s the land of the Mahatma, the nerve centre of India’s independence movement against British rule. It is India’s first UNESCO World Heritage City, with a living heritage going back a thousand years. And yet, it is undoubtedly a modern metropolis – a cosmopolitan hub of the new India. Welcome to Ahmedabad! Ahmedabad has a special relationship with Mahatma Gandhi, for it was here that Mohandas Karamchand Gandhi set up his ashram on the banks of Sabarmati and became the leader we know as \"Bapu.\" The city proudly blends its ancient heritage with modernity. It is divided into two distinct sections by the Sabarmati River. On the eastern bank stands its quaint old quarter, the Walled City marked with a 10-kilometer fort wall, ancient gates, winding lanes and ‘Pols’ – ancient community-based neighbourhoods throbbing with tradition and culture. On the western side is the sprawling new town with educational institutions, multinational offices, multiplexes and business districts and excellent urban planning. The people of Ahmedabad navigate seamlessly between historic architecture and technology hubs, street bazaars and the latest malls, street food and international cuisine, even hard-nosed discussions on business strategy and discourses on Gandhian philosophy. What is truly remarkable about this city is the reverence for the past with a simultaneous vision for the future.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Ahmedabad begins in the eleventh century with King Karandev - 1, the Solanki Ruler, who established a city called Karnavati on the banks of the Sabarmati. At the end of the thirteenth century, Gujarat was conquered by the Sultanate of Delhi and Sultan Ahmed Shah founded Ahmedabad in 1411 on an open and spacious plain to the east of Sabarmati, comprising what is now known as the Bhadra Fort. In 1487, Mahmud Begada, the grandson of Ahmed Shah, fortified the city with a 10-km outer wall consisting of twelve gates, 189 bastions and over 6,000 battlements. The city was planned according to the ancient Indo-Aryan tradition of a royal capital with main roads, thoroughfares and subsidiary roads. Under Ahmed Shah, architects amalgamated Hindu craftsmanship with Persian architecture, giving rise to a unique Indo-Saracenic style. In 1818, the East India Company took over the city. Under British rule, a military Cantonment was established here as a part of the Bombay Presidency. Ahmedabad played a crucial role in the country's struggle for freedom from British rule. With Mahatma Gandhi establishing the Kochrab Ashram in 1915 and the Sabarmati Ashram in 1917, the city was at the heart of India's independence movement. Post-independence, with the creation of the state of Gujarat in 1960, Ahmedabad gained prominence as the political and commercial capital of the state. The city is witnessing a major construction boom and population increase. A rising centre of education, information technology and scientific industries, Ahmedabad remains the cultural and commercial heart of Gujarat, and much of western India. Ahmedabad is also called the 'Manchester of the East' for its thriving textile industry. The city has undergone transformation in the recent past with the construction of skyscrapers, shopping malls and multiplexes. And yet, it celebrates its culture with gusto, and is known for its larger-than-life grand celebrations during Navratri, a city-wide cultural and spiritual extravaganza. Come visit to truly understand why Ahmedabad is like no other. And begin with one of its famous heritage walks to experience its true essence!",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Say hello to an Amdavadi to truly get to know the city. Fiercely proud of their hometown and generously hospitable, they’re always ready to introduce you to the soul of their city Ahmedabad – the authentic sights and flavours of what they fondly call Amdavad culture. At the forefront of this cultural odyssey stands the Sabarmati Gandhi Ashram, Mahatma Gandhi's spiritual abode and the epicentre of India's non-violent struggle for freedom. A humble structure along the banks of the Sabarmati River, this serene retreat served as the launch pad for Gandhi's historic Dandi March in 1930, protesting the oppressive British Salt Law. The ashram's sprawling grounds, spanning 36 acres, were home to the Mahatma’s experiments with Khadi and farming as means to self-sufficiency. Delve a little deeper and you encounter the Gujarat Vidyapeeth, an esteemed institution where Gandhi's legacy lives on through the pursuit of knowledge and enlightenment. Meanwhile, the Sardar Vallabhbhai Patel National Museum pays homage to the 'Iron Man of India,' showcasing artifacts and exhibits that illuminate Patel's pivotal role in shaping the nation's destiny. Ahmedabad's Walled City, designated as India's first UNESCO World Heritage City, beckons explorers with its labyrinthine Pols, storied fortifications, and fascinating touches like ‘Chabutros’ – over a hundred elaborately crafted bird-feeding towers. The Pols, traditional residential clusters pulsating with the rhythm of daily life, offer a glimpse into the city's rich past. In UNESCO, they describe these community spaces as “representative of the local wisdom and sense of strong community bondage” and “an ingenious example of habitat.” Meanwhile, the Kite Museum celebrates the city's rich cultural heritage, while the enigmatic Jhulta Minar continues to mystify visitors with its baffling architectural phenomenon. Amidst this cultural kaleidoscope, the Adivasi Museum stands as a beacon of diversity, showcasing the rich tapestry of tribal culture that enriches Ahmedabad's heritage. And not too far away, the five-floor deep Adalaj Stepwell stands as a testament to the region's historical architectural prowess, with its intricate carvings and stunning Indo-Islamic design dating back to 1499.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Ahmedabad, spirituality transcends mere religious practices; it's a profound and ubiquitous force that permeates every corner of the city. Among the landmarks of divinity is the Hutheesing Jain Temple, an architectural marvel that stands as a testament to Jain devotion and artistry. Constructed at a colossal cost of Rs 800,000 in 1848, this temple is a tribute to the Jain Tirthankara Shri Dharmanatha, its pristine white marble adorned with intricate carvings that inspire reverence and awe. Shree Swaminarayan Mandir Kalupur, the world's first Swaminarayan Temple dating back to 1822, is a masterpiece of Hindu architecture. Its Burma-teak carvings reflect breathtaking detail. Jama Masjid, the largest mosque built in India in the early 15 th century, is one of the most historic mosques in Ahmedabad. For those who appreciate fine artistry, a visit to the Sidi Saiyyed Mosque is a must. Built in 1573, this mosque is celebrated for its exquisite 'jaali' windows, particularly the iconic \"tree of life\" window, a marvel of intricate stone filigree that mesmerizes visitors with its delicate beauty. Not too far away is Modhera with its awe-inspiring 1000-year-old Sun Temple, set against the backdrop of the Pushpavati River.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ahmedabad is renowned for its pulsating celebration of festivals that bring communities together. During Navratri, the city comes alive in joyous revelry with the rhythmic beats of Garba, a folk dance that embodies the spirit of togetherness and tradition. As dusk falls, the streets of Ahmedabad transform into colourful dance arenas, with people of all ages adorned in traditional attire, swaying to the melodious tunes under the open sky. For nine consecutive nights, the city resonates with the infectious energy of Garba, creating an atmosphere of celebration and camaraderie unlike any other. Another highlight on Ahmedabad's festival calendar is the Uttarayan International Kite Festival, a spectacle that paints the sky with a myriad of colours and shapes. Celebrated during Makar Sankranti, this festival sees the city adorned with countless kites of all sizes and designs, as people take to their rooftops to partake in the age-old tradition of kite flying. With the entire city buzzing with excitement, the Uttarayan International Kite Festival truly captures the essence of joy and freedom, making it an unforgettable experience for locals and visitors alike. January witnesses the enchanting Modhera Dance Festival, a mesmerizing showcase of classical dance set against the backdrop of the majestic Sun Temple in Modhera. This three-day extravaganza captivates audiences with its spellbinding performances, featuring some of the finest classical dancers from across the country. Amidst the awe-inspiring architecture of the Sun Temple, spectators are transported into a world of artistic brilliance, where each movement of the dancers tells a story of divine devotion and cultural richness.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready for a gastronomic journey like no other. From the quintessential Gujarati thali to the mouth-watering street food delights, every culinary experience in Ahmedabad is a celebration of flavours. Dive into the symphony of sweet and salty with a traditional Gujarati thali, a complete platter offering a delightful array of dishes representing the essence of Gujarati cuisine. Experience the burst of flavours with Undhiyu, a tantalizing mixed vegetable dish, or savour the simplicity of thepla, a popular breakfast option packed with aromatic spices and fenugreek. Dhokla. Breakfast and snack options also include the light and healthy dhokla, made with fermented batter of rice and split chickpeas. Garnished with coriander, and even grated coconut at times, this is a dish you don't want to miss out on. Crunchy and crispy, khakhras too are a must-try snack in Ahmedabad. These thin crackers made of wheat flour, oil, and mat beans can be enjoyed in a variety of flavours like sada, mari, nachni and khichdi. For the street food enthusiasts, Ahmedabad's night markets beckon with irresistible aromas and endless culinary delights. Embark on a food tour at Manek Chowk, where the bustling vegetable market transforms into a food haven after sunset. Indulge in street food classics like sev puri and bhel while soaking in the lively atmosphere of the market. Explore the Law Garden Night Market, a food lover's paradise brimming with a diverse range of street food vendors offering everything from dabeli to chaat. And for the non-vegetarian connoisseurs, Bhatiyar Gali awaits with its rich Mughlai cuisine, featuring succulent kebabs and aromatic biryanis that have been savoured for centuries. Whether you're a culinary enthusiast or a casual diner, Ahmedabad's gastronomic offerings promise an unforgettable dining experience that will leave you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Ahmedabad, art isn't just a form of expression; it's a way of life. The city's rich artistic heritage comes alive through its colourful textile crafts, each telling a story of tradition and skill. From the intricate applique work to the timeless beauty of block printing, Ahmedabad is a veritable treasure of artistic wonders waiting to be explored. Applique work, one of Gujarat's oldest crafts, showcases the meticulous art of layering fabrics to create stunning designs adorning everything from wall hangings to clothing. Meanwhile, block printing, with its intricate wooden block patterns and vibrant natural dyes, brings to life a kaleidoscope of colours and designs on fabrics and home decor items. And let's not forget beadwork, an intricate craft that strings together beads to create mesmerizing jewellery and decorative items, originating from the heart of Gujarat and spreading its charm across the state. As you stroll through Ahmedabad's markets, the beauty of Chaniya Cholis catches your eye, each piece a vibrant ode to the city's cultural heritage. These knee-length skirts, adorned with intricate embroidery, mirror work, and traditional ornaments, epitomize the essence of Ahmedabad's artistry. Whether it's exploring the bustling streets of Navrangpura or immersing yourself in the charm of Sindhi markets, Ahmedabad offers a myriad of opportunities to experience its rich artistic legacy first-hand. And for those seeking a deeper understanding of the city's textile heritage, the Calico Museum of Textiles stands as a beacon of inspiration, showcasing the timeless beauty of Gujarat's artistic traditions. In Ahmedabad, art isn't just about what you see—it's about the stories woven into every fabric, the traditions passed down through generations, and the spirit of creativity that defines the soul of the city.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A spectrum of entertainment and adventure promises unforgettable experiences. For thrill-seekers and families alike, the city's amusement parks offer a whirlwind of excitement. From the heart-pounding water rides at Shanku’s Water Park to the snowy wonders of Maniar’s Wonderland, there's no shortage of fun-filled escapades to beat the heat and create lasting memories. Step into a world of wonder at Ahmedabad's science parks, where the Vikram Sarabhai Space Exhibition Centre and Gujarat Science City offer immersive experiences in space exploration and scientific discovery. And for the young explorers, the Khoj Museum promises endless adventures in science, innovation, and the arts. For enthusiasts of automotive history, the Auto World Vintage Car Museum is a fascinating universe of classic cars from yesteryears. Marvel at rare models of Bentley, Rolls-Royce, Mercedes, and more, as you immerse yourself in the fascinating world of vintage automobiles. Golf aficionados will find paradise in Ahmedabad's premier golf courses, including the Kensville Golf and Country Club, where championship courses designed by top golfers provide the perfect setting for a day on the greens. With its emergence as a golf tourism hotspot, Ahmedabad invites players of all skill levels to tee off against stunning backdrops and lush landscapes. Adventure enthusiasts too can explore a world of adrenaline-pumping activities just waiting to be discovered. Dive into the refreshing waters of the Sabarmati Riverfront and Kankaria Lakefront for a day of thrilling water sports, including jet skiing, speed boating, and water zorbing. From trekking to paragliding, Ahmedabad offers a gateway to exhilarating outdoor adventures.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a journey through nature's wonders. Explore the Nal Sarovar Bird Sanctuary, a paradise for bird enthusiasts, where you can witness the graceful flight of pelicans and flamingos against the backdrop of serene waters. For a tranquil retreat, venture into the Thol Lake Sanctuary and immerse yourself in the serene surroundings, where diverse wildlife thrives in undisturbed harmony. But Ahmedabad's natural beauty extends beyond its sanctuaries, offering an abundance of enchanting gardens, lakes, and riverfronts that promise moments of serenity amidst the city's vibrant energy. Take a leisurely stroll through Victoria Garden, a serene oasis in the heart of Ahmedabad, where the beautiful mosaic of bright flowers and lush greenery create a picturesque setting. Originally built by the British, this enchanting park offers a tranquil escape from the bustling city life, inviting visitors to unwind and reconnect with nature. Experience the serenity of Japanese art and culture at the Zen Garden, where the harmonious design reflects the essence of inner peace and balance. Lose yourself in the captivating beauty of Parimal Garden, where a circular walkway surrounds an artificial lake adorned with lotus flowers. Discover the essence of Ahmedabad's identity at the Sabarmati Riverfront, where a 22km planned promenade offers stunning views of the Sabarmati River and its lush greenery. Or escape from urban cityscape to the refreshing environs of Kankaria Lake. The artificial lake, shaped like a polygon, covers an area of 76 acres, is surrounded by cut stone steps and slopes giving access to the water body. The lake has excellent entertainment facilities too like a zoo, natural history museum, garden for children, open-air theatre, balloon safari, water sports and train rides. The lake is also home to an artificial island called Naginavadi. Visitors can enjoy a tethered hot-air balloon ride and explore the Kamla Nehru Zoo. So, whether you're seeking moments of tranquility amidst nature's embrace or some fun along the riverfront, Ahmedabad's natural beauty promises a journey of wonder.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ahmedabad is the city for shopaholics! If you're in the city, get ready to shop till you drop, because this city shops by day and night – with endless shopping options to offer from street bazaars to high street shopping! Dive into the heart of the old city at Manek Chowk, where a bustling marketplace awaits, offering everything from fresh produce to dazzling jewellery, transforming into a culinary haven by night. At Lal Darwaza market, immerse yourself in the authentic Amdavadi shopping experience, where winding lanes unveil treasures ranging from traditional attire to electronics, all amidst the thrill of bargaining. For textile enthusiasts, Dhalgarwad market is a haven of exquisite hand-printed fabrics and traditional wear, where every corner hides a treasure waiting to be discovered. Experience the incomparable energy of Law Garden Night Market, where ethnic clothes and handicrafts beckon under the moonlight, accompanied by tantalizing street food. On weekends, lose yourself in the hustle of Ravivari (Sunday Market), where centuries-old tradition meets modern-day bargains, offering a unique shopping experience unlike any other. But Ahmedabad's shopping scene isn't confined to its traditional bazaars; it extends to high-end retail destinations like CG Road, where luxury brands line the streets, and malls like Ahmedabad One Mall and Palladium offer a seamless blend of shopping, dining, and entertainment. From designer boutiques to international franchises, these destinations cater to every shopper's whim, ensuring a truly indulgent experience.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sabarmati Ashram was the starting point for Gandhi's famous Dandi March, which was launched on March 12, 1930, in protest of the British Salt Law.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jhulta Minar , also known as the Shaking Minarets , has puzzled experts for centuries. In these pairs of minarets, when one shakes, the other starts vibrating too even though the connecting passage remains stationary and free from vibrations.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Recent findings at Lothal , Harappan era ruins of the Indus Valley civilization, have shown its association with Vedas and Sanskrit scriptures.",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ahmedabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/ahmedabad",
+        "retrieved_at": "2026-09-22T18:36:25.409105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

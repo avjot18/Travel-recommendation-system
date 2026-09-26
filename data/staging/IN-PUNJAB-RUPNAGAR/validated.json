@@ -1,0 +1,91 @@
+{
+  "destination_id": "IN-PUNJAB-RUPNAGAR",
+  "destination_name": "Rupnagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rupnagar Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC)",
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rupnagar is an unseen jewel nestled amidst the verdant landscapes of Punjab, India. This charming town, situated along the banks of the Sutlej River, radiates peace and boasts a rich tapestry of history, culture, and natural beauty. Rupnagar, a paradise for nature enthusiasts, offers a serene escape from the hustle and bustle of city life. Explore the picturesque surroundings of the town, where lush greenery meets the winding waters of the Sutlej River. Take a stroll along the riverbank, breathe in the fresh air, and soak in the stunning views of the distant Shivalik Hills. For those seeking adventure, embark on a hike through the scenic countryside or engage in birdwatching in the peaceful wetlands.",
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step back in time and immerse yourself in Rupnagar's rich historical heritage. Rupnagar, formerly known as Ropar, is one of the oldest towns in Punjab. The town is said to have been founded by a Raja called Rokeshar, who ruled during the 11th century and named it after his son Rup Sen. It is also one of the bigger sites belonging to the Indus Valley civilization. The first Harappan site excavated in Independent India was in Rupnagar. These excavations revealed a cultural sequence from Harappan to medieval times. While there is no specific mention of a Rupnagar Fort in the historical records, the town is home to the Bharatgarh Fort, a heritage property that offers a glimpse into the royal heritage of the region. Admire the grand architecture and discover the fascinating tales of bravery and conquest that resonate within its walls. Don't miss out on visiting the Archaeological Museum, which houses a diverse collection of artefacts from centuries past, including relics from the illustrious Indus Valley Civilisation. The museum exhibits important artefacts such as antiquities of Harappan times, gold coins of Chandragupta, and copper and bronze implements. As you wander through the bustling streets of Rupnagar, you can experience Punjab's vibrant culture and traditions. Savour the delectable flavours of Punjabi cuisine, from hearty dishes like sarson da saag and makki di roti to mouthwatering sweets like jalebi and lassi. Discover the vibrant markets where artisans sell their exquisite handicrafts. Immerse yourself in the rhythmic beats of traditional Punjabi music and dance, and partake in the fun at vibrant cultural celebrations.",
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure awaits around every corner in Rupnagar, offering endless opportunities for outdoor exploration and adrenaline-pumping activities. Set out on a thrilling boat ride along the tranquil waters of the Bhakra Nangal Dam reservoir, where you can marvel at the scenic beauty of the surrounding landscape. For nature enthusiasts, the nearby wetlands provide the perfect setting for birdwatching and wildlife spotting. Lace up your hiking boots and embark on a trek through the lush forests, where hidden trails lead to breathtaking viewpoints and cascading waterfalls. As you bid farewell to Rupnagar, take with you memories of its serene landscapes, rich history, and warm hospitality. Whether you're exploring its historical landmarks, savouring its delectable cuisine, or immersing yourself in its natural beauty, Rupnagar promises an unforgettable experience for travellers seeking a peaceful retreat in the heart of Punjab. So pack your bags, embark on a journey of discovery, and uncover the hidden charms of this enchanting town nestled along the banks of the Sutlej River.",
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby sites to visit include Anandpur Sahib, a city of bliss located on the left bank of the Sutlej river, and the Bhakra Nangal Dam, one of the highest gravity dams in the world. The dam's reservoir, known as the 'Gobind Sagar Lake', is a well-known spot for various water sports activities. Other nearby attractions include the towns of Morinda and Nangal.",
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Rupnagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/rupnagar",
+        "retrieved_at": "2026-09-22T18:36:42.177542+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

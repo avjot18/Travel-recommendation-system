@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-LUCKNOW",
+  "destination_name": "Lucknow",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chaudhary Charan Singh International Airport (LKO), Lucknow"
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Lucknow Charbagh Railway Station (LKO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 27.0
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.6,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 37.6
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 44.3
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 43.6
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.6,
+        "maximum_celsius": 28.1
+      },
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chaudhary Charan Singh International Airport (LKO), Lucknow",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "“Wo aabo hawa wo sukoon kaheen aur nahin milta milte hain bahut shahar magar Lucknow sa nahin milta” That tranquillity in the air, that peace unfound elsewhere, You may visit many cities, but none like Lucknow's flair.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of Northern India, where the whispers of history mingle with the fragrance of jasmine, lies a city that beckons with timeless allure – Lucknow, the Golden City of the East. Step into its embrace, and you'll find yourself enveloped in a confluence of culture, spirituality, and gastronomic delights. Nestled along the tranquil banks of the Gomti River, this capital city of Uttar Pradesh invites travellers on a journey through tales of yore, where every cobblestone whispers secrets of its storied past. Gomti, with its serene waters and lush green banks, add a natural charm to the city's landscape, offering a peaceful retreat amidst the urban hustle. Legend has it that Lucknow traces its origin to the ancient Sanskrit word 'Lakshmanavati’, meaning 'city of Lakshmana'. According to folklore, the city was founded by Lakshmana, brother of Lord Rama, during the Ramayana era, evolving over time into the Lucknow we know today. Steeped in history, Lucknow blossomed into a city known for its architectural splendour and cultural diversity under the Nawabs of Awadh, especially the visionary Asaf-ud-Daula, who reigned from 1775 to 1797. The magnificent monuments of Lucknow showcase a fusion of Mughal, Persian, and British influences. The city captivates visitors with its seamless integration of modernity with heritage. Here the culinary scene is equally renowned, offering delicacies such as kebabs, biryanis and sweets that tantalize the taste buds and delight the senses. Art and culture are at the heart of Lucknow's 'tehzeeb' (etiquette) and 'adab' (sophistication). The city is celebrated for its classical dance form Kathak, its traditional music, and its rich literary traditions. With its vibrant arts scene and illustrious history, Lucknow continues to enchant and inspire visitors from around the globe, inviting them to discover the timeless beauty and cultural richness that defines this City of Nawabs.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture yourself wandering through the labyrinthine alleys of Old Lucknow, where amidst the grandeur of Mughal architecture and colonial facades, history breathes a melodious symphony. From the resplendent Mughal-era, masterpiece of the famed Bara Imambara to the ethereal white-domed beauty and exquisite stucco work of the Chota Imambara and further to the grandeur of the Rumi Darwaza , a majestic gateway erected in 1784 mirroring the ancient gate in Constantinople in Turkey, each monument stands as a silent witness to the city's glorious past. Yet, in the midst of these awe-inspiring structures, the true soul of Lucknow reveals itself in its bustling markets and narrow lanes alive with artisans' craft. These vibrant bazaars, throbbing with life and energy, are a testament to the city's thriving cultural heartbeat. And in the middle of this lively bustle, one finds sanctuaries of peace and spirituality in the form of serene temples, mosques, and churches, each adding a unique thread to Lucknow's diverse cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lucknow, with its fusion of illustrious past and cultural heritage, is more than a city; it's like a divine odyssey waiting to be embarked upon. It's a realm where spirituality transcends mere belief and becomes a way of life, where every corner narrates a tale, and every step is a sacred pilgrimage. Here in middle of the vivacious streets, majestic temples and tranquil mosques rise as more than mere structural marvels; they stand as steadfast pillars of faith, offering solace and sanctuary to all who seek it. From the recently built Balaji Temple to the nearly 300-year-old Chandrika Devi Temple, from the 15th-century Jama Masjid to the Sankat Mochan Hanuman Temple, the echoes of chants and prayers linger like sweet melodies in the tranquil silence. These temples and dargahs are like a sacred haven where the soul finds serenity, the heart finds solace, and the mind finds clarity amid life's tumultuous cacophony.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the sun paints the sky in hues of twilight, follow the tantalizing aroma of spices and bubbling pots to the Chowk, the pulsating heart of Lucknow's culinary realm. Here, embark on a gastronomic voyage that promises to enchant your taste buds and transport you to a world of exquisite flavours. Surrender to the enchanting Awadhi cuisine, where each dish is a masterpiece, a melody of recipes that celebrates the city's culinary legacy. From the succulent Galouti Kebabs to the aromatic splendour of Lucknawi Biryani, each morsel is a tribute to the unforgettable delicacies of Lucknow. Among Lucknow's culinary treasures are the famous Tunday Kabab which are cooked to perfection on charcoal fires, imparting a smoky flavour that lingers on the palate. The city's biryanis, especially the famed Lucknowi or Awadhi biryani, are renowned for their intricate and fragrant preparation. A visit to Lucknow is incomplete without sampling the array of delectable sweets that adorn the sweet shops of Chowk, each a divine indulgence. In addition to its gastronomic wonders, Lucknow offers an abundance of street food delights that beckon to be savoured. From the spicy chaats to the crispy samosas, Lucknow's street food is a carnival for foodies. So, let the temptation of Lucknow's culinary delights guide your senses, and immerse yourself in an escapade that is sure to leave you spellbound.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perhaps what truly sets Lucknow apart is its unparalleled artistic heritage, showcased in its exquisite art and craft. In Lucknow's cultural embrace, echoes of empires past intertwine, Mughal majesty, Persian grace, and British refinement combine. Artisans' hands, with skillful grace, weave tales in every stitch, Chikankari's delicate embrace, Zardozi's opulent pitch. These ancient crafts, a testament, to Lucknow's legacy grand, A city where artistry is meant, to flourish and expand. In every melody and dance, in every poet's verse, Lucknow's essence, a timeless trance, a blessing of the universe. Classical notes float in the air, Kathak's feet tell tales of yore, poetry, with its depth and flair, leaves hearts wanting more. Lucknow, a cradle of culture, where tradition meets the new, a city where every moment is a painting, every scene a view.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Lucknow, where time seems to stand still, life pulsates with an energy that is both captivating and enchanting. Here, the past seamlessly merges with the present, creating a tapestry of 'tehzeeb' (etiquette) and 'adab' (sophistication) that is uniquely Lucknawi. As the sun sets, casting a golden hue over the tranquil waters of the Gomti River, the essence of Lucknow comes alive. It's in the courteous nods of passersby, the lyrical Urdu poetry that dances on the lips of locals and the warm hospitality that welcomes visitors like long-lost friends. In Lucknow, every gesture, every word, is a celebration of politeness and warmth, a testament to the city's age-old cultural heritage. Whether you're exploring its historic monuments, indulging in its culinary delights, or immersing yourself in its vibrant arts scene, Lucknow offers an experience that is as unforgettable as it is unique. So come, lose yourself in the timeless charm of Lucknow, where every moment is an ode to a bygone era. Lucknow is not just a destination, it’s a journey of the heart and the soul.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bara Imambara holds the world's largest unsupported arched hall.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rumi Darwaza was constructed as a famine relief project in 1784.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Nawab Asaf-ud-Daula was buried at the Chota Imambara.",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness the rich culture while shopping in Lucknow",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food guide - what and where to eat in Lucknow",
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Lucknow",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/lucknow",
+        "retrieved_at": "2026-09-22T18:36:48.126333+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

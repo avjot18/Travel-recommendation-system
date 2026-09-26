@@ -1,0 +1,473 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-MACHILIPATNAM",
+  "destination_name": "Machilipatnam",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Vijaywada International Airport (VJA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nearest Railway Station Machilipatnam Railway Station (MTM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the southeastern coast of Andhra Pradesh, Machilipatnam (also historically known as Masulipatnam, Masula or Bandar) is a vibrant coastal city steeped in history, craft, culture and sea-breeze charm. Once a prominent trading port on the Bay of Bengal, Machilipatnam today offers travellers a mix of heritage, sea views, traditional arts, sacred shrines and unique local experiences.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Machilipatnam’s story spans centuries as a major Indian trading hub. It was one of the earliest British settlements on the east coast, and in the 17th and 18th centuries it alternated between Dutch, French and British influence, reflective of its importance in maritime trade. The ruins of old forts and trading barracks still whisper tales of its colonial past.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city’s geography and coastal location helped foster vibrant cultural exchanges be it textiles, diamonds, spices or shipbuilding making Machilipatnam an important waypoint on historic sea routes.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beaches and Coastal Vistas : Manginapudi Beach lies just a short drive from the town and is one of the most scenic shorelines along the Andhra coast. Visitors can stroll along the sandy expanse, enjoy sunrise views over the Bay of Bengal, or participate in annual beach festivals such as the Masula Beach Festival, a colourful celebration of sport, music, culture and local life.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The remnants of the old trading port and surrounding architecture give a glimpse into Machilipatnam’s past, where European traders once anchored and exchanged goods with local merchants. The town’s fort remnants and the historic Machilipatnam Lighthouse are striking reminders of its maritime legacy.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Temples and Shrines : Machilipatnam and its environs are dotted with spiritual centres that draw devotees and culture seekers alike. The Panduranga Swamy Temple is a notable landmark devoted to Lord Panduranga, distinguished by its richly adorned idol and bustling festivals. Nearby shrines and temples, including those Mopidevi Temple and Tirupatamma Temple, offer peaceful retreats for pilgrims and tourists.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Machilipatnam is closely linked to classical Indian dance, the famed Kuchipudi enriching its cultural tapestry with graceful rhythm and storytelling. The region also thrives on traditional handicrafts, especially Machilipatnam-style Kalamkari textiles. These beautifully hand-printed fabrics, created in nearby towns such as Pedana, are prized worldwide for their natural dyes and intricate blocks. Pedana Kalamkari also received a GI tag in 2013 helping local artisans in the cluster to maintain sustainable livelihoods by differentiating genuine products.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your visit to Machilipatnam is incomplete without savouring its signature sweets such as Bandar Laddus or Thokkudu Laddus and exploring local markets filled with handcrafted textiles and artisanal products. The fusion of coastal flavours, age-old culinary practices and artisanal shops presents an authentic taste of Andhra’s rich food and craft culture.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Machilipatnam enjoys a pleasant coastal climate throughout the year, making it a welcoming destination in any season. However, the winter months from November to February are particularly inviting, with cooler temperatures ideal for beach walks, sightseeing, and exploring the town’s historic charm. The blend of relaxed seaside ambience and cultural heritage makes Machilipatnam a rewarding stop on any Andhra Pradesh itinerary during this period.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport to Machilipatnam is Vijayawada International Airport (VJA) , located about 70 km away. From the airport, travelers can hire taxis or use bus services to reach Machilipatnam.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest railway station is Machilipatnam Railway Station (MTM) , well connected to major cities like Vijayawada, Hyderabad, and Chennai. Regular trains make it convenient for visitors to reach the town directly.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Machilipatnam is accessible via National Highway 65 and other regional roads. State-run APSRTC buses and private vehicles connect it to Vijayawada, Hyderabad, and nearby towns, making road travel a popular option.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manginapudi Beach is known for its wide shoreline and relatively calm waters.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mopidevi is renowned for the Subramanyeswara Swamy Temple , dedicated to Lord Subrahmanya, where devotees seek blessings for marriage, children, and relief from serpent-related doshas.",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Machilipatnam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/machilipatnam",
+        "retrieved_at": "2026-09-22T18:36:20.266229+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "destination_id": "IN-KERALA-KOTTAYAM",
+  "destination_name": "Kottayam",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Kochi"
+      },
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kottayam Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Kochi",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Let Kottayam be your road less travelled, your sanctuary of inspiration and discovery, as you embark on a journey of self-discovery, cultural exploration, and unforgettable experiences. Nestled amidst the lush landscapes of Kerala, Kottayam emerges as a sanctuary of tranquillity, steeped in history, culture, and natural beauty. From its rich literary legacy to its picturesque backwaters and serene hill stations, Kottayam captivates visitors with its timeless charm and boundless inspiration. Beyond its historical landmarks and natural wonders, Kottayam inspires visitors with its vibrant cultural scene, warm hospitality, and reverence for tradition. It is a place where the past merges seamlessly with the present, where every street corner tells a story, and every sunrise brings the promise of new beginnings. As you wander through Kottayam's verdant landscapes, immerse yourself in the rhythms of village life, and savour the flavours of Kerala's culinary delights, you'll discover a sense of peace and serenity that rejuvenates the soul. It is a city that invites you to slow down, to embrace the simple joys of life, and to find inspiration in the beauty of nature and the richness of human experience.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With a history that dates back centuries, Kottayam is a land steeped in myth and legend. The region's name is believed to have originated from two Malayalam words, \"kotta\" meaning fort and \"akam\" meaning inside, possibly referencing ancient forts or settlements that once dotted the area. Over the centuries, Kottayam evolved into a thriving center of trade, culture, and intellectual pursuits, attracting scholars, traders, and travellers from far and wide.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam is situated in the Kottayam district, bordered by the Western Ghats to the east and the Vembanad Lake to the west. The city experiences a tropical monsoon climate, characterized by hot and humid summers, and a rainy season from June to September. The monsoon rains nourish the region's verdant landscapes and contribute to its lush greenery.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam is renowned for its rich cultural heritage and literary legacy. The city has been a prominent center of education, literature, and publishing in Kerala for centuries. It is home to numerous educational institutions, including the Mahatma Gandhi University, and has a thriving literary scene, with several publishing houses and bookstores dotting its streets.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam is known for its religious diversity, with temples, churches, and mosques coexisting harmoniously in the cityscape. The Thirunakkara Mahadeva Temple, dedicated to Lord Shiva, and the Ettumanoor Mahadeva Temple are among the prominent Hindu temples in the area. The St. Mary's Forane Church, believed to be one of the oldest Syrian Christian churches in India, is a significant Christian pilgrimage site. Additionally, Kottayam has mosques such as the Thazhathangady Juma Mosque, known for its traditional Kerala architecture.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam is a gateway to the famous backwaters of Kerala, with enchanting destinations like Kumarakom and Vembanad Lake located nearby. Tourists can enjoy houseboat cruises, canoe rides, and birdwatching tours amidst the serene backwaters, coconut groves, and paddy fields, offering a tranquil escape from the hustle and bustle of city life.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam is renowned for its delicious cuisine, which reflects the flavors of Kerala's traditional culinary heritage. Popular dishes include appam, idiyappam, puttu, and seafood delicacies prepared with fresh catch from the backwaters. The city's numerous restaurants and eateries offer a wide range of culinary delights to suit every palate.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kottayam serves as an economic hub for the surrounding region, with thriving industries such as rubber cultivation, spices, and tourism contributing to its economy. The city is also known for its vibrant commercial activity, with bustling markets, shopping centers, and trade fairs attracting visitors and shoppers from across the state. Kottayam is a city of contrasts, blending its natural beauty, cultural heritage, and modern amenities to create a unique and inviting destination for travelers and residents alike. Whether exploring its scenic backwaters, immersing oneself in its literary heritage, or savoring its delectable cuisine, visitors to Kottayam are sure to be captivated by its charm and allure.",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By road: An excellent network of roads connects the district to all the major towns and cities of India. Kottayam KSRTC Bus station. By rail: The Railway Station is situated 2 km from the central bus station and is connected to the major cities of India. Kottayam Railway Station. By air: Nearest Airport: Cochin International Airport (76 km)",
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kottayam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kottayam",
+        "retrieved_at": "2026-09-22T18:36:33.343796+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

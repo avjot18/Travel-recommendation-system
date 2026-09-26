@@ -1,0 +1,184 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-TAWANG",
+  "destination_name": "Tawang",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati Tezpur Airport (Salonibari Air Force Station) (TEZ), Tezpur"
+      },
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rangapara Railway Station (RPAN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tezpur Airport (Salonibari Air Force Station) (TEZ), Tezpur",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From its towering peaks to its serene monasteries, every corner of this picturesque town is imbued with a sense of mystique and charm. Join us on a journey to discover the wonders of Tawang, where adventure meets tranquility and culture intertwines with nature.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you embark on the winding roads leading to Tawang, be prepared to be mesmerized by the breathtaking vistas that unfold before your eyes. The journey itself is an adventure, with every turn revealing a new panorama of snow-capped peaks, lush valleys, and cascading waterfalls. Make sure to stop by the Sela Pass , where you can catch a glimpse of the iconic frozen lake and soak in the crisp mountain air.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the highlights of any visit to Tawang is the iconic Tawang Monastery , the largest monastery in India and the second largest in the world. Dating back to the 17th century, this ancient sanctuary is a treasure trove of Buddhist art, architecture, and spirituality. As you wander through its hallowed halls and prayer rooms, you'll be captivated by the intricate murals, ornate statues, and the serene atmosphere that pervades the entire complex.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For nature enthusiasts and adventure seekers, Tawang offers a wealth of opportunities to explore its pristine wilderness. From trekking through verdant forests to camping by crystal-clear lakes, there's no shortage of outdoor activities to indulge in. Don't miss the chance to visit the Nuranang Waterfall , also known as the Jang Falls, where you can marvel at the sheer power and beauty of nature as the water cascades down from a height of over 100 meters.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Tawang's charm lies its vibrant cultural heritage, shaped by the indigenous Monpa community. Take a stroll through the quaint villages dotted across the region, where you can experience the warm hospitality and rich traditions of the locals firsthand. Indulge in traditional Monpa cuisine, sample locally brewed Ara (rice beer), and immerse yourself in the colorful festivities and rituals that define life in Tawang.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the day draws to a close, head to the Tawang War Memorial , a poignant tribute to the brave soldiers who laid down their lives during the Indo-China War of 1962. Situated against the backdrop of the mighty Himalayas, this solemn monument offers a serene spot to reflect and pay homage to the heroes of the past. As the sun sets behind the mountains, casting a golden glow over the landscape, take a moment to soak in the tranquility and beauty of this awe-inspiring destination.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Tawang, every moment is an adventure, and every experience is a testament to the enduring allure of the Himalayas. Whether you're seeking adrenaline-pumping thrills or soul-soothing tranquility, this hidden gem in Arunachal Pradesh has something to offer for everyone. So pack your bags, embark on a journey of discovery, and let the magic of Tawang sweep you off your feet.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Did you know that Tawang is home to one of the largest Buddhist monasteries in India – Tawang Monastery .",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Tawang Monastery houses a 28-foot-tall statue of Lord Buddha , which is the largest of its kind in India.",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Tawang",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/tawang",
+        "retrieved_at": "2026-09-22T18:36:22.485300+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

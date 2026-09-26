@@ -1,0 +1,359 @@
+{
+  "destination_id": "IN-TELANGANA-KHAMMAM",
+  "destination_name": "Khammam",
+  "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Khammam Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 14.0,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 38.3
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 44.2
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 41.8
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.1,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 16.4,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 13.9,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajiv Gandhi International Airport (HYD),",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad Vijayawada International Airport (VGA), Vijayawada",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khammam, where every street corner holds a story waiting to be told and every smile is a warm invitation into the heart of Telangana hospitality. Nestled amidst verdant landscapes and bustling markets, Khammam beckons you with open arms to explore its rich tapestry of culture, history, and community spirit. Whether you're here to marvel at ancient temples, indulge in flavorful street food delights, or simply bask in the serenity of its surroundings, you'll find that Khammam's charm knows no bounds. So, welcome to a world where every moment is an opportunity to discover something new and leave with memories to cherish for a lifetime.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khammam is a city nestled in the heart of Telangana, where history, culture, and natural beauty converge to create an unforgettable experience for every traveler. It is the fourth largest city in the state. It is the headquarters of the Khammam district. It is located about 200 kilometres east of the state capital, Hyderabad. Situated amidst lush green landscapes and dotted with ancient architectural marvels, Khammam offers a tranquil retreat away from the hustle and bustle of urban life.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The nomenclature of Khammam is said to have derived from a temple ‘Narasimhadri’ built on a hillock in the town. The temple was referred as ‘Stamba Sikhari’ and later ‘Stambadhri’. It is believed that lord Narasimha emerged from a stone pillar and killed the evil king Hiranya kasyapu to save his child devotee Prahlada. This incident is said to have occurred in the Krutayuga. The vertical rock under the temple is known as ‘Kamba’ and the town at the foot of the hill was called Kambamettu which gradually changed to Khammam matt and finally Khammam.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step back in time as you explore the remnants of the Kakatiya dynasty at the majestic Khammam Fort. Perched atop a hill, this centuries-old fort offers panoramic views of the surrounding countryside and provides a glimpse into the region's rich history. Khammam Fort was constructed by Musunuri Nayaks. It served as an impregnable citadel during various regimes of different dynasties, including the Musunri Nayaks, Qutb Shahi’s and Asaf Jahis. The fort was situated in a very vast area in the heart of the City of Khammam. It was notified as a protected monument by the Archaeology Department several decades ago. Despite decades of neglect, the historical edifice, which once flourished with regal opulence, presents its alluring charm due to its architectural splendor.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another not-to-be-missed historical monument in Khammam is the Narasimha Swamy Temple, a testament to the city's spiritual heritage with its intricate carvings and serene ambiance. Also known as Sthambadri Sri Lakshmi Narashima Swamy Temple is located in the heart of the city, which is popularly known to local people as guha gudi. The ancient temple is believed to be existing from Tretha Yuga. The city is located on the banks of the River Munneru, which is tributary to River Krishna. During Tretha Yugam Mouthgalya Maharishi with his disciples penance here in a cave and he was blessed by Lord Vishnu. Mothgalya Maharishi requested Lord Vishnu to stay back in this place along with Lakshmi. Lord came out of the pillar as Sri Lakshmi Narashima Swamy. Hence the place was known as Sthambadri.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the serene beauty of Khammam's natural landscapes at the Kinnerasani Wildlife Sanctuary. Embark on a safari tour to spot diverse flora and fauna amidst verdant forests and gushing waterfalls. For a tranquil escape, head to the Palair Reservoir, where you can enjoy boating amidst scenic surroundings and unwind in nature's embrace.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in Khammam's vibrant cultural scene by participating in traditional festivals such as Bonalu, Bathukamma, and Sammakka Saralamma Jatara. Witness colorful processions, lively music, and age-old rituals that celebrate the city's rich cultural heritage. Don't forget to explore the local handloom tradition and take home exquisite souvenirs such as the renowned Khammam Cotton Saree, a symbol of the region's artistic craftsmanship.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indulge your taste buds in the flavors of Telangana with a culinary journey through Khammam's diverse cuisine. From spicy biryanis and flavorful curries to mouthwatering sweets and snacks, the city offers a gastronomic adventure that will tantalize your senses and leave you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In conclusion, Khammam beckons travelers with its blend of history, culture, and natural splendor, offering a unique and enriching experience that will linger in your memories long after you've left. Whether you're exploring ancient forts, or spiritually immersing yourself or savoring local delicacies, Khammam promises a journey of discovery and delight that is sure to leave you enchanted. Other tourist attractions near Khammam are Kinnerasani Wildlife Sanctuary , Swami Ayyappa Temple, Dhanavayi Gudem Park and Palair Reservoir.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One can reach Khammam by train, flight, and road. By Train Khammam is well-connected by the Railways network, the main railway station being Khammam Railway Station. By Flight the nearest major airport to Khammam is the Rajiv Gandhi International Airport (HYD) in Hyderabad, which is approximately 200 kilometers away. From the airport, one can avail of taxi services or take a bus/train to reach Khammam.",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khammam is famous for its handloom industry",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bhadrachalam Temple is a revered pilgrimage site near Khammam",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 1,000 Pillar Temple is an architectural marvel in Khammam",
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Khammam",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/khammam",
+        "retrieved_at": "2026-09-22T18:36:46.755169+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

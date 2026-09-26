@@ -1,0 +1,463 @@
+{
+  "destination_id": "IN-KERALA-PATHANAMTHITTA",
+  "destination_name": "Pathanamthitta",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thiruvananthapuram International Airport (TRV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chengannur Railway Station (CNGR) Thiruvalla Railway Station (TRVL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram International Airport (TRV)",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Known as the Pilgrim Capital of Kerala, Pathanamthitta is a land where faith, forests, and folklore shape everyday life. Located in the central Travancore region and nourished by the River Pamba, the district is defined by sacred hills, ritual-rich villages, dense Western Ghats forests, and time-honoured craft traditions. Pilgrims, nature lovers, and cultural travellers are drawn here through the year in search of spiritual depth and natural serenity.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Pathanamthitta stands Sabarimala, one of the most visited pilgrimage centres in India, dedicated to Lord Ayyappa. Each year, millions of devotees undertake a rigorous spiritual journey through forested terrain during the pilgrimage season.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The heritage village of Aranmula is renowned for the Parthasarathy Temple, the ritual feast of Vallasadya, and the iconic Aranmula Boat Race held on the River Pamba. The ceremonial feast, served on plantain leaves with dozens of traditional dishes, is accompanied by devotional boat songs and elaborate temple rituals. Aranmula is also celebrated for the handcrafted Aranmula Kannadi, a unique metal mirror produced using a closely guarded traditional technique.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other important spiritual landmarks include the Sree Vallabha Temple, Kaviyoor Mahadeva Temple, and the historic St George Orthodox Church, reflecting the district’s layered religious heritage.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rising nearly 200 feet above the town, Chuttippara offers sweeping views of the surrounding countryside and is crowned by the Harihara Mahadeva Temple. Nearby hills such as Chelavirichapara and Kattadipara are associated with episodes from the Ramayana and are popular for sunrise and sunset views.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among the district’s most scenic natural attractions is Perunthenaruvi Waterfalls, set amid dense forest about 26 kilometres from the town. Additional cascades such as Panamkudantha and Padivathil originate in the Sabarimala forests, flowing into the Pamba and creating refreshing forest retreats.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the eastern edge of the district, Gavi sits at an elevation of around 3,400 feet and is known for its forests, grasslands, and cardamom plantations. Activities here include trekking, birdwatching, canoeing, and guided forest walks. Wildlife sightings may include elephants, gaur, Nilgiri tahr, and lion-tailed macaques.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At Konni, the historic elephant training centre preserves a tradition dating back to the nineteenth century. The facility houses rescued and young elephants in wooden enclosures known as Aanakoodu and also features medicinal plant gardens and forest-produce outlets.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The annual Aranmula Boat Race transforms the River Pamba into a ceremonial spectacle, with decorated snake boats gliding across the water to rhythmic chants. Another highlight is the Thiruvonathoni procession during Onam, when a decorated vessel carries provisions for the temple feast, accompanied by devotional music and community celebrations.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pathanamthitta offers a deeply immersive Kerala experience where sacred journeys, forest landscapes, river rituals, and living traditions exist in quiet balance. For travellers seeking spiritual depth, ecological richness, and cultural authenticity away from urban bustle, the district presents a journey that is both reflective and enriching.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The pilgrimage season at Sabarimala generally runs from November to January. The post-monsoon months are ideal for sightseeing, forest exploration, and cultural experiences, while the monsoon enhances waterfalls and greenery across the district.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Thiruvananthapuram International Airport (TRV) is the nearest airport, located approximately 120 km from Pathanamthitta. Cochin International Airport (COK) is about 140 km away. Taxis and buses are available from both airports.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Chengannur Railway Station (CNGR) is the nearest major railhead, situated about 26 km from Pathanamthitta. Thiruvalla Railway Station (TRVL) is another well-connected option, located approximately 30 km away.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Pathanamthitta is well connected by road to Thiruvananthapuram, Kochi, Kottayam, and Alappuzha. Regular KSRTC buses and taxis operate from major towns across Kerala.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sabarimala Sabarimala follows one of the world’s most rigorous pilgrimage traditions, where devotees observe a strict 41-day vratham (austerity period) before undertaking the forest trek to the hill shrine.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aranmula The Aranmula Boat Race is unique among Kerala’s snake boat races as it is not a competition, but a ritual offering held in connection with temple traditions on the River Pamba.",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aranmula Kannadiy The Aranmula Kannadi is the only known metal mirror in the world that does not use glass or silvering, created using a secret alloy formula passed down through generations of artisan families",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pathanamthitta",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/pathanamthitta",
+        "retrieved_at": "2026-09-22T18:36:34.305770+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

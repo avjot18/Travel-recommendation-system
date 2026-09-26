@@ -1,0 +1,513 @@
+{
+  "destination_id": "IN-RAJASTHAN-DAUSA",
+  "destination_name": "Dausa",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dausa Railway Station (DO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just 55 kilometers from Jaipur, along the Jaipur-Agra highway, lies Dausa, a land steeped in history, spirituality, and architectural brilliance. Known as “Dev Nagari” and derived from the Sanskrit word Dhau-Sa meaning “Beautiful like Heaven”, Dausa is a destination that offers a rare blend of rural charm and regal heritage. Here, ancient stepwells whisper tales of dynasties, temples radiate divine grace, and festivals paint the desert in vibrant hues.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dausa was once the first capital of the Dhundhar region, ruled by the Chauhans and later the Kachwaha Rajputs. In the 10th century, Raja Sodh Dev and his son Dulha Rai laid the foundation of a kingdom that would eventually give rise to Amber and Jaipur. The town’s historical significance is etched in its forts, palaces, and archaeological sites that date back to the Mahabharata era. Excavations in Bhandarej, once known as Bhadrawati, have unearthed terracotta artifacts, latticework, and remnants of a civilization that thrived centuries ago.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Dausa is complete without witnessing the grandeur of Chand Baori at Abhaneri—a stepwell that stands as one of the deepest and most intricate in the world. Built in the 8th–9th century, its 3,500 symmetrical steps descend 13 stories into the earth, creating a geometric masterpiece that has fascinated architects and travelers alike. Adjacent to it lies the Harshat Mata Temple, dedicated to the goddess of joy and happiness. Though partially in ruins, its sculptural elegance and ornate pillars still radiate divine charm.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Further afield, the Mehandipur Balaji Temple draws thousands of devotees seeking spiritual solace and healing. Dedicated to Lord Hanuman, this temple is renowned for its unique rituals and exorcism practices, making it one of India’s most intriguing pilgrimage sites.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bhandarej Baori and Bhadrawati Palace showcase a blend of Rajput and Mughal architecture, while the Lotwara Fort, nestled in a picturesque village famed for its peacocks, offers a glimpse into Rajasthan’s royal legacy.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dausa is not just about monuments—it is a land where nature thrives amidst rugged hills and serene lakes. The Mahadev Hills, crowned with ancient Shiva temples, provide panoramic views of the countryside. Water bodies like Gatolav serve as birding havens, attracting migratory species and offering tranquil escapes for nature lovers. The district’s semi-arid terrain, dotted with Aravalli ridges, transforms into a lush green canvas during the monsoon, making it a photographer’s paradise.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dausa’s cultural heartbeat resonates through its festivals. The Abhaneri Festival, held against the backdrop of Chand Baori, is a celebration of Rajasthan’s folk traditions—where Kalbelia dancers swirl like desert winds, Ghoomar performers twirl in vibrant ghagras, and puppet shows narrate tales of valor. Camel safaris, craft bazaars, and local delicacies add to the festive charm.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other celebrations like Gangaur and Teej fill the streets with music, colors, and devotion, while village fairs at Sitabari and Jhajhirampura showcase the rustic soul of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dausa is a living museum of Rajasthani traditions. Its bazaars brim with handcrafted carpets, pottery, and textiles that reflect centuries-old artistry. Folk musicians—Manganiyars and Langas—fill the air with soulful tunes, while local cuisines like dal baati churma, ker sangri, and sweet malpua offer a taste of authentic desert flavors.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Jaipur International Airport (JAI) , located approximately 65 km from Dausa. From Jaipur, taxis and buses are easily available for onward travel.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Dausa Railway Station (DO) lies on the Delhi–Jaipur rail route and is well connected to major cities such as Jaipur, Delhi, Agra, and Kota, making rail travel a convenient option.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Dausa is well connected by road and lies along the Jaipur–Agra highway , ensuring smooth access by buses and private vehicles. It is about 65 km from Jaipur , 220 km from Delhi , and around 65 km from Bharatpur . Regular state and private bus services operate from nearby cities.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mehandipur Balaji Temple is renowned for its unique rituals dedicated specifically to healing people believed to be possessed by evil spirits, making it one of the most distinctive Hanuman temples in India.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhangarh Fort is officially declared “haunted” with entry prohibited after sunset—making it India’s most famous abandoned fort.",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Best Jaipur viewpoints – where to go for Jaipur sunset views",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Phenomenal Things To See In Ajmer, Rajasthan",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perfect pre-wedding shoot ideas in Udaipur",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the religious spots in Bikaner",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palace on Wheels: Experience Royalty on India's Luxury Train - Route & Price Details",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Of blues & golds: Jodhpur Jaisalmer 4 day itinerary",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of golden beauty and natural wonders",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through its religious spots in Jaisalmer",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A lip-smacking culinary journey of Jodhpur",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Udaipur's ultimate shopping paradise!",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's gateway to the serene beauty of Nature!",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enter Jaisalmer's treasure-filled markets",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Jaisalmer's culinary kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through Bharatpur’s flavours",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Harmonizing health and happiness in Bharatpur",
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dausa",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dausa",
+        "retrieved_at": "2026-09-22T18:36:43.409535+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

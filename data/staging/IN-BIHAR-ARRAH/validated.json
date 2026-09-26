@@ -1,0 +1,134 @@
+{
+  "destination_id": "IN-BIHAR-ARRAH",
+  "destination_name": "Arrah",
+  "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaiprakash Narayan International Airport (PAT), Patna"
+      },
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ara Junction Railway Station (ARA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaiprakash Narayan International Airport (PAT), Patna",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the hidden gem of Arrah in the captivating state of Bihar. This historic city, a mere 40 km from the bustling capital of Patna, is nestled near the confluence of two rivers, the Ganga and the Son. Arrah boasts a rich past, evident in its eye-catching architectural marvels and ancient temples that stand as testaments to bygone eras. History buffs will find themselves enthralled, as Arrah played a significant role during the Indian freedom movement, its very streets echoing with tales of valiant struggles. From the dawn of civilisation to the modern era, Arrah has witnessed the rise and fall of empires, leaving behind a captivating legacy that continues to enthral visitors today. As the administrative headquarters of Bhojpur, Arrah, also known as Ara, is a vibrant hub where the past seamlessly blends with the present. Let’s discover more about the charming city.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Arrah's soul unveils a fabric woven with threads of various faiths. Devotees of Shakti won't want to miss the Aranya Devi Temple, a revered shrine perched atop stone boulders and dedicated to the forest deity. Thousands flock here to seek blessings from the goddess. Arrah holds a special place in the hearts of Jains, boasting an impressive 44 Jain temples. Parsvanath Mandir, located in Masadh village, is a centuries-old testament to the Jain faith. An inscription in this temple mentions Aramnagar (or the City of Aramas). It is believed that ‘Aramnagar’ later became ‘Arrah’. Explore Bisram, a serene temple where Lord Mahavira, the 24th Jain Tirthankar, rested and delivered sermons. Seekers can delve deeper at the Jain Sidhant Bhawan, a haven brimming with a unique and extensive collection of Jain religious texts sure to intrigue and inspire visitors. Standing as a symbol of interfaith harmony, St. Mary's Church (also known as the Holy Saviour Church) is a popular tourist attraction. This architectural gem showcases a remarkable British style and offers a serene space for Christian prayer and reflection.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The region is renowned for being the home of the legendary freedom fighter Babu Veer Kunwar Singh. So, don't forget to factor in a visit to the historical Jagdishpur Fort, located around 38 kilometres from Arrah's heart. This wasn't just any fort; it was the residence of the ‘Son of Soil’ Veer Kunwar Singh. History buffs will be enthralled by the museum housed within the fort, showcasing a captivating collection of artefacts that whisper tales of India's fight for independence.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Arrah weaves history and mythology. Legends claim the area was once a vast forest (Aranya in Sanskrit), reflected in its very name. As the epic Ramayana recounts, sage Vishwamitra, Lord Rama's revered teacher, had his ashram here. It's also believed to be the site where Rama vanquished the demoness Taraka. Millennia later, during the Mahabharata, the region became infamous for the fearsome demon Bakra, who was slain by Bhima, one of the Pandavas.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Arrah's history dates back to antiquity, with archaeological findings indicating human habitation in the region since the ancient Vedic period. Over the centuries, Arrah emerged as a strategic centre of trade and commerce, connecting distant lands through its network of rivers and trade routes. One of the most significant chapters in Arrah's history unfolded during the Indian Rebellion of 1857. The Siege of Arrah, a stirring tale of courage and defiance, saw British residents and Indian sepoys bravely defending against overwhelming odds. The siege, which lasted for eight days, remains etched in the annals of history as a testament to the indomitable spirit of the people of Arrah.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a culinary adventure in Arrah and discover a vibrant Bhojpuri cuisine that reflects the warmth and resourcefulness of its people. Savour the iconic Litti Chokha, smoky balls of wheat flour stuffed with spiced lentils. For a sweet ending, indulge in the melt-in-your-mouth Maalpua, a golden-fried delight drizzled with condensed milk. Unwrap the comfort of Daal Pithaura, a hearty lentil dish packed with protein. No festive occasion is complete without Kasaar, a sweet rice pudding rich with dry fruits. And for a taste of pure tradition, savour Dalpuri, a flatbread prepared with lentils. Arrah's cuisine is an invitation to experience the soul of the Bhojpuri people – a celebration of life, tradition, and the simple joy of good food.",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, are you ready to embark on a historical and cultural adventure in Arrah? Plan your visit between October and February for the most pleasant weather, and discover the magic that awaits in Arrah!",
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Arrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/arrah",
+        "retrieved_at": "2026-09-22T18:36:24.090847+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

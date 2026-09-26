@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-ODISHA-BHUBANESWAR",
+  "destination_name": "Bhubaneswar",
+  "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Biju Patnaik International Airport (BBI), Bhubaneshwar"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bhubaneswar Railway Station (BBS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 11.4,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 39.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 41.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 42.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.1,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.6,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Biju Patnaik International Airport (BBI), Bhubaneshwar",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar, the capital city of Odisha, is a vibrant metropolis renowned for its rich cultural heritage, architectural marvels, and spiritual significance. Nestled amidst lush greenery and historical landmarks, Bhubaneswar captivates visitors with its ancient temples, bustling markets, and serene surroundings.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar boasts a rich historical legacy dating back over two millennia, with its origins rooted in ancient times. The city's name is derived from \"Tribhubaneswar,\" meaning \"Lord of the Three Worlds,\" a reference to Lord Shiva, who is worshipped as the presiding deity of the region. Throughout its history, Bhubaneswar served as a prominent center of Hindu pilgrimage and Tantric worship, attracting scholars, saints, and devotees from far and wide. The city's temples, built during the Kalinga period (3rd century BCE to 11th century CE), stand as enduring symbols of its cultural and religious significance.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar is renowned for its exquisite temple architecture, characterized by towering spires, intricately carved sculptures, and sacred shrines dedicated to various Hindu deities. The Lingaraj Temple , dedicated to Lord Shiva, is a masterpiece of Kalinga architecture, featuring a 55-meter-high spire and elaborately carved stone motifs depicting mythological scenes. Other notable temples in Bhubaneswar include the Mukteshwar Temple, Rajarani Temple , and Brahmeswara Temple, each showcasing the artistic brilliance and spiritual devotion of the ancient craftsmen.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar is a melting pot of diverse cultures, traditions, and languages, reflecting the cosmopolitan nature of modern Odisha. The city's vibrant cultural scene is manifested in its colorful festivals, traditional dance forms, and culinary delights. The annual Rath Yatra festival, celebrated with great fervor and enthusiasm, attracts thousands of devotees who come to witness the grand procession of Lord Jagannath, Balabhadra, and Subhadra through the streets of Bhubaneswar. Likewise, classical dance forms such as Odissi and folk arts like Gotipua and Chhau add to the cultural tapestry of the city, showcasing its artistic heritage and creative expression.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In addition to its rich cultural heritage, Bhubaneswar is a dynamic hub of modernity and progress, with a thriving economy, educational institutions, and IT parks. The city's skyline is dotted with modern high-rises, shopping malls, and entertainment complexes, catering to the needs and aspirations of its residents and visitors. Bhubaneswar's strategic location as a gateway to the eastern region of India has attracted investments in sectors such as information technology, healthcare, and tourism, driving its growth and development as a major urban center.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Despite its urban sprawl, Bhubaneswar is renowned for its lush greenery, serene lakes, and expansive parks, providing residents and visitors with ample opportunities for relaxation and recreation. The Bindu Sagar Lake, surrounded by ancient temples and verdant gardens, offers a tranquil retreat from the hustle and bustle of city life. The Nandankanan Zoological Park , located on the outskirts of Bhubaneswar, is a haven for wildlife enthusiasts, housing rare species of animals and birds in a naturalistic setting.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar is a city of timeless charm and contemporary vibrancy, where ancient traditions coexist harmoniously with modern aspirations. From its majestic temples and cultural festivals to its bustling markets and green spaces, Bhubaneswar captivates visitors with its multifaceted allure. Whether exploring its historical landmarks, savoring its culinary delights, or embracing its cultural diversity, visitors to Bhubaneswar are sure to be enchanted by the city's unique blend of tradition and progress.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hirapur is a small town known for a hypaethral (open to the sky) temple of 64 Yoginis, called the Yogini Temple .",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kantilo is a smaller replica of Puri's Sri Jagannath Temple, observing the same rites and rituals. It is believed that holy water continuously flows from the feet of Lord Nilamadhaba. The temple attracts many visitors during the Maghasaptami Bhaimaekadashi celebrations in the month of Magha.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The twin hills of Khandagiri and Udaigiri are famous for their rock-cut caves, constructed by Jain monks during the 1st and 2nd century BC.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is an important global wetland habitat and has been declared an International Bird Conservation Area .",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Satkosia is where two of India's bio-geographic regions, the Deccan Peninsula and the Eastern Ghats, intersect, resulting in immense biodiversity.",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The unexplored Ashokan Rock Edicts, Odisha",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Odisha the land of God do you really know about Odisha",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the natural beauty of Bhubaneswar",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A tourist's guide to Bhubaneswar's creative treasures!",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhubaneswar: A city that’ll keep you entertained",
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bhubaneswar",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/bhubaneswar",
+        "retrieved_at": "2026-09-22T18:36:40.078069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

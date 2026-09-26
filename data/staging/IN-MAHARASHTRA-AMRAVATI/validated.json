@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-MAHARASHTRA-AMRAVATI",
+  "destination_name": "Amravati",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dr. Babasaheb Ambedkar International Airport (NAG), Nagpur"
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Amravati Railway Station (AMI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.0,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.2,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 40.2
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 43.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 45.2
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.9,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dr. Babasaheb Ambedkar International Airport (NAG), Nagpur",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hidden in the heart of Maharashtra lies Amravati, which has a rich history, vibrant culture, delicious cuisine, and stunning game sanctuaries nearby. Located in India's Vidarbha region, this gem offers a unique blend of tradition and modernity, making it a perfect destination for travellers looking to explore off-the-beaten-path destinations. Amravati's story dates back to ancient times when it was known as \"Ambadevi,\" named after the Goddess Amba. The city has a long and layered history, with influences from various dynasties such as the Mauryas, Satavahanas, Chalukyas, and the Mughals. Today, Amravati is a bustling metropolis with a mix of old-world charm and contemporary amenities, giving us a glimpse into the colourful tapestry of Maharashtra's cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the highlights of Amravati is its vibrant culture, which is reflected in its festivals, music, dance, and art. The city is known for its traditional folk dances like Lavani and Tamasha, which are performed during various celebrations and events. The locals are warm and welcoming, always ready to share their rich cultural heritage with visitors.",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When it comes to food, Amravati is a paradise for food lovers. The city is famous for its delicious street food, including spicy chaat, crispy vada pav, and mouth-watering bhel puri. For those looking for a more upscale dining experience, plenty of restaurants serve traditional Maharashtrian cuisine and international dishes. Don't forget to try the local speciality, \"Pandhara Rassa,\" a creamy white curry made with mutton or chicken, served with bhakri or rice. In addition to its rich culture and delectable cuisine, Amravati is also home to several natural reserves worth exploring. The Melghat Tiger Reserve , located just a few hours away from the city, is a haven for wildlife enthusiasts. Here, visitors can spot tigers, leopards, sloth bears, and various bird species in their natural habitat. The reserve also offers opportunities for trekking, bird watching, and nature walks, making it a perfect day trip for nature lovers. Another must-visit natural attraction near Amravati is the Chikhaldara Hill Station , about 100 kilometres from the city. Situated at an altitude of 1,118 meters, Chikhaldara offers breathtaking views of the surrounding valleys and forests. You can enjoy boating in the picturesque Bhimkund Lake, exploring the ancient Gawligadh Fort , and hiking through the lush forests. The hill station is also known for its cool climate, making it a perfect escape from the scorching summer heat. For those interested in history, visiting the ancient temples of Ambadevi and Shri Ekvira Devi is a must. These temples are architectural marvels and hold great religious significance for the locals. The intricate carvings, colourful frescoes, and serene atmosphere of these temples make them a must-visit for anyone interested in spirituality and history. Situated on a hill and standing sentinel is one of the city's most significant landmarks, the historic Amba Devi Temple.",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amravati is a city that has something to offer for everyone. Whether you are a history buff, a foodie, a nature lover, or simply looking to explore a new destination, Amravati will not disappoint. With its rich story, vibrant culture, delicious cuisine, and stunning natural reserves nearby, this hidden gem in Maharashtra is waiting to be discovered. So add Amravati to your travel plans and embark on a memorable journey through the heart of Maharashtra.",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore Amravati's shopping kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the natural splendours of Amravati",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gateway to adventure amidst Maharashtra's natural marvels",
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Amravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/amravati",
+        "retrieved_at": "2026-09-22T18:36:37.180132+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

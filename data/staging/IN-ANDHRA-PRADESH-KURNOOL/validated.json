@@ -1,0 +1,362 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-KURNOOL",
+  "destination_name": "Kurnool",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Rajiv Gandhi International Airport (HYD), Hyderabad"
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kurnool City Railway Station (KRNT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 37.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 41.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 43.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 37.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 16.7,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.8,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajiv Gandhi International Airport (HYD), Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heartland of Andhra Pradesh , the city of Kurnool unfolds as a canvas painted with the vibrant strokes of history, nature, and culture. Often hailed as the \"Gateway of Rayalaseema\", Kurnool is not merely a gateway but a grand amphitheatre where the drama of the past and the vibrancy of the present perform in unison. This city, where history whispers from ancient ruins and culture flourishes in the bustling streets, invites visitors to witness a rich melange of life that has evolved over centuries.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurnool's saga begins in the realms of legend and ascends through the annals of history marked by dynasties, wars, and the silent watch of its enduring forts and palaces. The city’s historical landscape is dominated by the remnants of the palace of Gopal Raju, the last Hindu king whose reign whispered the final tales of Hindu royalty before the region felt the footsteps of other empires. The Konda Reddy Fort , a stoic sentinel built by the Vijayanagar Empire, stands guard over the city, its weathered ramparts a canvas etched with ancient Persian and Arabic inscriptions narrating the stories of battles fought, empires that rose and fell, and the lives that echoed within its walls. The modest looking structure once housed a tunnel that passed from under the Tungabhadra river and still holds a majestic watch tower, looking over to the city that grew around it.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For nature enthusiasts, the Rollapadu Wildlife Sanctuary offers a stark contrast to Kurnool’s historical and spiritual sites. Spread across 614 square kilometers, this sanctuary is a haven for the endangered Great Indian Bustard and Lesser Florican, among other species. The sanctuary’s dry grasslands interspersed with small woods provide perfect conditions for bird watching and encountering diverse flora and fauna.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among Kurnool’s prime attractions are the Belum Caves, the second largest cave system in the Indian subcontinent. These caves are nature’s own museums, showcasing stalactite and stalagmite formations that have been sculpted over millions of years. The caves extend over 3,229 meters, with pathways that lead visitors through breathtaking formations and spacious chambers that once served as meditation halls for Jain and Buddhist monks. The deepest point of the caves, known as Pataalaganga, lies 46 meters below the entrance level, where an underground stream flows perennially. It’s not just the natural beauty but the sheer silence of the depths that turns Belum Caves into a sanctuary of peace and wonder.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurnool’s spiritual heritage is best witnessed at Yaganti, home to the unique Sri Yagantiswamy Temple dedicated to Lord Shiva. Also known as Uma Maheshwara Temple, the temple houses the single stone idol of Shiva and Parvathi fused together, called Ardhanareeswara. This temple, dating back to the 5th and 6th centuries, resonates with the chants and bells of devotion, especially during the Maha Shivratri festival, drawing devotees in large numbers. Kurnool is also home to the historic Ahobilam Temple, a revered site dedicated to Lord Narasimha. This temple is distinguished by its worship of all nine forms of Lord Narasimha, making it a unique pilgrimage destination. The temple's distinctive architecture captivates both devotees and archaeology enthusiasts alike, positioning it as one of the most fascinating attractions in Kurnool.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the outskirts of Kurnool Jagannatha Gattu Temple provides a tranquil setting where spirituality blends seamlessly with nature. The temple’s significance is enhanced by legends that claim the Shivalinga here was brought by Bheema, a Pandava prince, adding mythological depth to its sacred site. Nearby, Mahanandi offers a stunning natural retreat surrounded by dense forests of the eastern Nallamala Hills. This serene village is not only a haven for adventure enthusiasts with its exciting treks but also houses the ancient Nava Nandulu temple, one of the significant nine shrines dedicated to Lord Nandi, established in the early 10th century.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the quiet realms just outside Kurnool lies an ancient gallery of the Ketavaram rock paintings, dating back to the Paleolithic era. These paintings, etched onto rock surfaces, depict scenes of everyday life among early humans, providing a fascinating insight into the primitive arts and the universal human penchant for storytelling through visuals. Adding to Kurnool's diverse landscape is the Orvakal Rock Garden , an intriguing sculpture park that features igneous rock formations interspersed with tranquil water bodies. Located 20 kilometers from Kurnool, this garden is not only a visual feast but also a geological wonder, offering scenic trails and picnic spots.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurnool’s culinary offerings are robust and rooted in the local agricultural bounty, particularly renowned for its spicy cuisine that makes liberal use of the local chillies. The delectable cuisine of Kurnool showcases a blend of Andhra, Telangana, and Rayalaseema flavors, with dishes like Gongura mutton, Pootharekulu, and Ulavacharu biryani.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cultural pulse of Kurnool beats the strongest during its numerous festivals. Each festival, whether it's the colorful celebrations of Sankranti or the spiritual gatherings during Deepavali, is a spectacle of joy and community spirit. These festivals not only bring the local communities together but also offer a vibrant tableau for tourists to experience the rich tapestry of Indian cultural life in its most authentic form.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you're drawn by the call of ancient sites, the tranquillity of nature, the spiritual sanctity of temples, or the vibrant local life, Kurnool is a destination that promises a rich and rewarding journey, capturing the essence of its heritage, beauty, and the indomitable spirit of its people.",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rollapadu wildlife sanctuary is the only habitat in Andhra Pradesh for the Great Indian Bustard which is a critically endangered species",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Konda Reddy Fort has an underground tunnel about 25kms long, which leads you across the River Krishna to Alampur, a town in Mahbubnagar District",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kurnool",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kurnool",
+        "retrieved_at": "2026-09-22T18:36:20.127634+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

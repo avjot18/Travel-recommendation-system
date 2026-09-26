@@ -1,0 +1,153 @@
+{
+  "destination_id": "IN-KERALA-PALAKKAD",
+  "name": "Palakkad",
+  "state_or_ut": "Kerala",
+  "region": null,
+  "description": "Palakkad is an officially listed tourism destination in Kerala, India. It is best treated as a backwaters, nature, wellness travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "backwaters",
+    "nature",
+    "wellness",
+    "beach",
+    "food",
+    "culture"
+  ],
+  "best_for": [
+    "backwaters",
+    "wellness",
+    "couples",
+    "food",
+    "nature"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 19.4,
+      "maximum_celsius": 35.1
+    },
+    "february": {
+      "minimum_celsius": 20.4,
+      "maximum_celsius": 37.2
+    },
+    "march": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 39.3
+    },
+    "april": {
+      "minimum_celsius": 22.6,
+      "maximum_celsius": 39.5
+    },
+    "may": {
+      "minimum_celsius": 22.5,
+      "maximum_celsius": 37.9
+    },
+    "june": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 34.5
+    },
+    "july": {
+      "minimum_celsius": 21.7,
+      "maximum_celsius": 32.1
+    },
+    "august": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 32.3
+    },
+    "september": {
+      "minimum_celsius": 22.3,
+      "maximum_celsius": 33.3
+    },
+    "october": {
+      "minimum_celsius": 21.9,
+      "maximum_celsius": 34.3
+    },
+    "november": {
+      "minimum_celsius": 21.3,
+      "maximum_celsius": 33.8
+    },
+    "december": {
+      "minimum_celsius": 20.6,
+      "maximum_celsius": 33.4
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Kerala",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Cochin International Airport (COK), Cochin Coimbatore International Airport (CJB), Coimbatore Kozhikode International Airport (CCJ), Kozhikode"
+    ],
+    "railway_station": [
+      "Palakkad Junction Railway Station (PGT) Coimbatore Junction Railway Station (CBE)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Kerala",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Palakkad",
+      "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

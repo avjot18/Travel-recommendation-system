@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-ANANTNAG",
+  "name": "Anantnag",
+  "state_or_ut": "Jammu and Kashmir",
+  "region": null,
+  "description": "Anantnag is an officially listed tourism destination in Jammu and Kashmir, India. It is best treated as a mountains, nature, adventure travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "mountains",
+    "nature",
+    "adventure",
+    "heritage",
+    "spiritual"
+  ],
+  "best_for": [
+    "mountains",
+    "lakes",
+    "snow",
+    "gardens",
+    "adventure"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "September",
+    "October"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": -12.5,
+      "maximum_celsius": 10.0
+    },
+    "february": {
+      "minimum_celsius": -10.1,
+      "maximum_celsius": 12.8
+    },
+    "march": {
+      "minimum_celsius": -5.6,
+      "maximum_celsius": 19.9
+    },
+    "april": {
+      "minimum_celsius": -1.0,
+      "maximum_celsius": 24.0
+    },
+    "may": {
+      "minimum_celsius": 2.0,
+      "maximum_celsius": 26.9
+    },
+    "june": {
+      "minimum_celsius": 4.7,
+      "maximum_celsius": 29.0
+    },
+    "july": {
+      "minimum_celsius": 8.4,
+      "maximum_celsius": 29.6
+    },
+    "august": {
+      "minimum_celsius": 8.4,
+      "maximum_celsius": 29.1
+    },
+    "september": {
+      "minimum_celsius": 4.3,
+      "maximum_celsius": 27.7
+    },
+    "october": {
+      "minimum_celsius": -1.4,
+      "maximum_celsius": 24.8
+    },
+    "november": {
+      "minimum_celsius": -5.3,
+      "maximum_celsius": 19.0
+    },
+    "december": {
+      "minimum_celsius": -8.8,
+      "maximum_celsius": 12.7
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Jammu and Kashmir",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Srinagar International Airport (SXR), Srinagar"
+    ],
+    "railway_station": [
+      "Anantnag Railway Station (ANT)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Jammu and Kashmir",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Anantnag",
+      "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/anantnag",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

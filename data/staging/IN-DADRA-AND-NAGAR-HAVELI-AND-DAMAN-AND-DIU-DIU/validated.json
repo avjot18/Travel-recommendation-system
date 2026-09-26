@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-DADRA-AND-NAGAR-HAVELI-AND-DAMAN-AND-DIU-DIU",
+  "destination_name": "Diu",
+  "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Diu Airport (DIU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Delvada Railway Station (DVA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 8.1,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.1,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 37.1
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.3,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 9.9,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dotted along India’s western coast, Diu is a mesmerising combination of sun, sand, and history, beckoning visitors seeking an escape from the chaos of daily life. It's not just a destination but a journey back in time, where the azure waters of the Arabian Sea meet the architectural marvels of a bygone era. With its golden beaches and historical landmarks like the mighty Diu Fort, this medieval fortified town offers a slice of paradise for nature lovers and history buffs alike. The captivating island paradise rests like a jewel off the coast of Gujarat. Part of the union territory of Dadra and Nagar Haveli and Daman and Diu, the town offers a beautiful escape accessible by bridges and ferries. Diu is an invitation to step away from the ordinary and explore, reflect, and rejuvenate at the sun-drenched beaches and monuments of history that line its streets. Come and discover the magic of Diu and immerse yourself in its spellbinding seashore and captivating tales from the past.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Begin your Diu sojourn by exploring the imposing Diu Fort, a towering symbol of the island's strategic significance. Built by the Portuguese in 1535, this fortress has withstood the test of time, bearing witness to countless battles and pivotal moments in history. Step inside its massive ramparts and winding dungeons to uncover tales of courage and resilience that echo through the ages. Diu Fort isn't just about the past; it offers breathtaking views of the present. Climb to the highest point and witness the turquoise waters of the sea seamlessly merge with the blue sky. Amidst Diu's historical wonders, St. Paul's Church is an architectural masterpiece. Also known as the Church of Immaculate Conception, this 400-year-old marvel will mesmerise you with its intricate wood carvings and the distinct baroque style representative of the town’s Portuguese heritage. As you explore Diu's charming streets, don't miss the Zampa Gateway . This grand entrance, painted a vibrant red, stands sentinel over the western part of the island town. The structure boasts an impressive design with intricate carvings and a striking arched entrance that reflects the area's rich cultural heritage. Another historic gem to explore is a fort right in the middle of the sea - the Fortress of Panikotha. This magnificent stone structure isn't just a historical landmark; it's a postcard-perfect sight. Cruise on a motorboat to reach this majestic sentinel, which is about a nautical mile from Diu Jetty, offering breathtaking views from any vantage point. Venture beyond Diu’s forts and head to the INS Khukri Memorial , a poignant tribute to the brave soldiers who lost their lives during the Indo-Pak war of 1971. The memorial commemorates the INS Khukri, a ship that sank near this very spot. Here, you'll find a scaled model of the INS Khukri encased in a glass house.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Treat the nature-lover in you by visiting the crown jewel of Diu at Nagoa Beach, one of the most scenic beaches in the country. Its crescent shape, resembling a serpent, adds to its allure. Sink your toes into golden sands if you seek solace or get your adrenaline pumping with a range of thrilling water sports. Head to the northern tip of Diu to explore its largest beach, Ghoghla Beach , which offers panoramic views of the Arabian Sea. This beautiful point has something for everyone, whether you're seeking a romantic evening or a family vacation. Stroll down the beach, play in the sand, or sit back and enjoy the spectacular sunset views. Explore beyond the crowds at Diu's hidden gem, Chakratirth Beach . This rocky beach offers tranquillity and a legendary connection to Lord Krishna's fight with the demon Jalandhar. Perfect for a serene escape! Diu's charm unfolds like a hidden treasure chest. If you seek adventure, delve into the mysterious Naida Caves built by the Portuguese. Celebrated as one of the most captivating natural wonders since ancient times, these caves offer a maze-like network of tunnels to explore. Located just a short distance from Diu, the caves are a must-visit attraction.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To infuse your nature experience in Diu with spirituality, head to the tranquil shores of the Gangeshwar Mahadev Temple, where the rhythmic waves of the sea honour the divine presence. Here, amidst the gentle embrace of the ocean, stand five sacred Shivalingas. The temple’s uniqueness lies in the intricate detailing within the traditional Hindu temple architectural style, making it a visual treat for architecture enthusiasts. Take a scenic journey to the serene Jallandhar Shrine perched atop a hill. Apart from being an expression of faith, it also offers you panoramic views of the surrounding landscape, symbolising the divine watch over the land and its people. Representing the victory of good over evil, the shrine is devoted to Lord Shiva's (the God of the Universe) slaying of the demon king Jallandhar, who is believed to have been buried near the spot. Step into the captivating world of St. Thomas Church , built in 1598. This iconic landmark, once a bastion of Christian worship, now opens its doors as a living museum, offering a glimpse into the island's Portuguese heritage.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Diu’s food is an eclectic blend of the vibrant flavours of Gujarat with the subtle nuances of Portuguese cuisine. But the magic doesn't stop there – hints of African, Arabian, and Indian culinary traditions also peek through, making Diu's food scene a true melting pot. Seafood naturally takes centre stage, a bounty fresh from the surrounding waters. Indulge in a fiery prawn curry or perfectly fried bangda fish. For a vegetarian experience, explore the vibrant world of Gujarati kadhi or savour the delicious simplicity of local vegetables prepared with aromatic spices.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore a vibrant world of local artistry, from delicate paintings on seashells to unique jewellery inspired by the island's culture. Dive into the art of pottery, where every piece narrates Diu's rich artisanal heritage. Immerse yourself in the festivities here that reflect this region’s communal spirit, from the lively Festa De Diu (Asia’s longest beach festival) to the colourful Kite Festival, which celebrates music, sports, and art.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The journey doesn't end within Diu's borders. Just a scenic 45 kms journey awaits, leading you to the heart of Gir National Park . Here, nestled amidst lush greenery, lies the Tulsishyam Mandir , a centuries-old temple dedicated to Lord Krishna. You must attend the spectacular evening aarti – a fire ritual with traditional earthen lamps – a truly mesmerising experience. Right near the temple, discover natural hot springs known for their healing properties, particularly for skin ailments. And if you're an animal enthusiast, the park itself is a dream come true. Embark on a thrilling safari and witness the majestic Asiatic lion roaming free in its natural habitat. Journey around 85 kms to the west of Diu and pay respects at the revered and iconic Somnath Temple . This ancient jyotirlinga (one of the 12 most sacred Shiva shrines in India) is a must-visit for any Hindu devotee and a fascinating historical site for everyone.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Diu's temperate climate is welcoming throughout the year. However, the cooler weather from October to March is ideal for exploring the island's myriad attractions and outdoor activities. Each historical and coastal site in Diu invites you to embark on a transformative journey of self-discovery and reflection. So, what are you waiting for?",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Over 5000-year-old, Gangeshwar Mahadev Temple is believed to be built by Pandavas during their exile.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Portuguese used to anchor their ships at the Ghoghla Beach and watch the sunset from their decks.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "St. Thomas Church served as a prison for Indian freedom fighters while Britain was in power.",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Here’s Why A Beach Holiday In Daman and Diu Is Different From The Rest",
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Diu",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/diu",
+        "retrieved_at": "2026-09-22T18:36:52.577861+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

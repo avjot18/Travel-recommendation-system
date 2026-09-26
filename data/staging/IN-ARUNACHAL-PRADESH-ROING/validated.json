@@ -1,0 +1,413 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-ROING",
+  "destination_name": "Roing",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dibrugarh Railway Station (DBRG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Roing, located in the Lower Dibang Valley district of Arunachal Pradesh, is a picturesque town nestled along the banks of the Dibang River. Known for its serene landscapes and untouched natural beauty, Roing is a destination where snow-capped mountains, dense forests, and crystal-clear lakes come together to create an unforgettable travel experience. The district itself showcases remarkable geographical diversity, ranging from snow-covered Himalayan peaks in the north to gentle plains in the south, all interconnected by numerous rivers, streams, and rivulets that enhance its scenic charm.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Often described as “cool and refreshing,” Roing perfectly lives up to its name by offering a tranquil escape from the chaos of city life. With its blend of natural beauty, cultural heritage, and outdoor adventure, this offbeat destination appeals to nature lovers, explorers, and travelers seeking solitude in Northeast India.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Roing is set in a scenic valley surrounded by lush greenery, rolling hills, and towering mountains. The presence of the Dibang River adds to its charm, with its braided channels flowing gracefully through the landscape. The air here feels fresh and rejuvenating, carrying the earthy scent of forests and the soothing sounds of rustling leaves and flowing water. The region’s largely untouched environment creates an immersive experience, where visitors can truly connect with nature in its purest form.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most captivating attractions near Roing is Mayudia Pass, located about 56 km away at an altitude of nearly 8,000 feet. This scenic hill destination is known for its mist-covered landscapes, dense forests, and panoramic views of the surrounding mountains. During winter, the area often receives snowfall, transforming it into a magical white retreat. The journey to Mayudia is equally memorable, especially along the winding “Baro Golai” (twelve hairpin bends), which offers both thrilling drives and breathtaking views at every turn.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another major highlight of the region is Mehao Lake and Mehao Wildlife Sanctuary, situated around 17 km from Roing. The sanctuary spans a vast area with varying altitudes and is home to rich biodiversity, including species such as tiger, leopard, elephant, takin, hoolock gibbon, and red panda. Nestled within this sanctuary is the stunning Mehao Lake, known for its crystal-clear waters and serene forest surroundings. A walk around the lake or simply sitting by its calm shores offers a deeply peaceful experience, ideal for nature lovers and photographers.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Closer to town lies Sally Lake, just 3 km from Roing, a beautiful natural lake surrounded by thick greenery. Overlooking the Dibang Valley, the lake offers tranquil views and a quiet escape for visitors. Its clear waters, scenic setting, and nearby tourist lodge make it a perfect spot for relaxation, picnics, and short visits.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those interested in history and mythology, Bhismaknagar Fort, located about 30 km from Roing, is one of the oldest archaeological sites in Arunachal Pradesh. Dating back to around the 12th century, the site has yielded terracotta artifacts, ancient pottery, and structural remains during excavations. It is widely believed to be the capital of King Bhismaka, the father of Rukmini, who later became the wife of Lord Krishna, adding a fascinating mythological dimension to the site.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Roing is gradually emerging as an adventure destination, offering activities such as trekking, hiking, camping, and nature exploration. The surrounding forests and hills provide excellent opportunities for outdoor enthusiasts looking to explore less-commercialized trails. The region is also known for its rich tribal culture, where visitors can experience local lifestyles, interact with warm and hospitable communities, and explore traditional markets featuring handmade crafts.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The region around Roing is home to indigenous tribes known for their warm hospitality and deep connection to nature. Visitors often find themselves welcomed into local homes and communities, offering a chance to experience authentic tribal lifestyles. The presence of unique fauna such as the Mithun (a semi-domesticated bovine species) adds to the cultural and ecological uniqueness of the region.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelers are advised to carry warm clothing, especially when visiting higher altitudes like Mayudia. It is recommended to explore remote areas with local guides, as some forest regions can be challenging to navigate. Respect for local culture and natural surroundings is essential, and visitors should ensure responsible travel practices. Carrying basic essentials is advisable, as facilities in remote areas may be limited.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Roing is between October and April, when the weather is pleasant and ideal for sightseeing and outdoor activities. Winters offer cool temperatures and occasional snowfall in higher altitudes like Mayudia, while post-monsoon months bring lush greenery. The monsoon season, although scenic, can make travel difficult due to heavy rains.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Roing is well connected to major towns in Arunachal Pradesh and neighboring Assam. The nearest airport is Dibrugarh Airport (DIB), located approximately 140–150 km away, providing regular connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest railway station is also in Dibrugarh or Tinsukia, from where travelers can continue by road.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Roing is accessible via well-maintained roads, with taxis and shared vehicles available for convenient travel.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend has it that Dhabaleswar Temple was dedicated to Lord Shiva and visited by Lord Rama during his exile period.",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Roing",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/roing",
+        "retrieved_at": "2026-09-22T18:36:22.354791+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

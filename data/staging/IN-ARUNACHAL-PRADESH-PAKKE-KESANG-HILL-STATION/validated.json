@@ -1,0 +1,393 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-PAKKE-KESANG-HILL-STATION",
+  "destination_name": "Pakke Kesang Hill Station",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Tezpur Airport (TEZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Guwahati Railway Station (GHY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the picturesque East Kameng district of Arunachal Pradesh, Pakke Kesang Hill Station is a hidden gem known for its tranquil landscapes, cool climate, and scenic valleys. Surrounded by lush greenery, winding rivers, and agricultural fields, this peaceful destination is perfect for travelers seeking an offbeat Himalayan retreat.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pakke Kesang is best known for its breathtaking valley landscapes, collectively referred to as the Three Valleys :",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The central valley where Pakke Kesang headquarters is located. It offers expansive views of rolling hills, meandering rivers, and fertile land.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated about 21 km from Seppa, Pappu Valley is known for its lush paddy fields and serene rural charm. During summer, the valley turns vibrant green.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located around 78 km from Seppa, Passa Valley is known for its scenic riverbanks and expansive open landscapes that offer a peaceful natural setting. The nearby area of Lumdung is particularly popular among birdwatching enthusiasts due to the presence of migratory birds. These valleys together stand out for their unique charm, with rivers flowing through fertile agricultural lands and picturesque paddy fields lining the riverbanks. Their beauty changes with the seasons with lush and vibrant greenery during the summer months, and lively bird activity in the winter, making them a year-round visual delight.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lumdung (Passa region) is a notable destination for migratory birds during winter , making it ideal for birdwatchers and nature enthusiasts. In contrast, summers bring vibrant, green landscapes perfect for sightseeing and photography.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While visiting Pakke Kesang, you can explore nearby scenic destinations such as Bameng – A quiet hill retreat known for its cool weather and natural beauty and Chayangtajo which is famous for panoramic views of Gorichen Peak, a stunning snow-covered mountain. These nearby locations offer excellent opportunities for short trips and scenic exploration.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the Seijosa Circle, the Pakhui Wildlife Sanctuary is a must-visit for wildlife enthusiasts. The sanctuary is rich in biodiversity, with dense forests, rare flora and fauna, and excellent birdwatching opportunities.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kameng River is a popular destination for angling and fishing , especially during winter. Suitable for both beginners and experienced anglers. Permission from local authorities is required.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to March ideal for birdwatching and fishing. April to June pleasant weather and lush green valleys. July to September (Monsoon), travel not recommended due to landslides.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Nearest airports are Salonibari Airport, Tezpur (TEZ) and Lokpriya Gopinath Bordoloi International Airport , Guwahati, GAU.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: Nearest railway stations are Guwahati Railway Station (GHY) and Naharlagun Railway Station (NHLN).",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Well-connected to Seppa, Itanagar , and Assam . From Tezpur it is 260-270 Km away . Local transport includes taxis, shared sumos, and private vehicles.",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pakke Kesang Hill Station",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pakke-kesang-hill-station",
+        "retrieved_at": "2026-09-22T18:36:22.038524+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

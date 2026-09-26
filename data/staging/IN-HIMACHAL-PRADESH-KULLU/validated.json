@@ -1,0 +1,333 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-KULLU",
+  "destination_name": "Kullu",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kullu–Manali Airport (KKU), Kullu (Bhuntar) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Joginder Nagar Railway Station (JGNX)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 1.6,
+        "maximum_celsius": 16.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.8,
+        "maximum_celsius": 18.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 6.8,
+        "maximum_celsius": 22.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 13.1,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 30.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 4.9,
+        "maximum_celsius": 22.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 1.5,
+        "maximum_celsius": 18.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu–Manali Airport (KKU), Kullu (Bhuntar)",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the lap of the majestic Himalayas, Kullu, often referred to as the \"Valley of Gods\", is a captivating region in Himachal Pradesh, India. Known for its stunning landscapes, rich cultural heritage, and spiritual significance, Kullu offers an inspiring retreat for travellers seeking a harmonious blend of nature, adventure, and tradition.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu's history dates back to ancient times, with references in epics like the Ramayana and the Mahabharata. According to legend, it is here that Sage Vashisht and other revered sages meditated. The valley's name is derived from \"Kulant Peeth\", which means the end of the habitable world, reflecting its mythical and geographical significance.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Historically, Kullu was an independent kingdom ruled by local chieftains. The kingdom saw its peak during the reign of Raja Jagat Singh in the 17th century. Under his rule, the famous Raghunath Temple was established, and Lord Raghunath (Lord Rama) became the presiding deity of the valley. This marked the beginning of the grand Dussehra festival in Kullu, a tradition that continues to this day.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu is a vibrant tapestry of culture and tradition. The valley comes alive during the Kullu Dussehra, a week-long festival celebrated with great fervour and grandeur. Unlike other parts of India, where Dussehra marks the end of the festivities, in Kullu, it signifies the beginning. Thousands of devotees and tourists gather to witness the procession of deities, traditional music, dance, and the vibrant cultural performances that highlight the valley's rich heritage.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu's natural beauty is a testament to the splendour of the Himalayas. The valley is adorned with lush green forests, apple orchards, and meandering rivers. The Beas River flows through Kullu, adding to its scenic charm and offering opportunities for thrilling activities like white-water rafting.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For adventure enthusiasts, Kullu is a paradise. The valley serves as a gateway to several trekking routes, including the famous trails to Manikaran, Malana, and the Great Himalayan National Park . The surrounding mountains provide excellent opportunities for trekking, mountaineering, and rock climbing.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just 40 kilometres from Kullu lies Manali, a popular hill station that enhances the allure of the valley. Known for its cool climate, stunning vistas, and adventure sports, Manali attracts tourists year-round. The Solang Valley and Rohtang Pass near Manali offer skiing, paragliding, and snow sports, making Kullu-Manali a hub of adventure tourism.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kullu is dotted with ancient temples that reflect its spiritual heritage. The Raghunath Temple, dedicated to Lord Rama, is the most prominent. Other significant temples include the Bijli Mahadev Temple, known for its towering Shiva lingam that attracts lightning, and the Vaishno Devi Temple, a popular pilgrimage site.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the Parvati Valley, near Kullu, Manikaran is a revered pilgrimage site for both Hindus and Sikhs. The hot springs of Manikaran are believed to have healing properties and draw thousands of pilgrims and tourists every year. The Gurudwara Manikaran Sahib and the ancient temples add to the spiritual aura of this serene town. Kullu is more than just a destination; it is a journey into the heart of nature, culture, and spirituality. From its ancient temples and vibrant festivals to its breath-taking landscapes and thrilling adventures, Kullu offers an experience that is both enriching and exhilarating. As you explore this enchanting valley, you will discover a place where the past and present harmoniously coexist, where every moment is a celebration of life and nature's splendour.",
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kullu",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kullu",
+        "retrieved_at": "2026-09-22T18:36:29.441174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

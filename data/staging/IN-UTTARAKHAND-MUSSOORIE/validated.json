@@ -1,0 +1,362 @@
+{
+  "destination_id": "IN-UTTARAKHAND-MUSSOORIE",
+  "destination_name": "Mussoorie",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dehradun Airport (DED)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dehradun Railway Station (DDN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 24.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.1,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 12.3,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.2,
+        "maximum_celsius": 28.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.6,
+        "maximum_celsius": 25.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Have you ever yearned to step into a living postcard where the traces of the past blend with nature's grandeur? Welcome to Mussoorie, the 'Queen of Hills' located in Uttarakhand. As you navigate the serpentine roads, the crisp mountain air carries the intoxicating scent of pines and cedars, hinting at the wonders that await. Get ready to witness the timeless scenes against a backdrop of endless Himalayan peaks while local villagers greet you with warm smiles, cloth bags slung over their shoulders as they go about their day. In Mussoorie, the echoes of the British Raj linger in colonial architecture and quaint lamp posts, inviting you to lose yourself in its nostalgic charm. Here, amidst the mist-shrouded hills and bustling Mall Road, you'll discover a place where the soul of India's hill stations beats strong, waiting to be explored by you.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The year was 1827 when the lush Doon Valley stretched below like an emerald carpet. Two curious souls, Captain Frederick Young and FJ Shore, are about to etch their names into the annals of history. As they ascend the rugged slopes, little do they know they're on the cusp of unveiling a hidden gem. The fresh mountain air, the panoramic vistas, and the whisper of possibility in every breeze - it was love at first sight. The little town grew as more and more Britishers chose to move there, and eventually, Mussoorie became the summer retreat of the British.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But what's in a name? Mussoorie's essence is rooted in the land, derived from the humble mansūr shrub that carpets these hills. To the locals, it's always been 'Mansuri' - a name as gentle on the tongue as the mist on your skin. In this baptism of nature and human ambition, Mussoorie was born - not just a town but a dream woven into the fabric of the mountains.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Have you ever dreamed of touching the sky? In Mussoorie, that dream feels close. Let Gun Hill Point beckon you first, a place as adventurous as its name. While the cable car whisks you skyward or your feet trace the winding path upward, anticipation builds with every metre. And then, suddenly, you're there - the second-highest peak unfurling the beauty of Himalayan majesty and the sprawling Doon Valley below.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But the journey doesn't end here. Lal Tibba calls next, the crowning jewel of Mussoorie's heights. Here, you can witness the mesmerising view of dawn painting the cities of Badrinath and Kedarnath in hues of gold while dusk drapes them in shadows - a daily ritual that never fails to stir the soul.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "After the mountain air has filled your lungs, let the soothing embrace of Mussoorie Lake welcome you. Amidst the verdant hills, it's more than just a body of water; it's a slice of local life. The laughter of families and friends as they go boating creates a symphony of joy. And for those seeking nature's raw power, Kempty Falls awaits. Its cascading waters, forever racing towards some unseen finish line, offer a mesmerising spectacle. Here, amidst the mist and roar, you'll find more than just cool spray on your skin - you'll discover the pulse of Mussoorie itself, wild and free.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Speaking of the wild, your next stop will be Benong Wildlife Sanctuary , a hidden wild habitat in Mussoorie's embrace. Here, the air thrums with possibility as rare Himalayan birds flit through the canopy. For the patient observer, each rustle of leaves could reveal a new avian treasure, a living, breathing piece of the Himalayan puzzle. Nature lovers, prepare to have your senses awakened as you wander through this sanctuary's diverse flora where each step is an adventure. But Mussoorie's allure isn't confined to its natural wonders alone. As you leave the sanctuary behind, history beckons in the form of Sir George Everest's House . Standing proud since 1832, this colonial relic narrates stories of scientific pursuits and imperial ambitions. Today, the Park Estate, as it's also known, wears many hats. It's a playground for the adventurous, a picnic spot for families, and a campsite for those yearning to sleep under the stars.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Set amidst the mist-shrouded peaks of Mussoorie, the Jwalaji Temple and Surkanda Devi Temple stand out with their unique features. The Jwalaji Temple is home to eternal flames that dance in reverence to the goddess, its warm glow a stark contrast to the cool mountain air. A short distance away, Surkanda Devi perches atop a ridge, rewarding those who brave the steep ascent with panoramic views that stir the soul. These ancient shrines, steeped in legend and devotion, offer more than just religious significance. They provide a moment of pause, a chance to connect with something greater than oneself amidst the Himalayan grandeur.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Have you ever wandered down a street where every step feels like turning a page in a storybook? That's how you feel as you step into Mall Road, where the pulse of Mussoorie beats strongest. As you meander along this colonial-era promenade, the aroma of freshly baked treats mingles with the cool breeze, tempting you at every turn. Quaint shops, their windows brimming with a variety of local handicrafts and vibrant woollens, beckon you to explore, promising an exciting shopping experience. Here, time-honoured establishments serve steaming momos and fragrant tea, while several iconic bakeries cast their spell on your taste buds with their culinary magic. As dusk falls, the street comes alive with twinkling lights and the cheerful chatter of locals and tourists alike.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You can do a lot in Mussoorie, from exploring its popular peaks and nature's wonders to witnessing its colonial and spiritual charm. This beautiful hill station also acts as a gateway to a world of thrilling treks. But Mussoorie turns magical when the sky is painted with vibrant shades of orange and yellow. As darkness descends, a unique phenomenon occurs: the winterline. This ethereal line appears as a second horizon floating in the sky, resulting from the warm city air meeting the cold Himalayan air. It's truly a sight to behold and best experienced during the winter months from October to February.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The celebrated author Ruskin Bond has made Mussoorie his home for several decades. Many of his stories are set in and around the town, and he can often be spotted wandering the streets, drawing inspiration from its scenic beauty and colonial charm.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During the winter months, Mussoorie is treated to a spectacular natural phenomenon known as the \"Mussoorie Winterline.\" This unique atmospheric condition creates a stunning visual effect, with the sun appearing to set twice in the sky, once behind the mountains and again above them.",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "11 Thrilling adventure sports to try in Mussoorie",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the culinary delights Of Mussoorie",
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mussoorie",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/mussoorie",
+        "retrieved_at": "2026-09-22T18:36:50.146700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

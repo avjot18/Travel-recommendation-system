@@ -1,0 +1,349 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-TIRUPATI",
+  "destination_name": "Tirupati",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Tirupati Railway Station (TPTY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 15.0,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 15.8,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 41.6
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 37.6
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 18.1,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 16.3,
+        "maximum_celsius": 31.5
+      },
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tirupati, a name that resonates with divine grace, spiritual fervour, and timeless devotion, is a sacred destination nestled in the southern state of Andhra Pradesh, India. Revered as one of the holiest pilgrimage sites in Hinduism, Tirupati beckons millions of devotees from around the world, drawn by the promise of divine blessings, spiritual solace, and the opportunity to pay homage to the Supreme Lord Venkateswara.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The temple of Lord Venkateshwara has a mysterious origin, with various kingdoms maintaining and developing it over the centuries. The Pallava Kingdom in the 9th Century AD, the Chola Kingdom in the 10th century AD, and the Vijayanagara Empire in the 14th to 15th century AD all played pivotal roles in its development. Notably, during the rule of the Vijayanagara Empire, the temple received increased contributions, adding to its grandeur and significance. Tirupati's history as a centre of Vaishnavism (devotion to Lord Vishnu and his avatars) dates back to the 5th century A.D. It was during this time that Tirupati gained acclaim from Alvars, Vaishnava saints known for their literary works and poems on Lord Venkateswara. Tirupati's importance in Southern Vaishnava tradition is only second to Srirangam, with its temple rites formalised by the Vaishnavite saint Ramanujacharya himself in the 11th century AD.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Sri Venkateswara Swami Temple , also known as the Tirupati Balaji Temple, is the crowning jewel of Tirupati's spiritual legacy. It stands as a testament to the enduring faith and unwavering devotion of millions of devotees who throng its hallowed halls to offer prayers, seek blessings, and express their love for the divine. The temple's majestic gopurams (towering gateways), intricate carvings, and sacred rituals create an atmosphere of divine splendour and celestial grace.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most sacred rituals performed at the Tirumala Temple is the offering of \"Tirupati Laddu,\" a delectable sweetmeat made from gram flour, ghee, sugar, and dry fruits. Considered a divine prasadam (offering) blessed by Lord Venkateswara himself, the Tirupati Laddu holds a special place in the hearts of devotees and is distributed as a token of divine grace to millions of pilgrims visiting the temple each year.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Tirupati Balaji Temple is a place of profound spiritual significance, known for its \"hundi,\" a traditional donation box where devotees offer their contributions in the form of cash, gold, or other valuables as a symbol of their devotion and gratitude. As a sign of their devotion and surrender, devotees even offer their hair to Lord Venkateswara and fulfil their vows. The hair collected from these offerings is auctioned, and the proceeds are used for various charitable purposes. Yet, even more fascinating is the annual Vaikunta Ekadasi festival, celebrated with great fervour at the Tirumala Temple! It is believed that on this day, the gates of Vaikunta, the celestial abode of Lord Vishnu, are open. For those undertaking the sacred pilgrimage to Tirupati, the journey is as significant as the destination itself. The winding path leading to the hilltop temple, adorned with lush forests, sacred waterfalls, and ancient shrines, is a symbolic representation of the spiritual seeker's quest for divine realization and inner transformation. Plan your visit and immerse yourself in the spiritual journey to experience the beauty and tranquillity of this sacred place.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While you're in Tirupati, make sure to check out the city's many notable spots, in addition to the famous Tirupati Balaji Temple. Explore a museum featuring over 6,000 historical and contemporary artefacts, and learn about the unique cultural and religious history of the region. Don't miss the spellbinding sights of Silathoranam, a stunning geological formation dating back 1,500 million years, and the serene Chakra Theertham sacred waterfall surrounded by shrines. The majestic Chandragiri Fort is another marvel to visit, with its beautiful architecture and historical signifcance that captivates everyone. You must also visit Srivari Padalu, the place where legend claims Lord Venkateswara first set foot on Earth, and experience the grandeur of the Govindaraja Swamy Temple, completed in 1130 CE. Afterwards, explore the breathtaking sight of Akasaganga Theertham and seek spiritual purification at Papavinasam. Also, you can embark on a spiritual quest at the revered Shaivite pilgrimage site of Srikalahasti and experience its reverent ambience!",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tirupati's cuisine is a delightful reflection of the vibrant Andhra culinary style, renowned for its rich flavours, spicy curries, and a delightful array of snacks and sweets. Indulge in the authentic flavours of Andhra by savouring a spicy Andhra thali, complete with rice, sambar, rasam (broth soup), a curry dish, pickles, poriyal (a cauliflower stew with dried chillies and mustard seeds), and kurma, a luscious coconut milk and vegetable stew. In the midst of the city's warm and humid climate, treat yourself to tantalizing beverages prepared with curd and mouth-watering flavours. Enjoy lip-smacking Mango Lassi, Badam Milk, and Masala paal, each boasting rich, creamy textures that are truly worth a try. You simply can't miss the world-famous Tirupati Laddu, a must-try for Hindu devotees. Served as prasadam (sacred food offered in the temple) at the Sri Venkateshwara Swamy Temple, this delectable treat has been honoured with the Geographical Indication tag, ensuring that only Tirumala Tirupati Devasthanams can make or sell it.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tirupati is not just a place of pilgrimage; it also boasts natural beauty and serene landscapes. You can explore the verdant hills, tranquil lakes, and cascading waterfalls that adorn the Eastern Ghats, offering a tranquil retreat for nature lovers and seekers of solace. You must especially not miss Andhra Pradesh's tallest waterfall, the Talakona Waterfalls, which cascades from an elevation of 270 feet into lush greenery. Also, make sure to visit the Sri Venkateswara National Park, where you will discover an expansive 290-hectare park filled with animals, birds, and reptiles of various kinds. To sum it all up, Tirupati is a sacred destination where the divine and the human come together in a timeless communion of faith, devotion, and love. As you climb the hills of Tirumala, you will be transported to a realm where the ordinary gives way to the mystical, and the soul finds comfort in the embrace of the divine.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Venkateswara Swamy Vaari Temple is one of the most revered Hindu shrine.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An average of more than 2.8 lakh Tirupati laddus are prepared in a day for parsadam.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tirupati is home to the Tirumala Hills, which are collectively known as the ' Seven Hills of Tirumala .' And the famous Tirupati Balaji Temple stands on the seventh peak.",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Tirupati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/tirupati",
+        "retrieved_at": "2026-09-22T18:36:20.852411+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-KERALA-KASARGOD",
+  "destination_name": "Kasargod",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Mangaluru International Airport (IXE) Kannur International Airport (CNN) Kozhikode International Airport (CCJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kasaragod Railway Station (KGQ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kasargod, known as Saptha Bhasha Sangama Bhoomi or the land of seven languages, lies at the northern edge of Kerala and is shaped by centuries of cultural interaction and coexistence. Malayalam, Tulu, Kannada, Beary, Konkani, Marathi, and Urdu are spoken here, reflecting a multilingual way of life where faith, tradition, and nature remain closely interwoven. Rivers, hills, beaches, and historic structures define the landscape, while ritual practices, folk arts, and local cuisine give the region its distinctive character. Kasargod is also famous for Theyyam , an ancient ritual dance tradition performed for over a thousand years, known for its intense expressions, dramatic costumes, and elaborate face paint.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelling through the district feels unhurried and deeply rooted—village life unfolds alongside heritage sites, coastal stretches open into quiet spaces, and traditions continue as part of everyday living rather than staged display. Landmarks such as the Bekal Fort , Kerala’s largest and best-preserved 17th-century sea fort, stand as enduring reminders of Kasargod’s layered history, making it a compelling destination for travellers seeking cultural depth and authentic regional experiences.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kasargod offers a cultural experience that unfolds slowly and leaves a lasting impression on visitors. Rooted in centuries-old practices, the district is known for ritual traditions such as Theyyam , performed in temple courtyards and village shrines across North Kerala. These performances are marked by intricate costumes, rhythmic percussion and disciplined movement, reflecting local belief systems and collective participation. Yakshagana , a prominent folk theatre tradition of the region, draws audiences with its vibrant attire, structured storytelling, and live music, presenting episodes from the Ramayana , Mahabharata and Bhagavata Purana . Kasargod is also one of the few places where Yakshagana Bombeyatta continues to survive, using hand-carved wooden puppets to narrate epic tales through dialogue and song. Ritual dances like Poorakkali and Thidambu Dance remain closely tied to temple festivals and seasonal celebrations, offering visitors an opportunity to witness Kerala’s living heritage in its natural setting. Together, these art forms make Kasargod a compelling destination for culture-focused travel and heritage tourism.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kasargod’s natural and built heritage reflects centuries of interaction between land, sea, and human settlement. The district is home to historic forts, river islands, forested highlands, and long stretches of coastline. Bekal Fort stands as one of the most prominent landmarks, overlooking the Arabian Sea and offering expansive views of the surrounding shoreline. Its laterite walls, pathways and observation points provide insight into the region’s maritime and strategic past. Spiritual landmarks such as the Malik Deenar Mosque , regarded as one of the earliest mosques in the Indian subcontinent, and the Mallikarjuna Temple , known for its traditional architecture and ritual practices, add depth to Kasargod’s cultural landscape and reflect its long-standing traditions of faith.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the fort, Kasargod opens into quieter landscapes such as Valiyaparamba , known for its network of backwaters and islands, and Ranipuram, where rolling hills and forest trails attract nature enthusiasts. Rivers flow through towns and villages, shaping livelihoods and travel routes, while beaches offer open spaces suited for relaxed exploration. These varied landscapes make Kasargod ideal for travellers interested in nature tourism, heritage walks and slow travel experiences.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cuisine of Kasargod is an essential part of the travel experience, reflecting the region’s agricultural practices, coastal access, and cultural diversity. Rice, coconut, spices and seafood form the foundation of everyday cooking, with recipes passed down through generations.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Local dishes such as Chicken Sukka are prepared using coconut, onions, and carefully balanced spices, resulting in flavours that are rich yet familiar to the region. Traditional rice preparations like Ottupola and Neerdosha are made using time-tested methods, often cooked in earthen or iron cookware that enhances texture and taste. Snacks such as Neypathal remain popular in local households and small eateries.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sweet dishes like Unnakkaya and Muttamala are associated with festive occasions, while seafood preparations such as Arikadukka highlight the use of fresh, locally sourced mussels. Adukka Orotti continues to be a widely enjoyed teatime snack. Together, these dishes offer visitors an authentic introduction to Malabar cuisine through simple ingredients and thoughtful preparation.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kasargod appeals to travellers who value depth, authenticity and meaningful engagement with a destination. It offers opportunities to experience living traditions, explore heritage sites without congestion, and connect with landscapes shaped by daily life rather than tourism alone. Visitors can witness ritual art forms in their natural settings, explore forts and coastal paths at an easy pace, and enjoy local cuisine that reflects regional identity.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district supports a form of travel that encourages observation, participation, and respect for local culture. Kasargod suits travellers interested in cultural tourism, heritage exploration, nature-based experiences and regional food trails.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The period from October to March is suitable for sightseeing, outdoor activities and cultural exploration, with comfortable weather conditions. The summer months bring warmer temperatures and quieter travel conditions. The monsoon season transforms the landscape with lush greenery and flowing rivers, appealing to travellers interested in nature and seasonal travel experiences.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cultural festivals such as Onam , Vishu and the annual Theyyam season add significance to visits planned during specific times of the year.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Mangaluru International Airport (IXE) is the nearest airport, located approximately 65 km from Kasaragod. Kannur International Airport (CNN) is about 95 km away, while Kozhikode International Airport (CCJ) is approximately 180 km from Kasargod. All three airports offer domestic and international connectivity.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Kasaragod Railway Station lies on the Konkan Railway route and is located within the town, around 2 km from the city centre, with good connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: National Highway 66 passes through Kasargod, connecting it with key coastal cities. Kasargod is approximately 65 km from Mangaluru, 95 km from Kannur, and 180 km from Kozhikode, with regular state-run and private bus services operating from Kerala and neighbouring states.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bekal Fort is the largest fort in Kerala, with key structures oriented toward the sea, suggesting its primary role was coastal defence and surveillance rather than royal residence.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Valiyaparamba is among the largest backwater islands in Kerala, where narrow waterways, fishing hamlets and coconut groves shape a landscape best explored by boat.",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kasargod",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kasargod",
+        "retrieved_at": "2026-09-22T18:36:32.958289+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

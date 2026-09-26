@@ -1,0 +1,323 @@
+{
+  "destination_id": "IN-RAJASTHAN-CHITTORGARH",
+  "destination_name": "Chittorgarh",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharana Pratap Airport (UDR), Udaipur"
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chittaurgarh Junction Railway Station (COR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.6,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 4.4,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.6,
+        "maximum_celsius": 38.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.0,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 44.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 12.8,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.8,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chittaurgarh Junction Railway Station (COR)",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Chittorgarh, a city that stands proud as a testament to valour and cultural pride. As you enter the city in the heart of Rajasthan, you step into a world where history comes alive. A world where the echoes of ancient battles still reverberate through its majestic forts and devotional ballads of Meera Bai still fill the air. The pièce de résistance is the magnificent Chittorgarh Fort , the largest fort complex in the country with an overpowering aura that can be felt no matter where you are in the city. A UNESCO World Heritage Site, it is a colossal 700 acre structure perched 150 meters above the city. The Fort is replete with architectural marvels within. It houses 65 historic structures, including nearly 20 large temples, along with half a dozen palaces, memorials and victory towers. The stunning structures include Rani Padmini's Palace , Fateh Prakash Palace Museum and the towering Vijay Stambh, a symbol of the Rajputana bravery. Its grandeur isn't merely architectural; its legends reflect the indomitable Rajput spirit that still resonates within its walls. Explore the spiritual side of Chittorgarh through its ancient temples. Immerse yourself in the peaceful ambience of Kalika Mata Temple and the Kumbha Shyam Temple, among others, each with their unique history and significance. Wonder in awe at the historic Baroli Temples and the spectacular carvings of Satbis Deori Jain Temples for an awe-inspiring visit. Among these fascinating spiritual sanctuaries in Chittorgarh is the Meera temple. A must-visit destination, the temple is dedicated to Meera Bai, a Rajput Princess who was a devout follower of Lord Krishna. Meera Bai gave up her royal lifestyle to become a saint and poet, devoting her entire life to the worship of Lord Krishna. Let the beauty and grandeur of Chittorgarh transport you to another era! Whether you seek solace, enlightenment or just some peace and calm, you will find it in the serenity of Chittorgarh!",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chittorgarh is known for its tempestuous history, with this Rajput citadel repeatedly attacked by invading forces. This erstwhile capital of the ancient Mewar kingdom stood as a bastion of resistance. It witnessed innumerable sieges, each narrating tales of courage and sacrifice. Three of these battles in particular form folklore of Rajput bravery and heroism. The first when the Sultan of Delhi, Ala-ud-din Khilji, laid siege in 1303. The next when Bahadur Shah, the Sultan of Gujarat, caused immense destruction in 1533. And the third, when Mughal Emperor Akbar attacked and seized the fort in 1568. Finally, under the rule of Mughal Emperor Jahangir, the fort was returned to the Rajputs in 1616. Even though the Rajput warriors could not overcome the stronger invaders each time, their spirited battles are stuff that legends are made of. Among its most famous legends is the story of Rani Padmini. As the story goes, the allure of Rani Padmini's matchless beauty is said to have captivated the Sultan of Delhi, Allauddin Khilji, and he yearned for a glimpse of her. He convinced the Rajput king Rawal Ratan Singh that he would not attack Chittorgarh if he was allowed to see Rani Padmini. After much resistance, in a bid to protect Chittorgarh, Ratan Singh reluctantly agreed to allow Khilji to see his wife, but only through a reflection in a mirror. However, Khilji's obsession only intensified upon seeing the reflection. He tricked and kidnapped Ratan Singh and laid siege on the fort. The Rajputs vowed to battle unto death to defend their stronghold and queen. Tragically, despite their valiant efforts, Ratan Singh was killed in battle. Faced with the prospect of capture, Rani Padmini and the women of the fort made the fateful decision to sacrifice their lives to preserve their honour. You can take an immersive journey into this enchanting legend in the spellbinding Chittorgarh Fort Light & Sound Show that transports you through the annals of history with its dazzling lights and melodious tunes., narrating its legendary tales of valour and sacrifice, brought to life in vivid detail through state-of-the-art technology.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its thrilling architecture, Chittorgarh offers visitors a delightful array of souvenirs that embody centuries of craftsmanship and tradition. Among them, Thewa Jewellery stands as a shimmering testament to the region's rich heritage, dating back 400 years. Crafted with meticulous precision, each piece features intricate gold filigree delicately laid upon a coloured molten glass base, capturing the essence of nature and mythology. From hunting scenes of kings to intricate foliage motifs, these designs adorn a myriad of products, including photo frames, mirrors, and necklaces, offering a glimpse into the opulent past of royalty. Alongside Thewa Jewellery, Bassi wooden toys emerge represent Chittorgarh's artistic legacy. For over four centuries, skilled carpenter-artists in Bassi village have meticulously crafted these toys and temples, passing down their traditional craft from generation to generation. Initially carved from the Adusa tree, these masterpieces now also incorporate meetha neem wood, infusing each creation with a touch of medicinal essence. Not to miss Akola fabric, hand-printed with natural dyes, captivates with its rich colours and intricate patterns. Originating from Akola village in the Chittorgarh district, this eco-friendly art form has garnered global acclaim for its traditional techniques and mesmerizing designs, making it a sought after treasure among fashion enthusiasts worldwide.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a sensory journey through Chittorgarh's bustling shopping bazaars, where colours, aromas, and bustling crowds converge to create an unforgettable experience. Among the city's most popular destinations is Sadar Bazaar, a lively marketplace brimming with a kaleidoscope of intricately embroidered textiles, handicrafts, and jewellery. Nearby, Rana Sangha Market exudes traditional charm, offering an array of handcrafted treasures such as pottery, wooden toys, and leather goods, each reflecting the city's artisanal legacy. Fort Road Market too beckons with its vibrant atmosphere and panoramic views of the iconic Chittorgarh Fort, inviting visitors to explore its diverse offerings of textiles, handicrafts, and souvenirs. Whether wandering through the labyrinthine alleys of Sadar Bazaar or admiring the majestic fortresses from Fort Road Market, Chittorgarh's shopping bazaars promise an immersive cultural experience that leaves a lasting impression.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a gastronomic adventure as Rajasthani cuisine unfolds in a symphony of spices, flavours, and textures. From hearty staples to indulgent street eats, the city offers a variety of traditional delicacies that promise to delight discerning palates. At the heart of every Rajasthani meal lies the iconic Dal Baati Churma, a cherished trio of spicy lentils, baked bread balls, and sweet crumbled bread. This quintessential Rajasthani platter, served in every household kitchen, showcases the culinary prowess of the region with its harmonious blend of flavours and textures. Meanwhile, Ghatte ki Khichdi, a wholesome one-pot meal crafted from gram flour dumplings, rice, and lentils, delights with its aromatic spices and nutritious ingredients. For those craving a fiery kick, Laal Maas emerges as a must-try delicacy, boasting tender mutton simmered in a robust medley of spices and red chillies. The dish, aptly named for its vibrant hue, captures the essence of Rajasthani cuisine with its bold flavours and aromatic richness. Additionally, Ker Sangria offers a unique culinary experience with its delectable blend of dried berries and beans, showcasing the region's penchant for inventive vegetable preparations. Not to miss Akola fabric, hand-printed with natural dyes, captivates with its rich colours and intricate patterns. Originating from Akola village in the Chittorgarh district, this eco-friendly art form has garnered global acclaim for its traditional techniques and mesmerising designs, making it a sought after treasure among fashion enthusiasts worldwide. These delicacies and more can be savoured at popular restaurants and street vendors scattered across Chittorgarh, including the markets of Sadar Bazaar, Rana Sangha Market, and Fort Road Market.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The massive Chittorgarh Fort houses 65 historic structures, which include 19 large temples, 20 large water bodies, four palaces, four memorials, victory towers and more.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "According to legend, it was in the underground cellars of Rana Kumbha Palace where Rani Padmini performed 'Jauhar' or self-immolation, along with 700 followers.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Outside the Meera Bai temple stands a sculpted statue of five human bodies with a single head, symbolizing the absence of discrimination based on caste or creed.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the Hindi movie Guide, the evergreen song ‘Aaj phir jeene ki tamanna hai’ picturised on Waheeda Rehman, was shot in Chittorgarh Fort. Rani Padmini Mahal is also featured in the song.",
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chittorgarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/chittorgarh",
+        "retrieved_at": "2026-09-22T18:36:43.264885+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

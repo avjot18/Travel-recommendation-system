@@ -1,0 +1,214 @@
+{
+  "destination_id": "IN-ASSAM-JORHAT",
+  "destination_name": "Jorhat",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jorhat Airport (JRH), Jorhat"
+      },
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jorhat Town Railway Station (JTTN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of Assam , Jorhat beckons travelers with its rich cultural tapestry, historical monuments, and verdant tea plantations. As you step into this enchanting city, prepare to be captivated by its timeless allure. The city is a blend of cultural heritage, colonial history, and lush green landscapes. Known as the \"Cultural Capital of Assam,\" Jorhat is not just a gateway to the northeastern part of India but also a destination that offers an immersive experience of the region's rich traditions, tea cultivation, and vibrant festivals. The city's journey begins with its name, derived from two words: 'Jor' meaning two, and 'Hat' meaning market. It refers to the two major markets on the eastern and western banks of the Bhogdoi River, which flows through the city. Established as an urban center during the British Raj, Jorhat has evolved over the years while preserving its historical essence.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Jorhat's allure are its expansive tea gardens, a testament to the city's status as a significant player in the global tea industry. The lush greenery of the tea estates, like the Cinnamora Tea Estate - the first tea garden of Assam, offers a serene and picturesque setting. Visitors can take guided tours to witness the fascinating process of tea plucking alongside the workers, learn the art of tea tasting, and understand the various stages of tea processing. Many gardens also provide accommodations, letting guests wake up to the sight of sun-kissed tea leaves and the aroma of fresh brews, truly encapsulating the essence of Assam.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Majuli Island, located a short distance from Jorhat, is an environmental and cultural treasure. As the world's largest river island, Majuli boasts a unique ecosystem and is home to several Vaishnavite Satras (monasteries), which showcase the region's unique form of worship and art. The island's serene environment, combined with its cultural significance, makes it a must-visit for those seeking tranquility and a deeper understanding of Assamese culture.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another significant landmark is the Thengal Manor, a historic bungalow that captures the grandeur of Assam's tea plantations during the British era. The manor, built in 1880, offers a glimpse into the lifestyle of the tea estate owners and is a testament to the architectural style of the time.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ancient Ahom monuments in Sivasagar speak volumes of the rich history and architectural prowess of the Ahom dynasty. For wildlife enthusiasts, the Gibbon Wildlife Sanctuary offers a unique spectacle of Hoolock gibbons and a variety of bird species. These attractions, each with its charm and story, make for compelling visits, enriching the travel experience in and around Jorhat.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jorhat is also the starting point for exploring the Kaziranga National Park, a UNESCO World Heritage Site located a short distance away. The park is renowned for its conservation efforts, particularly for the one-horned rhinoceros, and offers visitors the chance to witness a variety of wildlife in their natural habitat. Alongside it also boasts a diverse array of other species such as elephants, tigers, panthers, and various bird species. Stretching across vast expanses of grasslands, wetlands, and forests, Kaziranga offers an immersive experience of the untamed natural beauty and rich biodiversity of India. The park's efforts in conservation and its role in boosting the local ecosystem are exemplary, making it a must-visit for nature enthusiasts and wildlife advocates alike.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city celebrates numerous festivals with pomp and grandeur, with Bihu being the most prominent. This festival, marking the Assamese New Year, showcases the energetic folk dances, traditional music, and the vibrant culture of Assam. It offers visitors a chance to experience the local life and traditions firsthand.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bihu, the most significant festival, is celebrated thrice a year - Bohag Bihu in April, Magh Bihu in January, and Kati Bihu in October - each marking a different phase of the agricultural cycle. The Tea Festival, held annually in November, is another major event showcasing the tea culture, music, and diverse traditions of the region.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jorhat's cuisine, influenced by various tribes and communities in the region, offers a delectable range of dishes that emphasize fresh, local ingredients. From the simple yet flavorful Khar to the exotic Masor Tenga, the city's food landscape is a delight for gastronomes. Popular eateries in Jorhat include Jorhat City Restaurant for traditional Assamese dishes, Meridian Restaurant for multi-cuisine options, and Cafe Hendrix for a casual dining experience. Thukpa, Masor Tenga (sour fish curry), and Aloo Pitika (mashed potatoes with spices) are must-try dishes that reflect the local flavors and culinary practices.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Jorhat is a delightful experience, offering a blend of traditional Assamese crafts and modern retail. The bustling markets of Jorhat, such as Chowk Bazaar and Gar-Ali, are famous for Assamese silk items, bamboo and cane crafts, and exquisite jewellery. For a more contemporary shopping experience, visit the malls and boutiques scattered around the city, which offer both local and branded merchandise. Tea, being a significant part of Jorhat's economy, is a must-buy for visitors, with numerous outlets selling fresh Assam tea.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jorhat serves as a gateway to some of the most enthralling trekking experiences in the Northeast. Although the region itself is not traditionally known for treks, it offers access to routes that lead into the heart of Assam's undisturbed nature and neighboring states. One of the notable treks includes the journey to Dehing Patkai Wildlife Sanctuary , which showcases the biodiversity of the rainforest and a chance to witness a wide range of flora and fauna. For those willing to venture further, the trek to the Dzukou Valley on the border of Nagaland offers an unforgettable experience with its stunning landscapes, exotic flowers, and pristine beauty, catering to both avid trekkers and nature lovers.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Reaching the vibrant city of Jorhat is convenient via various means. The Jorhat Airport, also known as Rowriah Airport, offers connectivity with major Indian cities, making air travel a hassle-free option. For those who prefer the railways, Jorhat has two railway stations - Jorhat Town and Mariani Junction - connecting it to the rest of India. Road travelers can enjoy scenic drives through well-maintained highways linking Jorhat with nearby states and cities. Additionally, bus services provide an economical alternative for reaching Jorhat from various parts of Assam and the neighboring states.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Jorhat is between October and April. During these months, the weather is predominantly pleasant, with minimal rainfall, making it ideal for exploring the city and its surrounding attractions. The temperate climate allows for comfortable travel and sightseeing, including visits to the nearby tea gardens, historical monuments, and the majestic Brahmaputra River.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jorhat, with its tea gardens (all 135 of them!), whispers stories of the past while embracing the present. Let the breeze carry you through its lanes, where history dances with nature, and every cup of tea holds a tale.",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dibrugarh - A Gateway To The Seven Lakes",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore A Picturesque Destination Wedding At Dibrugarh",
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jorhat",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/jorhat",
+        "retrieved_at": "2026-09-22T18:36:23.301347+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

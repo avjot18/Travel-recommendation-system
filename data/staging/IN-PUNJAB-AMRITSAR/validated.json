@@ -1,0 +1,319 @@
+{
+  "destination_id": "IN-PUNJAB-AMRITSAR",
+  "destination_name": "Amritsar",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Amritsar Central Railway Station (ASR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -0.3,
+        "maximum_celsius": 22.7
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 2.2,
+        "maximum_celsius": 26.1
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 6.1,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 44.5
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 44.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 39.8
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 11.8,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 5.2,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 0.5,
+        "maximum_celsius": 25.2
+      },
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ), Amritsar",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you step into Amritsar, the spiritual and cultural capital of Punjab, you're immediately enveloped by an atmosphere thick with history, devotion, and vibrant energy. This heritage city is a captivating blend of narrow lanes, bustling bazaars, and serene spiritual sanctuaries. At its core stands the famed, awe-inspiring and glistening Golden Temple, a place of profound reverence for Sikh pilgrims and a sight that humbles all who visit. As you wander through Amritsar's winding streets, the city's old-world charm gradually envelops you, weaving its spell with every step. The city's spirit - resilient, passionate, and ever-welcoming - is palpable in the air, inviting you to become part of its ongoing story. From the sombre walls of Jallianwala Bagh to the electrifying patriotism on display at the Wagah Border, Amritsar is a city that must be experienced to be truly understood. But Amritsar is not content to dwell solely in the past. Its bazaars pulse with life, offering a sensory feast that will captivate food lovers and culture enthusiasts alike. Here, the aromas of sizzling street food mingle with the colourful displays of traditional crafts, creating a lively atmosphere. Let’s discover a place that touches your soul, tantalises your taste buds, and leaves you with memories as golden as the temple that graces its skyline.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your journey through Amritsar begins, inevitably, at the Sri Harmandir Sahib, better known as the Golden Temple. As you approach this two-storeyed architectural marvel with its top half covered in almost 400 kg of pure gold leaf, reflecting in the surrounding sarovar (holy tank), you'll feel a sense of tranquillity wash over you. Delve into its history, witness its rituals, and savour the langar, a free community meal that nourishes both body and soul. Venture beyond the Golden Temple, and you can relive India’s freedom trail in Amritsar. The Jallianwala Bagh and the Partition Museum, replete with stories of heartbreak and hope, stand as a solemn reminder of India's struggle for independence. The Beating Retreat Ceremony at the Attari-Wagah border is another one-of-a-kind experience. Synchronised marches and thunderous cheers from both sides of the India-Pakistan border create an unforgettable spectacle of national pride and showmanship. Explore other historic gurudwaras within walking distance of the Golden Temple. Gurudwara Baba Deep Singh Ji, Gurudwara Chheharta Sahib, Gurudwara Guru Ke Mahal, Gurudwara Bibeksar Sahib, and Gurudwara Mata Kaulan are the highlights of a religious trail in the city. For a panoramic view of the city, a visit to Gurudwara Baba Atal Sahib’s open terrace is a delight for all. History buffs can delve into the past at Gobindgarh Fort, a 1760 structure that throbs with life through enthralling shows and museums. Here, you can even catch a glimpse of a Kohinoor diamond replica! Visit the Durgiana Temple, a shrine dedicated to Goddess Durga, and marvel at its shimmering gold-covered dome and pristine white marble pathway around a serene sarovar (lake). Mythology comes alive at Bhagwan Valmiki Tirath Sthal (Ram Tirath), believed to be the birthplace of Luv and Kush, Ramayana's legendary twins, and the place where Rishi Valmiki penned the epic itself. For a deeper cultural dive, head to the Punjabi Culture Living Village Museum. Sprawling across 12 acres, this immersive experience brings the vibrant colours, flavours, and traditions of Punjab to life. Witness authentic village life and gain a profound understanding of the region's rich heritage.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amritsar's story started in 1574 when Guru Ramdas ji, the fourth Sikh guru, transformed a forested area with lakes into a bustling centre. He invited 52 traders to set up shop, laying the foundation for the iconic Batisi Hatta (32 shops) street that still thrives today. The Guru himself resided here, naming the city Ramdaspur, which finds mention in the sacred Guru Granth Sahib. Another pivotal act was the construction of the Amrit Sarovar, a holy lake, by Guru Ramdas ji. His successor, Guru Arjan Dev ji, completed the project and built the Harmandir Sahib, the Golden Temple, at its heart.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amritsar is a renowned foodie paradise. Here, food is a way of life. Punjabis celebrate with food, socialise over shared plates, and find joy in every flavourful bite. The city’s prime location on the historical Silk Route played a defining role in shaping its cuisine. Travellers from faraway lands brought exotic ingredients and unique cooking techniques, which the city embraced, adapted, and integrated to create its own distinct food culture. Step into the lanes of Amritsar and be prepared for a sensory explosion. Non-vegetarian delights like mutton chaap, ajwaini fish tikka, and tandoori chicken showcase the influence of settlers from Peshawar and Lahore. Start your day like a true Punjabi with Amritsar's breakfast staples. Savour the crispy satpura (a deep-fried snack), indulge in the classic poori chholey (fried bread with chickpea curry), or experience the world-famous Amritsari kulcha, a leavened bread stuffed with spiced potatoes and cauliflower. Amritsar's vibrant ‘Dhaba’ culture, a phenomenon that emerged after partition, offers a unique dining experience. These family-run restaurants, serve up hearty Punjabi fare like kali daal (black lentil stew), baingan ka bharta (roasted eggplant mash), kadhi (yoghurt-based curry), sarson ka saag (mustard greens), and tandoori roti (oven-baked flatbread). Wash everything down with a glass of lassi (creamy yoghurt drink) and satisfy your sweet tooth with kulfa (a decadent ice cream). Don’t miss to partake in the langar at the Golden Temple. This communal meal, open to all, serves piping hot vegetarian dishes and concludes with the sweet and rich ‘kada prasad,’ a semolina pudding made with ghee, sugar, and coarsely ground wheat.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amritsar's infectious spirit extends to its lively culture in a kaleidoscope of festivals, music, dance, and art. The energy of Bhangra, a dance form synonymous with Punjab, electrifies the streets. Witness its powerful kicks, rhythmic claps, and joyous energy; a celebration now embraced across India and the globe. Women take centre stage with Giddha, a lively dance showcasing graceful movements and colourful attire. During religious festivals, witness the dynamic Gatka, a martial art performance steeped in tradition. Throughout the year, vibrant festivals paint the city in a celebratory glow. Baisakhi, the harvest festival, fills the air with joyous abandon. Diwali bathes the city in the warm glow of a thousand lights, and the Ram Tirth Fair honours a rich religious heritage. Basant Panchami, the spring festival, is a vibrant dedication to Goddess Saraswati, the patron of knowledge and the arts. Heritage comes alive in Amritsar's bustling markets with traditional handicrafts and local treasures. From the intricate embroidery of phulkari fabrics to the colourful juttis (footwear), discover a piece of Amritsar to take back home. Locally-made papad (thin, crispy lentil wafers), wadiyan (sun-dried lentil dumplings), masalas (spice blends), traditional attire, and unique handicrafts designed by local artisans complete your shopping adventure.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amritsar isn't just a destination; it's a journey into the soul of Punjab. So, pack your bags and discover the magic of Amritsar for yourself! While October to March offers the most pleasant weather for exploring Amritsar, the city welcomes visitors with open arms throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Beating Retreat Ceremony at the Attari-Wagah border is a unique ceremony that features a synchronised parade by Indian and Pakistani soldiers.",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is famous for its lively and colourful street processions, known as Nagar Kirtans .",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Amritsar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/amritsar",
+        "retrieved_at": "2026-09-22T18:36:40.788246+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

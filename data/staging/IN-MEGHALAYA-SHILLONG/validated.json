@@ -1,0 +1,343 @@
+{
+  "destination_id": "IN-MEGHALAYA-SHILLONG",
+  "destination_name": "Shillong",
+  "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Shillong Airport (SHL), Shillong"
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Guwahati Railway Station (GHY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.2,
+        "maximum_celsius": 18.6
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.7,
+        "maximum_celsius": 21.2
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 6.8,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 27.1
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 11.8,
+        "maximum_celsius": 27.0
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 27.1
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 16.3,
+        "maximum_celsius": 27.4
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 16.2,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 14.8,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 25.2
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.1,
+        "maximum_celsius": 22.8
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.0,
+        "maximum_celsius": 20.1
+      },
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dubbed the \"Eastern Scotland\" for its remarkable resemblance to the Scottish Highlands, Shillong offers an enchanting mix of old-world allure, stunning scenery, and a deep-rooted cultural legacy. Cradled by the undulating hills and verdant foliage of Meghalaya, this natural wonder provides an exhilarating retreat into the embrace of nature, establishing itself as a perfect haven for both thrill-seekers and those searching for tranquillity. The journey to Shillong introduces the enchantment that lies ahead, with meandering roads that cut through the cloud-kissed hills and verdant landscapes. Upon arrival, one is greeted by the soothing climate, a refreshing respite from the tropical heat of the plains. The town's rich colonial past is palpable in its architecture, with quaint bungalows, churches, and buildings that hark back to the British era, adding a touch of historical elegance to its verdant surroundings.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shillong's natural beauty is unmatched, with several attractions showcasing Meghalaya's breath-taking vistas. The Umiam Lake, a man-made reservoir, offers panoramic views of the hills and is a popular spot for boating and picnics. The Elephant Falls and Sweet Falls beckon nature lovers with their pristine beauty. A sight for nature lovers to behold, the Elephant Falls is a picturesque three-tier cascade surrounded by lush greenery. It's named after the shape of a stone at its base that resembles an elephant. The area is the perfect destination for picnics and nature photography, offering scenic views and a refreshing atmosphere. Another famous tourist spot of the city is the Shillong Peak - the highest point in the state. This peak offers a 360-degree view of the surrounding landscape, often enveloped in a mysterious fog that adds to its allure. Further, the Butterfly Museum is renowned for its extensive collection of butterflies, moths, and other insects. The museum offers a fascinating insight into the diverse entomological fauna of the region, making it a must-visit for nature enthusiasts and those curious about the insect world. Shillong's landscape is dotted with colonial-era architecture and revered indigenous monuments, offering a window into its rich historical and cultural heritage. The stunning Gothic architecture makes the Shillong Cathedral a beacon of peace and a visual treat. Don Bosco Museum , a seven-story structure, offers insights into the indigenous cultures of Northeast India, housing a vast collection of artefacts and exhibits. The Ward's Lake , a colonial-era man-made lake surrounded by lush gardens, is another architectural marvel, perfect for strolls and boat rides. The All Saints Church , another example of colonial architecture, is a serene and spiritual site amidst the bustling city.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Shillong, natural treks and activities offer an exhilarating escape into the untouched realms of nature. The city, surrounded by rolling hills and lush greenery, is a trekker's paradise with iconic trails like the David Scott Trail that weave through scenic landscapes, offering breath-taking views of the East Khasi Hills. This ancient 16-kilometer path, named after a British administrator, winds through the enchanting East Khasi Hills, connecting Mawphlang to Lad Mawphlang. Trekkers are treated to an ever-changing landscape encompassing dense meadows, cascading waterfalls, clear streams, and lush forests. The moderate difficulty level of the trek makes it accessible to both novices and experienced trekkers. For the adventurous soul, activities like kayaking and rock climbing in the clear waters and rugged terrains around Shillong provide an adrenaline rush, making it a must-visit destination for nature lovers and thrill-seekers.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its scenic beauty, Shillong is a melting pot of cultures, prominently featuring the Khasi, Jaintia, and Garo tribes. The town's cultural fabric is vibrant and can be experienced through its many festivals, gastronomical delights, unique music, and folk dances. The famous Shillong Autumn Festival is a testament to this lively cultural scene. Organized by the Meghalaya Tourism Development Forum, this festival is a significant event that brings together music, arts, and culture, highlighting the spirit of communal harmony and showcasing local talent in a colourful spectacle. Moreover, Shillong's designation as India's \"Rock Capital\" is evident in its thriving music scene, with numerous cafes and venues hosting live performances, echoing the town's love for music.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For the urban explorer, Shillong offers a delightful shopping experience at places like Police Bazaar and Bara Bazaar. These bustling marketplaces sell traditional handicrafts, exquisite handlooms, and unique local products. They are filled with shops, stalls, and boutiques selling everything from traditional Khasi dresses and handwoven shawls to exquisite handicrafts and organic spices. Bara Bazar offers a more local shopping experience, where one can find a wide array of fresh produce, regional delicacies, and indigenous herbs. For those interested in handloom and artefacts, the Meghalaya Handloom & Handicrafts Development Emporium showcases the finest work of local artisans. Shillong's shopping spots provide a peek into the locals' lifestyle and offer unique souvenirs to take back home. Gastronomically, Shillong does not disappoint, with a cuisine that offers a fusion of traditional tribal flavours and influences from neighbouring regions. Local delicacies, including Jadoh, a flavourful Khasi rice dish, and Tungrymbai, a fermented soybean chutney, are must-tries for the culinary adventurer. The best time to visit Shillong is between September and May, when the weather is predominantly pleasant, offering a reprieve from the searing heat of the plains. This period encompasses the autumn, winter, and spring seasons, presenting an ideal climate for exploring the city's natural beauty and cultural heritage. The monsoon season transforms Shillong into a lush paradise from June to August, but heavy rainfall may hinder outdoor activities and travel plans. With its clear skies and mild temperatures, autumn offers the perfect backdrop for the Shillong Autumn Festival, an extravaganza of music, arts, and cuisine showcasing the vibrant culture of Meghalaya.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shillong is often called the \"Scotland of the East\" due to its rolling hills, pleasant climate, and striking resemblance to the Scottish Highlands.",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Shillong's cultural kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A feast for the senses awaits in Shillong",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The monoliths and old tales of sacrifices from Nartiang",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top natural wonders of Shillong that will take your breath away",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An unparalleled shopping venture in Shillong",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dance to the vibrant melodies of Shillong",
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Shillong",
+        "source_url": "https://www.incredibleindia.gov.in/en/meghalaya/shillong",
+        "retrieved_at": "2026-09-22T18:36:38.991528+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

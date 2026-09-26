@@ -1,0 +1,359 @@
+{
+  "destination_id": "IN-PUNJAB-PATIALA",
+  "destination_name": "Patiala",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Patiala Railway Station (PTA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 23.6
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.0,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 13.9,
+        "maximum_celsius": 40.7
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 44.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 44.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.2,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.8,
+        "maximum_celsius": 26.2
+      },
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL)",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a journey through time and immerse yourself in the grandeur of Patiala, one of Punjab's most historic districts. With its 300-year-old legacy, the city is a living testament to royal glory and cultural opulence. It is the city where Sikhism flourished and battles etched their mark over four decades, offering a thrilling adventure for history enthusiasts. Patiala, once a princely state, has evolved into a cultural melting pot where Rajput, Mughal, and Punjabi influences blend harmoniously. The city’s art, architecture, and streets narrate the fascinating tale of the Maharajas who once reigned here. Known as the ‘City of Palaces, Forts, and Gardens,’ Patiala still retains its old-world charm. Founded by Baba Ala Singh, the visionary who established the Phulkian State, Patiala's name itself echoes its royal lineage. Originally known as ‘Pati Ala’, meaning ‘the land of Baba Ala Singh,’ it gradually transformed into the majestic Patiala we know today. Patiala's magic extends beyond its royal past. The city is a haven for art lovers, boasting its own distinct Gharana style of music. Food lovers will delight in the region's renowned culinary traditions, while those with a keen eye for detail will be captivated by the exquisite Patialvi craftwork. Gota, Kinari, Zari, and Sitara – these intricate embroidery techniques come together to create breath-taking waist cords and Parandas (hair-tying cords) that are not just admired, but celebrated worldwide, a testament to Patiala's cultural contributions.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The early origins of the state's founders, known as the Phulkian Dynasty, are shrouded in myth and mystery. The state emerged in the 18th century, during a period of political change following the decline of the Mughal Empire. The region was marked by the rise of Sikh Misaldars, who established independent states in Punjab. The state grew under Maharaja Ala Singh's successors, reaching from the Shivaliks in the north to Rajasthan in the south. Despite facing challenges from the Mughals, Afghans, and Marathas, Ala Singh showed great courage and skill, establishing and maintaining the state that eventually became Patiala. In 1763, he laid the foundation of the Patiala Fort, known as Qila Mubarak, around which the city developed. Qila Mubarak is an iconic fortress of Patiala, as walking through its interior structures will not only provide you with a rare glimpse into Sikh palace architecture but also showcase a composite of several architectural styles, reflecting tastes and visions through the different eras.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready to witness a myriad of historic sites telling tales of Patiala's rich history. Behold the grandeur of Patiala’s Bahadurgarh Fort , a structure considered impenetrable in its time due to its 25-foot-deep moat. As you explore the city, you will encounter many magnificent structures, including the Sheesh Mahal (palace of mirrors). The interiors of this palace are adorned with intricately designed miniatures in the Kangra style portraying Geet Govind. This incredible poetic work by Jaidev is dedicated to the love between Lord Krishna and Radha.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Patiala adventure isn't just about palaces and history – it's also a journey for the soul! Prepare to be awestruck by spiritual landmarks that offer solace and inspiration to all who visit. Head straight to Gurudwara Dukh Nivaran Sahib - a beacon of peace and healing. This revered Sikh shrine holds a special place in history, believed by many to possess the power to cure ailments and alleviate suffering. Take a dip in the holy sarovar (pond) and feel your worries melt away. Embrace the divine at the magnificent Kali Mata Temple, Patiala's spiritual crown jewel. Dedicated to the powerful Goddess Kali, this temple is a visual masterpiece. Marvel at the stunning architecture and immerse yourself in the palpable sense of devotion that fills the air.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the great outdoors in Patiala, a haven for nature enthusiasts, with many natural sites and reserves to explore. Begin your adventure at the Bir Bhadson Wildlife Sanctuary, where lush forests and diverse flora and fauna await. Trek through winding paths, keeping an eye out for the sanctuary's various bird species and elusive wildlife. Venture 15 km away from Patiala and explore the Bir Bhunerheri Wildlife Sanctuary , a sanctuary that captivates with its serene ambience and unspoiled beauty. Here, you can immerse yourself in the tranquil environs, surrounded by Sheesham and Kikkar trees and the sounds of nature at its finest. For a peaceful retreat, head to the north of the city and find Baradari Gardens , a stunning garden complex that boasts rare trees, colonial buildings, and a replica of Calcutta's Fern House. Surrounding the majestic Baradari Palace, the gardens offer a peaceful escape in the heart of the city. Don't miss the grand marble statue of the Maharaja himself! Spot wildlife in its natural habitat at Bir Moti Bagh Wildlife Sanctuary ! This former royal hunting ground is now a 654-hectare wildlife sanctuary teeming with deer, jackals, monkeys, and colourful birds. Explore the sanctuary during the winter months (October-January) for the best chance to see these creatures come alive.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Calling all shopaholics! Patiala is a treasure trove waiting to be unearthed. This culturally rich city boasts a centuries-old tradition of exquisite shopping. From bridal wear that would make any Maharani swoon to handcrafted jewellery and vibrantly coloured fabrics, Patiala has something for everyone. Must-haves on your shopping list? Look no further than the iconic Patiala salwar, perfect for adding a touch of tradition to your wardrobe. Pair it with colourful dupattas and chunnis for a truly head-turning look. Don't forget to pick up some juttis, traditional footwear adorned with intricate embroidery. And as a souvenir that truly captures the essence of Patiala, keep an eye out for clothing featuring the world-famous Phulkari work – a stunning display of colourful stitches. Some popular markets you can check out are Adalat Bazaar, AC Market, Chhoti Baradari, Old Qila Mubarak Market and Sirhindi Gate, amongst others. So, get ready to shop till you drop!",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you are a discerning music lover, then the Patiala Gharana of Music will surely be a feast for your ears. Patiala Gharana (school or style of music) of Hindustani classical music is known for its unique style. This royal tradition emphasises rhythmic complexity, using Ek (one) and Teen (three) taals (beats) and pentatonic ragas, and its signature taans—highly rhythmic, energetic vocal techniques that originate from the navel, not the throat. Notable musicians like Bade Ghulam Ali Khan and Ghulam Ali have emerged from this gharana, shaping its legacy. You can experience the magic of the Patiala Gharana of music at the Patiala Heritage Festival, which is conducted primarily at the Qila Mubarak in February every year.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Patiala, culinary delights await you at every turn, offering a tantalising journey into the heart of Punjab's traditional cuisine. From the famed dhabas to the elegant restaurants, the city boasts a culinary scene that is as diverse as it is delicious. For a more casual dining experience, explore the bustling streets of Patiala and sample the local street food. From the crispy Aloo Tikki to the sweet temptations of Jalebi , the city's street vendors offer a feast for the senses that will linger on your palettes throughout the trip. No visit to Patiala is complete without trying the iconic Punjabi Lassi . Head to the city's many Lassi shops and treat yourself to a glass of this creamy, refreshing drink made with love and served with a generous dollop of cream. Whether you're a food enthusiast or simply looking to explore the flavours of Punjab, Patiala's culinary scene promises a gastronomic adventure that is sure to leave you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the sun sets, Patiala transforms into a vivid painting, inviting you to be mesmerised by its lively bazaars and experience the charm of everyday life. Whether you're exploring its cultural heritage, indulging in its culinary delights, or simply soaking in its lively atmosphere, Patiala promises an unforgettable experience that will leave you enchanted and inspired. The best time to visit Patiala is from November to February when the weather is cool and pleasant and is perfect for exploring the city's outdoor attractions. During this period, you'll also have the opportunity to experience various festivals and events, such as the renowned Patiala Heritage Festival held in December, adding to the charm of your visit. So, come explore Patiala! This royal city promises an unforgettable experience.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sheesh Mahal has a museum that is believed to have a rare collection of around 3200 orders, medals, and decorations collected by Maharaja Bhupinder Singh from different parts of the world.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Baradari Gardens in Patiala have a ‘Fern House’ with more than 22 fountains and 32 sprinklers through which artificial rain can be created when required for the fern plants.",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Patiala",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/patiala",
+        "retrieved_at": "2026-09-22T18:36:41.995766+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

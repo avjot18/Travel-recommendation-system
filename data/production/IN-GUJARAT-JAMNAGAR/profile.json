@@ -1,0 +1,145 @@
+{
+  "destination_id": "IN-GUJARAT-JAMNAGAR",
+  "name": "Jamnagar",
+  "state_or_ut": "Gujarat",
+  "region": null,
+  "description": "Jamnagar is an officially listed tourism destination in Gujarat, India. It is best treated as a heritage, wildlife, food travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "wildlife",
+    "food",
+    "culture",
+    "coast"
+  ],
+  "best_for": [
+    "heritage",
+    "wildlife",
+    "food",
+    "crafts",
+    "pilgrimage"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 10.7,
+      "maximum_celsius": 32.3
+    },
+    "february": {
+      "minimum_celsius": 13.3,
+      "maximum_celsius": 36.0
+    },
+    "march": {
+      "minimum_celsius": 17.5,
+      "maximum_celsius": 39.5
+    },
+    "april": {
+      "minimum_celsius": 19.7,
+      "maximum_celsius": 40.9
+    },
+    "may": {
+      "minimum_celsius": 19.8,
+      "maximum_celsius": 42.1
+    },
+    "june": {
+      "minimum_celsius": 21.2,
+      "maximum_celsius": 40.4
+    },
+    "july": {
+      "minimum_celsius": 21.5,
+      "maximum_celsius": 36.1
+    },
+    "august": {
+      "minimum_celsius": 21.9,
+      "maximum_celsius": 35.1
+    },
+    "september": {
+      "minimum_celsius": 21.7,
+      "maximum_celsius": 35.8
+    },
+    "october": {
+      "minimum_celsius": 19.2,
+      "maximum_celsius": 35.1
+    },
+    "november": {
+      "minimum_celsius": 14.1,
+      "maximum_celsius": 33.3
+    },
+    "december": {
+      "minimum_celsius": 11.0,
+      "maximum_celsius": 31.4
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Gujarat",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {},
+  "pros": [
+    "Officially listed tourism destination in Gujarat",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Jamnagar",
+      "source_url": "https://www.incredibleindia.gov.in/en/gujarat/jamnagar",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

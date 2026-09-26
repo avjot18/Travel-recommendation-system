@@ -1,0 +1,195 @@
+{
+  "destination_id": "IN-BIHAR-NALANDA",
+  "destination_name": "Nalanda",
+  "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaiprakash Narayan International Airport (PAT), Patna"
+      },
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nalanda Railway Station (NLD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaiprakash Narayan International Airport (PAT), Patna",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nalanda was a renowned city in the medieval Magadha kingdom to be among the greatest centres of learning in the ancient world, holds a prestigious place in history as the world’s first residential university.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nalanda, located in the northeastern state of Bihar, renowned for its oldest university, Nalanda Mahavihara, the city flourished as a hub of intellectual exchange and Buddhist philosophy during the ancient and medieval periods.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The impact of Buddhism on Nalanda City was significant and widespread. Its monastic university, Nalanda Mahavihara, epitomised this influence, housing thousands of revered Buddhist monks. The Mahavihara contributed significantly to the conservation and spread of Buddhist doctrines through its vast library, translation initiatives, and scholarly debates. People from various parts of Asia journeyed to Nalanda to delve into Buddhist studies, encompassing philosophy, reasoning, morality, and meditation, guided by esteemed mentors. The city's architectural marvels,stupas and viharas, reflected Buddhist principles of harmony and enlightenment.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nalanda's history can be traced back to the 5th century BCE when it served as a thriving center of education and culture under the patronage of Mauryan and Gupta rulers. However, it was during the reign of the Gupta Empire in the 5th to 6th centuries CE that Nalanda rose to prominence as a premier seat of Buddhist learning and scholasticism.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nalanda Mahavihara was renowned for its rigorous academic curriculum, which encompassed a wide range of subjects including Buddhist philosophy, logic, Sanskrit grammar, medicine, and astronomy. The university boasted a vast library, known as the Dharmaganja, which housed thousands of manuscripts, scrolls, and treatises on various subjects, making it one of the largest repositories of knowledge in the ancient world. Scholars such as Nagarjuna, Aryabhata, and Xuanzang ( Tsuen Tsang) were among the luminaries who studied and taught at Nalanda, contributing to its reputation as a center of academic excellence and intellectual innovation.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The architectural splendor of Nalanda Mahavihara is evident in its sprawling campus, comprising monastic cells, lecture halls, meditation chambers, and stupas adorned with intricate carvings and ornamental motifs. The Great Stupa of Nalanda, built during the Gupta period, is a towering edifice that served as a focal point for religious ceremonies and communal gatherings. The ruins of Nalanda bear testimony to the architectural ingenuity and artistic craftsmanship of ancient Indian civilization, reflecting the fusion of Buddhist, Hindu, and Islamic influences that shaped the cultural landscape of the region.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its academic pursuits, Nalanda was revered as a spiritual sanctuary where monks and devotees sought enlightenment through meditation, contemplation, and religious rituals. The tranquil surroundings of Nalanda's monastic complex provided an ideal setting for spiritual introspection and self-discovery, inspiring visitors to cultivate virtues such as compassion, wisdom, and inner peace. Pilgrims from far and wide flocked to Nalanda to pay homage to the Buddha and receive teachings from eminent scholars, fostering a sense of communal harmony and spiritual fellowship.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Despite its illustrious legacy, Nalanda faced a period of decline and eventual destruction during the 12th century CE, following invasions by foreign powers and the decline of Buddhist patronage in India. The university lay in ruins for centuries until its rediscovery by British archaeologists in the 19th century, sparking renewed interest in its ancient heritage and cultural significance. Today, Nalanda stands as a UNESCO World Heritage Site and a symbol of India's rich intellectual and spiritual heritage, attracting scholars, pilgrims, and tourists from around the world.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In contemporary times, Nalanda continues to inspire scholars, educators, and policymakers with its timeless message of knowledge, wisdom, and enlightenment. Efforts are underway to revive Nalanda's legacy as a center of learning and cultural exchange through initiatives such as the Nalanda University, an international institution dedicated to interdisciplinary studies and academic collaboration. The Nalanda Archaeological Museum showcases artifacts, sculptures, and relics excavated from the ruins, providing insights into the city's ancient past and cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nalanda in Bihar stands as a testament to the enduring power of knowledge, scholarship, and spiritual inquiry to transcend time and space. From its humble origins as a monastic retreat to its zenith as a premier center of Buddhist learning, Nalanda continues to inspire awe and admiration as a reminded of the importance of education, dialogue, and cultural exchange in building bridges of understanding and fostering a more enlightened and harmonious world.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The world's first residential university.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aryabhata,the mathematician and astronomer who introduced the concept of zero, taught at Nalanda University.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "(Hsüen Tsang) the famed Chinese scholar came to study Buddhism here and document his travels from China to India.",
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Nalanda",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/nalanda",
+        "retrieved_at": "2026-09-22T18:36:24.336182+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

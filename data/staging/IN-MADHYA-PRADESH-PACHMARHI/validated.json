@@ -1,0 +1,523 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-PACHMARHI",
+  "destination_name": "Pachmarhi",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Raja Bhoj Airport, Bhopal (BHO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Pipariya Railway Station (PPI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The only hill station in Madhya Pradesh, Pachmarhi sits at around 1,100 metres in a valley of the Satpura Range, ringed by forested hills, waterfalls, sandstone caves, and some of central India's oldest rock art. Known affectionately as \"Satpura ki Rani\" (Queen of Satpura), it combines cool-climate hill-station charm with genuine mythological depth, colonial history, and biosphere-level ecological importance, making it worth several unhurried days rather than a rushed day trip.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pachmarhi's name comes from the Hindi Panch(\"five\") and Marhi (\"caves\"), referring to the legend that the five Pandava brothers of the Mahabharata sheltered here with their wife Draupadi during their forest exile, hollowing out five caves on a sandstone hillock, though some geologists argue the caves' origins may in fact be Buddhist or Jain. Long part of Gondi and Maratha territory, the area entered the modern era in 1857, when Captain James Forsyth of the British Army came across the plateau while marching toward Jhansi. Recognising its potential as a cool-weather retreat, the British developed Pachmarhi into a hill station and army sanatorium, a legacy still visible in its colonial bungalows, Christ Church, and the continuing presence of the Indian Army's Education Corps cantonment today.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pachmarhi sits entirely within the Pachmarhi Biosphere Reserve, added to UNESCO's list of Biosphere Reserves in 2009 for its rich concentration of rare plant species, and within the Satpura Tiger Reserve, home to tigers, leopards, Indian gaur, sloth bears, and flying squirrels across its sal, teak, and bamboo forests. Dhoopgarh, the highest point in Madhya Pradesh at 1,352 metres, sits just outside town and is one of the most celebrated sunrise-and-sunset viewpoints in central India.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Pandav Caves (Pandav Gufa): five sandstone caves at the heart of the town's name and legend, now a protected monument.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Bee Falls (Jamuna Prapat): a roughly 150-foot cascading waterfall and one of Pachmarhi's most popular swimming and picnic spots.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Dhoopgarh: the highest peak in the Satpura range and all of Madhya Pradesh, famed for sunrise and sunset views.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Jata Shankar Caves: a sacred cave shrine linked to a Shiva legend, with 108 naturally formed shivalingas and the underground Gupt Ganga stream.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Apsara Vihar (Fairy Pool) and Rajat Prapat (Big Fall): a scenic waterfall-and-pool combination reached via a short trail from the Pandav Caves.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Priyadarshini Point (formerly Forsyth Point): the very spot from which Captain Forsyth first spotted the Pachmarhi plateau in 1857, with sweeping valley views over the Handi Khoh ravine.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Chauragarh; a pilgrimage peak with a Shiva temple, reached via a demanding trek and thousands of steps, popular during the Shivratri season.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Bison Lodge Museum: Captain Forsyth's former residence, now a museum on the flora, fauna, and history of the Satpura hills.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "• Ancient rock paintings in the Mahadeo Hills, some estimated to be up to 10,000 years old.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pachmarhi's culture blends its colonial cantonment character churches, bungalows, and a quiet, orderly army-town rhythm with older tribal and mythological layers tied to the Pandava legend and to Gond-era rule that preceded the British arrival. The town remains small with construction restrictions helping preserve its forested character even as tourism has grown.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Alongside the wider Madhya Pradesh staples of poha-jalebi, dal bafla, and bhutte ki khees, Pachmarhi's markets are known for local forest honey and Ayurvedic preparations drawing on the surrounding hills' herbal traditions all worth picking up as a souvenir alongside the usual trip photographs.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to June is generally pleasant given Pachmarhi's elevation, with October to March offering the coolest, clearest weather for sightseeing and trekking, and the monsoon (July–September) bringing the waterfalls to their fullest, most dramatic flow, if you don't mind slippery trails.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest railway station is Pipariya Railway Station (PPI) , located approximately 50 km from Pachmarhi. Pipariya is well-connected to major cities such as Jabalpur, Bhopal, Delhi, and Mumbai . From the station, taxis and local transport are readily available for Pachmarhi. An alternative railhead is Itarsi Junction (ET) , situated around 150 km away, offering extensive rail connectivity across India.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airports are Raja Bhoj Airport, Bhopal (BHO) , approximately 200 km away, and Jabalpur Airport (JLR) , approximately 250–260 km from Pachmarhi. Both airports are well-connected to major Indian cities, and taxi services are available for onward travel to Pachmarhi.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Pachmarhi is well-connected by road to nearby cities, and visitors can easily hire taxis or use bus services from Pipariya, Bhopal, Jabalpur, and Itarsi . Regular road transport options make the hill station easily accessible from across Madhya Pradesh.",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kandariya Mahadev Temple, Khajuraho- The Grandeur of carvings and divinity!",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raneh Falls - A preserved area with Magnificent Waterfall around underrated Canyon with colourful rocks and lush green Forest with active wildlife around Ken river in Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahma Temple In Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pachmarhi",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/pachmarhi",
+        "retrieved_at": "2026-09-22T18:36:36.716303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

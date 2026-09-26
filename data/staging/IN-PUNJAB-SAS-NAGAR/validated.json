@@ -1,0 +1,400 @@
+{
+  "destination_id": "IN-PUNJAB-SAS-NAGAR",
+  "destination_name": "SAS Nagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chandigarh Railway Station (CDG)"
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A rapidly growing urban centre in Punjab, Sahibzada Ajit Singh Nagar (SAS Nagar) , popularly known as Mohali , stands as a modern extension of Chandigarh within the vibrant Tricity region. Known for its planned infrastructure, green surroundings, and connectivity , Mohali also offers refreshing experiences through its historic landmarks and wildlife attractions .",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlike traditional tourist towns, Mohali presents a unique blend of urban sophistication and cultural depth , where contemporary cityscapes coexist with reminders of Punjab’s glorious past and natural biodiversity. With its accessibility, clean environment, and well-developed amenities, SAS Nagar is an ideal destination for short trips, family outings, and cultural exploration .",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "SAS Nagar derives its name from Sahibzada Ajit Singh Ji , the eldest son of Guru Gobind Singh Ji, reflecting the region’s deep-rooted connection to Sikh history and heritage. Though Mohali as a city is relatively modern, its surrounding areas, such as Chappar Chiri , are historically significant for major battles that shaped Punjab’s past.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most defining moments associated with the region is the Battle of Chappar Chiri (1710) , where the Sikh forces led by Baba Banda Singh Bahadur defeated the Mughal army. This victory marked an important phase in the establishment of Sikh rule in Punjab, a legacy that continues to be remembered through monuments in the area.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "SAS Nagar (Mohali) offers a compact yet enriching travel experience, bringing together heritage, wildlife, and modern urban development . One of the most significant attractions is the Fateh Burj (Chappar Chiri War Memorial) , the tallest victory tower in India , which commemorates the historic victory of Baba Banda Singh Bahadur in 1710 . With its grand structure, statues of Sikh warriors, landscaped gardens, and peaceful surroundings, it serves as both a cultural landmark and a reflection space for visitors. Another key highlight is the M.C. Zoological Park, Chattbir (Chhatbir Zoo) , one of North India’s largest zoological parks. Known for its lion and deer safaris, expansive walk-in aviary, reptile and nocturnal houses, and interactive dinosaur park , it provides an immersive wildlife experience in a green, natural setting. Together, these attractions offer a balanced mix of history and nature, making Mohali an appealing destination for diverse travellers.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its major attractions, SAS Nagar also showcases a vibrant urban lifestyle with well-planned sectors, clean surroundings, parks, shopping hubs, cafés, and recreational spaces . Its proximity to Chandigarh , along with nearby areas such as Zirakpur , makes it an ideal base for exploring the wider Tricity region while enjoying a blend of comfort and accessibility.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culinary scene in SAS Nagar reflects the rich traditions of Punjabi cuisine , known for its hearty flavors and use of dairy-based ingredients. Visitors can indulge in iconic dishes such as Sarson da Saag with Makki di Roti, Amritsari Kulcha with Chole, Dal Makhani, stuffed parathas, and a variety of tandoori preparations . Complemented by refreshing beverages like lassi and traditional sweets, the food offers an authentic taste of Punjab’s agricultural heritage and community-driven culinary culture, making it an essential part of the overall travel experience.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "SAS Nagar can be visited throughout the year, as each season offers a distinct experience for travellers. The period from November to February is considered the most comfortable, with cool and pleasant weather that is ideal for sightseeing and outdoor exploration. During March to June , the summer months bring warmer temperatures; however, short visits and early morning or evening outings remain manageable. The monsoon season from July to September transforms the surroundings into a lush and refreshing landscape, making it appealing for visitors who enjoy greenery and a quieter atmosphere.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Chandigarh International Airport (IXC) , located approximately 10 km from SAS Nagar, with strong connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The closest railway station is Chandigarh Railway Station (CDG) , situated about 12 km away, offering convenient rail links across the country.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: SAS Nagar (Mohali) is well connected through national highways and an efficient local transport network , making it easily accessible by private vehicles, taxis, and buses from Chandigarh and nearby cities.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Fateh Burj is the tallest victory tower in India, surpassing many historic towers in height.",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Jalandhar’s vibrant markets",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - SAS Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/sas-nagar",
+        "retrieved_at": "2026-09-22T18:36:42.315520+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

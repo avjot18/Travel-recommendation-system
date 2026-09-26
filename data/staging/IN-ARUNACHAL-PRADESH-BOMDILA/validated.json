@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-BOMDILA",
+  "destination_name": "Bomdila",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Tezpur Airport (TEZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nearest Railway Station Rangapara North Railway Station (RGPP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the Eastern Himalayas, Bomdila is a quaint hill station in the West Kameng district of Arunachal Pradesh. Known for its scenic beauty, Buddhist monasteries, local crafts and apple orchards, the town offers a refreshing escape from busy city life. Cool mountain air, panoramic Himalayan views, and a slow, soulful pace of life make it an ideal escape for travelers seeking calm, culture, and connection with nature. So, if you wish to experience nature in its pure and varied forms, you could not think of a better place than Bomdila.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched atop a scenic hill in Bomdila, the GRL Monastery (Gentse Gaden Rabgyal Ling) popularly known as Bomdila Monastery, is a serene retreat and a cultural gem of Mahayana Buddhism. Established in 1965 and inspired by South Tibet’s Tsona Gontse Monastery, it showcases stunning Tibetan architecture and spiritual heritage.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The monastery unfolds in three unique sections: Upper Gompa, which is home to a Buddha temple, prayer hall, and a school for young monks; Middle Gompa, one of the oldest parts, housing the revered Blue Medicine Buddha, believed to have healing powers; and Lower Gompa, the central hub with a spacious prayer hall perfect for quiet reflection. Located near the Tipi Orchid Research Center, Bomdila Monastery attracts pilgrims and travelers alike, offering a peaceful escape steeped in tradition, art, and devotion.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bomdila’s Apple Orchards are among the most charming attractions of Arunachal Pradesh, drawing visitors with their vast, well-kept plantations and scenic Himalayan settings. Spread across large stretches of land around Bomdila and nearby areas such as Tipi and Shergaon, these orchards come alive during the winter months when apple trees are heavy with fruit.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tourists can enjoy leisurely walks through the picturesque orchards, soak in the crisp mountain air, and purchase fresh, organic apples directly from local growers at remarkably affordable prices. The sight of fully laden apple trees combined with the pleasant weather makes Bomdila’s apple orchards a must-visit destination for nature lovers and travelers seeking a refreshing rural experience.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Offering sweeping panoramic views of the majestic Himalayas, R.R. Hill is a perfect spot for nature lovers and photography enthusiasts. From this vantage point, visitors can clearly see the winding mountain roads leading towards Tawang and the Bhutan border, adding to its scenic charm. The serene surroundings and cool mountain air make R.R. Hill an ideal place to relax and reconnect with nature.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a true taste of Bomdila’s rich culture and tribal traditions, the Craft Centre & Ethnographic Museum is a must-visit. Located opposite the Lower Gompa, this cultural gem showcases 767 ethnographic artifacts, from handwoven carpets including the famed dragon designs to traditional masks, wall hangings, scroll paintings, pottery, and musical instruments.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The museum offers an immersive glimpse into the lives, customs, and artistry of Arunachal Pradesh’s diverse tribes, while the adjoining Craft Centre lets visitors watch skilled artisans at work and take home unique handcrafted souvenirs. A perfect blend of heritage, art, and hands-on experience, this museum brings the vibrant spirit of Bomdila’s culture to life.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled near Bomdila, Sessa Orchid Sanctuary is a breathtaking ecological treasure renowned for its remarkable orchid diversity. Spread across 100 square kilometres, the sanctuary shelters over 200 species of orchids, making it a paradise for botanists, researchers, and nature lovers alike.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its vibrant floral wealth, the sanctuary supports a rich variety of wildlife, including birds, butterflies, goral, red panda, pheasants, and crows, all playing a vital role in maintaining ecological balance. Visitors can explore scenic trekking trails and guided tours, offering a close encounter with nature while learning about ongoing orchid conservation efforts.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The sanctuary is at its most enchanting during spring and summer, when orchids bloom in full glory. Surrounded by dense forests, cascading waterfalls, and gentle streams, Sessa Orchid Sanctuary provides an ideal habitat for diverse flora and fauna; making it a serene escape into the heart of nature.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When visiting Bomdila, don’t miss the chance to explore its local food. The cuisine is made with fresh, locally sourced ingredients, mild spices, and traditional cooking methods. Influenced by indigenous tribes such as the Monpa, Sherdukpen, Aka, and Miji, the food reflects a simple lifestyle closely connected to nature. Popular dishes include Churpi, a fermented cheese dish; Lutker, a side dish made with chilli flakes and cooked dry meat; Khapse, a sweet deep-fried pastry; Arsa, a traditional sweet pancake made from rice flour; and bamboo shoot curry. You can also enjoy familiar regional favorites like momos, thukpa, sel roti, and locally brewed drinks, which add authentic flavor to the experience.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bomdila isn’t about ticking off attractions; it’s about soaking in silence, culture, and nature. Whether you’re a spiritual seeker, a nature enthusiast, or a traveler craving offbeat destinations, Bomdila offers a rare kind of beauty that stays with you long after you leave.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Bomdila is during spring (March–April) and autumn (October–November), when the weather is pleasant and the region comes alive with lush greenery. These seasons offer clear skies and comfortable temperatures, making them ideal for trekking, exploring monasteries, and soaking in the area’s breathtaking landscapes.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Rangapara North Railway Station (RGPP) is the nearest major railhead, located approximately 95 km from Bomdila. It is well connected to Guwahati and other important cities of Assam.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Tezpur Airport (TEZ) is the nearest airport, situated about 160 km from Bomdila. From the airport, taxis and shared vehicles are available for onward travel.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Bomdila is well connected by road via NH-13 (Trans-Arunachal Highway). It is approximately 160 km from Tezpur and 340 km from Guwahati. Regular buses and shared sumos operate from Tezpur, Balipara, and Guwahati, making road travel the most commonly used option.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bomdila Monastery is an exact replica of the Tsona Gontse Monastery located at Tsona in South Tibet.",
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bomdila",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/bomdila",
+        "retrieved_at": "2026-09-22T18:36:21.265831+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

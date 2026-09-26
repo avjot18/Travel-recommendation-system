@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-CHANDIGARH-CHANDIGARH",
+  "destination_name": "Chandigarh",
+  "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chandigarh Junction Railway Station (CDG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 23.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.1,
+        "maximum_celsius": 27.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.6,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.6,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 43.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.3,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.5,
+        "maximum_celsius": 27.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh Junction Railway Station (CDG)",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine a city where wide boulevards lined with lush greenery intersect with meticulously planned architecture. A city with the breathtaking backdrop of the Shivalik mountain range, that paints a picturesque scene against the blue sky. This is Chandigarh, India's first planned city. A captivating union territory where the soul of tradition and the vibrancy of the modern world meet to create a unique experience. Envisioned by the renowned Swiss-French architect Le Corbusier, Chandigarh offers a unique grid-like design, a testament to phenomenal infrastructure and town planning. Here, wide, tree-lined avenues and well-defined sectors give a sense of peace and tranquillity, punctuated by a serene lake and expansive green spaces. But Chandigarh is more than just stunning aesthetics. As you navigate its symmetrical boulevards, you'll discover that this ‘City Beautiful’ offers a perfect combination of urbanisation and conservation of natural beauty. This isn't just a place to admire architectural prowess, it's a vibrant hub of culture, art, and gastronomic delights. Get ready to be surprised at every turn in Chandigarh, whether you're a nature enthusiast, a shopaholic, or a foodie. Come, let’s explore this mesmerising city!",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Stepping into Chandigarh is like stepping inside a wonderland of modern marvels! The city boasts an architectural collection that will leave you awestruck. At the forefront is the Capitol Complex, a UNESCO World Heritage site that epitomises modernist architecture. Designed by the legendary Le Corbusier, this complex houses the High Court, Legislative Assembly, and Secretariat, each structure a masterpiece in its own right. But that's not all – within the complex stands the iconic Open Hand Monument, a powerful symbol of peace and unity that adds a touch of artistic grandeur to the cityscape. Get ready for a poetic adventure at the famed Rock Garden , a sprawling sculpture garden crafted from recycled materials by the visionary artist Nek Chand. Over decades, he transformed everyday waste – from broken bangles to discarded bottles – into a captivating display of thousands of statues and artworks. Wander through the garden’s labyrinthine pathways, marvelling at the intricate mosaics and sculptures that narrate stories of everyday life. This is a visual feast you can’t miss! If you’re a culture and history enthusiast, visit the Government Museum and Art Gallery . Here, a collection of ancient artefacts awaits, showcasing Chandigarh's evolution from a small village to a planned metropolis. Admire the treasures at display – from pottery to weapons to textiles, and gain a deeper understanding of the region's culture.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh isn't just about bustling boulevards and modern marvels. Tucked away within the city limits are oases of serenity waiting to be discovered. The crown jewel is the serene Sukhna Lake , a picturesque expanse of water fringed by manicured gardens, that beckons you with its calming presence. Take a leisurely boat ride, or simply stroll along the promenade, inhaling the fresh air and soaking in the tranquillity. But the magic doesn't stop there! Sukhna Lake transforms into a haven for birdwatchers during the winter months when you can catch a glimpse of exotic migratory birds like Siberian ducks, storks, and cranes! Don’t miss venturing into the Nature Trail in Lake Reserve Forest, just behind Sukhna Lake, where you get to leave the city buzz behind and soak in the tranquil ambience surrounded by lush greenery. Chandigarh is a garden paradise! Think beyond just manicured lawns – this city boasts a mind-boggling variety of themed gardens, each offering a one-of-a-kind experience. Love flowers? Check out the Rose Garden – it's a blooming wonderland with over 1,500 varieties spread across 30 acres! Enjoy strolling through fragrant rows of roses in every colour imaginable. Not a rose person? No worries! The Cactus Garden is another prickly paradise, housing over 3,500 species of succulents. It's an Asian marvel for nature lovers, and you won't believe the shapes and sizes these desert plants come in! Stroll through terraced landscapes at the Terraced Garden, or find serenity amidst the meticulously designed rocks and bonsai trees of the Japanese Garden. Craving peace? The Garden of Silence offers a tranquil escape, while the Garden of Fragrance will tantalise your senses with the intoxicating aroma of blooming flowers. While Butterfly Park lets you get up close to these fluttering beauties, the Hibiscus and Bougainvillea Gardens are a treat for your eyes. For a break from the urban buzz, Leisure Valley is your perfect green escape, where you can even spot a replica of the Eiffel Tower, a decommissioned tank from the 1965 war and other art marvels! Hungry? There’s even a burger joint inside! Keep your eyes peeled for Chandigarh's hidden treasures as you explore the city. Over 100 majestic heritage trees stand tall as silent witnesses to the city's history. These living landmarks remind you of Chandigarh's commitment to its green legacy.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Calling all animal lovers! Chandigarh has a treat in store for you. Get ready for a vibrant spectacle at the City Bird Sanctuary (or Parrot Bird Sanctuary), home to hundreds of parrots, and a diverse range of birds, from majestic peacocks to indigenous and exotic species. Grab your binoculars and see how many feathered friends you can spot! Visit the Sukhna Wildlife Sanctuary , located right next to the picturesque Sukhna Lake, for the perfect escape. Nature enthusiasts and birdwatchers will rejoice in this haven, teeming with diverse birdlife. No trip to Chandigarh is complete without a visit to the Chhatbir Zoo . Located just outside the city limits in Zirakpur, this zoological park offers a chance to come face-to-face with a majestic Royal Bengal Tiger through a fun safari, spot a pride of lions lazing in the sun or watch playful monkeys swinging through the trees. What’s more, it is a perfect place for a family outing or a solo adventure.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a journey of the soul with spiritual sites in and near Chandigarh. Set your sights on the revered Chandi Mata Temple, after which the city got its name! Dedicated to Chandi, a powerful form of the Goddess Durga, the temple is located just a short drive from the city centre. Step into history at Nada Sahib Gurudwara, a revered landmark where Guru Gobind Singh Ji, the tenth Sikh Guru, sought refuge during his travels. Near Chandigarh, just a stone’s throw away from the village of Bilaspur, lies the hallowed Maata Mansa Devi Temple. This expansive haven, dedicated to the powerful Shakti (Goddess Mansa Devi), is a renowned pilgrimage site. Tie a sacred thread around the holy tree - a cherished tradition believed to grant wishes, and immerse yourself in the serene atmosphere and captivating beauty of this 100-acre marvel. Prepare to be transported back in time at the Bhima Devi Temple Complex, located in Panchkula, a short distance from Chandigarh. Nicknamed the ‘Khajuraho of North India’ for its erotic sculptures, this complex comprises restored ruins of an ancient Hindu temple dating back to the 9 th -11 th centuries AD.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh has a vibrant food scene, blending the best flavours of Punjab and Haryana into a delicious explosion. Treat yourself to the mouthwatering North Indian cuisine, with aromatic dishes like butter chicken, chole bhature, and paneer tikka. Or tantalise your taste buds with street food favourites like chaat, samosas and Amritsari kulcha. Head to popular eateries like Garg Chaat, Bholey Di Hatti, and Pal Dhaba among others to satiate your cravings. For a fine dining experience, head to one of Chandigarh's many upscale restaurants, or explore the vibrant cafes lining the city's boulevards, perfect for enjoying a steaming cup of tea and people-watching.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you love shopping, you’ll fall in love with Chandigarh. From traditional finds to modern delights, you’ll find everything here. Embrace the local culture by picking up exquisite Phulkari embroidered shawls, dupattas, and sarees. These vibrant textiles are a true representation of Punjabi artistry. Add a touch of style to your wardrobe with Punjabi juttis, handcrafted footwear known for its dazzling colours and craftsmanship. Chandigarh's handwoven carpets and rugs are a must-see too! Visit popular shopping hotspots like the iconic Sector 17 market or City Centre, a bustling marketplace in the city’s heart, offering a delightful mix of high-end brands, local boutiques, and handicraft shops. There’s a musical fountain show waiting for you as well! Immerse in the vibrant atmosphere of Shastri Market, renowned for its ethnic and traditional treasures. Craving a luxurious shopping experience? Elante Mall, Chandigarh's largest retail mall, boasts a wide array of international brands and upscale stores.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh offers an unparalleled combination of beauty, modernity and cultural heritage that makes for an amazing city experience. Plan your trip between September and February, when the pleasant weather awaits! So, pack your bags, put on your walking shoes, and prepare to be mesmerised!",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh, a union territory with its own administration, serves as the capital for two Indian states - Punjab and Haryana !",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name ‘Chandigarh’ is derived from the name of the Hindu goddess Chandi (the warrior incarnation of Goddess Parvati) with the word ‘garh’ meaning fortress.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Capitol Complex , a UNESCO World Heritage site, is the epicentre of Chandigarh's administrative and political activities.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nek Chand, the visionary behind Rock Garden , initiated its creation secretly in 1957 during his free time.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Chandigarh's sector numbering system , the number 13 is conspicuously absent due to its inauspicious connotations. This omission was a deliberate choice during the city's planning.",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh's captivating entertainment scene",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the charm of Chandigarh's natural treasures",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through must-try local foods in Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chandigarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/chandigarh/chandigarh",
+        "retrieved_at": "2026-09-22T18:36:52.314527+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

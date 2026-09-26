@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-DADRA-AND-NAGAR-HAVELI-AND-DAMAN-AND-DIU-DAMAN",
+  "name": "Daman",
+  "state_or_ut": "Dadra and Nagar Haveli and Daman and Diu",
+  "region": null,
+  "description": "Daman is an officially listed tourism destination in Dadra and Nagar Haveli and Daman and Diu, India. It is best treated as a coastal, leisure, heritage travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "coastal",
+    "leisure",
+    "heritage",
+    "nature"
+  ],
+  "best_for": [
+    "beaches",
+    "weekend trips",
+    "family travel",
+    "heritage"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 18.0,
+      "maximum_celsius": 31.0
+    },
+    "february": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 34.0
+    },
+    "march": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 36.0
+    },
+    "april": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 39.0
+    },
+    "may": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 39.0
+    },
+    "june": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 36.0
+    },
+    "july": {
+      "minimum_celsius": 21.0,
+      "maximum_celsius": 30.0
+    },
+    "august": {
+      "minimum_celsius": 24.0,
+      "maximum_celsius": 33.0
+    },
+    "september": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 34.0
+    },
+    "october": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 34.0
+    },
+    "november": {
+      "minimum_celsius": 19.0,
+      "maximum_celsius": 30.0
+    },
+    "december": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 28.0
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Dadra and Nagar Haveli and Daman and Diu",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Daman Airport (NMB)"
+    ],
+    "railway_station": [
+      "Vapi Railway Station (VAPI)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Dadra and Nagar Haveli and Daman and Diu",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Daman",
+      "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-CHITRAKOOT",
+  "destination_name": "Chitrakoot",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Prayagraj Airport (IXD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chitrakoot Dham (Karwi) Railway Station (CKTD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot Dham (Karwi) Railway Station (CKTD)",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot literally the \" Hill of Many Wonders \" is situated on the border of Uttar Pradesh and Madhya Pradesh along the northern Vindhya range, and is one of the most sacred landscapes in the Ramayana. It was here that Lord Rama, Sita, and Lakshmana spent a significant part of their fourteen years of exile, and where Bharata famously came to plead with Rama to return to Ayodhya. Every hill, riverbank, and cave in Chitrakoot carries a story from that epic. Pilgrims in Chitrakoot walk barefoot, bathe in the Mandakini river at dawn, and circle sacred hills exactly as devotees have for centuries.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For travellers, Chitrakoot offers something extremely rare: a destination where mythology, ritual, forest, and river combine into a single, still-functioning cultural landscape, largely untouched by mass commercializationusiasts, and mindful travellers alike.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chitrakoot's identity is built entirely around the Ramayana. Saint-poet Tulsidas spent part of his life here, composing verses in deep devotion to Rama, and local legend holds that Brahma, Vishnu, and Shiva all took incarnations in this landscape. The town's daily rhythm follows pilgrim traffic: predawn bathing at Ram Ghat, the long barefoot parikrama (circumambulation) around Kamadgiri hill, and evening aartis along the Mandakini. Bundelkhandi folk traditions both including ballads of the medieval heroes Alha and Udal, also thread through the region's oral culture, alongside its deep-rooted Vaishnavite devotional practice.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raghav Ghat: Nestled in the heart of Chitrakoot, Raghav Prayag Ghat lies at the sacred confluence of the Mandakini and Pataru rivers and is a vibrant hub of cultural activity. As one of the city's most prominent ghats, it offers a fascinating glimpse into the rich heritage of Chitrakoot. As the day unwinds, the ghat transforms into a kaleidoscope of sound and colour, lit with diyas and the colourfully decorated boats adding to the unforgettable cultural experience.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janaki Kund: Located 2 km from the renowned Ram Ghat, the serene Janaki Kund is an ancient and religious location. Legend has it that this place derives its name from its association with Goddess Sita, who is believed to have taken a bath here, during her exile period with Lord Ram. The place is considered extremely sacred among devotees, who come here to embrace the spiritual aura of Janaki Kund and dive into the tranquil surroundings.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hanuman Dhara: Situated atop a hill, this temple is dedicated to Lord Hanuman. One can get a spectacular bird eye view of the city, by climbing atop this hill temple. This temple has a great religious connection with the life of Lord Hanuman, who is believed to have resided here when he returned after putting Lanka on fire.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kamadgiri Parvat: The temple worships Lord Kamatnath, who is considered to be the principal deity of not only Kamadgiri Parvat but the whole of Chitrakoot. Devotees circumambulate the 5 km long path here, known as the Parikrama Marg; a lot of significant temples lie on this path.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gupt-Godavari: There is a pair of caves here, located 18 km from the city centre. These two natural throne-like caves have led to the belief that Lord Ram and his brother Lakshman held court here. A narrow stream of water also runs along the base of one of the caves.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sphatik Shila: A few km beyond Janaki Kund is Sphatik Shila, located on the serene bank of river Mandakini. The place has a large boulder or Shila which has an impression of Lord Ram's feet, an extremely important spot for the pilgrims visiting Chitrakoot. According to different legends, it is here where Goddess Sita got pecked by Lord Indra's son, Jayant, who came disguised as a crow.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ram Ghat: Among the tranquil riverbanks of Chitrakoot, Ram Ghat stands out as the most vibrant, graced by the serene Mandakini river. As the sun sets, Ram Ghat drowns in the spiritual aura with priests and pilgrims hymning in unison as the aarti lamps are swung through the air seamlessly mingling with the sounds of conches, bells and cymbals, creating a truly captivating spectacle. Adding to its peaceful charm, beautifully adorned boats line the picturesque ghat, allowing visitors to take a boat ride to embrace the beauty of the rippling blue-green waters of the Mandakini River closely. Additionally, the ghat comes alive with the celebration of Deep Daan during Diwali, which transforms it into a dazzling spectacle, where over a thousand lamps are lit and released into the flowing waters of Mandakini.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bharat Milap Temple : Dedicated to the overwhelming reunion of Lord Ram and his brother Bharat, the Bharat Milap temple stands as a testament to their deep bond. According to legends Bharat though being younger than Lord Ram, was made in charge of the throne, which he humbly declined for his immense respect and love towards his elder brother, and moved to Chitrakoot in search of his whereabouts. Bharat, when meets Lord Ram, persuades him to return to Ayodhya. Due to being duty-bound, Lord Ram refuses to return until his 14-year exile period is completed. While returning to Ayodhya, Bharat took along with him the wooden clogs of Lord Ram to be kept on the throne and decided to rule as his brother's regent",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mornings in Chitrakoot often start the same way they do across Bundelkhand with poha and jalebi from a roadside stall. Look for malpua (sweet, syrup-soaked pancakes) at sweet shops near Kamadgiri , and don't miss regional Bundelkhandi specialities such as bhutte ka kees (grated corn cooked with spices), dal bafla , and bara (lentil dumplings soaked in spiced buttermilk). Being a major pilgrimage centre, Chitrakoot has an abundance of pure-vegetarian dining, from simple thali houses to ashram-run kitchens serving prasad.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to March is ideal, with pleasant temperatures for the long Kamadgiri parikrama and general sightseeing. Chaitra Ramnavami, Deepawali , and Amavasya (new moon) days bring the largest pilgrim crowds and the most vivid festive atmosphere, though also significant congestion. Monsoon season (July–September) is scenic for waterfalls but the Mandakini can flood low-lying spots like Sphatik Shila.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Prayagraj Airport (IXD) , located about 115–126 km away. Khajuraho Airport, around 175 km from Chitrakoot, is another convenient option for travellers arriving from major cities.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Chitrakoot Dham (Karwi) Railway Station (CKTD) is the closest railhead, situated approximately 10–20 km from the region’s main attractions. It is well connected to key cities such as Prayagraj, Varanasi, and Delhi. Satna Railway Station in Madhya Pradesh, about 75–78 km away, serves as an alternative railway gateway with extensive rail connectivity.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Chitrakoot is well connected by National Highway 35 (NH 35), linking it to Prayagraj, Varanasi, Ayodhya, and other major destinations in Uttar Pradesh. Its location also makes it an ideal stop on a broader Ramayana Circuit road trip.",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name Chitrakoot means \" Hill of many Wonders \".",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forests of Chitrakoot are said to be the place where Rama, Sita, and Lakshmana spent 14 years in exile, along with several hermits",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kandariya Mahadev Temple, Khajuraho- The Grandeur of carvings and divinity!",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raneh Falls - A preserved area with Magnificent Waterfall around underrated Canyon with colourful rocks and lush green Forest with active wildlife around Ken river in Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahma Temple In Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chitrakoot",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/chitrakoot",
+        "retrieved_at": "2026-09-22T18:36:35.463176+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

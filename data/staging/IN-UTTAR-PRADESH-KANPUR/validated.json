@@ -1,0 +1,332 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-KANPUR",
+  "destination_name": "Kanpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kanpur Airport (KNU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kanpur Central Railway Station (CNB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.8,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.8,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.0,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 41.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 44.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 44.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.8,
+        "maximum_celsius": 39.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.1,
+        "maximum_celsius": 28.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step ashore on the banks of the holy Ganga in the spiritual and historical heartland of Kanpur, a quintessential Indian city. This storied destination, nestled 80 km west of Lucknow, unfolds a captivating duality—one part is a buzzing industrial hub with its famed tanneries, while the other moves at a relaxed, almost zen-like pace. A beautiful contrast! Kanpur, the largest city in Uttar Pradesh, isn't your typical tourist stop, but that's exactly what makes it adorable. With its significant role in the first Indian war of Independence, the city harbours a trove of colonial-era gems, beckoning you to explore India's riveting past. As you wander the city's winding lanes, you’ll encounter grand structures, ornate facades, and meticulously manicured gardens—all inviting you to unravel Kanpur's heritage. Yet, this historic city is not merely a relic frozen in time – it seamlessly blends the old with the new. Being situated on the banks of the Ganga makes the city a sacred destination. Witness the centuries-old rituals and traditions woven into this city's spiritual fabric. Beyond its spiritual allure, Kanpur is renowned for its unique local dialect and mouth-watering street food that blends flavours from across the region. The city is also a thriving commercial hub with skilled artisans who create the most exquisite leather goods, textiles, and plastic products, each piece a testament to their meticulous workmanship. And if you love a good bargain, get ready to indulge in the vibrant market culture where haggling is an art form! What really sets Kanpur apart is its incredibly warm and friendly locals who will make you feel right at home from the moment you arrive. So, come, let’s explore the multitude of things to see and do in this bustling city.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Believed to be founded by Raja Hindu Singh of the Sachendi state, Kanpur's story is etched into its very streets. Begin your journey by exploring Jajmau, one of the city's oldest areas, dating back to 1300 BC! This bustling hub is an excavation site and a leather lover's paradise, with shops overflowing with beautiful goods. Be sure to check out the Jinnaton ki Masjid, a mosque with architecture similar to the Taj Mahal. Pay your respects at the shrines dedicated to Siddhanath and Siddha Devi. Kanpur's past comes alive at the Kanpur Memorial Church , a majestic structure built in memory of British soldiers who lost their lives in the 1857 War of Independence. The Gothic architecture is a sight to behold, and the tranquil surroundings offer a moment of reflection. For a deeper dive into the city’s past, head to the Kanpur Sangrahalaya, your one-stop museum for the city's history and culture. Visit Massacre Ghat, an intriguing sightseeing spot. Its infamous name stems from the tragic events of 1857 during the Indian Rebellion against British rule.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If there’s one site that deserves a special mention (and a visit!), it is the ancient site of Bithoor. Just 24 km away from Kanpur, this legendary town is where legends, mythology, and history come together. According to local lore, this very place is where Lord Brahma, the divine creator of the universe, brought the world into existence. One of the site's major landmarks is a revered footprint believed to be that of Lord Brahma himself! It is said that the epic Ramayana was composed here at the Valmiki Ashram. Bithoor is also revered as the birthplace of Luv and Kush, the sons of Lord Rama. In more recent times, the town played a key role in India's struggle for independence during the 1857 uprising. Head to the sacred Brahmavart Ghat , a serene riverfront where a temple dedicated to Lord Brahma and a peaceful boat ride on the Ganga await.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Bithoor offers a glimpse into ancient myths, Kanpur itself boasts a vibrant collection of temples, each offering a unique experience. Start your spiritual journey at the JK Temple or the Shri Radhakrishna Mandir, an architectural marvel that seamlessly blends ancient and modern styles, housing five shrines dedicated to various deities. Prepare to be dazzled by the Jain Glass Temple. This architectural wonder features intricate glasswork adorning its walls and ceilings, creating a truly mesmerising atmosphere. Find a quiet corner and let the serenity wash over you. Venture just 4 km outside Kanpur to discover the beautiful ISKCON Temple. Dedicated to Lord Krishna and Radha, this temple is a perfect place to immerse yourself in the Hare Krishna movement's devotional chants. You can also visit other famous temples like Anandeshwar Temple, Shri Sidhivinayak Temple, and Dwarkadhish Temple.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanpur isn't just about history and temples. This city has a surprising amount of green space, perfect for a nature lover. For a breath of fresh air, explore Phool Bagh Park, a garden complex bursting with vibrant blooms, calming fountains, and impressive statues. Or visit Nana Rao Park, the largest park in the city, named after the hero of the First War of Independence. It's a green haven perfect for a picnic, a jog, or simply relaxing under a shady tree. Love animals? Head to the Kanpur Zoo or Allen Forest Zoo, one of the oldest in India, nestled within a natural forest! Just want to soak up scenic views? Pack a picnic basket and head to Moti Jheel, a picturesque rectangular water reservoir where you can rent a paddleboat and enjoy a relaxing afternoon surrounded by nature. And if you’re up for some thrills, head to the Blue World Theme Park, one of the largest theme parks in North India.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanpur's food scene is a unique blend of rich flavours and down-to-earth goodness. The city’s a haven for street food lovers. Its streets are lined with chaat shops, tempting you with pani puri, aloo tikki, swal papdi, and other lip-smacking dishes. For legendary chaat experiences, head to areas like Bada Chauraha or Naveen Market, or you can explore some iconic eateries like Brijwasi Chaat, Hanuman Chaat Bhandaar and Ram Swaroop Gupta Chaat. Got a sweet tooth? Don't miss the dry fruit laddoos and the legendary Badnaam Kulfi (ice cream) at Thaggu ke Laddoo. Feeling like a king (or queen)? Treat yourself to a proper meal of luchi and sabzi (Kanpur's favourite breakfast combo), the flavourful Sultani Dal, biryani, or melt-in-your-mouth shami kebabs. Looking for something a little more modern? Head to the Mall Road, Naveen Market, Civil Lines, Sarvodaya Nagar, or Swaroop Nagar for a range of multi-cuisine restaurants. Whatever you eat, don’t forget to end your food adventure with a perfectly wrapped paan (betel leaf). It's the city's sweet (or savoury) punctuation mark!",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Kanpur isn’t just transactional, it’s a unique experience with old markets and maze-like vibrant streets offering everything from top-notch leather goods to unique local handicrafts. Leather lovers will find themselves in heaven with Kanpur's famous high-quality belts, shoes, wallets, and bags. Be sure to check out the local markets for stunning handicrafts and artefacts that will be conversation starters back home. Hit Naveen Market, the city's biggest shopping hub, for its cotton clothes and leather goods. Sadar Bazaar beckons treasure hunters with its unique, rustic artefacts, while Sisamau, one of Kanpur's oldest markets, is always buzzing with activity. Feeling fancy? Mall Road is Kanpur's upmarket shopping destination, while budget travellers can shop till they drop in Beconganj. Happy shopping!",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just a short 35 km south lies a hidden gem – the Bhitargaon Temple. This ancient wonder, dating back to the 6th century, is the oldest surviving brick and terracotta Hindu shrine with a roof and a towering shikhara (spire). Marvel at its architectural beauty and step back in time. Your journey doesn't end there! A few kilometres further, you'll find the Jagannath Mandir , a temple dedicated to Lord Jagannath, in Behta. Legend whispers that raindrops begin to appear on the roof of this temple seven days before actual rain – a fascinating phenomenon! For a taste of a different city, Lucknow, the charming capital of Uttar Pradesh , awaits with its Nawabi charm, artistic soul, and mouth-watering kebabs!",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The feel of Kanpur is different, and it's calling your name! The best time to visit Kanpur is from October to March when the weather is delightful and perfect for sightseeing and soaking up the city's vibrant energy. So, ditch the usual itinerary, pack your bags, and come for a ‘chaukas’ (awesome) experience!",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The oldest inhabited place in the region is Jajmau , an industrial suburb of Kanpur.",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dive into the shopping paradise of Kanpur",
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kanpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/kanpur",
+        "retrieved_at": "2026-09-22T18:36:47.992667+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

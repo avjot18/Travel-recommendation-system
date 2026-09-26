@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-KARNATAKA-GOKARNA",
+  "destination_name": "Gokarna",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dabolim Airport (GOI), Goa Hubballi Airport (HBX), Hubballi Mangalore International Airport (IXE), Mangalore"
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gokarna Road Railway Station (GOK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 16.3,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangalore International Airport (IXE), Mangalore",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spectacularly situated by the Arabian Sea, Gokarna is a favourite with visitors in search of sun, sea and sand. A charming little town with two principal streets and clusters of traditional tile-roofed brick houses, Gokarna is also an important centre of Sanskrit learning. The Mahabaleshvara Temple, at the western end of the main street, was destroyed by the Portuguese in 1714 and then rebuilt later in the 18th century. In the sanctuary is a stone linga, encased in brass, placed on a coiled stone serpent. The floor of the hall in front has an intricate engraving of a giant tortoise. Shiva’s birthday (Feb/ Mar) is celebrated here with great fanfare. The two great temple chariots lead a procession through the town’s narrow streets, while priests chant hymns in praise of Shiva. Long stretches of beautiful, unspoiled beaches extend along the western coast from Gokarna to Karwar, a seaside town 60 km (37 miles) to the north. South of Gokarna are the Half Moon and Paradise beaches, while nearer Karwar are the lovely Binaga and Araga beaches. The gently curving bays, fringed by palms, are still occupied by small fishing villages where life revolves around the sea and the daily catch. Tourism remains unknown and only a few simple shacks offer basic food and shelter.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But Gokarna’s allure is not confined to its spiritual heritage. Fringed by palm-lined beaches—Om Beach, Kudle Beach , Half Moon Beach, and Paradise Beach—each beach has its vibe and charm. Om Beach, named so for its Om-shaped curve, is a popular spot for surfing, banana boat rides, and enjoying the sunset. Kudle Beach, a short trek away, is perfect for those seeking a balance between solitude and moderate hustle, with shacks serving fresh seafood and playing soft music that complements the sound of waves. Half Moon and Paradise Beaches, more secluded and accessible via a hike or a boat ride, offer pristine sands and clear waters, making them ideal for a quiet day under the sun or a camping night under the stars. The trek connecting these beaches unfolds stunning vistas and secluded spots, where the natural beauty of Gokarna is on full display. Beyond its beaches and temples, Gokarna's countryside is woven with enchanting walks through coconut groves, paddy fields and small villages that showcase the Konkani way of life. The local cuisine is a feast of coastal flavours, dominated by seafood, coconut and rice, offering a culinary journey that is both simple and nuanced. Gokarna also serves as a gateway to explore lesser-known gems of the Western Ghats. Trips to nearby waterfalls, such as Vibhuti Falls, and Yana Caves for their unusual rock formations, offer adventures that blend well with Gokarna's tranquil vibes.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maha Shivaratri in Gokarna offers a deeply spiritual and visually captivating experience, setting it apart from celebrations elsewhere. Celebrated in late February or early March, depending on the lunar calendar, Maha Shivaratri here draws devotees from across India and even abroad. The focal point of the festival in Gokarna is the ancient Mahabaleshwar Temple, home to a sacred Atmalinga of Lord Shiva. During Maha Shivaratri, the temple premises buzz with religious fervour as thousands gather for prayers and rituals and to witness the special pujas. Devotees engage in the ritualistic bathing of the Shiva lingam with milk, honey and holy water, surrounded by the fragrant smoke of incense and the vivid colours of flowers and silks. The experience of participating in or even just observing these rituals can be profoundly moving, offering a glimpse into the depth of Hindu spirituality and devotion. Beyond the temple, Gokarna's streets come alive with processions, folk dances, and music. Colourful markets spring up, selling religious artefacts, traditional jewellery and local crafts, making for an excellent exploration and shopping opportunity. Food stalls and eateries offer a chance to indulge in local Kannada cuisine and other Indian delicacies, thereby providing a feast for the senses.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gokarna, a quaint, serene coastal town located in the Indian state of Karnataka, is not only famous for its beautiful beaches and breath-taking landscapes but also for its distinctive cuisine that wonderfully captures the essence of the region's flavours. The cuisine here is predominantly influenced by South Indian culinary traditions, with a generous use of coconut, curry leaves, and spices like mustard seeds, which impart unique flavours to the dishes. Seafood, naturally, takes centre-stage in Gokarna's culinary scene, with fish curry, prawn masala, and grilled fish being perennial favourites among both locals and tourists. Rice forms the staple of most meals served alongside a variety of vegetarian and non-vegetarian curries. For those with a penchant for vegetarian cuisine, Gokarna offers sumptuous options such as dosas, idlis and uttapams, often accompanied by coconut chutney and sambar. The use of jaggery in sweets and desserts adds a delightful twist, with dishes like payasam (a sweet dish made of milk, sugar, and rice) being a must-try. Street food, comprising snacks like bajjis (fried fritters) and bondas (deep-fried snacks made of potato or other vegetables), provides a delicious and quick bite for those exploring the scenic beauty of this coastal paradise. Overall, experiencing the cuisine in Gokarna is as much a part of the journey as its stunning views, offering a taste of the local culture and tradition that is both rich and satisfying.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Renowned for its rustic charm and spiritual essence, Gokarna's rugged and untamed landscapes provide the perfect backdrop for a myriad of adventure activities, with hiking being a premier attraction. The Gokarna Beach Trek, a quintessential hike, encapsulates the essence of adventure in this region. It stretches across five major beaches - Gokarna Beach, Kudle Beach, Om Beach, Half Moon Beach, and Paradise Beach - each offering a unique terrain and scenic beauty characterized by rocky cliffs, sand, and lush greenery. This trek begins at the serene Gokarna Beach, known for its spiritual ambience, and then moves toward the more secluded Kudle Beach, popular among tourists for its calming sunset views and cafes. The journey then leads adventurers to Om Beach, named for its distinctive Om-shaped coastline, where the natural beauty and the opportunity for dolphin sightings captivate one's senses. The trail gets slightly challenging as it proceeds to Half Moon Beach, a smaller and more peaceful alternative, ideal for those looking to escape the crowd. The final leg towards Paradise Beach is a testament to the true adventurer's spirit, involving a bit of rock climbing and navigating through narrow paths, ultimately rewarding hikers with a pristine, almost untouched beach. Beyond hiking, Gokarna's clear waters and relatively untouched marine life offer an excellent opportunity for water-based adventure activities. Kayaking and paddleboarding are popular, allowing explorers to glide over the serene waters at their own pace, enjoying the coastline from a different perspective. For the more adrenaline-seeking souls, jet skiing offers a high-speed way to traverse the vast sea, providing an exhilarating experience amidst the waves. Additionally, the beaches around Gokarna are gaining recognition for their surfing potential, with Kudle Beach and Om Beach being the most frequented spots by surfing enthusiasts who are looking to catch some waves. Travellers planning to visit Gokarna for Maha Shivaratri should book accommodations well in advance, as the town fills up quickly during the festival season.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Om Beach , named so for its Om-shaped curve.",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Let the natural beauty of Gokarna captivate you",
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gokarna",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/gokarna",
+        "retrieved_at": "2026-09-22T18:36:31.500140+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

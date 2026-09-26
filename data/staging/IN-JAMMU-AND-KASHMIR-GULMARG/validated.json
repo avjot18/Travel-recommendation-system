@@ -1,0 +1,382 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-GULMARG",
+  "destination_name": "Gulmarg",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Srinagar International Airport (SXR), Srinagar"
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jammu Tawi Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -12.4,
+        "maximum_celsius": 6.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -11.1,
+        "maximum_celsius": 7.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -8.4,
+        "maximum_celsius": 11.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": -3.4,
+        "maximum_celsius": 18.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 1.2,
+        "maximum_celsius": 21.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 4.8,
+        "maximum_celsius": 24.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 25.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 7.8,
+        "maximum_celsius": 24.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 22.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": -0.4,
+        "maximum_celsius": 19.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -5.0,
+        "maximum_celsius": 14.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -8.7,
+        "maximum_celsius": 9.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srinagar International Airport (SXR), Srinagar",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulmarg is a place where snow-capped peaks pierce the azure canvas of the sky, where meadows erupt in a riot of wildflowers in summer, and where a crisp mountain breeze carries the thrill of adventure. This scenic hill station, nestled in the Pir Panjal range of the Himalayas, beckons you to leave the ordinary far behind. Transforming with the seasons, Gulmarg offers a breathtaking escape for every soul – a summer paradise bursting with blooms, a winter wonderland for snow enthusiasts, and a historic haven steeped in timeless charm. As you ascend into this paradise in Jammu and Kashmir, an ineffable sense of wonder envelops you. Whether you're a seasoned adventurer seeking heart-pounding thrills or a nature enthusiast yearning for serenity amid stunning landscapes, Gulmarg has something for everyone. So, prepare to be enveloped by the magic of this fantasy land.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulmarg's soul resides in its breathtaking beauty. In summer, the landscape transforms into a scene straight out of a fairytale. Rolling green meadows, carpeted with vibrant wildflowers like edelweiss and lilies, create a mesmerising canvas that has inspired poets and artists for centuries. Breathe in the crisp mountain air as you hike through lush pine forests, their towering sentinels providing a cool and refreshing escape. Witness nature's masterpiece unfold before your eyes as you explore the enchanting Alpathar Lake. Located at the base of the majestic Apharwat peaks, this magnificent lake transforms with the seasons - frozen in winter (earning its nickname The Frozen Lake) and surrounded by vibrant greenery in summer when the snow retreats. At 4,200 meters above sea level, the charismatic Alpathar offers a breathtaking bird's-eye view of the entire valley, inviting you to bask in nature's paradise. If you’re a golf enthusiast, get ready to tee off amidst breathtaking scenery at the Gulmarg Golf Course. Soaring 2,650 meters above sea level, this course isn't just challenging – it's the highest green course in the entire world!",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come winter, Gulmarg undergoes a dramatic transformation. The blanket of pristine snow creates a picture-perfect playground for adventure seekers. Skiers from across the globe descend upon Gulmarg, eager to carve their way down the world-renowned slopes. But Gulmarg caters to more than just skiers. Adrenaline junkies can try their hand at snowboarding, feel the wind whip through their hair on a horseback ride or for the ultimate thrill, embark on a heli-skiing adventure – soaring to the top of a mountain by helicopter before embarking on an unforgettable ski descent. If that's not enough, zip down the slopes on a snow scooter, test your balance on a toboggan, and create memories that will leave you breathless (in a good way!). The story doesn't end there. Gulmarg boasts the title of having the 7 th best slopes for skiing in all of Asia, so whether you're a seasoned veteran or a curious beginner, there's a slope waiting to be conquered (or gracefully tumbled down) here!",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Gulmarg is complete without experiencing the awe-inspiring Gulmarg Gondola. This engineering marvel, holding the title of the second-highest cable car ride in the world, whisks you away on a journey above rolling hills and picturesque valleys. As you ascend, the world seems to shrink below, with mist and clouds creating a mystical, ethereal experience. Miss at your own risk!",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "After a day of exploring or conquering the slopes, indulge in the warmth and comfort of Kashmiri cuisine. Relish the melt-in-your-mouth 'Rogan Josh,' a lamb dish cooked in a rich yoghurt gravy or savour Dum Aloo, a potato-based dish or delight in Yakhni, a traditional Kashmiri dish made with mutton. Other popular dishes you must try are Haak, Gushtaba, Wazwan, Rista, Guchhi Pulao, and Noon Tea among others. And to truly end the day on a high note, sip on a cup of 'Kahwa,' a traditional Kashmiri tea infused with spices – the perfect way to warm up from the inside out after a day in the cool mountain air.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Gulmarg's present is undeniably captivating, its past holds a touch of regal charm as it was once a favoured retreat for royalty. Legend has it that Sultan Yousuf Shah, who ruled Kashmir in the 16 th century, was the first to discover this hidden valley. Entranced by the beauty of the rolling meadows bursting with wildflowers, he christened it Gulmarg. Centuries later, Mughal emperor Jehangir too fell under the spell of Gulmarg's magic, adding his name to the list of those captivated by this enchanting place.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Seeking a moment of peace and reflection amidst the adventure? Gulmarg offers a surprising spiritual haven. Pay your respects at the Ziarat of Baba Reshi, the shrine dedicated to the revered Sufi saint Baba Payam-Din. This sacred site, where the saint spent his days in meditation before his passing in 1480, houses his intricately adorned tomb. Renowned for granting wishes, the Ziarat draws devotees seeking blessings. Explore the charming red-roofed Maharani Temple, a vision of beauty perched atop a small hillock. This temple, said to be the royal temple of the Dogra dynasty, is dedicated to Lord Shiva and Goddess Parvati. Its elevated position allows it to be seen from all corners of Gulmarg, making it a revered landmark. Nestled near the famed Gulmarg Golf Course, you'll find St. Mary's Church, a charming Victorian-era grey stone church, standing tall for over a century. In winter, the sight becomes truly magical as snow gently drapes on its roof, creating a picture-perfect postcard moment.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulmarg's magic extends far beyond its famed slopes! For a taste of tranquillity, look no further than Khilanmarg, a breathtaking valley located just 4 km from Gulmarg's bus stop. Reaching this charming village is easy – walk through the blooms or go for a leisurely pony ride through the valley. Love to fish? Just a short distance from Gulmarg lies Ferozepur Nallah, also known as Shinmahinyu. This mountain stream boasts rainbow trout and stunning scenery - an angler's dream come true! Check out Tangmarg, a delightful town on the way to Gulmarg. Explore the surrounding areas like Zandpal, Drung (don’t miss the Drung waterfall), and Gogaldara, each with its hidden beauty or visit its vibrant markets for local crafts. Head to the glistening Wular Lake, India's largest freshwater lake, where you can boat across its mirror-like surface and be mesmerised by the surrounding landscapes.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek a taste of local culture, look no further than the charming shops lining the main market! Here, you'll find a treasure trove of local handicrafts – from hand-woven carpets to intricate metalwork to decorative linen. For something truly special, pick up a pashmina shawl, a symbol of Kashmiri craftsmanship. Gulmarg also boasts beautiful silk carpets, walnut wood trinkets, and delicate papier-mâché creations. Whether you seek adventure, serenity, or simply a chance to reconnect with nature, the enchanting paradise of Gulmarg awaits!",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulmarg, which translates to ‘meadow of flowers' wasn't always called so. It was once known as ‘Gaurimarg,’ meaning ‘the place of Gauri’ (another name for Lord Shiva's wife, Goddess Parvati).",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gulmarg is a favourite filming location for Bollywood blockbusters like Bobby , Jab Tak Hai Jaan, Yeh Jawaani Hai Deewani, Highway, Haider and many more.",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrilling Adventure Experiences in Gulmarg",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Feast for the Senses in Gulmarg: The Complete Guide to Wazwan",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Plan a Safe Trip to Kashmir: Your Perfect Itinerary Decoded",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Planned Your Summer Holidays Yet? Here's Why You Should Go to Kashmir",
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gulmarg",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/gulmarg",
+        "retrieved_at": "2026-09-22T18:36:53.159259+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

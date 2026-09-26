@@ -1,0 +1,272 @@
+{
+  "destination_id": "IN-KARNATAKA-VIJAYAPURA",
+  "destination_name": "Vijayapura",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Belgavi Airport (IXG), Belgavi Kolhapur Airport (KLH), Kolhapur Pune International Airport (PNQ), Pune"
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vijayapura Railway Station (BJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 11.4,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.7,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.9,
+        "maximum_celsius": 39.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 41.3
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 41.8
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visiting Vijayapura is like stepping into a time machine and zapping yourself back to the days of kings, queens and epic battles. From the moment you arrive, you can't help but feel a sense of awe and wonder at the majestic forts, towering minarets and ornate palaces that dot the landscape. Strolling through the narrow streets and marvelling at the intricate carvings that adorn every surface is an out of the world experience. Everywhere you look, there's a sense of history lingering in the air, whispering tales of bygone eras and legendary rulers. As a visitor, wander through its ancient streets, marvel at its architectural wonders, and immerse yourself in its vibrant culture, as you are transported to the yesteryears of splendour and magnificence. Here the echoes of centuries past resonate with timeless allure, beckoning travellers to embark on a journey of discovery and wonder. Vijayapura, formerly known as Vijayapura, is a city in the Indian state of Karnataka, renowned for its rich history, cultural heritage and architectural marvels. Its history spans over several centuries, marked by the rise and fall of empires, the confluence of diverse cultures and the patronage of art and architecture by successive rulers. It is situated in the northern part of the Karnataka Plateau, about 10 km northwest of the Don River (a tributary of the Krishna River). Vijayapura is famous for its architectural marvels is also an important commercial district in the state of Karnataka.",
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vijayapura history can be traced back to ancient times, with references to the region found in various historical texts and inscriptions. From the late 15th century to the late 17th century. Under the patronage of the Adil Shahi rulers, Vijayapura flourished as a centre of art, culture and architecture. The city witnessed a golden age of building activity, with the construction of magnificent palaces, mosques, mausoleums and fortifications and the city became a melting pot of Hindu, Muslim and Jain cultures. The city's administration changed hands frequently as time passed and came under the control of various successor states before eventually becoming part of the colonial British Empire in the 19th century.",
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the defining features of Vijayapura is its magnificent architecture, characterised by the fusion of Persian, Turkish and indigenous styles. The city is dotted with numerous landmarks that showcase the architectural prowess of its rulers. The Gol Gumbaz , an iconic mausoleum built by Sultan Mohammed Adil Shah, is perhaps the most famous monument in Vijayapura. Its massive dome, spanning 44 meters in diameter, is one of the largest unsupported domes in the world. The structure also houses the tombs of Sultan Mohammed Adil Shah, his wives, and other members of the royal family. Another architectural gem is the Ibrahim Rauza , a mausoleum complex dedicated to Sultan Ibrahim Adil Shah II and his queen. Known for its intricate carvings, elegant domes, and serene ambience, the Ibrahim Rauza is considered a masterpiece of Deccan architecture. Other notable attractions in vijayapura include the Jama Masjid, Malik-e-Maidan (literally, \"Master of the Field\") - one of the largest mediaeval cannons in the world, and the Asar Mahal , a palace built by Mohammed Adil Shah to house a relic of Prophet Muhammad (PBUH).",
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vijayapura's cultural heritage is as diverse as its architectural treasures. The city has been a melting pot of different cultures, religions and traditions, each leaving its indelible mark on its identity. The vibrant bazaars of Vijayapura offer a glimpse into its cultural tapestry, bustling with activity and adorned with colourful wares. Visitors can immerse themselves in the sights, sounds, and flavours of the region, sampling local delicacies, shopping for traditional handicrafts and interacting with the friendly locals.",
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Efforts to preserve and safeguard Vijayapura's cultural heritage are ongoing, with various initiatives aimed at conservation, restoration and promotion of its historical landmarks. Government agencies, heritage organisations, and local communities are working together to ensure that these precious treasures are preserved for future generations to cherish and appreciate. Vijayapura stands as a living testament to the grandeur of India's mediaeval past, a city where history, culture, and heritage converge in a harmonious tapestry. While Vijayapura is primarily known for its historical and architectural heritage, there are some nearby natural attractions that you can explore for their scenic beauty and tranquillity. Some of them are Almatti Dam, Vijayapura District Forest, Kudala Sangama and Krishna Heritage Park. These natural spots offer a refreshing change and an opportunity to experience the natural beauty of Karnataka's countryside.",
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Vijayapura",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/vijayapura",
+        "retrieved_at": "2026-09-22T18:36:32.447076+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

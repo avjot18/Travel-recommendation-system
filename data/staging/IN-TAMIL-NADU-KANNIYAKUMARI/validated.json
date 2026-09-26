@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-TAMIL-NADU-KANNIYAKUMARI",
+  "destination_name": "Kanniyakumari",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thiruvananthapuram International Airport(TRV), Thiruvananthapuram"
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kanniyakumari Railway Station (CAPE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram International Airport(TRV), Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture endless stretches of azure waters merging with the horizon, fiery sunsets painting the sky in hues of orange and pink, and a gentle breeze whispering tales of bygone eras. So kick off your shoes, embrace the laid-back vibe, and get ready for an unforgettable journey at the meeting point of the Arabian Sea, the Bay of Bengal, and the Indian Ocean. Welcome to Kanniyakumari, where India takes its final bow in a spectacular display of nature's grandeur. This southernmost tip of the Indian subcontinent isn't just a destination; it's a sensory feast that'll leave you spellbound. Kanniyakumari, situated at the southernmost tip of the Indian subcontinent, is a mesmerising destination. The place gets its name from the Hindu goddess Devi Kanniyakumari, who is considered to be the sister of Lord Krishna. Kanniyakumari is a special destination in many ways. It is the southernmost tip of the mainland of India. Three major water bodies – the Arabian Sea, Bay of Bengal and the Indian Ocean – converge right here in Kanniyakumari. Such a geographically blessed destination is rare and these features make Kanniyakumari one of the most visited places in India annually. When the Dutch East India Company conquered Portuguese Ceylon from the Portuguese East Indies, the name Kanniyakumari was shortened to Comorin. Eventually, during the British regime in India, the destination began to be called Cape Comorin. Later, the Government of India renamed it as Kanniyakumari. Renowned for its breath-taking sunsets, pristine beaches and spiritual significance, Kanniyakumari offers a captivating experience to every traveller.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari district’s rich history is evident in its architectural monuments. The 16th-century teakwood Padmanabhapuram Palace , a fine example of Taccusastra (the ancient science of carpentry), is proof of the architectural brilliance of the erstwhile kingdom of Travancore. This and the Vattakottai Fort , the last of the coastal forts of Travancore Kingdom, is maintained by Kerala, though they are located in Tamil Nadu and form part of its intangible heritage. One of the city's most iconic attractions is the Vivekananda Rock Memorial , a majestic structure perched atop a rocky island in the midst of the sea. Accessible by ferry, the memorial commemorates the visit of Swami Vivekananda to this sacred spot and offers panoramic views of the surrounding seascape. Another highlight is the Thiruvalluvar Statue , a towering monument dedicated to the renowned Tamil poet and philosopher, Thiruvalluvar. Standing at over 130 feet tall, the statue is a symbol of wisdom and enlightenment, commanding awe and admiration from visitors.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari's coastal landscape is a sight to behold, with its azure waters, golden sands, and rugged cliffs creating a picturesque backdrop for unforgettable experiences. The nearby Kanniyakumari Beach, with its tranquil shores and swaying palms, provides the perfect setting for leisurely walks and serene moments of contemplation. Kannyakumari is the only spot in India from where you can watch the spectacle of the sunset and the moonrise happening simultaneously on Full Moon days. It’s even grander during the day of ‘Chithra Pournami’ when the Sun and the Moon will appear facing each other in the same horizon.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari is steeped in history and culture, with a rich tapestry of traditions and customs that have thrived for centuries. The city's vibrant cultural scene comes to life during festivals such as the Cape Festival, which celebrates the unique heritage of the region with music, dance, and traditional performances. The Bhagavathy Amman Temple, dedicated to the goddess Kanniyakumari, is a revered pilgrimage site that attracts devotees from far and wide. Its intricate architecture and sacred atmosphere make it a must-visit destination for spiritual seekers and cultural enthusiasts alike.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari holds profound spiritual significance for Hindus, who believe that a dip in the waters at the confluence of the seas, cleanses one's sins and bestows blessings. The Kumari Amman Temple , located on the shore, is dedicated to the goddess Kanniyakumari and is believed to be one of the Shakti Peethas or sacred abodes of the goddess. At dawn, visitors can witness the mesmerising spectacle of the sunrise over the horizon, casting a golden glow over the waters and illuminating the landscape in a breath-taking display of colours. Similarly, the sunset at Kanniyakumari is a sight to behold, as the sun dips below the horizon, painting the sky in vivid hues of orange and pink, creating a magical ambience that lingers long after the day has ended.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The tourists literally go berserk on the local delicacies in the hundreds of small and big food centres and restaurants. Apart from the staples dosas and vadas, the kottu (minced fried paratha), appam, paazha sharbat (an unusual mixed fruit juice), sweet avial, paazha bhaaji (ripe banana fritters) and many more local specialties tickle the taste buds. For non-vegetarians, regional delicacies like tapioca with fish and other seafood dishes delight the senses.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One can reach Kanniyakumari by air, the nearest airport being Thiruvananthapuram of the neighbouring state Kerala. From there it takes about three hours by train or bus or taxi. By train, too, the city is very well connected to all major cities in India. Long-distance buses for reaching this city are available from Chennai, Coimbatore, Madurai and Bengaluru (erstwhile Bangalore).",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari is the only place in India where you can witness the confluence of three major bodies of water – the Bay of Bengal, the Arabian Sea, and the Indian Ocean .",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kanniyakumari holds the geographical distinction of being the southernmost point of mainland India .",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every year, during the Cape Festival or other local celebrations, Kanniyakumari hosts a unique event known as the \"Running Coconut\" race. Participants compete to see who can balance a coconut on their head while navigating a series of obstacles, much to the amusement of spectators.",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to see, eat and do in Kanniyakumari",
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage Clear all Show results",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kanniyakumari",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/kanniyakumari",
+        "retrieved_at": "2026-09-22T18:36:45.458823+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

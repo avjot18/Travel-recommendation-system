@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-JHARKHAND-RANCHI",
+  "name": "Ranchi",
+  "state_or_ut": "Jharkhand",
+  "region": null,
+  "description": "Ranchi is an officially listed tourism destination in Jharkhand, India. It is best treated as a nature, waterfalls, wildlife travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "nature",
+    "waterfalls",
+    "wildlife",
+    "culture"
+  ],
+  "best_for": [
+    "waterfalls",
+    "forests",
+    "tribal culture",
+    "weekend trips"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 5.5,
+      "maximum_celsius": 28.3
+    },
+    "february": {
+      "minimum_celsius": 7.8,
+      "maximum_celsius": 32.1
+    },
+    "march": {
+      "minimum_celsius": 12.1,
+      "maximum_celsius": 36.1
+    },
+    "april": {
+      "minimum_celsius": 16.9,
+      "maximum_celsius": 39.8
+    },
+    "may": {
+      "minimum_celsius": 19.0,
+      "maximum_celsius": 41.3
+    },
+    "june": {
+      "minimum_celsius": 20.7,
+      "maximum_celsius": 39.6
+    },
+    "july": {
+      "minimum_celsius": 20.9,
+      "maximum_celsius": 34.1
+    },
+    "august": {
+      "minimum_celsius": 21.1,
+      "maximum_celsius": 32.4
+    },
+    "september": {
+      "minimum_celsius": 19.9,
+      "maximum_celsius": 32.6
+    },
+    "october": {
+      "minimum_celsius": 14.4,
+      "maximum_celsius": 31.8
+    },
+    "november": {
+      "minimum_celsius": 9.8,
+      "maximum_celsius": 29.8
+    },
+    "december": {
+      "minimum_celsius": 5.8,
+      "maximum_celsius": 27.4
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Jharkhand",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Birsa Munda Airport (IXR), Ranchi"
+    ],
+    "railway_station": [
+      "Ranchi Junction Railway Station (RNC)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Jharkhand",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Ranchi",
+      "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

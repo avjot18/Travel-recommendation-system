@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-WEST-BENGAL-KOLKATA",
+  "destination_name": "Kolkata",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Netaji Subhash Chandra Bose Airport (CCU), Kolkata"
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Howrah Railway Station (HWH) Sealdah Railway Station (SDAH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 38.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 37.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.6,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Netaji Subhash Chandra Bose Airport (CCU), Kolkata",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "\"To understand the heart and soul of Kolkata, one must wander its vibrant streets and immerse oneself in its rich tapestry of culture and history.\" - Anonymous As the sun dips below the horizon, casting a warm glow over the bustling streets of Kolkata, you will find yourself swept away by the city's magnetic charm. From its iconic landmarks to its bustling markets and mouthwatering street food, Kolkata is a treasure trove waiting to be discovered. Join us on a journey through the City of Joy as we unravel its many secrets and immerse ourselves in its vibrant spirit. Despite its bustling streets and chaotic traffic, Kolkata exudes a unique charm and warmth that captivates visitors.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture this – the mighty Howrah Bridge standing sentinel over the languid waters of the Hooghly River, its steel girders gleaming in the golden light of dawn. As the city awakens to the sound of vendors hawking their wares and rickshaw pullers weaving through the crowded streets, you will be captivated by the energy and vitality that permeates every corner of Kolkata. This is a city that pulsates with life, where every alleyway tells a story and every corner hides a hidden gem waiting to be discovered.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolkata, the cultural capital of India, is steeped in history and tradition. From its colonial past to its role in the Indian independence movement, the city bears witness to centuries of triumphs and tribulations. As you stroll through the narrow lanes of North Kolkata, you will be transported back in time, where grand colonial mansions stand side by side with ancient temples and bustling bazaars. Don't miss a visit to the iconic Victoria Memorial , a majestic white marble structure that pays homage to the city's colonial heritage, or the sprawling grounds of the Maidan, where locals gather to relax and unwind amidst verdant greenery.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Kolkata is complete without a stroll down Park Street – the city's culinary epicentre and nightlife hub. From fine dining restaurants to hole-in-the-wall eateries serving mouthwatering street food, Park Street offers a gastronomic adventure like no other. Indulge in a hearty meal of biryani, savour delectable sweets, or sip on a refreshing glass of chai at one of the many roadside tea stalls – the options are endless. And as night falls, the street comes alive with the sound of music and laughter as locals and tourists alike dance the night away at the city's legendary nightclubs and bars.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From the iconic Howrah Bridge to the vibrant bustle of New Market, Kolkata is home to numerous famous spots and hidden gems waiting to be discovered. Especially the soulful music of Nobel laureate Rabindranath Tagore, known as Rabindra Sangeet. From the beautiful \"Ekla Cholo Re\" to the captivating \"Amar Shonar Bangla,\" Rabindra Sangeet embodies the essence of Bengal's cultural heritage unlike any other art form. Do not miss the chance to attend a live performance or explore the Rabindra Bharati Museum to learn more about Tagore's life and legacy. Venture into the vast grounds of the Indian Museum to immerse yourself in the city's rich history and heritage, or take a leisurely boat ride along the tranquil waters of the Hooghly River to catch a glimpse of Kolkata's waterfront skyline. To experience authentic Bengali culture, be sure to visit Kumartuli, the city's renowned potters' quarter, where artisans create exquisite clay idols for festivals and celebrations.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Established in 1876, the Indian Coffee House on College Street is a historic institution where intellectuals, artists, and students have gathered for lively discussions and debates over steaming cups of coffee. It remains a cultural landmark and a must-visit for travellers seeking a taste of Kolkata's intellectual legacy.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolkata is deeply connected to the life and legacy of Rabindranath Tagore, the Nobel laureate poet, writer, and philosopher . Travellers can visit Tagore's ancestral home, Jorasanko Thakur Bari, which has been transformed into a museum dedicated to his life and works.",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolkata - Cultural Capital of Incredible India",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Thrilling adventure and outdoor activities in and around Kolkata",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolkata, a destination I’ve never been able to write about",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food guide - A culinary journey through Kolkata’s best restaurants",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Winter delicacies that you must try in Kolkata",
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kolkata",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kolkata",
+        "retrieved_at": "2026-09-22T18:36:51.572515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

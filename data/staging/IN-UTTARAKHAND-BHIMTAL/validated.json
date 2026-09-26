@@ -1,0 +1,154 @@
+{
+  "destination_id": "IN-UTTARAKHAND-BHIMTAL",
+  "destination_name": "Bhimtal",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Pantnagar Airport (PGH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kathgodam railway station (KGM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Close your eyes and picture a place where mythology whispers through pine forests and history ripples across crystal waters. That's Bhimtal, tucked away in the Kumaon hills of Uttarakhand. Around 24 kilometres from Nainital, this serene lake town boasts a pristine lake that is also its namesake. According to legend, it is believed that Bhimtal Lake was created by the mighty Bhima of the Indian epic Mahabharata. As you wander its shores, colonial-era bungalows and traditional Kumaoni homes cascade down the surrounding slopes like scattered gems. But don't let the tranquil surface fool you. Beneath Bhimtal's peaceful exterior lies diverse experiences waiting to unfold.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come, let's explore this beautiful town where time moves at its own gentle pace, marked not by clock hands but by the changing colours of the seasons.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While the main lake might be Bhimtal's crown jewel, the town holds several treasures that are waiting for your discovery. Start your exploration with Kamal Tal, a mesmerising sight where hundreds of lotus blooms create nature's own artwork on the water's surface. If you seek spiritual solace, head to the sacred Nal Damyanti Tal. The well-maintained walking trails here offer you a perfect excuse to lose yourself in nature's embrace.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And when you're ready to explore the region's rich cultural heritage, make your way to the Folk Culture Museum. Since 1983, this cultural haven (also known as Lok Sanskriti Sangrahalaya) has been safeguarding the soul of Uttarakhand within its walls. Step inside, and you'll find yourself surrounded by exquisite wooden antiques, traditional paintings, and artefacts that whisper stories of the land's vibrant past.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ready to get your adrenaline pumping? Bhimtal's landscape is your playground for different adventurous activities. Lace up your hiking boots and take on the invigorating trek to Hidimba Parvat, where panoramic views of the Kumaon Hills await you. For an extra treat, venture to the nearby ridge point, where you can catch glimpses of the mystical Sattal Lake peeking through the mountains.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Looking for an escape into the wild? Just 30 minutes away, the village of Padampuri beckons with its pristine camping grounds. Here, in the embrace of dense forests and the Kala River, you can spend nights under star-studded skies. Speaking of stars, don't miss the Stargate Observatory, where you can journey through the cosmos with their fascinating astronomy shows and workshops.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Back at the lake, glide across emerald waters in a boat, drinking in views of mist-wrapped hills and verdant shores. And for the ultimate rush? Take to the skies with a paragliding session and soar like an eagle, with the magnificent valley spreading beneath you like a living map.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture yourself here in any month of the year, and Bhimtal will surprise you with its ever-changing charm. As spring unfolds, this lake town invites you to enjoy lakeside picnics and pleasant nature walks. Come summer, and you'll enjoy pleasant temperatures, ideal for your family getaway and summer vacations. The monsoons transform Bhimtal into a magical realm as mountain mists cover the lake, and the surrounding hills don an emerald cloak.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But perhaps during autumn and winter, Bhimtal reveals its most captivating secrets. October offers clear skies and crisp air, ideal for serene sunrise boat rides. From November to February, the lake becomes a sanctuary for migratory birds. Bundle up and join fellow bird enthusiasts to spot stunning migratory birds gliding over the shimmering waters.",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you seek peace, adventure, or a journey through history and culture, Bhimtal welcomes you with open arms. Here, every ripple in the lake holds a story, every trail leads to a hidden wonder, and every season paints a new masterpiece. So, come and lose yourself in the magic of Bhimtal!",
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bhimtal",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/bhimtal",
+        "retrieved_at": "2026-09-22T18:36:49.097982+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

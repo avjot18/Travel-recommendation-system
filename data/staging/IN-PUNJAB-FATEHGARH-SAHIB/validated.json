@@ -1,0 +1,383 @@
+{
+  "destination_id": "IN-PUNJAB-FATEHGARH-SAHIB",
+  "destination_name": "Fatehgarh Sahib",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chandigarh International Airport (IXC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Sirhind Junction (SIRH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Fatehgarh Sahib is a place where faith, sacrifice, and history converge with quiet dignity. Established as a district on Baisakhi in 1992, the town derives its name from Sahibzada Fateh Singh, the younger son of Guru Gobind Singh Ji. Revered as the site of martyrdom of Sahibzada Fateh Singh and Sahibzada Zorawar Singh, Fatehgarh Sahib holds an unmatched place in Sikh consciousness. The town carries a spiritual atmosphere, shaped by centuries of remembrance, prayer, and reflection. Pilgrims arrive here to honour courage rooted in conviction and to connect with values that transcend time. Beyond its sacred legacy, Fatehgarh Sahib also reveals layers of Punjab’s past through archaeological sites and Mughal-era remnants. Surrounded by fertile countryside and closely linked to historic towns, it offers travellers a meaningful journey into Punjab’s spiritual heart and historical depth.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Fatehgarh Sahib lies Gurdwara Fatehgarh Sahib , built in memory of Sahibzada Fateh Singh, Sahibzada Zorawar Singh, and Mata Gujri Ji, and revered as the focal point of pilgrimage in the town. Nearby, Gurdwara Burj Mata Gujri commemorates as the place where Mata Gujri Ji and the young Sahibzadas were confined, while Gurdwara Bhora Sahib and Gurdwara Shahid Ganj together form a sacred circuit that traces the final days of this historic sacrifice. Beyond its Sikh heritage, the region reflects a broader historical narrative through Aam Khas Bagh , a Mughal-era highway inn once used by emperors including Shah Jahan, known for its Sheesh Mahal, and Hamam. Adding further depth is Sanghol , an important archaeological site near Fatehgarh Sahib, where relics of the Harappan civilisation, Buddhist stupas, and ancient sculptures reveal the region’s significance across centuries. Together, these sites create a journey that moves seamlessly between faith, empire, and antiquity.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chandigarh : Located about 45 km from Fatehgarh Sahib, Chandigarh offers a striking contrast to the town’s spiritual calm. Designed by architect Le Corbusier, the city is known for its orderly layout, modernist architecture, and abundant green spaces. Key attractions include the Rock Garden, an imaginative open-air installation created from recycled materials, and Sukhna Lake, a popular spot for leisurely walks and boating. Chandigarh also serves as a cultural hub, eateries and well-planned markets that reflect a contemporary urban lifestyle. Its clean streets and relaxed pace make it an easy and refreshing addition to a Fatehgarh Sahib itinerary.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana: Approximately 50 km away, Ludhiana represents Punjab’s industrious spirit and urban energy. Known as the industrial hub of the state, the city also offers cultural and historical experiences. Visitors can explore museums that trace Punjab’s rural and folk traditions, stroll through lively bazaars, or sample the region’s celebrated Punjabi cuisine. Ludhiana’s blend of commerce, culture, and food makes it an engaging stop for travellers looking to experience modern Punjab alongside its traditional roots.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Fatehgarh Sahib is from October to March , when the weather remains pleasant for temple visits and sightseeing. December is especially significant due to the Shaheedi Jor Mela , though travellers should expect large crowds during this period.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Chandigarh International Airport (IXC) , located about 50 km from Fatehgarh Sahib. Taxis and buses are readily available from the airport.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Sirhind Junction (SIRH) is the nearest railway station, approximately 5 km from Fatehgarh Sahib.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Fatehgarh Sahib is around 250 km from Delhi and is accessible via National Highway 1 through Sirhind and Mandi Gobindgarh.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gurdwara Fatehgarh Sahib stands at the site where Sahibzada Fateh Singh and Sahibzada Zorawar Singh were martyred in 1705 for refusing to renounce their faith, making it one of the most sacred Sikh pilgrimage sites.",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Jalandhar’s vibrant markets",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Fatehgarh Sahib",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fatehgarh-sahib",
+        "retrieved_at": "2026-09-22T18:36:40.912914+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

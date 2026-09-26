@@ -1,0 +1,443 @@
+{
+  "destination_id": "IN-NAGALAND-KOHIMA",
+  "destination_name": "Kohima",
+  "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dimapur Airport (DMU), Dimapur"
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dimapur Railway Station (DMV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.0,
+        "maximum_celsius": 18.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 4.3,
+        "maximum_celsius": 22.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 7.5,
+        "maximum_celsius": 27.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 9.7,
+        "maximum_celsius": 28.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 15.1,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 14.5,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 10.0,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 6.4,
+        "maximum_celsius": 25.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.2,
+        "maximum_celsius": 20.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unfurl a map of India and trace your finger along the eastern edge. In the verdant embrace of the Eastern Himalayas, you'll find Kohima, the capital city of Nagaland. Imagine a place where emerald valleys sing the tales of the past, where history etches itself onto weathered monuments, and the air thrums with the echoes of a valiant past. This is Kohima, a captivating harmony where nature's beautiful mosaic synchronises with the enduring spirit of the Naga tribes. Here, ancient traditions resonate with modern life, and every encounter unveils a captivating story waiting to be discovered.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima's narrative is intricately woven with the saga of World War II. The city witnessed one of the fiercest battles fought on Indian soil – a battle whose memory lingers in the stoic presence of the Kohima War Cemetery . This memorial, built upon the very ground that once housed the British Deputy Commissioner's bungalow, serves as a place of solemn remembrance. Each meticulously maintained gravestone, a silent testament to sacrifice, narrates tales of over 1,400 fallen British, Indian, and Allied soldiers.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima serves as a gateway to Nagaland's natural wilderness. Stepping beyond the city limits, you enter a land teeming with life. The Intanki Wildlife Sanctuary, sprawling majestically over 200 square kilometres, is a major attraction for nature enthusiasts. Here, in midst of the emerald expanse of the pristine wilderness, thrives a diverse range of flora and fauna. Keep your eyes peeled for the elusive Golden Langur, a magnificent primate known for its coat of shimmering gold, as it swings through the dense canopy of trees. For birdwatchers the Pulie Badze Wildlife Sanctuary , which is home to an amazing assemblage of avian species, is a paradise.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every December, Kohima transforms into a hub of cultural celebration with the internationally acclaimed Hornbill Festival . This isn't just an event; it's a cultural explosion that brings the rich tapestry of Naga heritage to life in a dazzling display. Held at the Kisama Heritage Village, the festival is a visual and auditory feast, showcasing traditional dances like the energetic 'Naga King's Dance' and the graceful 'Hornbill Dance.' The air is filled with the pulsating rhythms of indigenous instruments, while skilled artisans showcase their mastery in creating intricate crafts and textiles. Visitors can tantalize their taste buds with the region's diverse culinary offerings, from smoked meats and flavourful local brews to delectable rice dishes. The Hornbill Festival is a melting pot of traditions, a platform where the past meets the present, and a celebration of the enduring spirit of the Naga people.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled near Kohima, Khonoma's past echoes with the legacy of the \"green warriors.\" The Angami Heritage Museum unveils relics of headhunting, a bygone tradition. Today, peace reigns supreme. Lush trails snake through hills, each bend revealing breathtaking vistas. Witness the rhythmic clack of the backstrap loom as skilled Angami artisans weave intricate designs. Experience their legendary warmth through homestays, where evenings are spent under a canopy of stars.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dominating the Kohima skyline is the Mary Help of Christians Cathedral, a silent witness to the city's architectural and spiritual magnificence. This unique structure, funded in part by the Japanese who played a significant role in its establishment, stands as a symbol of unity and faith. Consecrated in 1991, the cathedral serves as the epicentre of Catholic faith in Nagaland. Its design is a blend of modern architectural elements seamlessly integrated with traditional Naga motifs. As you step inside, the soaring arches and stained-glass windows bathed in sunlight create an atmosphere of serenity.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima's rich history extends beyond the World War II battlefields. Delve deeper into the past at the Nagaland State Museum , where artefacts tell the tales of the Naga people's fascinating story through textiles, tribal weapons, and everyday objects. Explore the Zoological Museum, housing a captivating collection of regional flora and fauna, bringing the wonders of the natural world to life. You can delve further into the region's history by visiting the Garrison Cemetery, the final resting place for soldiers who served in the British Indian Army, or the Naga War Memorial, commemorating the sacrifices of Naga warriors in various conflicts.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For adventure seekers, Kohima offers some of the most exhilarating treks in Northeast India. The mighty Japfu Peak, the second-highest in Nagaland, allures with its rugged terrain and the promise of breathtaking panoramic vistas. For a more serene experience you may go to the Dzukou Valley , also known as the Valley of Flowers. It transforms into a kaleidoscope of colours during spring with seasonal blooms – lilies, orchids, and rhododendrons –offering a picture-perfect escape unlike any other.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima's vibrant spirit extends far beyond the famed Hornbill Festival. Throughout the year, the city pulsates with the rhythm of diverse Naga festivals, each offering a unique window into the world of tribal customs and traditions. Witness the Angami tribe's Sekrenyi, a purification ritual seeking good fortune, in February. Join the joyous celebration of the spring harvest with the Rengma Nagas during their Tseminyu Festival in April. May brings the Ngaju Festival of the Pochury Nagas, expressing gratitude for prosperity. In August, experience the Lee-metsi of the Ao Nagas, a celebration marking the end of sowing. Finally, November ushers in the Zeliang Naga's Lui-Ngai-Ni festival, a thanksgiving ceremony for the earth's bounty. Each festival offers a glimpse into the diverse customs and traditions that enrich Kohima's cultural tapestry.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No exploration of a culture is complete without indulging in its culinary delights. Kohima's cuisine is a blend of fresh, local ingredients and traditional cooking methods. Sample the Naga Pork with Bamboo Shoot, a flavourful dish where smoky pork mingles with the subtle sweetness of bamboo shoots. For a vegetarian option, try the Alua Curry, a hearty lentil stew simmered with local vegetables for a comforting and delicious meal. Don't miss the Axone, a fermented soybean dish, a staple in Naga cuisine with a unique taste and aroma. Wash it all down with a cup of local rice beer, a refreshing end to your culinary exploration.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima serves as a base for exploring nearby villages like Mokokchung and Wokha, each boasting unique tribal cultures and breathtaking landscapes. Observe the daily life of the villagers, their traditional weaving techniques on backstrap looms, and learn about their rich heritage passed down through generations. Nagaland is renowned for its handloom and handicraft scene. Explore the local markets and shops to discover a treasure trove of handwoven textiles adorned with intricate motifs, beautiful beadwork jewellery, and wood carvings that capture the essence of the Naga spirit.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kohima is more than just a city; it's a symphony where history hums, nature vibrates with emerald hues, and culture takes centre stage. With its scenic landscapes, rich past, vibrant festivals, and warm people, Kohima invites travellers to experience a unique blend of tranquillity and cultural immersion. Here every visitor finds a piece of history waiting to be unearthed, a stretch of untamed nature to explore, a taste bud-tantalizing culinary experience to nourish the soul, and a story waiting to be written. So, embark on your own Kohima adventure, where unforgettable experiences are waiting for you.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pulie Badze Wildlife Sanctuary is a vital conservation site dedicated to conserving the unique flora and fauna found within this region.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Khonoma near Kohima , once a centre of headhunting, has transformed into a centre of attraction for nature lovers and a symbol of peace",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hornbill Festival is named after the hornbill, a large and colourful forest bird which is displayed in the folklore of most of the state's ethnic groups.",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - Traditional Naga Dishes You Must Try In Kohima",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the serenity of nature in Kohima",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dzukou Valley Nagaland- Guide to hidden valley",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a culinary adventure in Kohima",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience Kohima: A paradise for adventurers",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace wellness in the tranquil landscapes of Kohima",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lights, action and unforgettable entertainment in Kohima",
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kohima",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/kohima",
+        "retrieved_at": "2026-09-22T18:36:39.815478+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

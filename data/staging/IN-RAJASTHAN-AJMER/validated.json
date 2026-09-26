@@ -1,0 +1,443 @@
+{
+  "destination_id": "IN-RAJASTHAN-AJMER",
+  "destination_name": "Ajmer",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI), Jaipur Indira Gandhi International Airport (DEL), Delhi Kishangarh Airport (KOH), Kishangarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ajmer Junction Railway Station (AII)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.0,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 38.0
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 41.7
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 43.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 43.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.6,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.2,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur International Airport (JAI), Jaipur",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated among the Aravalli ranges in Rajasthan, Ajmer is more than just a city—it's a vibrant blend of religions, communities, and cultures, epitomising the diversity of Indian heritage.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located 130 km southwest of Jaipur and a mere 14 km from the sacred town of Pushkar, Ajmer invites you to explore the spiritual essence of Rajasthan. The city boasts architectural wonders, meticulously crafted with devotion and intricate artistry, showcasing its profound spiritual legacy. Ajmer is best known for the Ajmer Sharif Dargah, one of India's most revered Muslim shrines and a prominent landmark. This shrine of the Sufi saint Moinuddin Chishti draws millions of pilgrims from all faiths every year, making it a must-visit destination.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city gets its name from ‘Ajay Meru,’ which means ‘invincible hill.’ The erstwhile seat of the Chauhan kings, it is speckled with grand forts and a cultural depth that can be seen in its arts and crafts. Wander through the ancient ramparts, which bear witness to the city's rich legacy and strategic significance. Step back in time and delve into its fascinating history through engrossing museums.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you explore the city, pause and soak in the picturesque backdrop of the rugged Aravalli hills and serene lakes. With its blend of religious sanctuaries, historical landmarks, and spectacular landscapes, Ajmer invites you to uncover the fascinating interplay of spirituality, history, natural beauty and cultural diversity.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With its serene and spiritual energy, Ajmer is sure to uplift your spirit and envelop you in a sense of calm. At the heart of Ajmer lies the revered Ajmer Sharif Dargah . Enshrining Khwaja Moinuddin Chishti, the Sufi saint from Persia, this sacred site invites you to step through its massive silver doors adorned with intricate carvings. Once inside, you’ll find yourself in a world of peace and tranquillity. While the sacred shrine is thronged by devotees year-round, a sea of people arrives to pay homage during Ramadan and the Urs festival, which commemorates the saint's death anniversary.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ajmer is also a major centre for Jainism, home to the magnificent Soniji ki Nasiyan temple. This architectural and cultural splendour will captivate you, especially the first floor, known as the Swarna Nagri (City of Gold) hall, which features awe-inspiring gold-plated replicas depicting significant Jain figures. Your visit to Ajmer also opens the gateway to the holy town of Pushkar, a major Hindu pilgrimage destination known for the sacred Pushkar Lake and the famous Brahma Temple, one of the few temples dedicated to Lord Brahma in India.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come experience the magic of Pushkar Mela, also known as the Pushkar Camel Fair, a week-long extravaganza held in the town of Pushkar every year. Famous for being one of the world's largest cattle fairs, the festival showcases a colourful display of thousands of camels, cattle, and horses. Yet, it's not just a cattle trading event but a grand cultural and spiritual celebration, drawing tourists from all around the world. Enjoy an array of activities, including camel and horse races, cultural performances, magic shows, even the longest moustache competition, and a bridal competition. It provides an excellent opportunity for you to find authentic local handicraft at the multitude of stalls, while experiencing the grandeur of the fair.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Ajmer, you will find an abundance of history and heritage. Explore the imposing Taragarh Fort, an architectural marvel dating to the 14th century. You will be fascinated by the intricate carvings in its array of heavily decorated rooms and the crisscross network of tunnels used as a hideout during enemy attacks. Don't miss the sweeping panorama and stunning sunset views from Rani Mahal inside the fort.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Marvel at the magnificence of the Prithviraj Smarak dedicated to the Rajput warrior king of the Chauhan dynasty. The black marble statue of Samrat Prithviraj Chauhan, mounted on a majestic black horse and set on a hilltop against the stunning backdrop of the Aravalli Hills, adds to the grandeur of the place. Admire the stunning Akbar Palace (or Akbari Fort), an architectural masterpiece with impressive stone walls that were almost impregnable. The palace is notable for the historic meeting in 1616 between Mughal Emperor Jahangir and Sir Thomas Roe. A few centuries later, Ajmer became the only region in Rajputana directly governed by the British East India Company when it was officially handed over to them. Delve into the historical treasures of Ajmer at the Ajmer Government Museum. Housed within the Akbari Fort, it boasts an impressive collection of historical artefacts, sculptures, miniature paintings, and more.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready to be amazed by the Adhai Din Ka Jhonpra, a unique blend of history and architectural brilliance. Originally built as a Sanskrit college, this iconic structure was later transformed into a mosque by Sultan Ghori in the 12th century. To soak in the city's culture, wander through the winding streets of the old city and discover ancient havelis and markets. With its rich cultural heritage and awe-inspiring landmarks, Ajmer is a destination that will take you on a journey through time!",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you're looking for a thrilling adventure, look no further than the exciting camel safari and hot air balloon experiences on offer at Pushkar. Take a ride on the back of a majestic camel and explore the rugged beauty of the Thar Desert. Discover remote villages, meet friendly locals, and witness cultural performances on the sand dunes. Soar high above the desert in a hot air balloon and enjoy breathtaking views of the stunning landscape.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While in Ajmer, you must experience the ecstasy of the world-famous qawwalis of Ajmer. Watch the amazing devotional renderings by qawwals (singers) as they sing praises of Allah inside the Ajmer Sharif Dargah hall, known as Mehfil-e-Sama. Experience the beauty of exquisite miniature paintings, a must-buy in Ajmer. Discover the uniqueness of Kishangarh paintings, a distinct style that emerged in the 18th century in the princely state of Kishangarh. These paintings boast fine brush strokes and accentuated facial features, bringing to life the legends and historical periods they depict. Admire the exquisite leather handicrafts by local artisans who specialise in crafting leather chairs, wallets, handbags, and juttis, which are intricately embroidered with kashida handwork.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take a trip to Tilonia village, known for designer leather products, including handbags, purses, belts, stools, and collapsible chairs with stunning graphic embroideries. And for a one-of-a-kind craft, don’t miss the beauty of Phad, a type of scroll painting that narrates elaborate legends of gods – a 700-year-old legacy that has been passed down over generations within a single family in Shahpura. Created as mobile temples, these traditional paintings were carried by priest-singers of the Rabari tribe, who would sing and perform stories of their local deities.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Ajmer, you will find an abundance of colourful bazaars filled with traditional handicrafts. Discover exquisite Rajasthani jewellery, leather crafts, and textiles at the Dargah Bazaar, Naya Bazaar, and Nala. Shopping in Ajmer is not just about buying souvenirs but also about immersing oneself in the local culture and tradition.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst the bustle of the city, Ajmer is also known for its natural beauty. Enjoy the quietude of its two stunning artificial lakes. Ana Sagar Lake , built in the 12th century, is surrounded by the Daulat Bagh Gardens and the Khobra Behroon temple, making it a popular spot for tourists to visit. Foy Sagar Lake, on the other hand, was constructed in the 19th century to provide famine relief and offers panoramic views of the Aravalli range. Both are popular picnic spots where you can enjoy boating and water scooter rides. Additionally, Durga Bagh, a charming garden dating back to the Mughal eras, offers a serene environment for visitors to relax and take in the beauty of the surrounding nature. Ajmer also boasts a rich diversity of flora and fauna. Explore the enchanting Todgarh Raoli Wildlife Sanctuary, covering a vast area of 500 square kilometres of tropical deciduous forests and grasslands. Get ready to witness a stunning range of exotic wildlife, including majestic leopards, wild boars, chinkaras, langurs, sloth bears and Indian wolves. With over 100 bird species, bird watchers are in for a treat!",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As cultures mingle in the city, so does the cuisine. Enjoy traditional Rajasthani food along with cuisine influenced by Mughal culture here. One of the most popular street foods is the Kadhi-Kachori, crispy, deep-fried kachoris that are filled with a spicy mixture of lentils and served with a tangy and flavourful yoghurt-based kadhi. Then there is the famous Sohan Halwa, an irresistible, melt-in-the-mouth sweet treat. The exotic Mughal-influenced Biryani is a mouth-watering delicacy of Ajmer, prepared with aromatic rice, spices, and meat. Wash everything down with a chilled glass of Rabdi Lassi, a sweet curd drink. Some popular markets or areas you can explore for your culinary adventure are Naya Bazaar, Dargah Bazaar, Jaipur Road and more. Ajmer offers an amazing culinary experience that every food lover must explore.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready to be enchanted by Ajmer's unique blend of history, spirituality, and culture. For the perfect getaway, plan your visit between October and February to experience the city's charm in its full glory.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Soniji ki Nasiyan temple boasts an incredible display of gold-plated replicas depicting Ayodhya and Mt. Sumeru, a masterpiece that took 25 years to complete!",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Ajmer Sharif Dargah has a gold-plated tomb of Khwaja Moinuddin Chishti guarded by a silver railing and a marble screen.",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Phenomenal Things To See In Ajmer, Rajasthan",
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ajmer",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+        "retrieved_at": "2026-09-22T18:36:42.453947+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-SHIMLA",
+  "destination_name": "Shimla",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Shimla Airport(SLV) ,Shimla Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Shimla Railway Station (SML)"
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -2.0,
+        "maximum_celsius": 17.5
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -0.5,
+        "maximum_celsius": 18.4
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 2.1,
+        "maximum_celsius": 21.9
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 6.2,
+        "maximum_celsius": 26.0
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 9.1,
+        "maximum_celsius": 28.8
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 14.5,
+        "maximum_celsius": 26.2
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 25.4
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 25.5
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 24.1
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 20.8
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 1.1,
+        "maximum_celsius": 18.5
+      },
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to the delightful hill resort of Shimla, fondly known as the ‘Queen of the Hills.’ Surrounded by the mighty Himalayas, this picturesque destination is renowned for its stunning natural beauty, pleasant weather, awe-inspiring shrines and colonial architecture. From panoramic views of snow-peaked mountains to historic landmarks and charming markets, this town has it all. Discover the allure of Shimla, once the summer capital of British India, where history and modernity converge. Bursting with energy today, the town still retains its colonial charm with grand old buildings. Explore iconic landmarks that tell the story of pivotal moments in India’s history. Enjoy cultural events at its historic theatre and art complex. Discover the spiritual energy at ancient temples and legendary churches. Visit mesmerising museums to journey into the rich history of the region and pay tribute to the valour of the Indian Army. Wander through the Mall, the centre of town bustling with shops and eateries, or unwind at the Ridge, where festivals, live music performances and celebrations take place all year long against a backdrop of Himalayan peaks. Take a Heritage Walk for an immersive experience of the history of this fascinating town. Or enjoy a Toy Train ride on the Shimla-Kalka Railway, a UNESCO World Heritage Site, offering a scenic slow-paced ride through the hills as you take in the beautiful scenery and fresh mountain air. Come, embrace the magic of Shimla.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover a magnificent blend of colonial and traditional Himachali culture in diverse museums, cultural complexes, and heritage walks. Browse through the Himachal State Museum & Library, a treasure chest of the region’s history. Marvel at its impressive collection of rare books, manuscripts, and historical documents along with traditional Himachali artefacts like sculptures, ancient coins, pottery, miniature paintings, textiles, and a popular doll gallery. Head to the 120-year-old Gaiety Heritage Cultural Complex , a stunning five-storey Victorian style building with immense historical and cultural significance. Visit the Viceregal Lodge and Botanical Garden, a delightful mix of nature's beauty, architectural splendour, and historical significance. Admire the Lodge's beautiful blend of British and Indian architectural styles, with its grand façade, intricate carvings and a beautiful central tower. Roam through the peaceful and picturesque Botanical Garden spread across 22 acres, boasting over 1,000 species of flora and fauna. Discover the commanding beauty of Gorton Castle , with stunning Gothic-style arches, intricate carvings and tall towers that dominate the skyline. Spread over a massive 40,000 square feet, it features 125 luxurious rooms with beautiful stained-glass windows and ornate wooden staircases. Or admire that grey-stoned Victorian architecture of The Indian Institute of Advanced Studies on Observatory Hill. The historic building served as the Viceroy residence, and was the venue of the Shimla Conference, which led to the partition of India.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pay tribute to the valour and legacy of Indian warriors at the Army Heritage Museum. Located in the serene surroundings of Annadale, Shimla, the museum is surrounded by the stunning panorama of snow-clad mountains, lush greenery, and rolling lawns. It houses a rich collection of military memorabilia. One of the main attractions of the museum is Pakistan’s surrender letter in the 1971 war. Take an immersive experience on a leisurely Heritage Walk through landmarks of Shimla's colonial architecture and rich cultural past. As you stroll through the city's winding streets, you'll come across historical buildings, churches, and bazaars that transport you back in time.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Take a spiritual journey amidst the serene Himalayan ranges in Shimla. With a rich spiritual heritage, the name Shimla itself is derived from Goddess Shyamala to whom the city’s Kali Bari temple is dedicated. Among the various spiritual landmarks here, begin at the most prominent –Jakhu temple, a sacred shrine dedicated to Lord Hanuman where he is believed to have rested on his way to find the Sanjeevani buti. The 108 feet tall statue of Lord Hanuman here soaring high above the city on Jakhu Hill, lends an overriding sense of spirituality to Shimla. With mesmerising vistas of the surrounding mountains, and intricate carvings adorning its walls, this temple offers an inimitable experience of divinity and beauty. Experience the divinity at Kali Bari Temple, an awe-inspiring shrine dedicated to the mighty Goddess Kali. Built in 1845, the temple is situated in the heart of town and is considered to have great religious significance. Goddess Kali is also known as Goddess Shyamala, the inspiration for the name Shimla. Do not miss the yellow Christ Church , a beautiful example of neo-gothic architecture. It is famous for its five exquisite stained-glass windows, representing the virtues of Faith, Hope, Charity, Fortitude, Patience and Humility. The silhouette of this iconic yellow building is visible from miles across town. The oldest church in Shimla, it is perhaps one of the most photographed landmarks in Shimla, having been featured in several Bollywood movies such as 3 Idiots and Black. Discover the stunning beauty and peaceful atmosphere of Gurudwara Sahib located in the heart of the town. The Gurudwara has a striking marble exterior adorned with intricate carving, colourful stones and artwork, with equally impressive interior featuring a high ceiling, beautiful chandeliers, and exquisite carvings on the walls and pillars. Whether you're seeking spiritual enlightenment or just looking to connect with the divine, Shimla is the place to be.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you enjoy a festive atmosphere, head to Shimla as this town loves to celebrate festivals. Come summer and Shimla is alive with festivities. The month of May sees the Summer Festival, a fun-filled 5-day gala that includes musical performances, folk dances, handicraft shows, as well as events like fashion shows and dog shows with funfair and delicious treats. Thousands attend the Sipi Fair held in Sihpur near Mashobra in honour of Sip Devta, and enjoy cultural programmes, performances by jugglers, magicians, acrobats and \"Karyala\" games. And the Bharara Fair held in Bharara village near Kumharsain in honour of Lord Koteshwar, has 'Natti' dance performances and \"Hindola'' rides, besides a street procession, local food and craft stalls. The Lavi Fair in November is held on the banks of River Sutlej in Rampur Bushahr. A variety of stalls sell everything here from wool to dry fruits to even horses, along with cultural performances and \"Natti\" dances. In cooler climes, Shimla celebrate the Winter Sports Festival, an ice-skating carnival held from December to February. The excitement here is further enhanced with ice-hockey “gymkhanas” as well as fancy dress shows and dances.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla is truly the Queen of Hills for its incomparable natural beauty. It promises breath-taking views of lush green forests, snow-capped peaks, and gurgling waterfalls. Experience the serenity of the towering deodar trees or take a stroll through the fragrant apple orchards. Shimla's unparalleled beauty is sure to rejuvenate your mind, body, and soul. Trek up Jakhu Hill, the highest point in Shimla at over 8,000 feet above sea level, a haven for adventure enthusiasts and nature lovers alike. The hike up Jakhu Hill may be steep, but the scenic beauty, including panoramic views of Shimla and the dense forests of deodar trees, make it worth the effort. Alternatively, you can take the Jakhu Ropeway for a faster and easier option to get to the peak. Come to Annandale , a stunning flat ground located in the heart of Shimla, surrounded by tall pine and deodar trees. This popular tourist attraction offers an array of exciting activities for sports enthusiasts, including a magnificent golf course, cricket, polo and racing events. Discover the hidden beauty of Chadwick Falls, located in the enchanting Glen Forests of Shimla. The waterfall cascades from a height of 100 meters and is surrounded by lush greenery, making it a perfect destination for nature lovers. Embrace the beauty and serenity of Elysium Hill, covered with dense forests of deodar, pine, and oak trees. Take a leisurely walk to the Viceregal Lodge, one of the main attractions here along with the Himalayan Bird Park. Experience the tranquillity of Summer Hil l, a serene and picturesque hill station on the outskirts of Shimla, known for its stunning scenery and peaceful atmosphere. Shimla is surrounded by quaint little towns, each of which make a perfect daytrip or weekend trips. Explore the unparalleled beauty and tranquility of Kufri , the go-to place for skiing, snowboarding, trekking, and hiking, offering adventurers an unforgettable experience. Several other towns in the vicinity like Mashobra , Kasauli, Chail, Theog, Narkanda and Kotgarh await your visit to offer uniquely memorable experiences.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its natural beauty and adventure, Shimla is also a hub for arts and culture. The city has a rich history of theatre and performing arts. with a range of events, exhibitions and performances throughout the year, including plays, concerts, art and more. Shimla is known for its traditional crafts such as wood carving and weaving, especially a variety of woollen shawls, scarves and caps. You can find beautiful handicrafts made by local artisans in the city's markets. Shimla is a city that loves to celebrate with song and dance. With a rich tradition of folk music and dance in the region, Shimla hosts cultural performances at its various festivals, carnivals and events all through the year. Catch an exhibition or a show by renowned artists at the well-preserved gallery and theatre of the 120-year-old Gaiety Heritage Cultural Complex, where legendary performances by famous artists such as Prithviraj Kapoor, Rudyard Kipling, and K.L. Saigal have been held. Shimla has a thriving theatre scene, with many local theatre groups performing regularly. Make sure you catch a play at the historic theatre during your trip to Shimla. Shimla has several art galleries exhibiting works by local and national artists. The city also organises an annual art exhibition showcasing works of artists from all over India. The diversity and wealth of arts here reflect the city's rich cultural heritage. Be it traditional craft, music, dance, theatre, fine arts, or literature, there’s always something for the art-lover in this delightful city.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Apart from its natural beauty, amazing temples and architecture, be prepared for a unique shopping experience in Shimla. From traditional handicrafts to embroidered woollens, Shimla has plenty to please the shopaholic in you. The Mall Road is the most popular shopping destination, with its wide range of shops selling everything from woollen clothes, handicrafts, jewellery, and souvenirs. Himachal Emporium is a good place for authentic local weaves and craft. You can also explore Lakkar Bazaar for its wooden crafts, and Tibetan Market for its woollen shawls and carpets, prayer flags, statues, singing bowls, and thangkas (Tibetan paintings). Shopping in Shimla is a unique experience, where visitors can find a perfect blend of the traditional and modern keepsakes to take back as memories.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla is a food lover's paradise, offering a vast and diverse range of culinary delights that cater to every taste and budget. From traditional Himachali delicacies to popular North and South Indian fare to international cuisine, Shimla has it all. The city's bustling markets and streets are dotted with local eateries, trendy cafes, even fine-dining restaurants and street food stalls, serving everything from piping hot momos and thukpa to sizzling kebabs and butter chicken and delicious Himachali cuisine. While in Shimla, try some local delicacies like Sidku, a steamed bread stuffed with vegetables, spices and paneer, served with ghee or chutney. Or enjoy aromatic flavours of Chana Madra, a popular vegetarian dish particularly famous in Shimla. Made with boiled chickpeas, yoghurt, and a blend of aromatic spices, it is served with steaming hot rice or flatbreads. And finally indulge in some Patande, or Himachali pancakes made with wheat flour combined with milk, cream or condensed milk – and whipped together with sugar to create the most delectable sweet pancakes, often savoured with caramelised apples, plums, cherries, and other fruit.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This is not a city that limits its entertainment to just movies and dining options. Shimla offers a variety of exciting entertainment options that cater to all types of travellers. One of the most iconic experiences is taking a ride on the heritage narrow gauge Shimla-Kalka Toy Train. For those seeking more excitement, the Jakhu ropeway provides a thrilling ride and panoramic views of the city. And during the winter months, ice-skating at India's oldest natural ice-skating rink here, is uniquely entertaining. With a perfect blend of thrilling terrain and nature’s bounty, the city offers a plethora of adventure activities to pump up your adrenaline levels. From trekking through the lush green forests to river rafting in the picturesque valleys, Shimla offers something for every adventure lover. In winter, you can also enjoy the thrilling experience of skiing down the snow-covered slopes of Kufri. For those seeking an offbeat adventure, camping in the serene valleys of Shimla is the perfect option. Come and experience the thrill of adventure in the lap of nature!",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you're seeking adventure in the hills, delving into history and culture, or just relaxing amidst scenic beauty, Shimla offers something for everyone. The perfect hill station escape, it provides an idyllic setting to simply laze around, take a walk, soak in the natural splendour and enjoy the weather. Set out on a journey now to this enchanting hill resort and create unforgettable memories amid its unending year-long charm. If you prefer milder weather though, plan your visit to Shimla during the summer months, from April to June, to enjoy a perfect summer getaway.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The famous toy train that runs from Kalka to Shimla is a UNESCO World Heritage Railway Line. The train covers a distance of 96 km and passes through 102 tunnels, 864 bridges, and 919 curves.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla is home to India's oldest natural ice-skating rink, established in the early 1920s.",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 Cafes in Shimla: A Guide to the Best Coffee and Snacks in the Queen of Hills",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - Must-Try Local Foods in Shimla and Rest of Himachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hill Stations in Himachal Pradesh That Are Ideal for a Summer Vacation with Kids",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla With Friends? Try Something Different!",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelling from Delhi to Shimla like a Boss!",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tourist Places in Shimla You Must Not Miss on Your Next Trip",
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Shimla",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/shimla",
+        "retrieved_at": "2026-09-22T18:36:29.849119+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

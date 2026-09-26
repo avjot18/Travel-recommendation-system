@@ -1,0 +1,382 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-PATNITOP",
+  "destination_name": "Patnitop",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jammu Civil Enclave (IXJ), Jammu"
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Martyr Captain Tushar Mahajan Udhampur Railway Station (MCTM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 38.0
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 45.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.4,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.7,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 28.8
+      },
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Martyr Captain Tushar Mahajan Udhampur Railway Station (MCTM)",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the enchanting realm of Patnitop, the gateway to the Himalayas, cradled amidst the snow-capped Pir Panjal range. Conveniently located on the National Highway, Patnitop is a popular resort among people visiting the famed Vaishno Devi Temple. Experience the awe-inspiring journey through the magnificent Dr. Syama Prasad Mookerjee Tunnel , India’s longest road tunnel. Also called the ‘Patnitop Tunnel’ this 9.28km-long engineering marvel connecting Chenani and Nashri, cuts the distance between Jammu and Srinagar by 30 km, and reduces travel time by two hours! The charms of this Himalayan beauty, ensconced within a lush cover of deodar trees, emerald pines and dense woods, are sure to enthral anytime of the year. Traverse pristine valleys, trek through thick woods, or ski in the shadow of majestic peaks during winter's embrace. Immerse yourself in its rich history, where ancient legends intertwine amidst breathtaking vistas. Meander through its pristine valleys, try the healing power of its three freshwater springs, or enjoy thrilling adventures with a backdrop of majestic mountains. Patnitop promises an unforgettable sojourn in the heart of the Himalayas. Come immerse yourself in nature's splendour atop this scenic plateau in the Shivalik belt.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There’s never a dull season in Patnitop. A riot of colours welcome spring with an awe-inspiring display of nearly three hundred thousand tulips. Surrounded by lush green woods, the radiant hues of red, yellow, orange and pink stand out in delightful contrast. Paragliding bliss follows in summer, as you glide through the skies soaking in the spectacular views from high above. Trekking takes on a whole new mystical dimension here as you encounter enigmatic challenges like hundreds of steps carved into the mountain from a 4bygone era. In winter, the snowy slopes of Patnitop transform into a wonderland awaiting your adventurous spirit. Feel the adrenaline rush as you explore a mini Gulmarg echoing with the thrill of adventure. Journey through India's longest mountain tunnel. Remember to breathe as the adventure never ends in Patnitop!",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in the spiritual allure of Patnitop, where ancient legends and serene landscapes converge to offer a truly divine experience. Begin your journey at Gaurikund, a natural spring near Patnitop, with the majestic backdrop of Mount Kailash, which has drawn pilgrims for centuries. Discover the awe-inspiring Naag Mandir , a 600-year-old temple steeped in history, spirituality and ancient legend. Dedicated to the Serpent God Naag Devta, this sacred site is believed to be the place where Lord Shiva married Goddess Parvati. Dive deeper into the soul-stirring Sudh Mahadev Temple, with legends dating back thousands of years. This hallowed temple houses a fascinating black marble idol of Lord Shiva, and that of Goddess Parvati mounted on Nandi. Marvel at the legend of the Trishul (trident) here, and take a dip in the holy waters of Pap Nashni Bowli. Experience the power of Himalayan divinity as you embark on a spiritual journey like never before in Patnitop.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the rich culture of Patnitop through its diverse festivals and events. Indulge in the Asad Purnima Festival, a three-day affair at Sudh Mahadev. Join the celebrations with folk music and dance and a small fair. Witness the annual celebration of Nag Panchami at the Nag Mandir, where devotees flock from all around to partake in special poojas held throughout the day. Immerse yourself in the spiritual ambiance and lively atmosphere of these cherished celebrations and create lasting memories in Patnitop.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the enigmatic heritage of Patnitop with its intriguing attractions. Your adventure begins at Billo Ki Powri , where an extraordinary staircase carved into the mountains awaits. Ascend the 270 steps and immerse yourself in panoramic views of Kud town. Feel the thrill of uncovering secrets and stories of a bygone era amidst the misty clouds. Then, venture into the heart of the Himalayan Mountains through the remarkable Dr. Shyama Prasad Mookerjee Tunnel, India’s longest road tunnel.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you journey through the landscapes of Patnitop, nature reveals its awe-inspiring wonders at every turn. Head up to Natha Top, and revel in the beauty of the panoramic vistas. Marvel at the majestic Kishtwar range of the Himalayas and witness the awe-inspiring Brammah Massif, where peaks like Flat Top, Arjuna, and Brammah I and II paint a dramatic backdrop. In winter, this paradise remains adorned in a blanket of snow. Venture to Batote , a sanctuary of natural beauty offering magnificent views of the Chenab basin and Patnitop mountain range, perfect for birdwatching and trekking. Explore the enchanting Tulip Garden in Sanasar , where endless tulips in radiant hues create a kaleidoscope of colours amidst lush green woods. Lose yourself in the tranquility of Kud Park , a picturesque haven for picnics surrounded by enchanting blossoms. At Sanasar, don’t miss the captivating Shanta Ridge, offering uninterrupted panoramas of the picturesque Panchari Valley. Finally, wander through Patnitop's exquisite pine forests, where towering coniferous trees and stunning viewpoints await, offering a serene escape amidst nature's embrace.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the remarkable sights fill you with wonder, the delectable delights of Patnitop are sure to tantalise your tastebuds. Feast on a wholesome plate of Rajma Chawal, where the perfect harmony of local spices and distinct red kidney beans served with rice will leave you craving for more. Dive into the tangy goodness of Khatta meat, tender mutton cooked to perfection with lime or pomegranate juice. Don't miss the heavenly Kachaloo Chaat, a favourite snack of the locals, made from kachaloo, or taro root, with tamarind, lemon and various spices like red chilli flakes. The local sweet and tangy ‘red khatta meetha chutney’ is the perfect accompaniment to add the perfect zing to any meal. And Kalari Kulcha, a symphony of cheese derived from cow or goat milk served with warm, fluffy kulcha bread, will have you coming back for more. Indulge your sweet tooth with the irresistible delights of Patisa, a flaky dessert soaked in ghee, Sund Panjeeri, a signature blend of dry fruits, or surrender to the charms of Kalakand, crafted from sweetened milk and paneer adorned with exquisite dry fruits. And before you leave, take home a taste of Patnitop's culinary heritage with legendary pickles, cherished recipes rooted in royal tradition, ensuring your gastronomic journey is truly unforgettable.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare for an unforgettable journey as you dive into the world of fun and adventure in Patnitop. Leisurely walks and horseback riding, soaking in the tranquil beauty of its landscapes are just the beginning. For an extraordinary experience, hop on a Skyview Gondola ride, soaring through the skies for an exhilarating journey from Sanget to Patnitop, offering panoramic vistas and unparalleled thrills. If you seek more adrenaline-pumping adventures, Patnitop has it all – from skiing down gentle slopes at Natha Top to paragliding blissfully through the skies at Dawariyai. Add to it Sanasar’s rock climbing, abseiling, parasailing, and hot-air ballooning amidst the picturesque Panchari Valley. For the avid trekker, expeditions to Natha Top, Madhatop, and Shiv Garh, offer stunning vistas and untouched serenity. At Patnitop, every adventure-filled moment promises excitement and wonder.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Delve into a world of artistic treasures at Patnitop. Discover the intricate artistry of Namdas, wool carpets adorned with colourful and masterful embroidery, adding a touch of elegance to any space. Immerse yourself in the timeless allure of Pashmina shawls, crafted from the finest fleece of the Kel goat, each piece a testament to the skill and dedication of local artisans. For a more affordable yet equally enchanting options, indulge in the beauty of Jamavar shawls, where dyed threads come together to create mesmerising patterns and stories. Let the arts of Patnitop weave their magic around you as you explore the exquisite jewellery, handicrafts, and paintings that grace this enchanting destination, taking home a piece of its cultural heritage as a cherished memento of your journey.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Patnitop, every corner reveals a story waiting to be discovered, offering a journey that transcends time. From serene spiritual retreats to ancient marvels, the heritage here whispers tales of bygone eras. Nature unfolds its grandeur with panoramic vistas and tranquil sanctuaries, while adventure beckons with thrilling escapades amidst the hills. As you bid adieu to this enchanting destination, the memories continue to linger, promising a return to its unique Himalayan embrace.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Billo ki Powri is a staircase consisting of 270 steps carved out of the mountain in Dawariyai near Patnitop. The original number was 400 steps, which over the years got eroded in the lower regions of the mountain.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 9.28-kilometre-long Dr Syama Prasad Mookerjee Tunnel , also known as Patnitop Tunnel, is the longest road tunnel in India.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 600-year-old Naag Mandir in Patnitop is said to be located at the sacred site of Lord Shiva and Goddess Parvati's marriage.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sudh Mahadev, an ancient temple in Patnitop, is believed to be around 2,800 years old. The temple houses a natural black marble idol of Lord Shiva and a trishul (Shiva’s trident) associated with the legend of the temple.",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A comprehensive guide to the top things to do in Patnitop",
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Patnitop",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/patnitop",
+        "retrieved_at": "2026-09-22T18:36:53.561652+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

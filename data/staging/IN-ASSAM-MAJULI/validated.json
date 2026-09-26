@@ -1,0 +1,164 @@
+{
+  "destination_id": "IN-ASSAM-MAJULI",
+  "destination_name": "Majuli",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jorhat Airport (JRH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mariani Junction (MXN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture yourself on a unique island where the mighty Brahmaputra River weaves a magical landscape of cultural richness and natural beauty. Welcome to Majuli, the world's largest river island and a living canvas of Assamese heritage that will captivate your imagination. Tucked away in the northeastern state of Assam, this extraordinary island invites you to explore a world where indigenous tribes, ancient traditions, and breathtaking landscapes coexist in perfect harmony.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you traverse its lush terrain, you'll discover a place where time seems to move differently, with centuries-old practices breathing life into every landscape and every interaction. The rhythms of traditional life pulse through Majuli's communities, telling stories of artistry and deep-rooted spiritual connections that have withstood the changing currents of history.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come hop on a ferry with us and unravel the mesmerizing world of Majuli, where each moment promises to be a revelation.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare to enter a world where spirituality, art, and cultural heritage intertwine in the most mesmerizing way possible. The Satras of Majuli are not just monasteries but living, breathing repositories of Assamese cultural soul that will completely transform your understanding of spiritual spaces.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine walking through Dakhinpat Satra, surrounded by lush paddy fields along the Brahmaputra's northern bank, where every mural tells a story that whispers centuries of tradition. Each Satra is a unique universe waiting to be explored; visit Kamalabari Satra, a legendary centre of culture, art, literature, and classical studies that continues to nurture artistic traditions.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At Sri Sri Bhogpur Satra, you'll witness the magic of regular fourteen prasanga performances that bring ancient stories to life. These sites are portals that transport you into the heart of Vaishnavite culture, where every wall, every performance, and every ritual carry the weight of generations. Not to mention, Sri Sri Bengena Ati Satra is another important site you just can’t miss.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine stepping into a world where every craft tells a story, and every artefact whispers centuries of cultural wisdom. In Majuli, art isn't just a skill but a living, breathing entity that captivates your imagination. The island's crown jewel, Mukha Bhaona mask-making, invites you to witness an extraordinary tradition where local artisans transform simple bamboo and wood into mythological masterpieces. As you explore Samaguri Satra , you'll find yourself face-to-face with masks that are living narratives that pulse with spiritual energy.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The mesmerizing Sattriya Nritya dance-drama will transport you back to the 15th and 16th centuries, allowing you to experience the transformative Bhakti movement through graceful movements and profound storytelling at Auniati Satra. Beyond the performing arts, Majuli's exquisite bamboo crafts beckon you to take home a unique bamboo artefact, allowing you to carry a piece of this rich artistic heritage with you.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ever wondered what happens when diverse communities weave their stories into a single, vibrant landscape? In Majuli, you'll discover a remarkable human ecosystem where tribal and non-tribal communities peacefully coexist. As you explore the island, you'll meet the Misings, the largest tribal community who originally journeyed from Arunachal Pradesh, bringing with them rich traditions that have seamlessly blended with the local fabric. The Deoris and Sonowal-Kacharis add their unique cultural notes to this intricate melody. At the same time, non-tribal Assamese communities like the Koch Rajbanshis, Kalitas, Ahoms, Keots, and Kayasthas contribute their own distinct rhythms. This isn't just a settlement but a living, breathing cultural symphony where differences are not just tolerated but treasured.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you're a food lover seeking authentic experiences, Majuli promises a culinary expedition like no other. Imagine savouring a tribal thali at Risong's Kitchen, where each dish tells a story of generations-old cooking traditions. Your plate will be a canvas of flavours – from the delicate potato dia maas (fish tenderly wrapped and steamed in a leaf) to the smoky chicken khorika (roasted chicken skewered on bamboo), each bite transports you deeper into Majuli's culinary soul. Don't forget to try the Mishing specialities like Pamnam chicken or fish baked in banana leaves, or challenge your palate with massing, a robust dry fish chutney that captures the essence of local cuisine. And for those seeking a spirited experience, Apong – the indigenous rice beer – awaits you to complete your gastronomic journey.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you want to catch Majuli at its most vibrant and enchanting self, mark your calendars for November, when the island transforms into a living, breathing cultural canvas during the spectacular Raas Mahotsav. Imagine witnessing Bhaonas, where performers adorned in intricate traditional masks bring epic tales of Ramayana and Mahabharat to life through mesmerizing dance dramas. The Raas Leela performances will captivate you with their artistic interpretation of Lord Krishna's life, turning mythology into performing art. Weather-wise, November offers a perfect embrace with cool and comfortable temperatures that make exploring the island a sheer pleasure.",
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Majuli",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/majuli",
+        "retrieved_at": "2026-09-22T18:36:23.418511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

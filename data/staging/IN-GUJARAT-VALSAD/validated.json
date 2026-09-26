@@ -1,0 +1,553 @@
+{
+  "destination_id": "IN-GUJARAT-VALSAD",
+  "destination_name": "Valsad",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Surat Airport (STV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Valsad Railway Station (BL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From sacred fire temples and historic settlements to forested hills and serene beaches, Valsad showcases many distinct landscapes within a single district. Located in South Gujarat, it is known for its Parsi heritage, tribal culture, Sahyadri foothills, and a coastline dotted with destinations such as Tithal and Nargol.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Valsad's history is closely linked with the arrival of the Parsi community in India through the port of Sanjan. Over time, the region evolved into an important cultural centre, home to revered pilgrimage sites, thriving agricultural markets, and vibrant communities that continue to preserve their traditions. Beyond its heritage, Valsad offers travellers an opportunity to experience beaches, hill landscapes, forests, temples, and lesser-explored destinations that remain relatively untouched by mass tourism.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether it is the spiritual atmosphere of Udvada, the scenic beauty of Tithal Beach, or the peaceful surroundings of Dharampur's hills, Valsad rewards those looking to slow down and discover Gujarat beyond its well-known attractions.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Valsad is inseparable from the history of the Parsi community in India. It was through nearby Sanjan that the Parsis first arrived on Indian shores, eventually establishing settlements across western India. One of the community's most revered religious centres, the sacred Fire Temple at Udvada, continues to attract devotees from around the world.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district is also home to important Jain pilgrimage sites, including the ancient temple complex at Bagwada near Udvada. Historical movements such as the Khed Satyagraha and grass agitation led by Ishwarbhai Desai further contributed to the region's place in Gujarat's social and political landscape.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Scattered across the district are temples, forts, tribal settlements, and cultural landmarks that reflect the diversity of communities that have shaped Valsad over generations.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tithal Beach One of the district's most popular attractions, Tithal Beach offers a tranquil coastal experience along the Arabian Sea. Lined with palm trees and casuarina groves, the beach is known for its relaxed atmosphere and expansive shoreline. The gentle sea breeze, rolling waves, and open horizon create an ideal setting for leisurely walks and sunset views.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The destination remains a favourite among travellers seeking a peaceful break by the sea while enjoying the natural beauty of Gujarat's coastline.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udvada For the Parsi community, Udvada is among the most sacred places in the world. This coastal town is home to the revered Iranshah Atash Bahram , one of the highest-grade fire temples in Zoroastrianism. The town's heritage streets, old Parsi homes, and spiritual atmosphere make it one of Gujarat's most distinctive cultural destinations.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udvada is equally celebrated for its cuisine. Visitors can savour traditional Parsi dishes such as dhanshak, sali marghi, fish preparations, macaroons, and nan khatai while experiencing the town's unique cultural identity.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nargol Beach Tucked away near the Gujarat-Maharashtra border, Nargol Beach is among the quieter stretches of coastline in the Valsad district. Fringed by swaying palms and casuarina groves, the beach offers a relaxed atmosphere that feels far removed from crowded tourist hubs. Long stretches of sand, gentle waves, and the sound of the sea create an ideal setting for travellers looking to unwind amidst nature.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlike many commercial beaches, Nargol retains a laid-back character, making it popular among those who prefer peaceful walks along the shore and uninterrupted views of the Arabian Sea. The surrounding greenery further enhances its appeal, giving the destination a distinctly coastal charm.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Parnera Hill Located between Valsad and Pardi, Parnera Hill is a significant pilgrimage destination known for its historic fort and temples dedicated to Chandika Mata, Kalika Mata, Hanumanji, and Lord Shiva. The site attracts thousands of devotees, particularly during Navratri when a large fair is organised on the hill. A dargah located here also draws visitors, reflecting the region's shared spiritual traditions.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dharampur and Kaprada Nestled in the Sahyadri ranges, Dharampur and Kaprada offer a striking contrast to the coastal landscapes of Valsad. These predominantly tribal regions are blessed with forests, rivers, springs, and rolling hills. The area's natural beauty, combined with its traditional way of life, makes it one of the district's most scenic regions.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors can also explore the District Science Centre at Dharampur , which has become a popular attraction for science enthusiasts from neighbouring regions.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Barumal and Sahyadri Srushti Centre Another emerging destination is Barumal , known for the magnificent temple dedicated to Bhagwan Bhav Bhaveshwar. Nearby, the Sahyadri Srushti Centre showcases the region's rich biodiversity, including numerous species of trees and medicinal plants. It offers visitors an opportunity to learn about the ecological wealth of the Sahyadri forests.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Valsad's location makes it a convenient base for exploring several destinations in South Gujarat. Travellers can visit the coastal town of Daman, known for its beaches and Portuguese heritage, or head towards Saputara, Gujarat's well-known hill station nestled in the Sahyadri hills. The district's proximity to Surat also allows visitors to combine cultural exploration, culinary experiences, and shopping with a relaxing coastal holiday.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Valsad's culinary traditions reflect the influence of Gujarati, tribal, and Parsi cultures. Udvada remains one of the best places to experience authentic Parsi cuisine, with local restaurants serving cherished recipes passed down through generations. Seafood preparations, dhanshak, sali dishes, traditional sweets, and baked treats form an essential part of the region's food culture.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Valsad is between October and March , when temperatures remain comfortable for exploring beaches, pilgrimage sites, and the hill regions of Dharampur and Kaprada. The monsoon season transforms the district's forests, rivers, and hills into vibrant green landscapes, making it particularly appealing for nature lovers and photographers.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest major airport is Surat Airport (STV) approx. 60 to 85 km , which offers regular connectivity to several Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Valsad is an important station on the Western Railway (BL) network and enjoys excellent rail connectivity with Mumbai, Surat, Ahmedabad, and other major cities.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: The district is well connected through National Highway 48, providing easy access from Surat, Mumbai, Vadodara, and other parts of Gujarat and Maharashtra.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udvada is home to the revered Iranshah Atash Bahram, one of the most important Zoroastrian fire temples in the world.",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Valsad",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/valsad",
+        "retrieved_at": "2026-09-22T18:36:27.613060+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "destination_id": "IN-CHHATTISGARH-RAJNANDGAON",
+  "destination_name": "Rajnandgaon",
+  "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rajnandgaon Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Swami Vivekananda International Airport (RPR)",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of Chhattisgarh, India, Rajnandgaon is a city rich in history, culture, and natural beauty.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon's history can be traced back to ancient times when it served as an important centre of trade and commerce. The region has been inhabited since prehistoric times, with archaeological evidence suggesting human presence dating back thousands of years. Over the centuries, Rajnandgaon has witnessed the rise and fall of various dynasties, including the Kalchuri and Maratha empires, each leaving behind a legacy of architectural marvels and cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon was once the capital of the princely state of Rajnandgaon, ruled by the Gond dynasty. The city's royal heritage is reflected in its magnificent palaces, forts, and temples, which stand as testaments to its regal past. The Rajnandgaon Palace, with its intricate architecture and grandeur, is a symbol of the city's royal legacy and is a must-visit for history enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon is a melting pot of cultures, with influences from various ethnic groups and communities shaping its vibrant identity. The city's diverse population celebrates festivals, traditions, and art forms that reflect this rich cultural tapestry. The Bastar Dussehra, Navratri, and Holi are among the many festivals celebrated with great fervour and enthusiasm, showcasing the unity in diversity of Rajnandgaon's people.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon is blessed with breathtaking natural beauty, encompassing lush forests, meandering rivers, and rolling hills. The city's picturesque landscapes offer a tranquil retreat for nature lovers and adventure seekers alike. The Khamaria and Shivnath rivers, along with the dense forests of the region, provide opportunities for boating, trekking, and wildlife exploration, allowing visitors to immerse themselves in the serenity of nature.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon is a thriving economic hub, with agriculture, industry, and trade driving its economy. The city's fertile lands yield a variety of crops, including rice, wheat, and pulses, while its industrial sector encompasses manufacturing, textiles, and mining. Rajnandgaon's bustling markets and commercial centres are vibrant hubs of activity, reflecting the city's dynamic spirit of enterprise and innovation.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon's cuisine is a delectable fusion of traditional Chhattisgarhi flavours and regional specialties. Local delicacies such as bafauri, fara, and chila are popular choices among food enthusiasts, while street food stalls offer tantalizing snacks and sweets that capture the essence of Chhattisgarhi culinary heritage.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajnandgaon offers heritage trails that take visitors on a journey through its rich history and architectural splendour. The city's historic sites, including forts, temples, and museums, provide insights into its royal past and cultural heritage, offering a glimpse into the bygone era of Rajnandgaon's glory. Rajnandgaon, with its rich history, cultural diversity, and natural splendour, is a treasure trove waiting to be discovered. Whether exploring its royal palaces, savouring its culinary delights, or immersing oneself in the tranquillity of its landscapes, Rajnandgaon promises a journey of exploration and enlightenment for travellers seeking to uncover the hidden gems of Chhattisgarh's heartland.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is renowned for its intricate wood carvings, handloom weaving , and terracotta pottery.",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is known for its handcrafted “Kosa” silk sarees .",
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Rajnandgaon",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/rajnandgaon",
+        "retrieved_at": "2026-09-22T18:36:25.120571+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

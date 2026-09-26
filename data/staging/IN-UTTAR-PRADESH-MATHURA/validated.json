@@ -1,0 +1,412 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-MATHURA",
+  "destination_name": "Mathura",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Agra Airport (AGR), Agra Indira Gandhi International Airport (DEL), Delhi"
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mathura Junction Railway Station (MTJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.1,
+        "maximum_celsius": 24.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.3,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 5.6,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 12.5,
+        "maximum_celsius": 45.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 45.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.4,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 26.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated on the banks of the river Yamuna in Uttar Pradesh, the sacred city of Mathura is a living, breathing entity that embodies the essence of India's spiritual heritage.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Renowned as the birthplace of Lord Krishna, Mathura is one of Hinduism's seven holy cities, attracting throngs of pilgrims eager to follow in the footsteps of their beloved deity. The city boasts a treasure trove of temples showcasing Krishna, one of the most revered deities in Hinduism, in his myriad forms and avatars. Mathura, along with its twin city Vrindavan (Krishna's spiritual abode), forms the heart of Braj Bhoomi. This sacred region, encompassing the land where Lord Krishna spent his childhood, is a pilgrimage haven for devotees worldwide.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you step into Mathura, you will love the city’s old-world charm that spills from every corner. Narrow streets lined by old houses and ornately carved doorways transport you back in time. Here, amid the chants of devotees and the gentle tinkling of bells in temples across the city, you can almost feel the presence of the divine.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With a legacy of over 3,000 years, Mathura flourished under the Mauryan and Kushan empires and witnessed the blossoming of Buddhist sculptural art. Its legacy of exquisite statues continues to captivate visitors. The Bhakti movement, emphasising devotion to Lord Krishna, cemented the city's spiritual standing. Each temple, each ghat, and each smiling face you encounter here adds another layer to your understanding of this sacred place.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mathura finds mention in Ramayana, India's oldest epic. Back then, it was known as Madhuvan, a name that hints at the dense forests that once thrived here. Over time, the city evolved, transforming from Madhuvan to Madhupura and, finally, to the Mathura we know today.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you wander through Mathura, you'll be transported to an era when gods walked among mortals. The city is dotted with countless temples, but a few stand out as the most famous and revered by pilgrims and visitors alike. Your exploration begins at the heart of Mathura's spiritual landscape—Shri Krishna Janmasthan. The temple complex houses a small prison cell believed to be the exact spot where Lord Krishna was born. Explore the temple's various shrines, each dedicated to different aspects of Lord Krishna's life, and soak in the belief that this very spot witnessed the arrival of the eighth avatar of Lord Vishnu.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Within Mathura's bustling lanes lies another iconic landmark – the Dwarkadhish Temple. Dating back to 1814, this architectural marvel is incredibly popular and revered. Here, Krishna is worshipped in his majestic adult form, the idol itself a captivating piece of black marble. Another important temple to visit is the Gita Mandir, whose walls are inscribed with the 700 verses of the Bhagavad Gita, the holy Hindu scripture. Some other famous temples are Jai Guru Dev Mandir, Bhuteshwar Mahadev Mandir, Banke Bihari Temple and Prem Mandir in Vrindavan.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking a more profound spiritual experience, Mathura offers numerous ashrams and meditation centres. These havens of peace provide an opportunity to connect with your inner self, guided by age-old wisdom and practices.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mathura's picturesque ghats along the river Yamuna offer tranquil vistas and sacred surroundings. The Vishram Ghat (ghat of rest) is the most significant among the city's twenty-five ghats. Here, Krishna is believed to have rested after vanquishing his demon maternal uncle Kansa. Devotees flock to Vishram Ghat for rituals and holy dips, while festivals like Holi and Janmashtami transform the ghats into vibrant celebrations. In Vrindavan, don’t miss Cheer Ghat, one of the holiest bathing sites. This ghat holds a special place in Krishna lore, believed to be the spot where the playful young deity stole the clothes of the Gopis (cowherd maidens) of Vrindavan.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ancient city of Mathura was also a flourishing hub for art, particularly sculpture. Dating back to the 2nd century BC, Mathura art thrived when Buddhism, Jainism, and Hinduism flourished together. This city became the \"first artistic centre to produce devotional icons for all three faiths,\" showcasing the remarkable tolerance and artistic exchange. Watch for Mathura's sculptures as you visit temples and museums! Local markets showcase these traditional artworks, ranging from paintings to terracotta figurines.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Delve deeper into Mathura's past by exploring Kans Quila, an ancient fortress that rises along the banks of the river Yamuna. It is said that this very fort housed the tyrannical King Kans, Lord Krishna's maternal uncle. Mathura's treasures extend beyond myths. Step into the Government Museum and be transported through time. Here, a treasure trove of archaeological wonders awaits from the Mauryan and Kushan periods - ancient sculptures, intricate pottery, paintings, weathered coins and more.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mathura serves as a gateway to several other important sites in the Braj region. Just a short drive away is Vrindavan, synonymous with Krishna's playful youth. Vrindavan is dotted with temples and ashrams associated with Lord Krishna and his beloved consort, Radha. The Banke Bihari Temple and the ISKCON Temple are among the most visited attractions here. At the Banke Bihari temple, Krishna's idol is so enchanting that priests regularly draw a curtain to prevent devotees from being overwhelmed by its beauty.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just 10 km away lies Gokul, an idyllic town steeped in legend. Here, Lord Krishna is believed to have spent his childhood nurtured by his foster parents, Yashoda and Nanda. A pilgrimage to Govardhan, roughly 25 km from Mathura, is a must for any Krishna devotee. The majestic Govardhan Hill stands tall here. Legend speaks of a young Krishna lifting this very hill with his finger to protect the people of Mathura from torrential rains. Ascend the hill and explore the exquisite sandstone monument, the serene Kusum Sarovar lake, and the numerous temples that dot the landscape.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel 42 km from Mathura to reach the charming town of Barsana , the birthplace of Radha, Krishna's beloved consort. The air here vibrates with romance and devotion. Pay homage to the famed Shri Radha Rani Temple, a magnificent structure that attracts crowds of devotees throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you explore the region, don't be surprised by the warm smiles and friendly greetings of the locals. Here, a simple \"Radhe Radhe!\" (pronounced rah-day rah-day) isn't just a hello – it's a way of expressing devotion to the divine couple of Radha and Krishna. Join in, return the greeting with a smile, and experience the welcoming spirit that permeates this special place.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The festive fervour, enthusiasm and energy of the devotees of Lord Krishna touch unprecedented levels during festivals like Holi and Janmashtami. Holi, the festival of colours, is celebrated with unparalleled zeal, drawing visitors worldwide to partake in the joyous revelry. The famous Lathmaar Holi of Barsana is one of its kind and remains a huge attraction for tourists. Janmashtami, marking Krishna's birth witnesses grand processions and temple decorations, making it an unforgettable experience for those fortunate enough to be in Mathura during this time.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No trip to Mathura is complete without savouring its culinary delights. The city offers innumerable options to tingle your taste buds. Relish the famed, mouth-watering pedas (sweetened and soft milk fudge), kachoris (a snack filled with lentils and spices), and jalebi (a crispy, syrup-soaked sweet). Chilled lassi, a traditional yoghurt-based drink sprinkled with rose water, is sure to be a refreshing treat after a day of exploration in the bustling lanes of Mathura.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To embark on a pilgrimage to Mathura is to delve into the very heart of Hindu spirituality. Plan your visit between October and March, when pleasant weather graces the city. To truly immerse yourself in the vibrant spirit of Mathura, consider coming during Krishna Janmashtami (August/September) or Holi (March) and witness the city come alive with joyous celebrations.",
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mathura",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/mathura",
+        "retrieved_at": "2026-09-22T18:36:48.259171+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

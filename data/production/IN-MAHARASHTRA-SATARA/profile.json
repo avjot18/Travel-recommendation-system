@@ -1,0 +1,104 @@
+{
+  "destination_id": "IN-MAHARASHTRA-SATARA",
+  "name": "Satara",
+  "state_or_ut": "Maharashtra",
+  "region": null,
+  "description": "Satara is an officially listed tourism destination in Maharashtra, India. It is best treated as a urban, heritage, beach travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "urban",
+    "heritage",
+    "beach",
+    "nature",
+    "food",
+    "adventure"
+  ],
+  "best_for": [
+    "city breaks",
+    "heritage",
+    "food",
+    "beaches",
+    "hill stations"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": null,
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Maharashtra",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Pune Airport (PNQ), Pune"
+    ],
+    "railway_station": [
+      "Satara Railway Station (STR)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Maharashtra",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Satara",
+      "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/satara",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

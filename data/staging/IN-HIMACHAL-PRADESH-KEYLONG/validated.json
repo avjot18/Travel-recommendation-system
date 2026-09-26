@@ -1,0 +1,477 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-KEYLONG",
+  "destination_name": "Keylong",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bhuntar Airport (KUU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Joginder Nagar Railway Station (JDNX)"
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hidden deep in the Lahaul Valley of Himachal Pradesh, Keylong is a destination that feels like a world apart. At 3,080 meters above sea level, this charming town offers a rare blend of rugged landscapes, spiritual calm, and thrilling adventures. Whether you’re a nature lover, an adventure seeker, or a culture enthusiast, Keylong promises an unforgettable journey.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your adventure begins as you pass through the Atal Tunnel, the longest highway tunnel in the world, which has made Keylong more accessible than ever. From Manali, the drive now takes just two hours, opening the doors to a region that was once remote and secluded. As you emerge from the tunnel, the scenery transforms—pine forests give way to stark mountains, and the Bhaga River glimmers like a silver thread weaving through the valley.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Keylong is often called the “Land of Monasteries”, and for good reason. The town is home to some of the most significant Buddhist monasteries in Himachal Pradesh:",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every July, Keylong hosts the Lahaul Festival, a cultural extravaganza featuring folk dances, traditional music, and bustling markets—a perfect way to experience the valley’s heritage.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Keylong is a paradise for nature lovers. Visit Suraj Tal, one of India’s highest lakes, and Deepak Tal, a turquoise jewel nestled among mountains. For panoramic views, head to Baralacha Pass, a high-altitude marvel connecting Keylong to Leh.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure seekers can enjoy trekking trails around Gemur Gompa and Bhaga Valley or try river rafting in the Chandra and Bhaga rivers. Every turn in Keylong offers a new story—a hidden waterfall, a wildflower meadow, or a breathtaking vista.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No trip to Keylong is complete without tasting its traditional cuisine. Relish Thukpa (noodle soup), Madra (creamy chickpea curry), and Sidu (steamed bread stuffed with walnuts). Pair these dishes with the warmth of local hospitality, and you’ll discover the true essence of Himachal.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Keylong is June to October, when the roads are open and the valleys bloom. Winters turn Keylong into a snowbound wonderland, but access is limited due to heavy snowfall.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Bhuntar Airport (KUU) near Kullu, located approximately 165 km from Keylong. From Bhuntar, taxis and buses are available to reach Keylong via Manali. Leh Airport (IXL) can also be accessed during favorable months, depending on road connectivity and weather conditions.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: There is no direct railway connectivity to Keylong. The nearest major broad‑gauge railway stations are Joginder Nagar Railway Station (JDNX) , around 290 km away, and Chandigarh Railway Station (CDG) , approximately 390 km from Keylong.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Keylong is well connected by road and lies along the Manali–Leh Highway , making it accessible during the summer months and early autumn. It is around 115 km from Manali and approximately 390 km from Chandigarh . Regular HRTC buses and taxis operate from Manali when roads are open, with travel subject to weather and seasonal conditions.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kardang Monastery is one of the most significant and ancient monasteries in the Lahaul region of Himachal Pradesh, with historical roots dating back roughly 900 years.",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel story: love in/with Bir, Himachal",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 blissful things to do in Manali | Manali travel guide",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chamba – where 10th century traditions survive!",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Self-Drive Biking Trip in Manali: An Adventure I Cannot Forget",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Best Adventure Experiences in Manali",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Offbeat Destinations Near Manali For A Peaceful Holiday",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 Cafes in Shimla: A Guide to the Best Coffee and Snacks in the Queen of Hills",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - Must-Try Local Foods in Shimla and Rest of Himachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hill Stations in Himachal Pradesh That Are Ideal for a Summer Vacation with Kids",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla With Friends? Try Something Different!",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelling from Delhi to Shimla like a Boss!",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tourist Places in Shimla You Must Not Miss on Your Next Trip",
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "1. Kardang Monastery – The largest in Lahaul, overlooking the Bhaga River.",
+        "2. Shashur Monastery – Surrounded by blue pine forests, known for its vibrant murals.",
+        "3. Tayul Monastery – Houses a towering statue of Guru Padmasambhava."
+      ],
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Keylong",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/keylong",
+        "retrieved_at": "2026-09-22T18:36:29.317212+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-DHARAMSHALA",
+  "destination_name": "Dharamshala",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kangra Airport (DHM), Kangra (Gaggal) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Pathankot Railway Station (PTK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.4,
+        "maximum_celsius": 20.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.7,
+        "maximum_celsius": 22.7
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 6.3,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 10.2,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 15.9,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 28.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.1,
+        "maximum_celsius": 25.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.1,
+        "maximum_celsius": 22.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine the mid-19th century - the British, their pith helmets tilted, seeking refuge from the Indian heat. They unfurl Dharamshala like a secret map. The hills bow—their slopes dotted with rhododendrons and pine. The lower town stirs—a bazaar, a bus stand, and the clatter of commerce. But wait, Dharamshala isn’t just a hill station; it is a hymn. Let its clouds cradle you, and let the Dalai Lama’s smile be your compass. It is a place where the British once sipped their afternoon tea, and where the Dalai Lama now cradles ancient wisdom. The Dhauladhar Range—like a dragon’s spine—holds this hill station in its embrace. Located on the lower spurs, the town consists of two sections-the lower town with the main bus stand and bazaar, and the upper town, known as McLeodganj, nine km to its north, which is the destination of most foreign visitors. There is little of interest in the lower town, apart from the lively Kotwali Bazaar and the Museum of Kangra Art. The museum has an excellent collection of Kangra miniatures , and also houses a school which teaches the art of miniature painting. Today, it is the home of the Dalai Lama and the Tibetan Government-in-Exile. Nine kilometers northward lies McLeodganj—a name that flutters like a prayer flag. Here, the air thins, and the soul expands. The Dalai Lama—the ocean-eyed sage—chose this perch. His monastery—Tsuglagkhang—sits like a lotus, its prayer wheels spinning. Monks chant, their voices weaving mantras. And when His Holiness appears, the crowd hushes—a collective breath held. His laughter—like wind chimes—echoes through the pines. McLeodganj, the upper town, named after Donald McLeod, the lieutenant governor of Punjab in 1848, is primarily a Tibetan settlement. Its focal point is the Tsuglagkhang Complex, located at the southern edge of the town, which contains the residence of the Dalai Lama (not open to visitors), the Namgyal Monastery where monks can be seen debating in the afternoons, and the important Tsuglagkhang Temple. A simple hall, painted in yellow, the temple has a raised dais from where the Dalai Lama holds discourses, and three beautiful images from the Buddhist pantheon – Sakyamuni (the Historical Buddha), Avalokitesvara , and Padmasambhava . The Dalai Lama is believed to be an incarnation of Avalokitesvara. Another temple in the complex has an intricate mural of the Kalachakra (“Wheel of Time”) and beautiful sand mandalas, painstakingly created by the monks over a period of time and then ritually destroyed.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The main focus of visiting pilgrims, monks and many tourists is the Tsuglagkhang, comprising the photang (official residence) of the Dalai Lama, the Namgyal Gompa, Tibet Museum and the Tsuglagkhang itself. The revered Tsuglagkhang is the exiles’ equivalent of the Jokhang Temple in Lhasa. Sacred to Avalokitesvara (Chenrezi in Tibet), the Tibetan deity of compassion, it enshrines a 3m-high gilded statue of the Sakyamuni Buddha, flanked by Avalokitesvara and Padmasambhava, the Indian scholar who introduced Buddhism to Tibet. Next to the Tsuglagkhang is the Kalachakra Temple , built in 1992, which contains mesmerising murals of the Kalachakra (Wheel of Time) mandala, specifically linked to Avalokitesvara, currently represented on earth by the Dalai Lama. The remaining buildings form the Namgyal Gompa , where you can watch monks debate most afternoons, sealing points of argument with great flourish, a foot stamp and a theatrical clap of the hands. Just inside the main entry gate is the Tibet Museum (admission ₹5; 9am-5pm) , telling the story of the Chinese occupation and the subsequent Tibetan exodus through photographs, interviews and video clips. A visit here is a must for anyone staying in McLeod Ganj.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated at the northern edge of town are the Tibetan Institute of Performing Arts, and the beautiful Norbulingka Institute, where traditional arts and crafts are promoted. Gangchen Kyishong, the administrative centre of the Tibetan Government-in-Exile, is midway between the upper and lower towns. This complex includes the excellent Library of Tibetan Works and Archives, a museum on the first floor with bronze images and thangkas, as well as the Institute of Tibetan Medicine. Nearby is the Nechung Monastery, the seat of the Tibetan State Oracle, whose predictions about major events in the coming year carry great weight in the Tibetan community. Also on the road to Kotwali Bazaar, close to McLeodganj, is the picturesque Church of St-John-in-the- Wilderness , a grey stone structure built in 1852. Brass plaques and superb Belgian stained-glass windows can be seen inside the church. The tomb of Lord Elgin, the British viceroy who died here in 1863 while on holiday, lies in the churchyard.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The wonderful Norbulingka Institute about 6 km from Dharamsala, was established in 1988 to teach and preserve traditional Tibetan art forms, including woodcarving, statue-making, thangka painting and embroidery. The centre produces expensive but exquisite craftworks, including embroidered clothes, cushions and wall-hangings; sales benefit refugee artists. Also here are delightful Japanese-influenced gardens and a central Buddhist temple with a 4m-high gilded statue of Sakyamuni. On Sundays and the second Saturday of each month the workshops are closed but the rest of the grounds are open.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When the 14th Dalai Lama, Tenzin Gyatso, fled Tibet in 1959 after the Chinese occupation, Dharamshala became his new home, and the base of the Tibetan Government-in-Exile. The town is today often called ‘Little Tibet’, preserving Tibet’s religious and cultural heritage, keeping the Tibetan cause alive internationally and serving as the focal point for the 100,000 Tibetans scattered in refugee settlements all over India. Dharamshala also attracts Buddhists from across the world, such as the Hollywood actor Richard Gere. The place ensures that Tibet’s distinctive religion and culture continue to flourish. Tibetan opera, known as Lhamo, is a comprehensive art combining folk songs, dance, storytelling, chant, acrobatics and religious performance. Thangkas, or scroll paintings framed in silk depicting Buddhist divinities, are among the traditional arts kept alive by the Tibetan refugees.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The pretty village of Dharamkot, north of McLeodganj, is reached by a 3-km (2-mile) long road, lined with deodar and oak trees. There are superb views of the Kangra Valley from the village. The town also is a spot for popular trek- Triund which is a moderate trek that covers breathtaking views of snow-clad Dhauladhar range. The trek is quite a popular attraction which a perfect escape from the bustling city lives.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This serene town transforms into a vibrant hub of cinematic artistry during the Dharamshala International Film Festival (DIFF). It attracts cinephiles, critics, filmmaker’s from across the globe to celebrate the magic of films.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Church of St-John-in-the- Wilderness , a grey stone structure built in 1852",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Norbulingka Institute, was established in 1988 to teach and preserve traditional Tibetan art forms, including woodcarving, statue-making, thangka painting and embroidery.",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel story: love in/with Bir, Himachal",
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dharamshala",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+        "retrieved_at": "2026-09-22T18:36:28.939554+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "destination_id": "IN-GUJARAT-DWARKA",
+  "destination_name": "Dwarka",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dwarka Railway Station (DWK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.5,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 25.9,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 25.6,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.8,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the embrace of the boundless Arabian Sea, lies the ancient city of Dwarka, built by the divine hands of Lord Krishna himself. Here, amidst the ebb and flow of time, pilgrims find solace in its spirituality, for Dwarka is one of the four sacred Hindu pilgrimage sites called the Char Dham. The very name, Dwarka, whispers of its celestial origin: 'Dwar,' the gate, 'ka,' the essence of Brahma, which translates to ‘gateway to heaven’ in Sanskrit. Truly, it stands as a sacred sanctum where mortals commune with the divine. Legend has it that Lord Krishna asked ‘Samudra’, the ocean god, to give him 12 yojanas (or 96 square kilometres) of land from the sea. Lord Krishna, with the help of Vishwakarma, the craftsman of the gods, then shaped the city of Dwarka, turning it into his abode. However, when Lord Krishna departed the mortal realm, Dwarka and its people were swallowed by the ocean, and cast into the realm of legend. It is this legend that makes Dwarka (also known as Devbhumi Dwarka) a crown jewel for Gujarat , because not only is it home to the stunning Dwarkadhish temple , it is also a marine archaeological marvel. Offshore excavations have revealed the remnants of an ancient city dating back to 2000 BC. Excavated relics, such as ancient stone anchors, offer compelling evidence of Dwarka’s pivotal role in the trade between India and Arabia from the 15th to the 18th centuries. Evidently, Dwarka was a significant trade port at that time, serving as a crucial gateway for foreign sailors venturing into India. Come, let’s dive deeper into the ancient marvels of this extraordinary city.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dwarka’s sanctuaries of faith await you across its sacred landscape, each a beacon of devotion and sanctity. At the heart of this mystical city awaits the resplendent Dwarkadhish Temple, which was constructed as a tribute to Lord Krishna by none other than his great-grandson, Vajranabh. Pay homage at the revered Nageshwar Jyotirlinga , where one of the twelve Jyotirlingas (the holiest of Shiva temples) in India stands. Venture into the Bhadkeshwar Mahadev temple , which is built on the very edges of Dwarka and, for some time, becomes a part of the ocean. And don’t forget the stunning, 2500-year-old Rukmini Devi temple , a testament to the eternal love between Lord Krishna and his beloved queen, Rukmini.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Dwarka, amidst the hallowed sanctuaries of devotion, lies an enchanting tapestry of natural beauty and coastal vistas. Behold the scintillating beaches that adorn the city's shores, offering the perfect retreat to sun-seekers and nature enthusiasts alike. Take a stroll along the vibrant Gomti Ghat, where the gentle caress of the river meets the boundless Arabian Sea. Catch the mesmerising sunset that paints the sky with hues of orange and gold, and experience the serenity of Dwarka Beach, where pristine shores meet the azure expanse of the sea. A short boat ride away lies Beyt Dwarka , a storied island steeped in legend where the submerged kingdom of ancient Dwarka awaits discovery. Scuba diving is a popular activity here for those who want to unveil the mysteries of its past. Nearby, the Rukmini Temple offers breathtaking views of Gopi Lake, which is famous for its yellow-coloured sand called Gopi Chandan. The unique colour of the sand is connected to the legend of gopis visiting Lord Krishna and eventually offering their lives to merge with the soil here. You can also embark on an unforgettable adventure at Shivrajpur Beach , just a short drive from Dwarka. Feel the soft white sand beneath your feet as you gaze out at the mesmerising waters of the Arabian Sea. You can also try scuba diving and snorkelling to discover the diverse marine life amidst the structures of the submerged city.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dwarka is at its most incredible during the winter, from November to February, which is the best time to explore the city's magnificent temples and storied historical sites. This is also the time when Dwarka pulsates with the vibrant energy of festivals, most notably Diwali. Amidst the flickering glow of a thousand lamps, the city reveals her true beauty, casting a spell of wonder upon all who behold her. So, whether you are in search of enlightenment, looking forward to a voyage through the pages of history, or simply want a tranquil retreat by the gentle sea, Dwarka holds the promise of an unforgettable experience that will linger in the depths of your heart and soul for eternity.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Dwarkadhish Temple was built over 2,500 years ago by Lord Krishna's grandson, Vajranabh.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhadkeshwar Mahadev Temple is sometimes swallowed by the Arabian Sea that gently rises and envelopes the temple entirely.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Nageshwar Jyotirlinga houses an awe-inspiring 25-metre (82-foot) statue of Lord Shiva.",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dwarka",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/dwarka",
+        "retrieved_at": "2026-09-22T18:36:26.087705+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

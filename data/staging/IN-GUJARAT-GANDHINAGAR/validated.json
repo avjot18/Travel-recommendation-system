@@ -1,0 +1,573 @@
+{
+  "destination_id": "IN-GUJARAT-GANDHINAGAR",
+  "destination_name": "Gandhinagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Sardar Vallabhbhai Patel International Airport (AMD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gandhinagar Capital railway station (GNC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sardar Vallabhbhai Patel International Airport (AMD)",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gandhinagar Capital railway station (GNC)",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Gandhinagar, India’s Tree Capital and Gujarat’s thoughtfully planned administrative heart. Designed with a rare balance of order and openness, the city offers a refreshing contrast to crowded urban centres. Tree-lined boulevards stretch beneath vast skies, public spaces feel unhurried, and the rhythm of daily life is calm and measured, allowing modern governance to exist in harmony with nature.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Named after Mahatma Gandhi, Gandhinagar is strategically located on the Delhi–Mumbai industrial corridor, just 23 kilometres north of Ahmedabad. With an impressive 54 percent green cover, it is widely regarded as Asia’s greenest capital city. The city is divided into 30 well-planned, self-sufficient sectors that function like mini townships, connected by wide, traffic-light boulevards. Buildings often recede behind dense canopies of trees, creating an uncluttered skyline where peace, greenery, and efficient urban planning come together seamlessly..",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gandhinagar presents a compelling mix of spirituality, heritage, and culture, led by the magnificent BAPS Swaminarayan Akshardham Temple , a pink-sandstone marvel dedicated to Lord Swaminarayan, celebrated for its intricate carvings, serene gardens, exhibitions, and evening musical fountain and laser shows. The city’s historical depth is equally evident at the Adalaj Stepwell , a 15th-century Indo-Islamic masterpiece whose beautifully carved subterranean chambers remain naturally cool, and at the striking Dandi Kutir Museum , a salt-mound-inspired structure that vividly narrates Mahatma Gandhi’s life and the legacy of the Dandi March through immersive, technology-driven displays.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nature and leisure complete the experience at Indroda Nature Park , often called India’s Jurassic Park, where dinosaur replicas, fossil exhibits, and impressive skeletal remains offer a journey through deep time. For a quieter escape, Aalloa Hills Resort provides a tranquil riverside setting with an adventure golf course, rich birdlife, Ayurvedic wellness therapies, and outdoor activities, making it an ideal blend of relaxation and recreation.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Navratri (September-October): Nine magical nights transform Gandhinagar into a kaleidoscope of colours. Thousands of people perform Garba and Dandiya Raas in traditional outfits at venues like Gandhinagar Cultural Forum Ground, and infectious energy and community spirit create unforgettable cultural immersion.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Uttarayan (January 14): This uniquely Gujarati phenomenon fills the skies with kites from dawn till dark, marking winter's turn to summer. Everyone takes to the rooftops for friendly aerial battles! People seek favoured kite-makers for strong, resilient kites with springy bamboo frames. Families savour Undhiyu and sesame sweets while thousands of kites dance against blue skies.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Authentic Gujarati cuisine balances sweet, spicy, and tangy flavours:",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Gujarati Thali: Complete feast with dal, kadhi, seasonal vegetables, rotli, rice, and sweets—unlimited servings",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Dhokla: Fluffy steamed chickpea flour cake, which is perfect for breakfast or a snack",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Fafda-Jalebi: An Iconic Sunday morning combination of crispy fried snack with sweet spiral dessert",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Khandvi: Delicate gram flour rolls with mustard and coconut",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Thepla : Spiced flatbreads perfect for any meal",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Undhiyu : Winter's special mixed vegetable delicacy slow-cooked in earthen pots",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "● Jalebi: Sweet, syrupy spiral dessert served piping hot",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Most eateries are vegetarian and family-friendly, offering mild-spice versions for travelers.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gandhinagar experiences pleasant weather for most of the year, with each season offering its own appeal. Winter, from October to February, is the best time to visit, as the climate is cool and comfortable, making it ideal for sightseeing, nature walks, and enjoying local festivals. The monsoon season, spanning July to September, transforms the city into a lush green landscape, with mild showers enhancing its natural beauty and refreshing atmosphere. Summer, from March to June, can be warm, but the city’s abundant tree cover and well‑planned green spaces help keep conditions manageable for visitors and residents alike.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport, Sardar Vallabhbhai Patel International Airport in Ahmedabad (18 km), connects Gandhinagar to major global destinations including the USA, UK, Middle East, and Southeast Asia.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The Gandhinagar Capital Railway Station (GNC) in Sector 14 is well connected with express trains like Shanti Express and Haridwar Mail.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Excellent highways link Gandhinagar to Ahmedabad, Vadodara, and beyond. GSRTC buses, private operators, and taxis ensure seamless travel.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Swaminarayan Akshardham: The mandir is constructed entirely from pink sandstone without the use of steel, following traditional ancient temple-building techniques.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dandi Kutir Museum: Designed in the form of a giant salt mound, the museum symbolically reflects Mahatma Gandhi’s iconic Dandi March.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adalaj ki Vav: Despite being over 500 years old, the stepwell remains naturally cool due to its unique five-level, inward-sloping architecture.",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dadra and Nagar Haveli and Daman and Diu",
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gandhinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/gandhinagar",
+        "retrieved_at": "2026-09-22T18:36:26.205424+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

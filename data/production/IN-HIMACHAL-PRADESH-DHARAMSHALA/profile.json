@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-DHARAMSHALA",
+  "name": "Dharamshala",
+  "state_or_ut": "Himachal Pradesh",
+  "region": null,
+  "description": "Dharamshala is an officially listed tourism destination in Himachal Pradesh, India. It is best treated as a mountains, nature, adventure travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "mountains",
+    "nature",
+    "adventure",
+    "wellness",
+    "snow"
+  ],
+  "best_for": [
+    "mountains",
+    "trekking",
+    "snow",
+    "couples",
+    "adventure"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "March",
+    "April",
+    "May",
+    "June",
+    "October",
+    "November"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 2.4,
+      "maximum_celsius": 20.2
+    },
+    "february": {
+      "minimum_celsius": 3.7,
+      "maximum_celsius": 22.7
+    },
+    "march": {
+      "minimum_celsius": 6.3,
+      "maximum_celsius": 27.6
+    },
+    "april": {
+      "minimum_celsius": 10.2,
+      "maximum_celsius": 31.8
+    },
+    "may": {
+      "minimum_celsius": 13.5,
+      "maximum_celsius": 35.2
+    },
+    "june": {
+      "minimum_celsius": 15.9,
+      "maximum_celsius": 35.5
+    },
+    "july": {
+      "minimum_celsius": 17.3,
+      "maximum_celsius": 31.0
+    },
+    "august": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 29.5
+    },
+    "september": {
+      "minimum_celsius": 14.6,
+      "maximum_celsius": 29.0
+    },
+    "october": {
+      "minimum_celsius": 11.2,
+      "maximum_celsius": 28.2
+    },
+    "november": {
+      "minimum_celsius": 7.1,
+      "maximum_celsius": 25.2
+    },
+    "december": {
+      "minimum_celsius": 4.1,
+      "maximum_celsius": 22.5
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Himachal Pradesh",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Kangra Airport (DHM), Kangra (Gaggal) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+    ],
+    "railway_station": [
+      "Pathankot Railway Station (PTK)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Himachal Pradesh",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Dharamshala",
+      "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/dharamshala",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

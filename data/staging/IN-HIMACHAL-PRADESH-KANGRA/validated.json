@@ -1,0 +1,362 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-KANGRA",
+  "destination_name": "Kangra",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kangra Airport (DHM), Kangra (Gaggal) Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Pathankot Junction Railway Station (PTK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.0,
+        "maximum_celsius": 22.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.3,
+        "maximum_celsius": 26.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 5.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 17.7,
+        "maximum_celsius": 40.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 15.9,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 10.4,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 6.4,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 1.9,
+        "maximum_celsius": 25.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pathankot Junction Railway Station (PTK)",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the verdant embrace of the Himalayas, Kangra in Himachal Pradesh, India, stands as a confluence of rich history, vibrant culture, and breathtaking natural beauty. This picturesque valley, renowned for its majestic landscapes and ancient heritage, offers an inspiring glimpse into the past while promising an invigorating experience for the modern traveller.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra's history is as deep and intricate as the valley itself. The region finds mention in ancient texts like the Mahabharata and has been a significant center of culture and power since the Vedic period. Known historically as Nagarkot, it is said to have been established by the Rajput king, Susharma Chandra, a descendant of the Katoch dynasty, one of the oldest surviving royal lineages in the world.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For centuries, Kangra was the stronghold of the Katoch dynasty, which saw the construction of the formidable Kangra Fort. This ancient fort, one of the largest and oldest in India, has witnessed the rise and fall of many empires, from the Mauryas and the Kushans to the Mughals and the Sikhs. The fort's walls still echo the tales of valor and grandeur, offering a panoramic view of the valley that is both humbling and awe-inspiring.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra is not just a bastion of military history but also a cradle of cultural and artistic excellence. The region is famous for the Kangra school of painting, which flourished under the patronage of the local kings in the 18th century. These miniature paintings, known for their intricate details and vibrant colours, depict scenes from Hindu mythology, particularly the life of Lord Krishna.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The spiritual aura of Kangra is palpable, with numerous temples dotting its landscape. The Brajeshwari Devi Temple , dedicated to the goddess Vajreshwari, is a prominent pilgrimage site believed to have been established by the Pandavas of Mahabharata. Another significant shrine is the Baijnath Temple , an exquisite example of Nagara style architecture dedicated to Lord Shiva.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra's natural beauty is unrivalled, with lush green valleys, cascading waterfalls, and snow-capped peaks painting a picture of serene magnificence. The region is a paradise for adventure enthusiasts, offering activities such as trekking, paragliding, and camping. The Triund Hill trek is particularly popular, providing stunning views of the Dhauladhar range.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra is also known for its sprawling tea gardens, producing some of the finest tea in India. The verdant tea estates, especially around Palampur, offer a tranquil retreat and an opportunity to savour the unique flavour of Kangra tea.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In 2014, the Great Himalayan National Park, located near Kangra, was declared a UNESCO World Heritage Site. This pristine park, home to diverse flora and fauna, underscores the region's ecological significance and the need for conservation efforts.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra is not merely a destination; it is an experience that captivates the soul. It invites you to explore its ancient fortresses, immerse yourself in its rich cultural heritage, seek blessings at its revered temples, and lose yourself in its natural beauty. Each moment in Kangra is a step back in time and a leap into the heart of nature's grandeur. Kangra is a testament to the timeless beauty and resilience of India's cultural and natural heritage. It stands as a beacon of history, art, and spirituality, offering an inspiring retreat for those who seek to connect with the past and the pristine beauty of the present. Whether you are a history buff, an adventure seeker, or a spiritual traveller, Kangra promises a journey that is as enriching as it is exhilarating.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra Fort is said to be India's oldest fort.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Formed in the Vedic period 3,500 years ago , Kangra Valley was home to gurus and herbs that could cure the dead.",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangra is home to the world's oldest serving royal dynasty, the Katoch .",
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage Clear all Show results",
+        "Shopping Clear all Show results",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kangra",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/kangra",
+        "retrieved_at": "2026-09-22T18:36:29.061330+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,512 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-JABALPUR",
+  "destination_name": "Jabalpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jabalpur Airport (Dumna Airport) (JLR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jabalpur Junction (JBP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of Madhya Pradesh's Mahakoshal region, Jabalpur is a destination where nature, history, spirituality, and wildlife come together in remarkable harmony. Set along the sacred Narmada River , the city is renowned for the spectacular Marble Rocks of Bhedaghat , the thunderous Dhuandhar Falls , ancient temples, Gond-era heritage, and its role as a gateway to some of India's most celebrated tiger landscapes.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Steeped in the legacy of the Gond rulers and the legendary warrior queen Rani Durgavati , Jabalpur offers travellers an immersive journey through centuries of history while showcasing some of Central India's most dramatic natural wonders. Whether cruising between gleaming marble cliffs, exploring historic forts, or venturing into nearby tiger reserves, every experience here reveals a different facet of the region's rich character.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jabalpur's defining feature is the Narmada River , which has sculpted one of India's most extraordinary geological landscapes over millions of years. At Bhedaghat , the river flows through towering Marble Rocks , creating a breathtaking gorge where sunlight transforms the stone into shades of silver, pink, blue, and gold. Boat rides through this magnificent canyon offer visitors one of Central India's most memorable experiences.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short distance away, the river narrows and plunges over the famous Dhuandhar Falls , generating clouds of mist and a powerful roar that can be heard from afar. Visitors can witness the spectacle from multiple viewpoints or enjoy panoramic views from the ropeway overlooking the gorge. Beyond the river valley, the landscape unfolds into rocky hills, forested reserves, waterfalls, and fertile plains, making Jabalpur a natural hub for exploring Central India's diverse terrain.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jabalpur's identity is shaped by a rich blend of natural and cultural heritage. The city preserves the legacy of the Gond Kingdom through landmarks such as Madan Mahal Fort , a hilltop stronghold associated with Rani Durgavati , whose courage and leadership remain central to local folklore.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ancient sites like the Chausath Yogini Temple reflect the architectural achievements of the Kalachuri rulers . Perched above the Narmada Valley, the temple rewards visitors with sweeping views alongside its remarkable circular design. The sacred Narmada River continues to inspire pilgrimages and spiritual traditions that have flourished here for centuries.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding another dimension to Jabalpur's heritage are the Military College of Materials Management Heritage Walk and Gaurav Sangrahalaya (J&K Rifles Regimental Museum) , which showcase the city's long-standing association with India's armed forces and preserve important chapters of military history.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its river landscapes, Jabalpur offers diverse opportunities for nature lovers. Dumna Nature Reserve Park provides tranquil forest trails, birdwatching opportunities, and wildlife encounters on the city's outskirts, while the fascinating Balancing Rock Formation stands as a striking example of the region's unique geology.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The towering Kachnar City Shiva Temple , with its 76-foot statue of Lord Shiva and replicas of the twelve Jyotirlingas, combines spiritual significance with impressive architecture.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jabalpur also serves as the gateway to some of India's most celebrated wildlife destinations. Nearby Kanha National Park and Bandhavgarh National Park are internationally renowned for their tiger populations and conservation success stories. Travellers looking to extend their journey can also cruise across the waters of Bargi Dam , explore the historic riverside town of Mandla , or visit Ghughua Fossil National Park , home to prehistoric plant fossils dating back millions of years.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The fascinating Balancing Rock Formation showcases the region's unique geology and remains one of Jabalpur's most photographed landmarks. The towering Kachnar City Shiva Temple , home to a 76-foot statue of Lord Shiva and replicas of the twelve Jyotirlingas, is an important spiritual landmark and attracts devotees throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jabalpur also offers distinctive military heritage experiences through the Military College of Materials Management Heritage Walk and Gaurav Sangrahalaya (J&K Rifles Regimental Museum) , both of which celebrate the city's long association with India's armed forces.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the city, travellers can enjoy a cruise at Bargi Dam , explore the historic town of Mandla and its fort, or discover prehistoric plant fossils at Ghughua Fossil National Park .",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Jabalpur is from October to March , when pleasant temperatures make sightseeing, boating, heritage exploration, and wildlife excursions especially enjoyable. The monsoon season (July to September) transforms the landscape into a lush green paradise. During this period, Dhuandhar Falls , Bhadbhada Falls , Nidan Falls , and Ghughra Falls are at their most spectacular, although boating operations at Bhedaghat may occasionally be suspended due to high water levels.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Jabalpur Airport (Dumna Airport) (JLR) is located approximately 20 km from the city centre and offers regular connectivity to Delhi , Mumbai , Pune , Nagpur , Indore , and Bhopal .",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Jabalpur Junction (JBP) is a major railway hub on the West Central Railway network and provides direct connections to several major cities across India.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Jabalpur is well connected through national and state highways, making it easily accessible from Bhopal , Nagpur , Indore , Raipur , and other key destinations in Central India.",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kandariya Mahadev Temple, Khajuraho- The Grandeur of carvings and divinity!",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raneh Falls - A preserved area with Magnificent Waterfall around underrated Canyon with colourful rocks and lush green Forest with active wildlife around Ken river in Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahma Temple In Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airport Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jabalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/jabalpur",
+        "retrieved_at": "2026-09-22T18:36:36.034837+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

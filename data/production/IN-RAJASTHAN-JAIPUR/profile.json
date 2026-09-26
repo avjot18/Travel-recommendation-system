@@ -1,0 +1,137 @@
+{
+  "destination_id": "IN-RAJASTHAN-JAIPUR",
+  "name": "Jaipur",
+  "state_or_ut": "Rajasthan",
+  "region": null,
+  "description": null,
+  "travel_styles": [
+    "heritage",
+    "cultural",
+    "food"
+  ],
+  "best_for": [
+    "history",
+    "heritage",
+    "food",
+    "shopping",
+    "family"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 3.5,
+      "maximum_celsius": 27.6
+    },
+    "february": {
+      "minimum_celsius": 6.7,
+      "maximum_celsius": 31.8
+    },
+    "march": {
+      "minimum_celsius": 11.6,
+      "maximum_celsius": 37.6
+    },
+    "april": {
+      "minimum_celsius": 17.6,
+      "maximum_celsius": 42.1
+    },
+    "may": {
+      "minimum_celsius": 21.5,
+      "maximum_celsius": 44.8
+    },
+    "june": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 44.2
+    },
+    "july": {
+      "minimum_celsius": 22.9,
+      "maximum_celsius": 39.9
+    },
+    "august": {
+      "minimum_celsius": 22.7,
+      "maximum_celsius": 36.5
+    },
+    "september": {
+      "minimum_celsius": 21.1,
+      "maximum_celsius": 37.7
+    },
+    "october": {
+      "minimum_celsius": 15.4,
+      "maximum_celsius": 37.1
+    },
+    "november": {
+      "minimum_celsius": 9.8,
+      "maximum_celsius": 33.4
+    },
+    "december": {
+      "minimum_celsius": 5.4,
+      "maximum_celsius": 29.0
+    }
+  },
+  "ideal_duration_days": [
+    2,
+    4
+  ],
+  "budget_tier": null,
+  "activities": [
+    {
+      "name": "fort visits",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage walks",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "shopping",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "food exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "museum visits",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Dal Baati Churma",
+    "Rajasthani cuisine"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Jaipur International Airport (JAI), Jaipur"
+    ],
+    "railway_station": [
+      "Jaipur Junction Railway Station (JP)"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "notes": "Richer seed record; verify live operational details before display.",
+  "data_quality": "high",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Jaipur",
+      "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/jaipur",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

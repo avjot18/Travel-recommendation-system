@@ -1,0 +1,402 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-AGRA",
+  "destination_name": "Agra",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Agra Airport (AGR) Indira Gandhi International Airport (DEL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Agra City Railway Station (AGA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.1,
+        "maximum_celsius": 27.7
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.7,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.1,
+        "maximum_celsius": 43.1
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 46.1
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 46.0
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 41.3
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 37.1
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 37.4
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.8,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.4,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.5,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL)",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sometimes, a city becomes inseparable from its most iconic landmark. Utter the name ‘Agra’, and two words instantly spring to mind: Taj Mahal. A monument crafted from white marble so exquisite that it earns its place among the Seven Wonders of the World. A testament to human artistry, the Taj Mahal draws people worldwide with its breathtaking beauty and grandeur. But Agra is more than just Taj. This historic city on the banks of the Yamuna River in the northern state of Uttar Pradesh is where the legacy of empires meets the vibrant energy of the present. Agra’s roots can be traced back to the great Indian epic Mahabharata, where the region is mentioned as ‘Agraban,’ a significant part of the Braj Bhumi, the sacred land where Lord Krishna spent his childhood. Fast-forward centuries, and Agra emerged as the capital of the Mughal Empire. Today, the city's rich Mughal heritage is evident in its awe-inspiring tombs and mausoleums. No wonder Agra boasts of not one or two but three UNESCO World Heritage Sites! But beyond its historic sites, Agra's irresistible old-world charm will surely sweep you off your feet. Wander through its bustling streets filled with the aroma of spices and the sounds of everyday life. Explore the city's vibrant old bazaars, which offer a diverse range of goods, from leather to marble artefacts, traditional dresses to tantalising food joints, and an array of local crafts. Agra is a microcosm of India's rich diversity, waiting to be explored. Agra also finds itself strategically placed on popular tourist circuits. Explore the Golden Triangle tourist circuit, along with Delhi and Jaipur, or delve deeper into the state’s rich culture through the Uttar Pradesh Heritage Arc, connecting Agra to Lucknow, the state capital, and the holy city of Varanasi. Come, let’s dive deeper into the city, which is a blend of architectural marvels and India’s rich cultural experiences.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you love history, Agra will delight your senses. While its remarkable historical legacy traces back to Sikandar Lodi's reign, it reached its zenith during the golden age of the Mughals in the early 16 th century. This era saw Agra blossom into a magnificent centre of art and culture, and gave the world the architectural wonder we know today: the Taj Mahal. Dominating the Agra skyline and captivating hearts for centuries, the Taj Mahal needs no introduction. This UNESCO World Heritage Site, a mausoleum built by Emperor Shah Jahan in memory of his third wife, Mumtaz Mahal, is a poem etched in stone. As you approach the Taj Mahal, its flawless symmetry and intricate details will leave you breathless. Lose yourself in the beauty of its reflecting pool, the manicured gardens, and the intricate inlay work that tells a story of love and loss. Step back in time with the imposing Agra Fort , a majestic red sandstone Mughal marvel near the Taj Mahal gardens. This fort served as the seat of power for generations of emperors. Explore its sprawling courtyards and fairy-tale palaces like the Jahangir Palace and the Khas Mahal, or find serenity in the fort's two beautiful mosques. A short drive from Agra lies Fatehpur Sikri , another UNESCO World Heritage Site. This abandoned city, built by Emperor Akbar in the 16 th century, will transport you to a bygone era. Wander through the deserted courtyards of the Buland Darwaza, the Jami Masjid, Jodha Bai’s Palace, the Panch Mahal, and more, each of which showcases the artistry of the Mughal period. Explore the dazzling display of Mughal craftsmanship at Chini ka Rauza , the 17 th -century tomb nicknamed the ‘China Tomb’ for its unique glazed tiles. Finally, embark on a journey beyond the city limits to discover Sikandra , the final resting place of Emperor Akbar himself. This magnificent tomb complex, built in a blend of Hindu, Islamic, and Buddhist styles, is a fascinating example of Akbar's religious tolerance.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra's a city that feeds your soul in more ways than one! Being the former capital of the Mughal Empire, it's no surprise Agra boasts delicious Mughlai cuisine. Dig into juicy kebabs, flavourful curries, and fluffy naan that soaks up all that goodness. The best part? You can find these gems at both fancy restaurants and budget-friendly eateries. But Agra goes way beyond fancy royal eats. You must try the legendary Petha, a sweet treat made from ash gourd. It's been around for over 350 years, and Agra makes some of the best! Feeling peckish in between sightseeing? Grab a bag of Dal Moth, a savoury lentil snack perfect for munching on the go. Don't forget to grab some Petha or Dal Moth for your folks back home—they'll thank you for it! Kick-start your day with steaming hot sabzi (vegetables) and fluffy kachoris (fried pastries). Grab some crispy samosas or crunchy jalebis in the evening for a wholesome Agra experience. Head to Sadar Bazaar and explore the famous Chaat Gali, a street lined with vendors offering delicious ‘chaat’. Sink your teeth into Bhalla (fried potato patties), Raj Kachori or Gol Gappe - once you try them, you’ll never have enough!",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Being a historic city, Agra is home to labyrinthine lanes of old bazaars bustling with life. For everything from leather goods to spices, hit up the bustling Sadar Bazaar, Agra's main shopping artery. Head to Kinari Bazaar, which is perfect for finding handicrafts, jewellery, accessories or unique souvenirs, or visit Hing Ki Mandi for a perfect pair of shoes! Need a steal? Raja Ki Mandi, near the railway station, is your discount haven for clothes and local eats. Feeling fancy? Fatehabad Road has high-end hotels and swanky marble stores for you. For a unique experience, consider a cycle rickshaw ride through the bustling lanes.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra is known for its rich tradition of handicrafts, especially its exquisite marble inlay work. Picture the stunning floral patterns adorning the Taj Mahal—that's the magic of ‘parchin kari,’ a technique requiring meticulous detail. These skills are still alive; you might even spot craftsmen practising their art in local workshops. Wander through bustling bazaars like Sadar Bazaar and Kinari Bazaar, where you'll find a treasure trove of handcrafted leather goods. From bags and wallets to jackets and shoes, these pieces are perfect souvenirs that embody Agra's artisanal heritage. For those who appreciate a touch of royalty, Agra offers Zardozi, a stunning metal thread embroidery technique. Once reserved for the attire of kings and queens, Zardozi now adorns everything from lehengas and sarees to salwar kameez and even shoes. Imagine owning a piece steeped in such rich history!",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra isn't just about history and stunning monuments; it's also a city brimming with spiritual significance. Visit Itimad-ud-Daulah's Tomb , or ‘Baby Taj,’ an exquisite mausoleum of a Mughal court minister nestled in a Charbagh-style garden. Seek tranquillity at Soami Bagh Samadhi , a masterpiece of latticework and stonework on the city's outskirts. Immerse yourself in Sikh history at Gurdwara Guru ka Tal, a pilgrimage site dedicated to Guru Tegh Bahadur Ji. Finally, experience the deep devotion of pilgrims at the ancient Shri Mankameshwar Mandir, one of Agra's most revered temples dedicated to Lord Shiva.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While the Taj Mahal shines brightly as Agra's star attraction, you can elevate your experience with the monument by engaging in various events and activities. For a vibrant cultural experience, don't miss the Taj Mahotsav – a 10-day extravaganza held near the Taj Mahal's eastern gate. It's a feast for the senses, showcasing everything from traditional Indian crafts to mouthwatering cuisine and captivating music and dance performances. You can even experience a unique perspective of the Taj Mahal with a hot air balloon safari! History buffs will love stepping back in time with the Kalakriti Dance Drama show, ‘Mohabbat The Taj.’ This captivating performance brings the Mughal era to life through stunning costumes, energetic dances, and a powerful love story. If you seek a moment of peace, Mehtab Bagh , a Mughal garden across the Yamuna River, is your haven. Stroll through lush greenery, inhale the sweet scent of flowers, and enjoy breathtaking views of the Taj Mahal. You can even hop on a scenic boat ride down the Yamuna and witness the Taj reflected on the water's surface – a truly magical experience!",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra is an experience that lingers long after you leave. From the ethereal beauty of the Taj Mahal to the vibrant energy of its bazaars, Agra takes you on a historic ride unlike any other. So, pack your bags and prepare to be captivated by its magic. The ideal time to visit Agra is during the spring (February to April) or autumn (September to November), when the weather is pleasant.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Taj Mahal takes on different hues throughout the day: appearing pinkish in the morning, milky white in the evening, and golden under the moonlight.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra Fort is the only fort in India that has been a residence of the Mughal emperors for generations.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Itmad-ud-Daulah's Tomb is said to have inspired the design of the Taj Mahal.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Agra Fort plays a pivotal role in the Sherlock Holmes mystery ‘The Sign of the Four’ by Sir Arthur Conan Doyle.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra holds historical significance as the birthplace of two notable religions: Dīn-i Ilāhī, which thrived during the reign of Akbar, and the Radhaswami Faith , boasting approximately two million followers worldwide.",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra holds the unique distinction of being the only Indian city with three UNESCO World Heritage Sites: the Taj Mahal , Agra Fort , and Fatehpur Sikri .",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Magnificent world heritage site Taj Mahal",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agra beyond Taj – explore lesser-known places of Agra",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taj and beyond - exploring the must-visit spiritual spots in Agra",
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Agra",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+        "retrieved_at": "2026-09-22T18:36:47.352118+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

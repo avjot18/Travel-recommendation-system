@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-KERALA-MALAPPURAM",
+  "destination_name": "Malappuram",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Calicut international Airport (CCJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Tirur Railway Station (TIR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Framed by the Arabian Sea to the west and the Nilgiri hills to the east, Malappuram unfolds as a landscape of rolling hills, teak forests, rivers, and living traditions. A district shaped equally by nature and history, Malappuram offers a deeply immersive travel experience that blends scenic beauty with cultural depth.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is a haven for nature lovers, defined by its lush greenery, cascading waterfalls, and gently flowing rivers. Three legendary rivers—the Chaliyar, Kadalundi, and Bharathapuzha—course through the region, nourishing its fertile plains and tranquil backwaters.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among its most iconic natural assets are the Nilambur Teak Forests , home to some of the oldest teak trees in the world. Walking through these forests is an experience in itself, where towering trunks, filtered sunlight, and birdsong create a quiet, almost meditative atmosphere. Adding to Nilambur’s forest heritage is the Nilambur Teak Museum , the world’s first museum dedicated to teak, offering insights into the history, ecology, and sustainable management of this prized timber.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Equally compelling is the Kadalundi Bird Sanctuary , a mosaic of mangroves and wetlands that becomes a refuge for migratory birds during the winter months. For photographers and birdwatchers, this sanctuary offers moments of rare stillness and spectacle.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another unique spiritual landmark in Malappuram is the Garudan Kavu Temple, located at Triprangode near Tirur. Widely regarded as the only major temple in India dedicated to Garuda, the celestial mount of Lord Vishnu, the temple holds a special place in Hindu spiritual traditions. Also known as Thiru Vellamassery Garudan Temple, the complex houses a rare shrine to Lord Vishnu in his Kurmavatara (tortoise form), making it a site of both religious significance and cultural distinction.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Barabati Fort stands as a silent sentinel to an earlier time, guarding its banks and gates with pride from past wars and kingdoms that once flourished here. When walking through its hallowed grounds, history will speak back through whispers in the wind.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the heart of the city, Kottakunnu—literally meaning “fort on a hill”—was once the site of a Zamorin-era fort. Today, remnants of its past coexist with landscaped parks, an open-air auditorium, cycling tracks, and recreational zones, making it a popular gathering space for locals and visitors alike. The hill also stands as a silent witness to the freedom movement and the sacrifices made during the anti-colonial struggle.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The town of Kottakkal is globally synonymous with Ayurveda, owing to the legendary Kottakkal Arya Vaidya Sala. Founded in 1902 by Vaidyaratnam P. S. Warrier, this institution has played a pioneering role in making authentic Ayurvedic treatment accessible across India and beyond. With hospitals, research centres, pharmacies, and educational institutions, Kottakkal remains a cornerstone of India’s wellness heritage.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district’s cuisine reflects its Malabar roots—rich, aromatic, and deeply satisfying. Signature dishes such as Malabar biryani, pathiri, and seafood preparations highlight the influence of spices, coconut, and coastal produce. Local markets and eateries offer an authentic culinary journey that is as memorable as it is flavourful.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking adventure, Malappuram offers trekking trails through the Western Ghats, panoramic hill views, and river-based activities along the Chaliyar. These experiences allow travellers to engage closely with the region’s diverse terrain and unspoiled landscapes.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Malappuram is between October and March , when the weather is pleasant and well-suited for sightseeing, nature walks, and outdoor activities. The monsoon months, while lush and scenic, are best suited for travellers seeking quiet, rain-washed landscapes.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Calicut International Airport (CCJ) is the nearest airport, located approximately 30 km from Malappuram. From the airport, taxis and buses are readily available for travel to Malappuram.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Tirur Railway Station (TIR) is the nearest major railhead, situated about 26 km from Malappuram. The station is well connected to Kozhikode, Kochi, Thiruvananthapuram, and other major cities across Kerala and India.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Malappuram is well connected by road to Kozhikode, Palakkad, Thrissur, and Kochi. Regular KSRTC buses, private buses, and taxis operate from nearby cities, with Malappuram easily accessible via state highways and national highways.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thirunavaya: Thirunavayawas once the venue of the legendary Mamankam festival, a grand medieval gathering that drew traders, scholars, and warriors from across South India and beyond.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ponnani Juma Masjid: Ponnani Juma Masjid was a historic centre of Islamic learning, earning the town the title “Little Mecca of Malabar” for its role in religious scholarship and maritime trade.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nilambur Teak Museum: Nilambur Teak Museum is the world’s first museum dedicated exclusively to teak, showcasing centuries of forest management and the global journey of Kerala teak.",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Malappuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/malappuram",
+        "retrieved_at": "2026-09-22T18:36:33.920565+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

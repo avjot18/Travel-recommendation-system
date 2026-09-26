@@ -1,0 +1,493 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-ZIRO",
+  "destination_name": "Ziro",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lilabari Airport (IXT) Hollongi Airport (DRE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nearest Railway Station Naharlagun (NHLN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away amid the forbidding yet breathtaking mountain-scape of Arunachal Pradesh, Ziro Valley is one of Northeast India’s most captivating holiday destinations. Blessed with natural charm, sprawling rice terraces, quaint Apatani villages, pine-clad hills and mist-laden valleys, Ziro offers a rare blend of tranquillity, culture and adventure.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located at an elevation of about 1,500 metres, nearly 165 km from Itanagar, Ziro is a lush green paradise and a haven for soul seekers, nature lovers, photographers and eco-tourists. Shortlisted in 2012 for UNESCO World Heritage Site status, the valley is renowned for its unique paddy-cum-pisciculture system practised by the indigenous Apatani tribe which is an extraordinary example of sustainable living.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Talley Valley Wildlife Sanctuary : A true biodiversity treasure, Talley Valley Wildlife Sanctuary lies at an altitude of around 2,400 metres and spans 337 sq km. Covered in dense forests of silver fir, pine, bamboo, orchids and rhododendrons, it is home to rare and endangered species, including the clouded leopard. The sanctuary also houses the unique bamboo species Pleioblastus simone, found nowhere else in the world, making Talley Valley a paradise for wildlife enthusiasts, botanists and trekkers.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dilopolyang Maniipolyang : This scenic twin hillock near Talley Valley is a popular trekking and picnic destination. Wrapped in dense greenery, it offers a calming escape into nature and is ideal for light hikes, photography and unwinding amidst forested silence.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kile Pakho Viewpoint : One of Ziro’s most iconic spots, Kile Pakho offers sweeping panoramic views- the Ziro Plateau on one side and the snow-capped Eastern Himalayas on the other. Sunrise and sunset here are magical, as golden light dances across valleys and mist-filled hills. Beyond its scenic beauty, Kile Pakho provides insight into Apatani traditions and village life.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pine Grove (Myolyang) : Located just 3 km from Old Ziro, Pine Grove is a tranquil picnic and photography hotspot dotted with towering pine trees. Ideal for nature walks and relaxed day outings, it is a favourite retreat for families as well as shutterbugs.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siikhe Lake : The first artificial lake of Arunachal Pradesh, Siikhe Lake lies about 2.5 km from Hapoli town. Originally developed as a water conservation project, it has become a serene tourist attraction. Surrounded by pine forests, the lake is perfect for boating, birdwatching (especially migratory birds), picnicking and peaceful strolls.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ziro Valley is primarily inhabited by the Apatani people, one of the most progressive and environmentally conscious tribes of Northeast India. Their ingenious terrace-based paddy-cum-pisciculture farming system uses natural water channels to grow rice and fish together, which is an eco-friendly practice admired worldwide.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The valley comes alive during Apatani festivals, most notably the annual four-day Ziro Festival, when traditional attire, music, dance, and rituals transform the town into a vibrant celebration, offering visitors a deeply immersive cultural experience.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dolo Mando : Situated on the western side of Ziro along the Daporijo Road, Dolo Mando is accessible only by trekking. The trail rewards adventurers with stunning views of Hapoli town and Old Ziro. Its serene atmosphere and elevated vantage points make it a perfect escape from city life.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Midey : Known for its towering blue pine trees and dense bamboo groves, Midey is a dream destination for trekkers. It houses the largest tree in the Apatani Valley, measuring nearly 7 metres in girth at breast height (GBH). Accessible solely on foot, Midey promises raw wilderness, rugged trails and unforgettable vistas.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tarin Fish Farm : A shining example of sustainable agriculture, Tarin Fish Farm showcases the Apatani tribe’s traditional paddy-cum-pisciculture system. Here, two rice crops, namely Mipya and Emoh, are cultivated alongside the Ngihi fish crop.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The farm uses eco-friendly practices such as water recycling and supports biodiversity while remaining economically viable. A visit here offers insight into indigenous farming wisdom and rural life in Ziro.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Meghna Cave Temple : Perched nearly 300 feet high, the 5,000-year-old Meghna Cave Temple is dedicated to Lord Shiva. Surrounded by stunning views, the temple is thronged by both devotees and tourists. Visiting during Maha Shivratri offers a truly spellbinding spiritual experience.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shri Sidheshwar Nath Temple : Hidden deep within the forests of Kardo, this sacred site houses the world’s largest naturally formed Shiv Linga, measuring 25 feet tall and 22 feet wide, at an altitude of 5,754 feet.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovered in 2004, the site features naturally formed stone figures of Lord Shiva, Goddess Parvati, Lord Ganesha, Kartikeya and Nandi, with water flowing continuously from nearby Ganga Lake. Surrounded by pristine nature, the temple is also a rewarding trekking destination.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tipi Orchid Research Centre : Located on the banks of the Kameng River, the Tipi Orchid Research Centre spreads across 10 hectares and is home to over 1,000 species of orchids. Its famous orchid glass house displays stunning varieties of Paphiopedilum, Dendrobium, Cattleya and Vanda, making it a must-visit for nature lovers and botanists.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, whether you are seeking solitude, cultural immersion, wildlife exploration, spiritual solace or thrilling treks, Ziro Valley offers an experience unlike any other. With its harmonious blend of nature and tradition, this enchanting plateau invites you to slow down, breathe deep and rediscover the joy of simple living—making it one of Arunachal Pradesh’s most unforgettable destinations.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Ziro Valley is during spring (March-May) and autumn (September-November) for pleasant weather, lush green landscapes, and festivals like the Ziro Music Festival which is held in September.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Lilabari Airport (IXI) is the nearest airport, located approximately 123 km from Ziro. From Lilabari, taxis and shared vehicles are available, and the journey takes around 4–5 hours. Alternatively, Hollongi Airport (HGI), near Itanagar, is about 135 km from Ziro and offers a convenient air access point, followed by a 3–4 hour road journey.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Naharlagun Railway Station (NLG) is the nearest major railway station, situated about 100 km from Ziro. The station is well connected to Guwahati and other major cities of Assam. From Naharlagun, taxis and shared cabs are available for onward travel to Ziro.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Ziro is accessible by road via state highways connecting central Arunachal Pradesh. It is approximately 100 km from Itanagar and 445–470 km from Guwahati . Regular buses operated by the Arunachal Pradesh State Road Transport Corporation, along with shared sumos and taxis, operate from Itanagar, Naharlagun, and Guwahati to Ziro.",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shri Siddheshwar Nath Temple in Ziro houses the world's tallest naturally formed Shiva Lingam, which is about 25 ft high and 22 ft wide",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ziro",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/ziro",
+        "retrieved_at": "2026-09-22T18:36:22.789756+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "destination_id": "IN-CHHATTISGARH-DANTEWADA",
+  "destination_name": "Dantewada",
+  "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gidam (GIZ) Kamalur (KMLR) Bacheli (BCHL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Say “Dantewada,” and you summon the grace of Maa Danteshwari, Bastar’s presiding deity and one of the 52 revered Shakti Peethas. Set where the Shankini and Dankini rivers meet in southern Chhattisgarh, this is a place where myth and memory shape daily life. Dense forests and iron-rich, rolling hills cradle temples, ruins, and living tribal traditions.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From the Ramayana’s Dandakaranya to the medieval Nagvanshi rulers, Dantewada’s story spans the sacred and the spectacular. Barsur, the region’s old capital, still murmurs through its ruined temples and monoliths. The Bailadila range rises in dramatic humps,like a bull’s back,hiding streams, shrines, and quiet valleys in its folds. Faith, nature, and craftsmanship come together here to weave a tapestry that feels quintessentially Bastar.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Begin at the Danteshwari Temple, the region’s spiritual heart. Honored as a Shakti Peetha, it draws pilgrims from across India,especially during Bastar Dussehra, when the goddess is celebrated as a living force guiding community rituals. The temple’s stonework and riverine calm evoke devotion and continuity.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Then step into Barsur, once a bustling capital and now an open-air gallery of medieval architecture. Wander through the famed Battisa Temple with its 32 pillars, the Mama-Bhanja complex, and striking monoliths,each piece revealing 10th–11th century craftsmanship and the Nagvanshi aesthetic.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Craving adventure? Trek to Dholkal Ganesh, an ancient idol perched on a forested hilltop, with sweeping views of Bailadila. It’s where devotion meets discovery,a perfect blend of history and wilderness.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bailadila range shapes Dantewada’s rhythm. Forested slopes and high ridges set the stage for treks, lookouts, and quiet escapes. Seek out lesser-known waterfalls like Phoolpad, linger by river bends, and watch village life unfold along forest paths. The monsoon paints everything emerald; winter brings crisp, clear days ideal for exploration.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhattisgarh’s rustic flavors shine here. Try angakar roti (rice-flour flatbread), chousela (deep-fried rice bread), and fara (steamed rice dumplings), best with local chutneys. Don’t miss aamat, a hearty tribal-style stew traditionally cooked in bamboo, and bafauri, steamed lentil bites that are wholesome and delicious. Start the morning with pej (rice gruel), and end the day with seasonal treats drawn from forest produce. In weekly haats, you may find mahua-based sweets and beverages,sample respectfully and support local vendors.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district’s soul beats in its weekly markets, where communities gather to trade, connect, and celebrate. Head to Dantewada town or Geedam for lively bazaars filled with staples and crafts. You’ll see fine bamboo work, tribal textiles, and ingenious everyday objects. Haats are made for browsing, snacking, and conversations,go with time and curiosity.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bastar’s famed craft traditions thrive across Dantewada. Look for bell-metal dhokra (lost-wax) figurines, wrought-iron tribal art, and carved wood masks,each piece shaped by stories, rituals, and the local landscape. Textiles often carry earthy hues and bold motifs; pick up stoles, sarees, or home accents that bring a slice of Bastar home. Many artisans sell directly in village haats,your purchase sustains skill, heritage, and livelihoods.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Join the festival season: Bastar Dussehra (centered in Jagdalpur but spiritually anchored by Maa Danteshwari) and the traveling Madai fairs offer immersive windows into song, dance, and ritual.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "2. Trek to Dholkal Ganesh for sunrise over the Bailadila hills.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "3. Explore Barsur’s temple circuit with a local guide to decode sculptures, legends, and architectural styles.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "4. Spend a day in a village haat, tasting local fare and meeting artisans.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5. Plan nature walks to waterfalls like Phoolpad and to quiet river bends. Always check local advisories and hire registered guides, especially for offbeat treks.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dantewada lingers,the hush of forests, the strength of stone, the warmth of markets, and the abiding presence of Maa Danteshwari. It’s a journey written in green hills and gentle rituals, one that stays long after you leave.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to March, when cooler weather suits treks and temple visits. Monsoon (June to September) is lush and beautiful but can limit access in some areas.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maa Danteshwari Temple in Dantewada is revered as one of the 52 Shakti Peethas , set at the confluence of the Shankini and Dankini rivers.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Barsur , in Dantewada district, was once the capital of the Nagvanshi rulers and is dotted with 10th–11th century temples like the Battisa Temple (32-pillared complex).",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Dholkal Ganesh idol sits atop a forested hill in the Bailadila range, offering a dramatic trek and panoramic views.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bailadila hills , whose name evokes the “humps of a bull,” are famed for world-class iron ore deposits and sweeping forest vistas.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dantewada’s weekly haats sustain local economies and showcase Bastar’s craft traditions, including dhokra (bell-metal) and wrought-iron tribal art.",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring religious and heritage marvels in Raipur",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the culinary delights of Raipur",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the unexplored wonders of Bilaspur",
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dantewada",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/dantewada",
+        "retrieved_at": "2026-09-22T18:36:24.745123+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

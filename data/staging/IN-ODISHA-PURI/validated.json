@@ -1,0 +1,383 @@
+{
+  "destination_id": "IN-ODISHA-PURI",
+  "destination_name": "Puri",
+  "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Biju Patnaik International Airport (BBI), Bhubaneshwar"
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Balugaon Railway Station (BALU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.2,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Biju Patnaik International Airport (BBI), Bhubaneshwar",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where the roar of the Bay of Bengal meets the chants of ancient hymns, there lies a sacred gem in Odisha's crown. Welcome to Puri, the land of Jagannath Temple, a sanctuary so revered that it forms one of the four sacred Char Dhams of Hindu pilgrimage. Hence, every year this city draws devotees from all across the globe. But Puri is more than just its temple. This coastal haven, along the eastern shores of India, is where centuries-old traditions dance with the rhythm of crashing waves. Puri's roots delve deep into antiquity, finding mention in ancient texts as 'Purushottama Kshetra', the abode of Lord Vishnu himself. Fast-forward to today, and Puri stands as a living museum of Odishan culture, its streets echoing with the beats of traditional Odissi dance and the artistry of intricate sand sculptures. No wonder Puri is a magnet for both pilgrims and pleasure-seekers alike! But beyond its spiritual significance, Puri's irresistible charm lies in its golden beaches and vibrant festivals. Stroll along the sun-kissed shores, lose yourself in the labyrinth of colourful markets, or witness the grand spectacle of the Rath Yatra - Puri is a sensory feast waiting to be savoured. This coastal city is truly a microcosm of India's spiritual fervour and cultural richness, inviting you to immerse yourself in its timeless allure.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dominating Puri's skyline stands the awe-inspiring Jagannath Temple. One glance at its towering spire, the \"Shikhar,\" and you're transported to a realm where heaven and earth converge. This architectural marvel isn't just a feast for the eyes; it's the beating heart of Puri's spiritual pulse. Imagine walking in the footsteps of countless pilgrims, your senses awakened by the heady mix of incense and devotion. The temple's grand halls echo with centuries of prayers, each stone whispering tales of faith and miracles. But hold your breath for the grandest celebration of the state - the annual Rath Yatra.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It's not just a festival; it's a spectacle that'll etch itself in your memory forever. And for those seeking a dash of divine favour, legend has it that a dip in Puri's holy waters followed by a darshan (the auspicious sight of the deity) at the temple is the ultimate spiritual cleanse. Whether you're a devoted pilgrim or a curious traveller, the Jagannath Temple offers an experience that transcends the ordinary. It's not just a stop on your itinerary; it's the very essence of Puri, a place where myths come alive and where every visit feels like a homecoming to the divine.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puri is a melting pot of diverse cultures, traditions, and artistic expressions, reflected in its vibrant festivals and cultural events. The Rath Yatra, held annually in June or July, is the most significant festival, attracting devotees and tourists from all over the world. Other festivals celebrated with great enthusiasm in Puri include the Chandan Yatra, Snana Yatra, and Kartik Purnima. These festivals showcase traditional dance forms, music performances, and religious rituals, providing visitors with a glimpse into the rich cultural heritage of the region.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puri is renowned for its exquisite art and handicrafts, which have been passed down through generations of artisans. The city is famous for its Pattachitra paintings, a traditional art form depicting scenes from Hindu mythology on cloth or palm leaves. Visitors can also explore the vibrant markets of Puri, where they can purchase intricately carved woodwork, palm leaf engravings and colourful applique work textiles. The craftsmanship and attention to detail displayed in these handicrafts reflect the skill and creativity of the local artisans.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Puri is complete without sampling its delectable culinary offerings. The city is famous for its mouth-watering seafood dishes, prepared using fresh catch from the Bay of Bengal. Visitors can savour traditional Odia delicacies such as machha besara (fish cooked in mustard gravy), chingudi tarkari (prawn curry) and chenna poda (a sweet made from cottage cheese). The vibrant street food scene in Puri offers a plethora of options, from crispy dosas and fluffy idlis to spicy chaats and savoury snacks.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puri in Odisha is a cultural treasure trove that captivates visitors with its rich heritage, spiritual ambience and vibrant festivals. From the majestic Jagannath Temple to the bustling markets and culinary delights, Puri offers a sensory feast for travellers seeking to explore the cultural diversity and artistic legacy of the region. With its timeless charm and enduring traditions, Puri continues to enchant and inspire all who visit its shores.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Puri, like a gracious host, has something special to offer year-round, but some seasons truly let its charm shine. Picture yourself strolling along the sun-kissed beaches or exploring ancient temples without breaking a sweat - that's Puri from October to February. Winter months, from December to February, add a subtle nip to the air, perfect for those cosy beach bonfires and temple visits in daytime. But wait, there's more! Are you a spiritual seeker or a culture enthusiast? Then sync your calendar with the grand Rath Yatra, typically falling in June or July.",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When you lose your way you find yourself",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Must Visit Spiritual Spots In Puri, Odisha",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jagannath Consciousness : An Endearing and Eternal Paradigm for Humankind",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "15 Famous Dishes Of Odisha To Try While Visiting Puri",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover a wholesome entertainment experience in Puri",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the enchanting artistry of Puri",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embarking on an exciting shopping odyssey in Puri",
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Puri",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/puri",
+        "retrieved_at": "2026-09-22T18:36:40.648036+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "destination_id": "IN-MAHARASHTRA-CHHATRAPATI-SAMBHAJI-NAGAR",
+  "destination_name": "Chhatrapati Sambhaji Nagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chhatrapati Sambhaji Nagar Airport (IXU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Aurangabad Railway Station (AWB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 25.1,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.6,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 30.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.6,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 12.5,
+        "maximum_celsius": 29.1
+      },
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Sambhaji Nagar Airport (IXU)",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of the Marathawada region, amidst the rugged beauty of the Deccan Traps, lies a city steeped in legend and great historical significance. As you approach, the landscape unfolds like a painter's canvas - rocky outcrops giving way to lush greenery, all under the vast expanse of the Deccan sky. Welcome to Chhatrapati Sambhajinagar (also spelled as Chhatrapati Sambhaji Nagar), a historic city in Maharashtra, offering a confluence of culture, heritage, and development, beckoning you with a mesmerising blend of old-world charm and modern life.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Once known as Aurangabad, this city has reclaimed its Maratha heritage, proudly bearing the name of the valiant Chhatrapati Sambhaji Maharaj, son of the legendary Maratha ruler Chhatrapati Shivaji Maharaj. This rechristening isn't merely a name change but a resounding echo of the region's indomitable spirit and rich history.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you're a history buff, a culture enthusiast, or a curious traveller, Chhatrapati Sambhajinagar invites you to unravel its myriad layers, each more fascinating than the last.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Chhatrapati Sambhajinagar is woven with threads of ambition, conquest, and cultural fusion. The city's foundations were laid in the early 17th century by the Ethiopian military leader Malik Ambar, who named it Fatehnagar. However, the Mughal emperor Aurangzeb turned the city into a seat of power and renamed it Aurangabad in his honour. Aurangabad basked in Mughal splendour for nearly a century, during which its skyline was graced by magnificent monuments like the Bibi Ka Maqbara, a testament to the era's architectural grandeur.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But the winds of change were blowing across the Deccan plateau. The rise of the Maratha Empire, led by the indomitable Chhatrapati Shivaji Maharaj, heralded a new chapter in the city's saga. His son, the valiant Chhatrapati Sambhaji Maharaj, played a crucial role in defending Maratha territories, leaving his legacy etched with the city's identity forever.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As empires waxed and waned, Aurangabad remained a cultural melting pot, absorbing influences from its diverse rulers. The British era saw the city evolve into an important trade and education centre. Post-independence, it emerged as a vital industrial and educational hub of Maharashtra.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you wander its bustling streets, you'll feel the whispers of centuries echoing through the 52 historic gates that once guarded this majestic city. During his reign, Aurangzeb built a grand gate at every entrance to the town to fortify it. If you're a history enthusiast, this city is a treat for your senses as it offers a treasure trove of historic marvels. You can start by exploring Daulatabad Fort, also known as Devgiri, a 14th-century citadel renowned for its intricate defence systems and panoramic views of the surrounding landscape. Marvel at the Bibi Ka Maqbara , often called the 'Taj of the Deccan', its marble facade gleaming in the sun as a poignant testament to Mughal artistry. Lose yourself in the tranquil beauty of Salim Ali Lake , a birdwatcher's paradise teeming with vibrant avian life. And prepare to be amazed by Panchakki , a 17th-century water mill that showcases the ingenuity of medieval Indian engineering.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Sambhajinagar serves as a great base from which you can explore monuments with great significance. A short road trip will take you to the UNESCO World Heritage Site like Ellora Caves promising to transport you to a world of artistic wonder. And about 100 kilometres from the city lies the marvellous Ajanta Caves . Imagine stepping into a world carved out of rock adorned with vibrant frescoes and intricate sculptures that narrate the life and teachings of Buddha. The mystique and beauty of these centuries old marvels will definitely leave you spellbound.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the historic monuments and architectural marvels, Chhatrapati Sambhajinagar beckons you on a soul-stirring spiritual journey. Begin your journey with the ancient Grishneshwar Temple , located near Ellora Caves is one of the revered Jyotirlinga shrines of Lord Shiva. Feel the vibrations of centuries of devotion as you enter into this sanctum of peace. Then, discover the unique Bhadra Maruti Temple in Khuldabad, where the idol of Lord Hanuman is depicted in a reclining pose. This sacred site is a major pilgrimage destination, drawing countless devotees, especially during the festivals of Hanuman Jayanti and Ram Navami. If you are curious about the past, the Pitalkhora caves will offer a rich insight into the beauty of ancient craftsmanship. As you wander through these rock-cut marvels, let the serene Buddha philosophies guide you to a state of mindfulness.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Are you ready to embark on a mouthwatering adventure through the flavours of Chhatrapati Sambhajinagar? This historic city isn't just a feast for the eyes but a veritable paradise for food lovers, too! Prepare your taste buds for a culinary journey that blends Hyderabad's rich Mughlai influence with Maharashtra's robust spices, creating a unique gastronomic experience that will leave you craving more.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kick off your food tour by trying the star of Maharashtrian street food, vada pav, also considered to be the Indian version of burgers. If you crave something similar but with more flavours, let the fiery, vegetable-packed pav bhaji cast its spell on your taste buds. But hold on, we're just getting started! No visit to Chhatrapati Sambhajinagar is complete without indulging in a fragrant plate of biryani. This aromatic rice dish, layered with succulent meat and complex spices, is a testament to the city's Mughlai heritage. If you love to try unique non-vegetarian food, treat yourself to naan qalia, a rich meat curry that pairs perfectly with soft, pillowy naan bread. And don't forget to save room for dessert! Cool off with a serving of creamy shrikhand, a sweet yoghurt delicacy that's offers a perfect climax to your culinary adventure.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Sambhajinagar is a captivating blend of heritage and modernity. While the city's famous historical marvels steal the spotlight, its heart lies in its bustling marketplaces. Immerse yourself in the kaleidoscope of colours and textures at Gul Mandi and Paithan Gate, where exquisite Paithani sarees and other handcrafted treasures await. While exploring these marketplaces, don't forget to shop for gifts and souvenirs.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Along with shopping, the festive spirit of Chhatrapati Sambhajinagar is infectious too. Plan your visit according to the celebrations like Nath Shashti, or Gudi Padwa, usually celebrated in the months of March or April. These occassions usher in a wave of optimism and prosperity with colourful flags, traditional delicacies, and festive fervour taking over the city. Another major celebration in the region is Ganesh Chaturthi celebrated in August or September. This joyous festival honours Lord Ganesha and transforms Chhatrapati Sambhajinagar into a vibrant spectacle of art, music, and devotion.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to embark on a journey to Chhatrapati Sambhajinagar is between November and March, when the weather is delightfully mild and perfect for exploring the city's historical treasures without breaking a sweat. However, if you're seeking a secluded experience, the monsoon season from June to September offers a different charm. While the rains might curtail outdoor activities, they transform the landscape into a lush, verdant paradise. It offers a perfect time for a staycation where you can simply unwind and soak in the rejuvenating atmosphere of a resort.",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Art comes alive at Chhatrapati Sambhaji Nagar",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Must-try culinary delights of Chhatrapati Sambhaji Nagar",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Seek solace in nature at Chhatrapati Sambhaji Nagar",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience infinite fun at Chhatrapati Sambhaji Nagar",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopaholics are in for a treat at Chhatrapati Sambhaji Nagar",
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chhatrapati Sambhaji Nagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/chhatrapati-sambhaji-nagar",
+        "retrieved_at": "2026-09-22T18:36:37.322304+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

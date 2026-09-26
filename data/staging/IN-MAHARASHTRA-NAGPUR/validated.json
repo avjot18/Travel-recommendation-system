@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-MAHARASHTRA-NAGPUR",
+  "destination_name": "Nagpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dr. Babasaheb Ambedkar International Airport (NAG), Nagpur"
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nagpur Railway Station (NGP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 8.1,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 10.8,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.2,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 44.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 46.2
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 45.0
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 8.6,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dr. Babasaheb Ambedkar International Airport (NAG), Nagpur",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Close your eyes and imagine this: a city cradled by the gentle curves of the Nag River, its heart pulsing at the very centre of India. Welcome to Nagpur – a symphony of history, industry, and the sweet tang of oranges. Let’s peel back the layers and savour its juicy secrets. Nicknamed the ‘Orange City’, Nagpur is not just a dot on the map; it is a flavour, a rhythm, a zest for life. Bite into a local orange, and you taste sunshine itself. As the sun kisses the groves, the air fills with the promise of sweetness. Orchards stretch like golden carpets, and the trees, bathed in sunlight, whisper tales of abundance. But Nagpur isn’t just about fruit. It’s a forge where steel meets the sky. Factories hum, their chimneys exhaling ambition. The Central Provinces once bowed to Nagpur as their capital – the seat of governance, where decisions echoed through corridors. And when India unfurled its tricolour, Nagpur danced into Maharashtra’s embrace.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Once upon a time, Nagpur was the capital of the aboriginal Gond tribe. They wove their lives in the forest, and Nagpur was their capital, their heartbeat. They whispered to the trees, danced with the monsoons, and painted their dreams on cave walls. Today, Nagpur stands as a testament to the passage of time and the resilience of its people. The city has evolved, embracing modernity while still cherishing its roots. Today, Nagpur’s skyline wears a patchwork cloak. Westward, colonial-era buildings stand tall – their arches whispering tales of bureaucrats and quills. Eastward, the old city weaves its maze - narrow alleys, spice-scented kitchens, and chaiwalas that brew conversations. And the Nag River? It flows, a silver ribbon connecting past and present. In October 1956, however, the city witnessed an event of great social importance. Dr BR Ambedkar, writer of the Indian Constitution and a freedom fighter born into a lower-caste Hindu family, converted to Buddhism in a stand against the rigid Hindu caste system. Nearly 200,000 people followed him, and the movement gathered great momentum, resulting in about three million conversions. Nagpur town is built around Sitabuldi Fort. In the eastern part of the city are the remains of the Bhonsle Palace, which was destroyed by fire in the 19th century. South of the old city lies the Chhatris, or memorials of the Bhonsle kings, while several colonial buildings are situated in the western part of Nagpur. The High Court and the Anglican Cathedral of All Saints (1851) are among them.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city has a rich cultural capital offering a myriad of sites of both cultural and historical importance. A landmark of historical and cultural importance, Deekshabhoomi is where Dr B.R. Ambedkar embraced Buddhism. It was here, in 1956, that he initiated the Dhammachakra Pravartan – the turning of the wheel of dharma. The monument pays homage to this transformative moment in history. This massive stupa symbolises peace and equality, attracting visitors from all corners of the world. Amidst the urban chaos, Deekshabhoomi offers serenity. The lush gardens, trimmed hedges, and lotus ponds create an oasis. Sit on the marble steps, close your eyes, and listen – the rustle of leaves, the distant chants - it’s a symphony of introspection. Deekshabhoomi comes alive during festivals. On Buddha Purnima, saffron-clad devotees gather, their hearts echoing ancient chants. The air vibrates with devotion, and the stupa glows under the moon. It’s a celestial communion. Explore the adjacent library – a treasure trove of Buddhist literature, Ambedkar’s writings, and social justice texts. Scholars hunch over dusty tomes, seeking wisdom. The learning centre hosts seminars, discussions, and talks – a torch passed from generation to generation. For a dive into the history and heritage of the region, the Nagpur Central Museum showcases a rich collection of artifacts, fossils, and items of historical significance. It's a treasure trove for history buffs and curious minds alike. The Raman Science Centre is a haven for science enthusiasts, a nod to the city's embrace of modernity and education. Interactive exhibits and a planetarium make learning fun and engaging for all ages.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Begin your journey with a tranquil evening at Futala Lake, where the setting sun paints the sky in hues of orange and pink. The lakefront, adorned with street lights and food stalls, provides a picturesque setting for a stroll. Returning to the British era, Maharaj Baug and Zoo houses various species and offers a peek into the region's wildlife. It's a perfect spot for a family outing, where children can learn about animals and nature. A short drive from Nagpur will take you to Ramtek, renowned for its historic temple dedicated to Lord Rama. The serene surroundings and panoramic views make it a soulful retreat. No trip to Nagpur is complete without visiting the orange orchards that dot the city's outskirts. Many farms offer tours, allowing you to witness the cultivation process and even pick fresh oranges.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the bustling markets of Nagpur, like Sitabuldi Main Road, for local handicrafts, textiles, and, of course, oranges. The city's culinary scene offers Vidarbha cuisine with specialties like Saoji chicken and Tarri poha. But no exploration of the city’s street food would be complete without mentioning the Nagpuri samosa. What sets it apart is the medley of condiments used to enhance its flavour. Stuffed with mashed potatoes, green peas, finely chopped coriander, and robust Indian spices, this spicy snack is served with tangy tamarind or mint chutney.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tadoba-Andhari Tiger Reserve, also known as the Jewel of Vidharba, is 208 km (129 miles) south of Nagpur. The ideal time to visit this Reserve is February to May. During these months, Nagpur’s pleasant weather and vibrant atmosphere make it a great destination for travellers. One must also consider a trip to Ramtek, 40 km (25 miles) northeast of Nagpur. It is linked to the 14-year exile of Rama, Sita, and Lakshman. Also, it served as the capital of the Vakataka dynasty from the 4th to 6th centuries. The nearby Nagardhan Fort dates back to this period. Its walls, however, were built in 1740 by Raghoji I, the founder of Nagpur’s Bhonsle dynasty. The best time to visit Nagpur is during spring and winter.",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Nagpur's Rich Heritage and Sacred Sites",
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Nagpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nagpur",
+        "retrieved_at": "2026-09-22T18:36:38.128058+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

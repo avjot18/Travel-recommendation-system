@@ -1,0 +1,373 @@
+{
+  "destination_id": "IN-ASSAM-GUWAHATI",
+  "destination_name": "Guwahati",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati"
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Guwahati Railway Station (GHY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 27.2
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.4,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.5,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.8,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Close your eyes and step into Guwahati—a city that wears its history like a silken sari. Let's wander through this gateway to Northeast India, where gods dance, tea leaves unfurl, and betel nuts sway. The capital of Assam, Dispur, lies in Guwahati city, which is also the gateway to Northeast India. Ringed by the Nilachal Hills, the city stretches along both banks of the broad Brahmaputra river -the mighty river - binds Guwahati's twin souls. On one bank, the old city—its lanes like ancient manuscripts, its temples like folded hands. On the other, the new city—its glass towers reaching for the sky, its dreams as vast as the river's expanse. Bridges connect past and future—the Saraighat Bridge, the Bhupen Hazarika Setu—they're more than concrete; they're arteries. An ancient seat of tantric Hinduism, with several interesting temples in its environs, Guwahati's air carries the scent of tea gardens. Assam's golden brew—steeped in mist and monsoons—flows through its veins. The tea auctions hum, traders sipping chai as they bid for leaves that cradle stories. And oil—black gold—courses through pipelines, its journey mirroring the Brahmaputra's twists. The city's heartbeat syncs with the rhythm of commerce. This is how Guwahati is now a busy commercial centre for Assam’s tea and oil industries. Now, let's talk about the betel nut trees—the graceful dancers of Guwahati's fringes. They sway, their emerald leaves catching the sunlight. Betel nuts—small, potent, and wrapped in paan—hold conversations in every market. The vendors, their teeth-stained crimson, hawk their wares. \"Betel leaves, sir? A taste of Guwahati!\" they call. And if you listen closely, you'll hear the trees whispering: \"We've seen empires rise and fall. We've watched lovers meet and part. We're the heartbeat of this market.\" The city’s outer fringes are dotted with the slender, graceful betelnut palm trees from which Guwahati (literally “Betel Nut Market”) derives its name.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guwahati isn't just a city; it is a cosmic intersection. Tantric Hinduism weaves its magic here—the kind that transcends rituals and touches the soul. The Kamakhya Temple , perched atop Nilachal, is a vortex of energy. Devotees climb, their footsteps echoing ancient chants. The goddess Kamakhya—wild, primal, and mysterious—holds court. She's the keeper of secrets, the weaver of desires. And when the monsoons arrive, the temple transforms—a crimson womb, a place of rebirth. Perched on Nilachal hill, 8 km (5 miles) northwest of the city, the Kamakhya Temple is one of India’s most important pilgrimage destinations. The present structure, with its typically Assamese beehive-shaped shikhara, dates back to the 17th century after the original temple was destroyed by Muslim invaders. According to legend, as a furious and grieving Shiva carried the corpse of his wife, Sati (also known as Parvati), around the skies, parts of her dismembered body fell to the earth. All these sites have been sanctified by major temples. Kamakhya is believed to mark the place where her vagina fell and is therefore said to have special powers associated with energy and creation. As per tantric rituals, a goat is sacrificed here every day and offered to the goddess. There are even giant turtles in the temple ponds that look forward to being fed by visitors. The annual Ambubachi festival, which marks the end of the earth’s menstrual cycle, attracts pilgrims from all over India to be blessed by the goddess. On Chitranchal hill, in northeast Guwahati, is the Navagraha ( “Nine Planets”) Temple , believed to mark the site of the ancient city of Pragjyotishpur, Guwahati’s old name, which was famous as a centre of astronomy. Beneath its red beehive-shaped dome is a dark chamber with nine lingas representing the nine planets. Enchantingly located on the lush green Peacock Island in the middle of the Brahmaputra, this 16th-century Umananda Temple is also dedicated to Shiva’s wife. The island, swarming with friendly langur monkeys, is an excellent place to stand and watch the river, deceptively slow on the surface but with swift undercurrents.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This interesting State Museum , just east of the railway station, has fine reconstructions of tribal villages, a comprehensive collection of local handicrafts, and a gallery of medieval stone and bronze sculptures, which were excavated from Ambari, an archaeological site in the heart of the city. The well-maintained Zoo & Botanical Gardens is in the eastern part of the city. Clouded leopards, hornbills, and, of course, the native one-horned rhinos, can be seen in spacious, moated enclosures. The Botanical Gardens adjoin the zoo.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Basishtha Temple, 12 km (7 miles) southeast of Guwahati, stands in a pretty spot that marks the confluence of three streams, with a waterfall and groves of trees around it. This is said to be the site of the ashram of the sage Vashishtha, a character in the Ramayana. Sualkuchi, 32 km (20 miles) west of Guwahati, is a major weaving centre for Assam’s famous golden-hued muga and paat silk. Several houses here have women working at their looms, and they are happy to welcome visitors. Hajo, 32 km (20 miles) northwest of Guwahati, is a pilgrimage site for Buddhists, Hindus and Muslims. The 16th-century Hayagriva Madhava Temple, on Monikut Hill, is sacred to Hindus and Buddhists, who believe that the Buddha died there. Fine bas-reliefs of scenes from the Ramayana decorate its walls. Below the temple is a pond, home to Hajo’s most famous resident – a giant turtle. On another hill is the Poa Mecca (“Quarter of Mecca”) Mosque, established by an Iraqi prince who visited Assam in the 12th century. A pilgrimage here is believed to be equivalent to a quarter of the piety attained by a Haj pilgrimage to Mecca. The spectacular temple ruins at Madan Kamdev are 50 km (31 miles) northwest of Guwahati. Exuberantly erotic carvings of deities and celestial nymphs lie strewn on a small hillock here. They date from the 10th to 12th centuries when the area was ruled by the Pala dynasty. Whenever you plan to go to Guwahati, keep in mind that it is a symphony of gods, traders, and the rustle of betel nuts. Let its legends cradle you, and let the Brahmaputra's currents carry your dreams. The ideal time to visit is from October to March.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kamakhya Temple is shaped like a beehive, a symbol of fertility and abundance.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Navagraha temple in Guwahati is believed to be located on the site of the ancient city of Pragjyotishpur.",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on an idyllic adventure in Guwahati",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Hours in Guwahati - The pictures capture the candidness of this impromptu trip",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "11 Traditional Dishes Of Assam You Must Try In Guwahati",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Find nature’s beauty blooming in the heart of Guwahati",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the magic of Guwahati’s marketplaces",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Savour the culinary artistry of Guwahati’s cuisine",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover a vibrant Guwahati brimming with entertainment",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best wellness retreat centres in Guwahati",
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Guwahati",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/guwahati",
+        "retrieved_at": "2026-09-22T18:36:23.174255+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

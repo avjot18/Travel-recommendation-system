@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-ASSAM-DIBRUGARH",
+  "destination_name": "Dibrugarh",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB), Dibrugarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dibrugarh Railway Station (DBRG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 23.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.0,
+        "maximum_celsius": 25.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.4,
+        "maximum_celsius": 26.7
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 24.3,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.9,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 25.2,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 28.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 25.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dibrugarh. Ah, the name dances off the tongue like a delicate leaf caught in a monsoon breeze. Walking into this mystical place is a poetic journey to this cradle of tea, where the Brahmaputra River hums ancient melodies, and the hills wear emerald cloaks. Often referred to as the Tea City of India, the air smells of freshly brewed dreams. Dibrugarh, with its tea estates, is that enchanted realm. The leaves—plucked by nimble fingers at dawn—hold stories of mist-kissed mornings and whispered secrets. Each sip of Dibrugarh's tea is a voyage through time, a dance of flavours on your palate. Here, green isn't just a colour; it's a state of mind. The tea gardens stretch like a verdant quilt, stitched together by dewdrops and sunlight. As you walk among the bushes, the leaves brush against your skin, whispering tales of monsoons and harvests. Birds flit overhead, composing symphonies—their notes carried by the wind. Each sip of Dibrugarh's tea is a voyage through time, a dance of flavours on your palate. Nestled in the northeastern state of Assam, the city offers a tranquil retreat into nature's lap with its lush greenery and serene landscapes. This charming place is perched on the banks of the mighty Brahmaputra River and serves as both a bustling urban center and a gateway to the mystical northeastern part of India. Dibrugarh's rich culture, history, and natural beauty make it a unique destination waiting to be explored by travelers seeking both adventure and peace.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The journey into Dibrugarh's heart begins with its sprawling tea estates that stretch as far as the eye can see. These estates not only offer a glimpse into the intricate process of tea production, from plucking to packaging but also set the scene for some of the most picturesque landscapes in the region. One of the primary activities involves guided tea garden tours, where visitors can wander through rows of tea bushes sprawling across vast plantations, learn about different types of tea plants, and witness the meticulous process of plucking tea leaves by skilled workers. Many estates also provide insights into the tea manufacturing process, from withering and rolling to fermentation and drying, culminating in a tea-tasting session where guests can sample different grades and flavours of tea, educating their palates about the subtleties of this beloved beverage. Beyond the tea-centric experiences, some estates offer leisurely nature walks and bird-watching tours, capitalizing on the region's diverse flora and fauna, making these activities a delight for nature enthusiasts and photographers alike. The serene and picturesque settings encourage visitors to partake in picnics or simply relax in the tranquil surroundings, often with views of the Brahmaputra River or the distant Himalayan foothills. For those seeking a deeper dive into the local culture, interactive sessions with the tea estate communities provide an authentic glimpse into the lives of the people who have been the backbone of the tea industry for generations.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Luxury accommodations in colonial-era bungalows are available in some estates, offering a chance to stay amidst the greenery and tranquility, often with amenities like spas, gourmet dining, and golfing, blending relaxation with the unique cultural heritage of Assam's tea plantations.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the tea gardens, Dibrugarh's rich biodiversity is showcased in its nearby rainforests and wildlife sanctuaries. The Dehing Patkai Wildlife Sanctuary , often dubbed as the Amazon of the East, is a testament to the region’s ecological diversity. This sanctuary is home to an array of flora and fauna, including rare and endangered species, providing thrilling opportunities for wildlife spotting and bird watching. The sounds of the forest, the sight of exotic birds, and the chance to encounter wildlife in its natural habitat make it an unforgettable experience for nature enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dibrugarh’s cultural heritage is equally captivating. The city is a melting pot of diverse ethnic groups, each contributing to the rich cultural mosaic of the region. Traditional festivals, dance, and music are integral parts of the local lifestyle, offering visitors a chance to immerse themselves in the cultural vibrancy of Dibrugarh. The Bihu festival, celebrated with great fervour, showcases the spirited Assamese culture through folk dances, music, and traditional attire, providing a feast for the senses. Bihu stands out as the most prominent, marking different agricultural cycles with three iterations - Bohag Bihu in spring, Magh Bihu in winter, and Kati Bihu in autumn. Each festival brings its unique set of traditions, with Bohag Bihu being particularly vibrant, featuring folk dances, songs, and the wearing of traditional Assamese attire. The town comes alive with festivities, community feasts, and the exchange of sweets and greetings, reflecting the spirit of unity and joy. These celebrations honor the agricultural roots of the region.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those interested in history and architecture, Dibrugarh does not disappoint. The city is dotted with colonial-era bungalows and buildings that narrate tales of a bygone era. The Rajdhani Monastery, a Buddhist monastery, stands as a symbol of peace and spiritual serenity, attracting visitors seeking tranquility. The cuisine of Dibrugarh is a delectable blend of flavours, influenced by the diverse ethnic communities of the region. Rice is the staple, often accompanied by a variety of fish dishes, owing to the abundance of rivers in the area. A standout dish is Masor Tenga, a tangy fish curry flavoured with tomatoes, lemon, and local herbs, representing the simplicity yet richness of Assamese cooking. Bamboo shoot, a common ingredient, adds a unique taste to curries and pickles. The traditional pitha, a rice cake, made during festivals, especially Bihu, comes in sweet and savory variants, offering a taste of the local heritage. Assam tea, globally renowned, is often served as a welcome drink in homes, providing a warm introduction to the gastronomical journey in Dibrugarh.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For adventure enthusiasts, Dibrugarh serves as a gateway to some of the most scenic and exhilarating treks in the northeastern part of India. One of the popular trekking destinations is the Namdapha National Park, a biodiversity hotspot, which offers trails ranging from moderate to challenging, leading through dense forests, alongside rivers, and up to mountainous terrains, offering spellbinding views of the lush landscapes. Another notable trek is to the Dehing Patkai Wildlife Sanctuary for its dense tropical rainforests. Trekkers can explore the sanctuary's rich flora and fauna, including rare species of birds and wild orchids. These treks not only challenge the physical prowess of the adventurers but also provide an intimate experience with nature’s untouched beauty, making Dibrugarh a cherished destination for trekking aficionados.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is a place where traditional skills are not only preserved but flourish, offering visitors a unique shopping experience. Among the myriad items to buy, Assamese silk, especially Muga and Eri, stands out for its natural sheen and durability, making it a prized possession for textile connoisseurs. Bamboo and cane products, skillfully crafted into baskets, mats, and furniture, showcase the region's expertise in manipulating these versatile materials. Handloom products, including the exquisite handwoven towels known as 'Gamocha', and ethnic wear, are notable for their intricate designs and vibrant colours. Tea, the heart of Dibrugarh's economy, offers a range of flavours from local estates, making it a must-buy for tea aficionados. Jewelry made from beads and other indigenous materials offers a glimpse into the area's cultural aesthetics.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Dibrugarh is from October to March. During these months, the weather is pleasant, making it ideal for sightseeing and outdoor activities. The monsoon season, which runs from June to September, brings heavy rainfall, making travel difficult and limiting outdoor exploration. Winter, from November to February, is mild and enjoyable, with temperatures ranging from 10°C to 25°C. This period is also key for experiencing local festivals such as Bihu, which are celebrated with great enthusiasm and offer a deeper insight into the cultural heritage of Assam. Dibrugarh has its airport, the Mohanbari Airport (also known as Dibrugarh Airport), which is located about 15 kilometers from the city center. The airport is well-connected with major cities in India like Delhi, Kolkata, and Guwahati. From the airport, you can take a taxi or a bus to reach the city. Dibrugarh is also accessible by train, with the Dibrugarh Town Station and Dibrugarh Banipur Station serving as the main railway stations. These stations connect Dibrugarh to several major cities across India. Trains offer a more scenic route into the city, passing through the picturesque landscapes of Assam. The road network to Dibrugarh is well-developed, and it is connected to nearby cities and towns via national and state highways. Buses, both government and private, run regularly from cities like Guwahati, which is about 450 kilometers away. For more flexibility, you can also hire a taxi to reach Dibrugarh. Each mode of transportation offers its unique advantages, with options catering to various preferences and budgets. Whether you are looking for the fastest route by air, a scenic journey by train, or the freedom of road travel, reaching Dibrugarh is convenient and accessible from across India. Dibrugarh wears its heritage like a silk sari—graceful and vibrant. Bihu dances celebrate seasons, and Bodo drums echo ancient rhythms. Temples, mosques, and churches stand side by side, their prayers mingling in the breeze. And when the sun sets, the city lights up—a constellation of chai cups and laughter. So pack your curiosity and board a boat on the Brahmaputra. Let Dibrugarh unfold its pages—the ones written in tea leaves and monsoon ink. Adventure awaits, and peace? Ah, that's brewed in every cup.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Dehing Patkai Wildlife Sanctuary , also known as the Jeypore Rainforest, is a part of the Dehing Patkai Elephant Reserve. It is located in the districts of Dibrugarh and Tinsukia, Assam. Dehing Patkai is a deciduous rainforest interspersed with semi-evergreen and lush green flora, making it the only patch of virgin rainforest in Assam.",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dibrugarh - A Gateway To The Seven Lakes",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore A Picturesque Destination Wedding At Dibrugarh",
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dibrugarh",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/dibrugarh",
+        "retrieved_at": "2026-09-22T18:36:23.035563+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "destination_id": "IN-SIKKIM-GANGTOK",
+  "destination_name": "Gangtok",
+  "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra Pakyong Airport (PYG), Gangtok"
+      },
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Jalpaiguri Junction Railway Station (NJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "New Jalpaiguri Junction Railway Station (NJP)",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "\"In the lap of the Himalayas, where the clouds dance with the mountains and the rivers sing a melody of their own, lies a paradise called Gangtok – a jewel nestled amidst the majestic peaks of Sikkim.\" As the first rays of the sun kiss the snow-capped peaks, casting a golden hue over the verdant valleys below, Gangtok awakens to a new day filled with promise and adventure. From its colorful Buddhist monasteries to its bustling markets and breathtaking vistas, Gangtok is a destination like no other – a symphony of sights, sounds, and sensations that will captivate your heart and soul from the moment you arrive.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into Gangtok, and you'll find yourself surrounded by a kaleidoscope of colors – the vibrant prayer flags fluttering in the breeze, the crimson robes of the monks as they go about their daily rituals, and the riot of hues that adorn the bustling markets and narrow alleyways. Take a stroll through MG Marg, the city's main promenade, and lose yourself in a sea of shops selling everything from traditional handicrafts to contemporary fashion, or simply sit back and watch the world go by as you sip on a steaming cup of chai at one of the many roadside cafes.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gangtok is home to some of the most stunning Buddhist monasteries in the world, each offering a glimpse into the spiritual heart of Sikkim. Visit the iconic Rumtek Monastery, perched atop a hill overlooking the city, and immerse yourself in the tranquil atmosphere as you watch the monks go about their daily prayers. Or journey to the enchanting Enchey Monastery, nestled amidst dense forests and rolling hills, where the air is filled with the sweet scent of incense and the sound of chanting monks reverberates through the valley.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gangtok is a melting pot of cultures and traditions, where ancient customs blend seamlessly with modern sensibilities. Explore the quaint village of Namchi and marvel at the towering statue of Guru Padmasambhava, or witness the centuries-old tradition of mask dancing at the annual Pang Lhabsol festival, where performers don elaborate costumes and masks to reenact ancient legends and myths. And for a taste of authentic Sikkimese cuisine, don't miss the opportunity to sample traditional delicacies like momos, thukpa, and gundruk at one of the many local eateries dotting the city.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But perhaps the most enchanting aspect of Gangtok is its breathtaking natural beauty – from the emerald-green valleys and cascading waterfalls to the snow-clad peaks and crystal-clear lakes. Take a scenic drive along the winding roads of Tsomgo Lake and be mesmerized by the sight of yaks grazing on lush meadows and colorful rhododendrons blooming in the springtime. Or embark on a trek to the majestic Kanchenjunga National Park, where you can spot rare wildlife species like the elusive red panda and the majestic Himalayan black bear amidst pristine alpine forests and meandering rivers. Gangtok is more than just a destination – it is an experience, a journey of the senses that will leave you spellbound and craving for more. So pack your bags, set out on an adventure, and let Gangtok weave its magic around you. For in this Himalayan paradise, every moment is a masterpiece waiting to be discovered, every corner a story waiting to be told.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Do-drul Chorten is marked by a golden dome, which is visible from various vantage points in Gangtok.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The path to the Ganesh Tok temple is adorned with vibrant prayer flags, making the journey significantly more enjoyable.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors can explore the Himalayan Zoological Park either by driving their private vehicles or by walking along the designated trails that meander through it.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adorned with exquisite murals, and statues, along with an impressive edifice, the site has been the shooting spot for several Bollywood films. Lingdum follows the Zurmang Kagyu sect of Tibetan Buddhism.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Namgyal Institute , one of its kind in India and the third globally, boasts the largest collection of Tibetan works outside Tibet. Located in Deorali, south of Gangtok, about 5 km away, it includes a museum, a research center, and a library.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nathu la Pass is one of the highest motorable roads in the world that lies at a distance of 56 km from Gangtok.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every year, the monastery hosts a festival on the 28th and 29th days of the tenth month of the Tibetan calendar.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the Seven Sisters Waterfalls , visitors can admire four of the seven cascades from ground level, as the remaining three are situated higher up. A charming footbridge spans the stream, offering tourists a chance to enjoy a close-up view of this invigorating scenery.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "On clear days, visitors can enjoy stunning views of Mt. Khangchendzonga, Mt. Siniolchu , and the vibrant villages of North Sikkim from the Tashi Viewpoint.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There is a provision to take rides on yaks and mules here; you can even sample some of the delicacies of the state at any of the stalls that are usually present.",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Postcards from Sikkim- Where nature smiles!",
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gangtok",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/gangtok",
+        "retrieved_at": "2026-09-22T18:36:44.634308+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

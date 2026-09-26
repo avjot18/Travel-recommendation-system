@@ -1,0 +1,352 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-GUNTUR",
+  "destination_name": "Guntur",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Vijayawada International Airport (VGA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Guntur Junction Railway Station (GNT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.4,
+        "maximum_celsius": 24.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.0,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.4,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 45.7
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 44.8
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.5,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.3,
+        "maximum_celsius": 27.2
+      },
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur, a city located in the fertile plains of Andhra Pradesh, offers visitors a unique blend of historical intrigue and natural splendour. This city, which threads through the fabric of India’s agrarian and cultural narratives, serves as a compelling destination for those eager to explore the less trodden paths of India’s vast and varied landscape. It's a city where the aroma of freshly ground spices permeates the air, while the echoes of history can be heard from its ancient monuments. It's a place where every corner holds a story and every street reverberates with the footsteps of both past and present.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ancient Sanskrit texts etch Guntur’s name as \"Garthapuri,\" a place cradled by water ponds, hinting at its fertile beginnings. Delve deeper, and you'll find the city's soul intertwined with the rise and fall of empires – the powerful Satavahanas, the artistic Kakatiyas, the valiant Reddys. Each dynasty left its mark, enriching Guntur's cultural heritage with architectural marvels and enduring traditions. Legend whispers that even Lord Buddha himself graced these lands, performing the first Kalachakra ceremony, a sacred Buddhist ritual. The Agastyeshwara temple, an ancient sentinel standing tall amidst the bustling city, stands as a testament to this rich spiritual heritage. Recent excavations unearthed inscriptions hinting at a forgotten Buddhist site, its secrets waiting to be unravelled by curious minds.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur is not just a storied city embedded in history; it is a vibrant, dynamic place that continues to echo with the beats of modernity and innovation. One of the most significant moments in its scientific history occurred in 1868, when French astronomer Pierre Janssen, observing a solar eclipse from this locale, first identified helium. This discovery was not just a pivotal moment for science but also a beacon highlighting Guntur's role on the global stage of astronomical research. It underscored the city's spirit of discovery and its capacity to contribute to momentous scientific advancements.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Baudhasree Archaeological Museum in Guntur is a treasure trove of artifacts celebrating Buddhist heritage. Established in May 1956 by collector S. Bhagwan Das as Buddha Vihar, the museum originally served as a centre for Buddhist learning before transitioning into a museum in 1975. It hosts a diverse collection, including Buddhist sculptures, a limestone Buddha statue, and rock-cut sculptures from Sekuru, Divuladinne, and Amudalapalle. Also on display are bronze and copper plates, palm leaf manuscripts, ancient coins, paintings, and prehistoric artifacts.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur isn't just about urban exploration. Step outside the city limits, and you'll find yourself embraced by the unspoiled beauty of nature. The Uppalapadu Bird Sanctuary is a haven for birdwatchers, with over 200 species of feathered friends calling this their home. Witness the vibrant flash of kingfishers, the graceful glide of egrets, and the melodious calls of migratory birds as you explore the lush greenery of the sanctuary. For a taste of the sea, head towards the pristine shores of Surya Lanka beach, approximately 60 kilometres from Guntur. Here, the turquoise waters lap against the golden sands, creating a picture-perfect paradise. Bask in the warm sun, feel the soft sand between your toes, and let the rhythmic crash of waves lull you into a state of tranquillity.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "History buffs and adventure seekers can embark on a journey to the Undavalli Caves . Carved into the sandstone cliffs just 10 kilometres southwest of Guntur, these caves are a marvel of rock-cut architecture. Dating back to the 4th and 5th centuries CE, Undavalli Caves were dedicated to the Trimurti (Brahma, Vishnu, and Shiva). Explore the intricate carvings that adorn the walls, depicting scenes from mythology and everyday life. Descend deeper and discover the magnificent reclining statue of Vishnu, a masterpiece of ancient Indian sculpture. A short drive away lies the Amareswaraswamy temple, a revered site dedicated to Lord Shiva. This ancient temple complex boasts intricate carvings and towering gopurams (gateway towers), showcasing the Dravidian architectural style in all its glory. As you walk through the temple courtyards, feel the peace wash over you, a stark contrast to the bustling energy of Guntur city.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Fortified atop a granite hill, approximately 30 kilometres from Guntur, lies the majestic Kondaveedu Fort. This strategic stronghold, dating back to the 14th century, served as the capital of the Reddy dynasty. Explore the imposing ramparts, remnants of palaces, and ancient granaries, each whispering tales of battles fought and empires won. As you stand atop the fort, take in the breathtaking panoramic view of the surrounding plains and admire the strategic brilliance of its builders.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Foodies, rejoice! Guntur is a party for your taste buds. Dive into the fiery explosion of the Red Chili Biryani, a local legend known for its potent spice and melt-in-your-mouth rice. Don't miss the Guntur Sannam, a chili variety so unique it boasts its own Geographical Indication tag. This fiery red wonder adds a distinct kick to any dish, a witness to the city's love for all things spicy. Wander through Guntur’s lively markets where the air is thick with the aroma of freshly ground spices, offering an invitation to a world of taste. Street vendors and restaurants alike serve up a feast of Andhra specialties—from the crispiness of dosas and vadas to the softness of idlis and puris. Not to be missed are local street snacks like the crispy murukku (deep-fried lentil snacks) to the tangy avakai (pickled mangoes) and the creamy bobbattu (stuffed flatbreads), each bite offers a unique explosion of taste and texture.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur comes alive during festivals, offering a window into local culture. Witness the fervour of Vinayaka Chavithi, where elaborately decorated idols of Lord Ganesha are worshipped. During Vijaya Dasami, the city reverberates with the sounds of drumbeats and chants as people celebrate the triumph of good over evil. Ugadi, the Telugu New Year, brings a festive spirit with families gathering for elaborate feasts and exchanging gifts.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur offers a unique opportunity to experience the heart of Andhra culture, not just curated tourist experiences. Take a stroll through the bustling bazaars, where vendors hawk their wares with infectious enthusiasm. Engage in friendly conversation with locals, learning about their traditions and way of life. In the evenings, head to one of the many parks, such as Gandhi Park or Nagaravanam, and soak in the laid-back atmosphere as families picnic and children play.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur isn't just a destination; it's an experience. It's a city that challenges your preconceptions, that invites you to delve deeper, to explore beyond the surface. It's a place where history comes alive, where flavours ignite your taste buds, and where nature's beauty unfolds in a breathtaking symphony. So, come, embark on a journey to Guntur. Let yourself be captivated by its history, spices, and untamed beauty. Discover a city that will make a place in your heart, a city you'll long to return to again and again.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Guntur is renowned for its chili production and is often referred to as the \"Chili Capital of India\" . The region produces an array of chillies that vary in heat and flavor, contributing significantly to both the Indian and international spice markets.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most striking features of the Undavalli Caves , is a massive sculpture of Lord Vishnu in a reclining posture, sculpted from a single block of granite, epitomizing the artistic and engineering prowess of ancient Indian craftsmen.",
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Guntur",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/guntur",
+        "retrieved_at": "2026-09-22T18:36:19.886160+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

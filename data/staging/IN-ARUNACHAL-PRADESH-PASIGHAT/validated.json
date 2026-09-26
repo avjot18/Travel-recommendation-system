@@ -1,0 +1,393 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-PASIGHAT",
+  "destination_name": "Pasighat",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dibrugarh Railway Station (DBRG)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pasighat, the headquarters of East Siang district in Arunachal Pradesh , is one of the oldest towns in the state and is often referred to as the gateway to Arunachal . Located at an altitude of around 155 meters, this vibrant destination sits gracefully on the banks of the mighty Siang River, offering a perfect blend of scenic beauty, cultural richness, and adventure. Known for its indigenous hanging bridges, lush landscapes , and tranquil ambience , Pasighat attracts travelers seeking both relaxation and exploration in the heart of Northeast India.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pasighat offers a unique opportunity to experience the rich traditions and lifestyle of the indigenous communities of Arunachal Pradesh. The town reflects a vibrant cultural mix, where visitors can immerse themselves in local customs, festivals, and everyday life along the riverbanks . Whether you're drawn by spiritual curiosity, cultural exploration, or a desire to experience the rhythm of Northeast India, Pasighat presents an authentic and enriching journey.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most notable attractions near Pasighat is the Daying Ering Wildlife Sanctuary , located across the Siang River. This sanctuary spans a vast floodplain and is home to diverse flora and fauna, including endangered species such as the Gangetic dolphin and Bengal florican . Visitors can explore the sanctuary through boat rides, birdwatching excursions , and eco-tourism activities , making it a must-visit for wildlife enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another iconic attraction is Kekar Monying, popularly known as the Hanging Bridge , a traditional bamboo and cane structure suspended over the Siang River. This unique bridge not only connects local communities but also provides a thrilling experience with panoramic views of the river and surrounding landscape. It is a perfect spot for photography and witnessing local engineering traditions.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kekar Monying (Black Rock) near Rottung holds historical significance as well. It was the site of a major resistance by the Adi tribe against British forces in 1911, making it an important cultural and historical landmark in the region.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Further adding to Pasighat’s historical depth is Komsing , located along the Siang River. This site is associated with colonial history, as it marks the place where British political officer Noel Williamson was killed. A stone epitaph commemorates this event, offering insight into the region’s past.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Archaeological findings in the area also highlight its ancient heritage. Excavations have revealed remains believed to belong to the early medieval or pre-Ahom period, including a large canal, pond structures, and brick formations of varying sizes, indicating a once-thriving settlement.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pasighat is also emerging as an adventure destination, offering opportunities for trekking, camping, birdwatching, and backpacking . The surrounding landscape features challenging trails and remote paths, making it ideal for experienced trekkers looking to explore untouched terrains. Its relatively lesser footfall ensures a peaceful and immersive outdoor experience.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelers visiting Pasighat should carry light woollens for cooler evenings and plan their trips outside the monsoon season for smoother travel. Hiring local guides can enhance the experience, especially when exploring wildlife areas or trekking routes. It is also advisable to respect local customs and preserve the natural environment while visiting.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Pasighat is between October and April , when the weather is pleasant and suitable for sightseeing, wildlife exploration, and outdoor activities. The post-monsoon period enhances the region’s greenery, while winters offer clear skies and comfortable temperatures.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Dibrugarh Airport in Assam, located about 150 km away, with regular connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest railway station is also in Dibrugarh , from where road transport options are available.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Pasighat itself has become more accessible due to improved road infrastructure, making it easier for travelers to reach by private vehicles, taxis, and buses.",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Likabali to Mechuka - A journey through Arunachal Pradesh’s hidden gems",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best Monasteries and spiritual places to visit in Tawang and beyond in Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Spectacular Buddhist Monasteries In India",
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pasighat",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/pasighat",
+        "retrieved_at": "2026-09-22T18:36:22.165285+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+  "destination_name": "Amaravati",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Vijayawada International Airport (VGA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vijayawada Railway Station (BZA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.0,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.2,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 40.2
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 43.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 45.2
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.9,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amaravati, located in the southern state of Andhra Pradesh, is a well-kept secret that is waiting to be discovered by travellers seeking a unique cultural experience. This ancient city has a deep historical legacy dating back to the 3rd century BC when it served as the capital of the Satavahana dynasty. Amaravati’s rich historical, religious and cultural heritage has drawn the attention of history buffs and casual tourists from all across the nation as well as the world. The name “Amaravati” translates to “the place for immortals”. Some people believe it was named after the Amaravati Stupa, while others think its name was derived from the Amaralingeswara Temple . One of the most important aspects of Amaravati is its status as a major Buddhist pilgrimage site. The city is home to the famous Amaravati Stupa, a magnificent structure that dates back to the 2nd century BCE and is considered to be one of the oldest and most well-preserved Buddhist monuments in the country. Amaravati is believed to be the place where Gautam Buddha first spread his teachings of “Kalachakra”. In addition to the stupa, Amaravati is also home to a number of other historical sites and landmarks. The city is dotted with ancient temples, ruins, and monuments that offer a glimpse into its illustrious past. Visitors can explore the ruins of the Amaravati Mahachaitya , visit the Amareswara Temple dedicated to Lord Shiva, and marvel at the intricate carvings and sculptures that adorn the walls of these ancient structures. For those looking to explore the natural beauty of the region, Amaravati offers a number of nearby attractions. The city is located on the banks of the Krishna River, providing visitors with stunning views of the water and surrounding landscape. Nearby, the Kondapalli Fort offers a glimpse into the region’s military history, while the Undavalli Caves provide a unique opportunity to explore ancient rock-cut architecture.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amaravati is home to a wealth of historical monuments that showcase the city’s rich past. The Amaravati Stupa, also known as the Mahachaitya, is undoubtedly the most famous and significant of these monuments. Built in the 2nd century BCE during the reign of the Satavahana dynasty, this massive structure stands as a testament to the city’s deep-rooted Buddhist heritage. The stupa is adorned with intricate carvings and sculptures depicting scenes from the life of the Buddha, making it a must-see for anyone interested in ancient Indian art and architecture. In addition to the stupa, visitors to Amaravati can explore other historical sites such as the Amareswara Temple. Dedicated to Lord Shiva, this ancient temple is believed to have been built in the 5th century and is renowned for its exquisite architecture and intricate carvings. The temple complex also houses a number of smaller shrines dedicated to various gods and goddesses, making it a sacred and culturally significant site in the city. The historical monuments in Amaravati offer a fascinating glimpse into the city’s past and provide visitors with a unique opportunity to explore the rich cultural heritage of this ancient Indian city. Whether you are a history enthusiast, a spiritual seeker, or simply a curious traveller, a visit to these monuments is sure to leave you in awe of the centuries-old legacy that is preserved in the heart of Amaravati.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you are interested in ancient temples, historic forts, or scenic landscapes, the region surrounding Amaravati has something for everyone to enjoy. The largest chilli market in Asia, called “Guntur Mirchi Yard”, is about 40 kilometres from Amaravati. Located just a short drive from Amaravati, Vijayawada is a bustling city known for its vibrant culture, historic temples, and scenic beauty. Visitors can explore the Kanaka Durga Temple, Undavalli Caves, and Prakasam Barrage and enjoy a leisurely boat ride on the Krishna River. The Kondapalli Fort is around 20 kilometres from Amaravati and is a historic hilltop fortress offering panoramic countryside views. The fort is known for its impressive architecture, ancient weaponry, and colourful Kondapalli toys that local artisans handcraft. Then there is the small town of Mangalagiri, just a short distance from Amaravati, which is famous for the ancient Narasimha Swamy Temple dedicated to the half-lion, half-man incarnation of Lord Vishnu. The temple is perched atop a hill and offers stunning views of the surrounding landscape. Explore scenic boat rides from Nagarjuna Sagar, managed by Telangana Tourism. Andhra Pradesh Tourism boat rides will also be available soon.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When visiting Amaravati, there are several unique items you can shop for that reflect the local culture and craftsmanship of the region. Some popular souvenirs include the traditional handcrafted wooden Kondapalli toys. These colourful and intricately designed toys are a favourite among collectors and make for great keepsakes. If you want to carry a piece of Andhra Pradesh's artistic heritage back, shop for Kalamkari textiles, which are hand-painted or block-printed fabrics that showcase intricate designs and vibrant colours. Amaravati offers a variety of delicious and authentic South Indian dishes that will tantalise your taste buds. Some local specialities to try include Andhra-style biryani, a flavourful rice dish cooked with aromatic spices and tender meat or vegetables, Pesarattu (a savoury lentil crepe), Gongura Pachadi (a tangy chutney made with sorrel leaves), and Pulihora (tamarind rice). And if you have a sweet tooth, then don't miss out on trying local desserts like Bobbatlu (sweet stuffed flatbread), Ariselu (deep-fried sweet rice cakes), and Pootharekulu (paper-thin rice flour and jaggery rolls). Finally, wash it all down with a refreshing glass of buttermilk or a cup of traditional filter coffee to complete your culinary experience in Amaravati.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Overall, a visit to Amaravati is a truly enriching experience that offers a blend of history, culture, and natural beauty. Whether you are a history buff, a spiritual seeker, or simply a traveller looking to explore a new destination, this city has something to offer everyone. So pack your bags, book your tickets, and embark on a journey to this fascinating city in Andhra Pradesh. You won’t be disappointed.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amaravati , was also once a holy site of Mahayana Buddhism and used to have a large Buddhist Stupa now known as Amaravati Stupa. It was also the centre of Buddhist learning and art, and Buddhist followers from many Southeast Asian countries visited.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kalachakra Stupa symbolises the Kalachakra Tantra , which is created to protect against negative energies. It is said to be the rarest kind of stupa.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kohinoor diamond is believed to have been discovered in the Kollur Mine in the Guntur district near Amaravati, in the 13th or 14th century.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amaravati is Asia’s largest chilli market and is famous for Guntur Sannam Chilli which was registered with the Geographical Indications (GI) in 2009.",
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Amaravati",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+        "retrieved_at": "2026-09-22T18:36:19.402368+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

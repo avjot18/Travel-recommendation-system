@@ -1,0 +1,154 @@
+{
+  "destination_id": "IN-TAMIL-NADU-TIRUCHIRAPPALLI",
+  "destination_name": "Tiruchirappalli",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Tiruchirappalli International Airport (TRZ), Tiruchirappalli"
+      },
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Tiruchchirappalli Junction Railway Station (TPJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirappalli International Airport (TRZ), Tiruchirappalli",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchchirappalli Junction Railway Station (TPJ)",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Trichy—your gateway to Tamil Nadu's vibrant culture and history! This city might not be the first name that comes to your mind when you think of travel destinations, but it surely is a hidden gem worth exploring. Trichy, short for Tiruchirappalli is a blend of old-world charm and modern hustle. Here, you'll find ancient temples standing proudly alongside bustling markets and lively streets filled with the aroma of South Indian spices. So, whether you want to experience the taste of authentic dosas or are curious about centuries-old architecture, or just up for a bit of adventure in a city that's as laid-back as it is lively, Trichy has something for everyone. Tiruchirappalli stands as a city wrapped in historical, cultural, and spiritual profundity. This historic city is situated in the southern part of state of Tamil Nadu, India. With its splendid temples, bustling marketplaces, and lively ambiance, Tiruchirappalli presents an enthralling escapade for travelers seeking to delve into the essence of South Indian tradition.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirapalli is one of the oldest inhabited cities in Tamil Nadu. Over the centuries various dynasties have taken control of the city. Situated on the banks of River Cauvery, Tiruchirappalli was the citadel of the Early Cholas. The medieval history of Tiruchirapalli begins with the reign of the Pallava king Mahendravarman-I who also laid the foundation of the Rockfort which is regarded as the cultural symbol of the city and is one of the oldest surviving monuments in Tamil Nadu. Tiruchirapalli was annexed by the British in 1801.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city's cultural dynamism finds expression through its myriad festivals and observances. One such occasion is the annual Float Festival held at the Sri Ranganathaswamy Temple in nearby Srirangam, where adorned floats carry deities amidst chanting devotees. The Carnatic music concerts held during the Margazhi season also draws aficionados from far and wide, showcasing the region's rich musical heritage.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirappalli is renowned for its revered temples, each exuding its distinctive allure and significance. The Sri Ranganathaswamy Temple, sprawling across 156 acres, stands as the largest operational Hindu temple globally and a UNESCO World Heritage Site. Devoted to Lord Vishnu, it represents a pinnacle of Dravidian architecture and holds profound pilgrimage importance. Other notable temples include the Jambukeswarar Temple, dedicated to Lord Shiva, and the Samayapuram Mariamman Temple, venerating the goddess Mariamman.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city's bustling markets serve as a haven for traditional handicrafts, offering an array of exquisitely crafted items ranging from intricately carved wooden artifacts to resplendent silk sarees. The government-operated Poompuhar Handicrafts Emporium beckons visitors seeking authentic mementos fashioned by skilled artisans. Here, one can peruse a diverse assortment of products, including bronze sculptures, Thanjavur paintings, and handwoven textiles, each echoing the rich cultural tapestry of Tamil Nadu.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No sojourn in Tiruchirappalli is complete without savoring its delectable cuisine. From steaming hot idlis and crispy dosas to tantalizing biryanis and piquant curries, the city offers a culinary palette to satiate every taste bud. Street food enthusiasts can explore the vibrant stalls of Chettinadu Bazaar, where vendors tantalize palates with an assortment of savory treats and sweets, epitomizing the gastronomic diversity of the region.",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In essence, Tiruchirappalli emerges as a city that encapsulates the quintessence of South Indian heritage in its entirety. From its awe-inspiring temples and bustling markets to its rich cultural traditions and savory cuisine, every facet of Tiruchirappalli beckons travelers on a voyage through history. Whether one is a history aficionado, a spiritual seeker, or a culinary enthusiast, Tiruchirappalli promises an unforgettable experience, etching lasting memories for all who traverse its storied thoroughfares. Nearby places of tourist interest include Thiruvanaikaval, Samayapuram, St.Mary’s Cathedral Church, Melapudur, Nadirshah Dargha etc",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tiruchirappalli Airport is an International Airport. The airport is just 5 Kms from the city. Tiruchirappalli is also an important railway junction in Tamil Nadu. The main railway station is located in the heart of the City. From Trichy Junction we have direct trains to many major cities like Chennai, Ernakulam, Bangalore, Mumbai, New Delhi etc. Trichy is also well connected by roads..",
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Tiruchirappalli",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/tiruchirappalli",
+        "retrieved_at": "2026-09-22T18:36:46.228445+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

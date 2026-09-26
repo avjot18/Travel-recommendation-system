@@ -1,0 +1,137 @@
+{
+  "destination_id": "IN-UTTARAKHAND-RISHIKESH",
+  "name": "Rishikesh",
+  "state_or_ut": "Uttarakhand",
+  "region": null,
+  "description": null,
+  "travel_styles": [
+    "spiritual",
+    "adventure",
+    "wellness"
+  ],
+  "best_for": [
+    "yoga",
+    "spirituality",
+    "rafting",
+    "nature",
+    "weekend trips"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 5.4,
+      "maximum_celsius": 24.4
+    },
+    "february": {
+      "minimum_celsius": 9.0,
+      "maximum_celsius": 29.6
+    },
+    "march": {
+      "minimum_celsius": 12.0,
+      "maximum_celsius": 36.4
+    },
+    "april": {
+      "minimum_celsius": 17.4,
+      "maximum_celsius": 42.8
+    },
+    "may": {
+      "minimum_celsius": 20.7,
+      "maximum_celsius": 45.7
+    },
+    "june": {
+      "minimum_celsius": 21.3,
+      "maximum_celsius": 44.8
+    },
+    "july": {
+      "minimum_celsius": 22.7,
+      "maximum_celsius": 40.4
+    },
+    "august": {
+      "minimum_celsius": 23.2,
+      "maximum_celsius": 37.7
+    },
+    "september": {
+      "minimum_celsius": 21.5,
+      "maximum_celsius": 36.8
+    },
+    "october": {
+      "minimum_celsius": 17.0,
+      "maximum_celsius": 36.4
+    },
+    "november": {
+      "minimum_celsius": 11.5,
+      "maximum_celsius": 32.5
+    },
+    "december": {
+      "minimum_celsius": 5.3,
+      "maximum_celsius": 27.2
+    }
+  },
+  "ideal_duration_days": [
+    2,
+    5
+  ],
+  "budget_tier": null,
+  "activities": [
+    {
+      "name": "yoga",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "meditation",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "river rafting",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "trekking",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "North Indian vegetarian food",
+    "cafes"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Jolly Grant Airport (DED), Dehradun Indira Gandhi International Airport (DEL), Delhi"
+    ],
+    "railway_station": [
+      "Rishikesh Railway Station (RKSH)"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "notes": "Richer seed record; verify live operational details before display.",
+  "data_quality": "high",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Rishikesh",
+      "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/rishikesh",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

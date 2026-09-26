@@ -1,0 +1,121 @@
+{
+  "destination_id": "IN-GUJARAT-RAJKOT",
+  "destination_name": "Rajkot",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rajkot Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Rajkot, a vibrant city in the heart of Gujarat, India, where tradition and modernity combine delightfully. Rajkot, known for its rich cultural heritage, bustling markets, and warm hospitality, provides visitors with a captivating glimpse into Gujarat's cultural tapestry.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore Rajkot's vibrant streets, where ancient monuments and modern innovations coexist peacefully. Make your way through iconic landmarks such as the majestic Jubilee Garden and the Regal Watson Museum, which reflect the city's rich history. Immerse yourself in Gujarati culture amidst the hustle and bustle of its markets, where every interaction is infused with genuine hospitality and a welcoming spirit.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Start your exploration of Rajkot by learning about its rich history. Rajkot, the former capital of the princely state of Saurashtra, has numerous historical sites and monuments that reflect its royal heritage.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in Rajkot's thriving cultural scene, where age-old traditions coexist with modern influences. Wander through the bustling lanes of the old city, where you will find colourful bazaars, aromatic street food stalls, and artisans practising age-old crafts. Do not miss the opportunity to see a traditional Garba dance performance or eat authentic Gujarati cuisine at a local restaurant.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore Rajkot's iconic landmarks, each of which offers a unique glimpse into the city's rich history and cultural heritage. Admire the intricate carvings on the Swaminarayan Temple, a masterpiece of architectural brilliance. Pay tribute to the historic Kaba Gandhi No Delo , where Mahatma Gandhi spent his formative years, and immerse yourself in the profound legacy of India's independence struggle.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ascend to the top of the Race Course Tower for panoramic views of Rajkot's sprawling landscape, which is a must-see for both photographers and nature enthusiasts. From architectural marvels to scenic vistas, Rajkot's landmarks cater to every traveller's interests and passions, ensuring that all visitors have an unforgettable experience.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The fourth largest city in Gujarat, Rajkot has seen many different rulers since it was founded. The city had a major role to play in the Indian Independence movement and also was home to Mahatma Gandhi. The beauty, culture and economy of Rajkot is ever-growing. As you leave Rajkot, remember the vibrant culture, rich history, and warm hospitality. Rajkot's essence will stay with you long after you have left, whether you have wandered through its ancient streets, marveled at its architectural wonders, or immersed yourself in its natural beauty. Pack your bags and set out on an unforgettable adventure through Gujarat's Jewel. Escape the city and take in Rajkot's natural beauty. Explore the lush greenery of the Aji Dam Garden, where serenity surrounds you with each step. Feel the peace while boating on the tranquil waters of Nyari Dam, or seek adventure with a wildlife safari in the nearby Gir National Park. Rajkot awaits, with pristine parks, tranquil lakes, and breathtaking views to satisfy the outdoor enthusiast in you.",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dadra and Nagar Haveli and Daman and Diu",
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Rajkot",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/rajkot",
+        "retrieved_at": "2026-09-22T18:36:27.044037+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

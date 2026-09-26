@@ -1,0 +1,234 @@
+{
+  "destination_id": "IN-KERALA-MUNNAR",
+  "destination_name": "Munnar",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Cochin Coimbatore International Airport (CJB), Coimbatore Madurai Airport (CIB), Madurai Thiruvananthapuram International Airport (TRV), Thiruvananthapuram"
+      },
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Aluva Railway Station (AWY) Ernakulam Town Station(ERN) Ernakulam South Junction (ERS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Cochin",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore International Airport (CJB), Coimbatore",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram International Airport (TRV), Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled amidst the verdant hills of Kerala, Munnar emerges as a sanctuary of tranquillity, where mist-clad mountains, lush tea plantations, and cascading waterfalls create a breathtaking tapestry of beauty. With its cool climate, pristine landscapes, and rich biodiversity, Munnar captivates the heart and soul, inviting travellers to immerse themselves in the timeless charm of nature's embrace.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The history of Munnar is as enchanting as its landscapes, steeped in tales of exploration, discovery, and resilience. Originally inhabited by indigenous tribes such as the Muthuvans and the Odiyas, Munnar's pristine hills and fertile valleys attracted the attention of British explorers in the 19th century. Recognizing the region's potential for tea cultivation, the British established tea plantations, transforming Munnar into a flourishing center of the tea industry.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar is located in the Idukki district of Kerala and is bordered by the Anamalai Hills and the Cardamom Hills. The region's geographical diversity, characterized by rolling hills, misty valleys, and meandering streams, creates a picturesque setting that is truly enchanting. Munnar experiences a cool and temperate climate throughout the year, with temperatures ranging from 5°C to 25°C. The monsoon season, from June to September, brings heavy rainfall, while the winter months, from December to February, are characterized by cool and pleasant weather.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar is renowned for its unparalleled natural beauty, characterized by verdant landscapes, rolling hills, and misty valleys. The region's tea estates, interspersed with vibrant greenery and colourful flowers, create a picturesque backdrop that is truly mesmerizing. Visitors can enjoy panoramic views of the surrounding hills and valleys from popular viewpoints such as Mattupetty, Top Station, and Echo Point.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most iconic features of Munnar is its sprawling tea plantations, which carpet the hillsides in vibrant shades of green. Munnar's tea estates, dating back to the late 19th century, produce some of the finest varieties of tea in the world. Visitors to Munnar can explore the lush tea gardens, taking guided tours of tea factories and plantations to learn about the tea-making process. The Tata Tea Museum offers insights into the history and evolution of tea cultivation in the region, showcasing antique tea-processing equipment and exhibits on the tea industry.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar is home to several wildlife sanctuaries and national parks that are havens for biodiversity. The Eravikulam National Park , spread over an area of 97 square kilometers, is famous for its population of endangered Nilgiri Tahr (mountain goat) and the blooming of Neelakurinji flowers, which occurs once every twelve years. Other wildlife sanctuaries in the area include the Chinnar Wildlife Sanctuary, home to a variety of flora and fauna, and the Salim Ali Bird Sanctuary, a paradise for birdwatchers.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar boasts numerous waterfalls and serene lakes that add to its scenic charm. Attukal Waterfalls, Lakkam Waterfalls, and Chinnakanal Waterfalls are among the most picturesque cascades in the area, offering opportunities for photography and relaxation. The tranquil lakes of Munnar, such as Kundala Lake, Mattupetty Lake, and Devikulam Lake, are ideal for boating, picnicking, and enjoying the serenity of nature.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar offers a range of adventure activities for outdoor enthusiasts. Trekking and hiking trails crisscross the region, leading to scenic viewpoints, waterfalls, and lush forests. Popular trekking destinations include the Anamudi Peak, the highest peak in South India, and the Meesapulimala Trek, which offers stunning views of the Western Ghats. Other activities include mountain biking, rock climbing, and camping amidst the wilderness.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar is home to diverse cultural attractions that offer insights into the region's heritage and traditions. Visitors can explore colonial-era buildings, churches, and museums that reflect Munnar's rich history. The colonial-era town of Old Munnar, with its charming architecture and quaint streets, is a must-visit destination for history enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its breathtaking landscapes and natural wonders, Munnar inspires visitors with its timeless beauty, tranquil ambiance, and profound connection to the natural world. It is a place where the soul finds solace amidst the whispering winds, where the mind is awakened to the wonders of creation, and where the heart is filled with gratitude for the gift of life itself. As you wander through the misty hills of Munnar, breathe in the crisp mountain air, and listen to the symphony of nature's melodies, you'll find yourself immersed in a world of wonder and awe. It is a destination that invites you to slow down, to savor the moment, and to reconnect with the rhythms of the earth and the rhythms of your own heart.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Highest Tea Plantations: Munnar is home to some of the highest tea plantations in the world.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Neelakurinji Blooms: Munnar is famous for the blooming of the Neelakurinji flowers, which happens once every twelve years.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolukkumalai Tea Estate: Situated near Munnar, the Kolukkumalai Tea Estate is one of the highest tea plantations in the world, with some tea bushes dating back over a century.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pallivasal Hydroelectric Project: Munnar is home to the first hydroelectric project in Kerala, known as the Pallivasal Hydroelectric Project.",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Munnar",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/munnar",
+        "retrieved_at": "2026-09-22T18:36:34.058194+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

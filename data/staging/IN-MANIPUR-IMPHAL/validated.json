@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-MANIPUR-IMPHAL",
+  "destination_name": "Imphal",
+  "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bir Tikendrajit International Airport (IMF), Imphal"
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Imphal Railway Station (IMPAL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 1.6,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.8,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 7.6,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 15.4,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.6,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.8,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 6.4,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 2.8,
+        "maximum_celsius": 25.9
+      },
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bir Tikendrajit International Airport (IMF), Imphal",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of India’s northeastern tapestry lies a secret veiled by mist and cradled by hills. It is Imphal, where time tiptoes, and the air tastes of dew-kissed dreams. In this uncharted wonderland, lushness spills from every crevice. The hills are draped in velvet, the valleys blushing with wildflowers, and the orchids nod in approval, their petals like delicate promises. The Sangai, a rare dancing deer, pirouettes in Keibul Lamjao National Park . Its hooves barely touch the ground—it is a creature caught between earth and ether. And the birds! Oh, they’re maestros. Sunbirds sip nectar from flame-of-the-forest blossoms, while hornbills play hide-and-seek in ancient trees. Their calls echo through the mist, composing symphonies. As you enter Imphal, the air feels cleaner, and the surroundings more serene, with the landscapes characterized by picturesque valleys, rolling hills, and a diverse array of flora and fauna. If you stroll through Kangla Fort —the ancient citadel where Manipur’s kings once held court, nature choreographs its ballet, the butterflies flit, and the Brahmaputra River hums a lullaby. Situated in the heart of the city, it is a symbol of Manipur's rich history and heritage. It has been a site of political and religious significance since the 1st century AD. A walk offers a glimpse into the past, with its ancient temples, ceremonial halls, and the regal Kangla Sha, a statue that pays homage to the state animal, the Sangai deer. The fort's serene atmosphere and historical significance make it a must-visit for history buffs and casual tourists alike. Once the seat of Manipur's kingdom, the fort's remnants, including its ancient temples and bastions, speak volumes of its past glory.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another must-visit location is the Ima Keithel (Women's Market), which is perhaps the only market in the world run entirely by women. This bustling marketplace is not just a place for commerce but a tribute to the empowerment and independence of Manipuri women. Here, you can find everything from handloom fabrics, and traditional attires to local handicrafts and organic produce, making it an ideal spot for those looking to take a piece of Manipur back home. Imphal is also home to the Loktak Lake, the largest freshwater lake in Northeast India. This lake is unique for its phumdis (floating islands), some of which are inhabited. The Keibul Lamjao National Park, located in the southwestern part of the lake, is the only floating national park in the world and is home to the endangered Sangai deer, a species endemic to this region. A boat ride on Loktak Lake, with the picturesque landscape of floating islands and the panoramic view of the surrounding hills, is a mesmerizing experience.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imphal's surrounding landscapes offer thrilling opportunities for trekkers and adventure seekers. The Dzükou Valley, just a drive away, is known for its seasonal flowers and offers treks that cater to both beginners and seasoned adventurers. Its breathtaking vistas are a nature lover's paradise, especially during the blooming of the rare Dzükou Lily.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those interested in the tumultuous history of the region during World War II, the Imphal War Cemetery is a solemn reminder of the sacrifices made. It is beautifully maintained and houses the graves of the British and Indian soldiers who lost their lives in the Battle of Imphal.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cultural aspect of Imphal is vibrant and can be observed in its festivals, dances, and music. The Manipuri dance, one of the major classical dance forms of India, tells stories of mythological gods and legends. Attending a live performance is a sensory experience that encapsulates the essence of Manipur's rich cultural heritage. Imphal's calendar is dotted with vibrant festivals that reflect the rich history of local culture and traditions. One of the most significant festivals is the Yaoshang Festival, also known as the Manipuri Holi, celebrated in March. This five-day festival is a colourful, joyous event that combines traditional sports with cultural performances. Another notable festival is the Sangai Festival, usually held in late November, which showcases the biodiversity of Manipur alongside its handloom, handicrafts, and indigenous games, making it a pivotal event for promoting tourism and culture in the region.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Culinary enthusiasts would find Imphal's cuisine flavourful and unique, with a variety of dishes made from local ingredients and distinctive cooking techniques. Rice is a staple, often accompanied by fish dishes, bamboo shoots, and a range of chutneys and pickles, offering an exotic and comforting taste. The cuisine is characterized by its use of fresh, organic ingredients sourced from local farms and markets. A must-try dish is the Eromba, a concoction of boiled vegetables and fermented fish, offering a unique burst of flavours. Another staple is the Chak-hao kheer, a delectable black rice pudding known for its aromatic flavour and nutritional benefits.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Imphal offers a unique experience that combines tradition with the vibrance of local culture. The exquisite handloom products, including the famous Manipuri saris, are a must-buy item known for their intricate designs and vibrant colours. The Ima Market, run entirely by women, is a great place to find these textiles, along with traditional Manipuri shawls, skirts, and accessories. Another popular item is the local handicrafts made from bamboo and cane. These range from baskets and mats to decorative items that are both practical and beautiful. For those interested in local flavours, picking up some Manipuri black rice, known for its nutritional benefits and unique taste, is a great idea. Additionally, the local markets are filled with fresh, organic produce and exotic spices, offering a glimpse into the culinary delights of the region. Shopping in Imphal is not just about acquiring items; it's about experiencing the rich cultural tapestry and supporting the local economy.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imphal is best visited between October and April when the weather is pleasant, making it ideal for exploring its landscapes and cultural sites. The winter months, particularly November, when the Sangai Festival is held, offer a perfect opportunity to experience Manipur's cultural magnificence in full splendor. The most convenient way to get there is by air; Imphal's Bir Tikendrajit International Airport is well-connected with major Indian cities like Kolkata, Guwahati, Delhi, and Bangalore, making it an accessible option for travelers from across the country. For those who prefer the scenic route, road travel offers a remarkable experience. Imphal is connected by National Highway 39, passing through Nagaland and picturesque landscapes. The nearest railway station to Imphal is in Dimapur , Nagaland, approximately 215 kilometers away. From Dimapur, one can hire a taxi or take a bus to Imphal, traversing through lush greenery and rolling hills. Each mode of travel to Imphal presents a unique adventure, opening up the rich cultural and natural beauty of Manipur to its visitors. If you seek hidden realms, pack your curiosity and board the Imphal Express. Let the hills whisper, the deer dance and the orchids nod. Imphal awaits—a canvas where nature paints with rainbows and history hums in forgotten tunes.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kangla Fort used to serve as the capital of the ancient Manipuri kingdom.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Polo is believed to have originated in Imphal centuries ago, where it was known as \"sagol kangjei.\"",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imphal played a crucial role in World War II , serving as a key supply route for Allied forces in Burma.",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The captivating world of shopping in Imphal",
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Imphal",
+        "source_url": "https://www.incredibleindia.gov.in/en/manipur/imphal",
+        "retrieved_at": "2026-09-22T18:36:38.670019+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

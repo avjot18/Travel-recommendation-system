@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-WEST-BENGAL-DARJEELING",
+  "destination_name": "Darjeeling",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra"
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Jalpaiguri Junction Railway Station (NJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -0.4,
+        "maximum_celsius": 15.0
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 0.8,
+        "maximum_celsius": 16.0
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 3.0,
+        "maximum_celsius": 20.1
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 5.8,
+        "maximum_celsius": 22.3
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 22.4
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 10.3,
+        "maximum_celsius": 22.5
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 11.7,
+        "maximum_celsius": 21.8
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 22.8
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 23.1
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 7.4,
+        "maximum_celsius": 22.7
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 3.8,
+        "maximum_celsius": 21.0
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 1.0,
+        "maximum_celsius": 17.8
+      },
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "New Jalpaiguri Junction Railway Station (NJP)",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A cup of Darjeeling Tea in hand, a ride aboard the historic ‘Toy Train’ with a vista of the majestic Kanchenjunga in the timeless beauty of the Himalayas. There seems no better place to relax than Darjeeling. Tucked away amidst the lush tea plantations in West Bengal with colonial-era architecture and peaceful Tibetan monasteries defining its timeless charm, Darjeeling promises you a wealth of enchanting local traditions in the soothing environment of mist-covered mountains. Embrace the beauty, culture and flavours of Darjeeling, where aromatic tea comes together with heritage trains and local customs in the lap of nature. Before the East India Company took over in 1835, Darjeeling was part of Sikkim. When the Governor General expressed interest in acquiring the Hill of Darjeeling as he saw its potential as a sanatorium due to its cool climate, Raja of Sikkim presented Darjeeling to the East India Company, as a gesture of friendship. In exchange for Darjeeling, the Raja received a gift comprising a double-barrelled gun, a rifle, 20 yards of red-broad cloth, and two shawls. Thus, Darjeeling came under British control and became the summer capital of the Bengal Presidency. With infrastructure development in independent India, Darjeeling has grown into ‘Queen of the Hills’ and also became home to thousands of Tibetans who followed the Dalai Lama to take refuge in India after the Tibetan uprising in 1959.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling invites you to explore the region in one of the most exciting rides in the world. The Darjeeling Himalayan Railway – declared as a UNESCO World Heritage Site. Each journey on what is fondly known as the \"Toy Train” unfolds like a fairy-tale, revealing breathtaking vistas and a touch of magic. Mark Twain, the renowned American writer, rode this Toy Train in 1895. In his words, it was: “The most enjoyable day I have spent on earth mixed with the ecstasy of deadly fright and unimaginable joy.” Step into a world of exquisite flavours and picturesque tea gardens at Darjeeling’s famous Happy Valley Tea Estate . With a rich history dating back to 1854, this legendary estate has been instrumental in shaping the region's tea cultivation. The charming hill town also gives you an opportunity to discover sacred art and charming local traditions. Delve into the legacy of skilled Tibetan artistry at the Tibetan Refugee Self Help Centre , where craftsmanship and tradition converge in a captivating display. Immerse yourself in the serene ambiance at Bhutia Busty Monastery. Feel the allure of the Himalayan Mountaineering Institute as it inspires you to you embark on a quest to conquer the heights of the majestic Himalayas. Step into the past and immerse yourself in the intriguing history of a remarkable leader at the historical Netaji Subash Chandra Bose Museum. A place of great significance, this house was once the abode of Netaji, who spent seven months under house arrest here, marking a crucial period in the struggle for India's independence. Marvel at the Gorkha War Memorial at Batasia Loop, a testament to human valour amidst the beauty of nature. Cross the iconic Coronation Bridge, symbolising unity across diverse cultures and communities. Seek solace at the Dhirdham Temple, a harmonious blend of sacred architectural styles that offers a sanctuary for the soul. Embrace the rich history and serene beauty of Darjeeling at St. Andrew’s Church, an emblem of the city's enduring legacy. Find inner peace at the Japanese Temple and Peace Pagoda, where tranquility reigns supreme. Finally, take a captivating journey through the natural wonders of the Padmaja Naidu Himalayan Zoological Park . With its breath-taking collection of endangered species and commitment to conservation, the zoological park has fascinating species like snow leopards, red pandas, and Siberian tigers roaming amidst stunning Himalayan landscapes.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling is brimming with life throughout the year with its enthusiastic celebration of festivals and events, offering visitors a glimpse into its rich cultural tapestry. In November and December, the Teesta Tea and Tourism Festival captivates global tourists with its celebration of tea culture, featuring exhibits, tastings, and a plethora of diverse tea varieties. Meanwhile, the 10-day Darjeeling Carnival in November showcases a dynamic blend of rock performances, art exhibitions, poetry readings, and traditional food stalls, providing a captivating experience for all. As December rolls in, the unique Darjeeling Orange Festival takes centrestage, highlighting different varieties and conservation methods of oranges, drawing participants from far and wide. New Year's Eve in Darjeeling is a sight to behold, with vibrant traditional performances by the Lepchas and Bhutias setting a unique cultural vibe, complemented by fairs and good wishes. In February and March, the vibrant Tibetan New Year, Losha, fills the air with festivities, including new clothes, traditional cuisine, and joyful dancing dedicated to Lord Buddha. March and April bring the grand celebration of Chaita Dasai, honouring Lord Ram with Ram Kathas, processions, and prayers for the triumph of good over evil. Finally, in May, Buddha Jayanti finds Buddhist temples adorned in celebration, commemorating the birth anniversary of Lord Buddha and offering prayers for the well-being and prosperity of the community.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Darjeeling, the journey isn't just about breath-taking landscapes and serene vistas; it's also about immersing yourself in the unique arts, crafts, and experiences that define this enchanting destination. First and foremost, no trip to Darjeeling is complete without indulging in the world-renowned Darjeeling tea. Embark on a guided tour of a tea estate to witness first-hand the fascinating journey of tea production. As you partake in a delightful tea-tasting session, savouring the exceptional flavours of Darjeeling tea, seize the opportunity to bring home some of the finest varieties from this region, ensuring that the essence of Darjeeling remains with you long after your visit. Delving deeper into the cultural fabric of Darjeeling, discover the significance of the Khukuri, a sharp and curved knife that symbolises the pride and bravery of the Gorkha community. Once wielded as a primary weapon, the Khukuri has evolved to become an integral part of daily life in Darjeeling, used for tasks ranging from chopping firewood to food preparation. Easily found in the bustling streets of Darjeeling, the Khukuri makes for a meaningful and authentic souvenir, encapsulating the spirit of this vibrant hill station. Further enrich your journey with a visit to the amazing world of Tibetan handicrafts, where a myriad of treasures awaits. From exquisite Thangka paintings to intricately engraved copper plates adorned with colourful stones, each piece tells a story of tradition and craftsmanship. Browse through the eclectic array of keepsakes, including laughing Buddha statues, intricately carved wooden decor, brass vessels, Bhutia blankets, masks, shoes, slippers, and a range of woollen garments and coats, each offering a unique glimpse into the cultural riches of Darjeeling. Whether adorning your home or serving as cherished mementos of your time in Darjeeling, these souvenirs promise to add a touch of elegance and charm to your life.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a shopping adventure like no other. Find unique treasures in the local markets, from exquisite handicrafts to cozy woollen accessories. Whether you hunt for bargains at Hong Kong Market or Batasia Loop Market, or stroll along the captivating Teesta Market, every moment spent shopping in Darjeeling will be a marvellous experience. As you browse through the Ghoom Monastery market, the sight of Buddhist monks strolling by will imbue a unique local charm. Don't miss the opportunity to shop for Tibetan souvenirs, including enchanting artefacts like singing bowls, prayer wheels, prayer flags, Thangkas (Tibetan wall paintings), and stylish bags for women. Don't miss the iconic Mall Road, where the town comes alive. The sight of fresh and vibrant vegetables will invigorate your spirit at Chowk Bazar. Savour the delightful experience of sipping freshly brewed tea at the quirky tea stalls. The Batasia Loop Market is paradise for shoppers skilled in the art of bargaining. Satisfy your shopping desires here without straining your budget. Located along the scenic Ghoom and Darjeeling loop-line, the presence of a toy train line adds an enchanting touch to your shopping experience.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indulge in the local delicacies that have become synonymous with this charming hill station. Savour the sweet delights of Sel Roti, deep-fried rice doughnuts served with butter or chutney, a traditional treat enjoyed during festive occasions. Sample Chang and Thomba, local brews made from fermented grains, served in bamboo glasses to ward off the cold. Discover the aromatic Tibetan Tea, a comforting blend of long tea leaves and homemade butter, perfect for keeping warm in the chilly Himalayan climate. Delight in the steamed or fried dumplings known as Momos, a popular snack that has captured the hearts of locals and visitors alike. Treat your taste buds to Sha Phaley, a savoury Tibetan potsticker filled with meat, accompanied by flavourful curries or chutney. And don't miss the hearty Thukpa, a hot noodle soup brimming with meat, vegetables, and spices, providing nourishment and comfort on chilly winter days. Experience the rich flavours and cultural heritage of Darjeeling through its diverse culinary offerings, a feast for both the palate and the soul.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling offers a perfect blend of natural wonders and thrilling adventures beyond the famous joyride on the iconic Darjeeling Heritage Railway 'Toy Train' through the breath-taking Batasia Loop and Ghoom. Marvel at Tenzing and Gombu rocks, named after legendary mountaineers, and embark on a thrilling cable car ride on the historic Darjeeling Ropeway. For the ultimate adrenaline rush, dare to conquer the rushing white-waters of the Teesta River, where challenging rapids promise an adrenaline-fueled escapade like no other. Known as heaven among trekking enthusiasts, the awe-inspiring trekking trails in Darjeeling offer a gateway to unparalleled natural beauty and exhilarating experiences. Embark on a journey through the Singalila Ridge, where the Trek to Tonglu awaits, promising panoramic views of Kanchenjunga and Mount Everest. Traverse the cascading waterfalls on the Trek to Gorkhey, immersing yourself in the warmth of local hospitality with a homestay in the picturesque village. For a more challenging adventure, set out on the Trek to Sandakphu , where the highest peaks of the world paint a mesmerising panorama against the azure sky. Beyond the rugged terrain and lush forests, Darjeeling also boasts serene waterfalls and tranquil escapes, such as the one-day Trek to Kamala Falls, offering a refreshing dip in the pristine waters amidst the wilderness. Or indulge in a spiritual sojourn with the Trek to Rohini, where breath-taking vistas of tea hills and captivating waterfalls await. For a taste of untouched wilderness, venture into the Bamunpukhuri Jungle, where exotic wildlife and aromatic tea gardens create an enchanting backdrop for your trekking adventure. Whether you're a seasoned trekker or a first-time adventurer, Darjeeling offers an array of outdoor pursuits that will leave you exhilarated and rejuvenated, making memories to cherish for a lifetime.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond breathtaking vistas of snow-capped peaks, lush tea gardens, and verdant valleys, Darjeeling offers a perfect blend of rich cultural heritage and adventure. Observatory Hill , majestically rising above Chowrasta Square, is a captivating attraction in the picturesque town of Darjeeling, West Bengal. It beckons adventurers and religious devotees alike, offering a breath-taking panorama of snow-capped mountains and hosting an array of Hindu and Buddhist temples. The hill's historic structures include the ancient Bhutia Basti monastery, rebuilt after invasions and earthquakes, and the revered Mahakal temple dedicated to Lord Shiva. A Siddhi Sai Baba temple and a temple honouring Lord Hanuman also grace this sacred site. Kurseong is a charming hill station near Darjeeling. Known as the \"place of the white orchid,\" it boasts an abundance of beautiful orchids blooming on its slopes. With splendid views of Mt Kanchenjunga, Kabru, Jannu, Teesta River, and Mahananda River, Kurseong offers a delightful climate year-round. The iconic toy train, meandering through its meadows, adds a touch of romance. Explore attractions like Salamander Lake, Forest Museum, and British schools. Kurseong's serene ambiance has attracted renowned figures like Rabindranath Tagore and Netaji Subhash Chandra Bose, whose former bungalow is now a museum showcasing his belongings. Perched at an elevation of 2590 meters, just 13 kilometres from Darjeeling, lies the breath-taking Tiger Hill . Revered for its unrivalled vantage point, this enchanting destination offers a panoramic spectacle of the majestic Kanchenjunga as it unveils its radiant beauty with the first rays of sunrise. Mount Everest, the world's highest peak, reveals itself in the distance, while Kurseong and the meandering rivers of Teesta, Mahananda, Balason, and Mechi paint a picturesque landscape below. Spread across 40 acres of land, Lloyd Botanical Garden in Darjeeling is a captivating attraction that showcases a rich variety of flora. From alpine plants and arum lilies to exotic species from China, Japan, Africa, and the United States, the garden is a tapestry of vibrant colours and scents. With over 150 species of cacti and succulents, an Orchadium featuring 2,500 orchids, and distinct sections highlighting different vegetation, the garden offers a glimpse into the diversity of plant life. It also houses living fossil trees from China, a Student's Section, a Medical Garden, and a Rock Garden. Established in 1878 as a gift from William Lloyd, the garden aims to preserve rare flora from the Darjeeling Himalayan region and its surroundings.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name 'Darjeeling' comes from the Tibetan words 'dorje' meaning thunderbolt (originally the sceptre of Indra) and 'ling' a place or land, hence the land of the thunderbolt.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling served as the summer capital of India during the British Raj.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Darjeeling Himalayan Railway , established in 1881, is a UNESCO World Heritage Site.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling's ‘Toy Train’ is the first and only steam-powered rack-and-pinion railway in India and one of the oldest mountain railways in the world.",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Over 80 operational tea gardens in Darjeeling produce the renowned Darjeeling Tea , also known as the \"Champagne of tea.\"",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Darjeeling- The Queen Of Eastern Himalayas",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Culinary Delights Darjeeling",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your ultimate shopping guide in the Queen of Hills, Darjeeling!",
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Darjeeling",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/darjeeling",
+        "retrieved_at": "2026-09-22T18:36:51.032798+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

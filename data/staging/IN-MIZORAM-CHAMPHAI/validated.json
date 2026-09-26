@@ -1,0 +1,332 @@
+{
+  "destination_id": "IN-MIZORAM-CHAMPHAI",
+  "destination_name": "Champhai",
+  "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lengpui Airport (AJL), Aizawl Silchar Airport (IXS), Silchar Bir Tikendrajit International Airport (IMF), Imphal"
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bairabi Railway Station (BHRB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bir Tikendrajit International Airport (IMF), Imphal",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Champhai is a captivating town nestled in the heart of Mizoram, India's northeastern paradise. It’s a place where you see rolling green hills unfurling beneath a canvas of clear blue sky. A place where you catch the vibrant orchids dancing in the gentle mountain breeze. A place where you witness the majestic peaks of Myanmar creating a breathtaking backdrop. Champhai's heart overflows with natural beauty. Emerald green paddy fields, stretching like a patchwork quilt across the valley, have earned it the well-deserved title of ‘Rice Bowl of Mizoram.’ Quaint hamlets dot the landscape, adorned with monuments and monoliths celebrating past victories, valorous hunts, and personal achievements. These silent sentinels tell tales of a rich heritage, a testament to the resilience and spirit of the Mizo people. Champhai transports you to a world untouched by the frenetic pace of modern life. Here, time seems to slow down. And its climate is the cherry on the cake that offers year-round comfort for your adventures. This enchanting town isn't just a feast for the eyes; it's a base camp for intrepid souls like you. Get ready to be beckoned by the promise of thrilling treks through the verdant embrace of the Mizo Hills. Lace up your boots and get ready to explore!",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your journey in Champhai must begin at the Mura Puk, a sacred cave that holds immense cultural and historical significance for the Mizo people. Venture into the dimly lit interiors, where ancient rock carvings and paintings adorn the walls. According to local legend, the Mura Puk served as a refuge for villagers in ancient times, as they sought shelter from the attacks of a massive eagle known as the Mura, which was said to prey upon the local populace. For an adrenaline rush (with a side of breathtaking views), look no further than Thasiama Seno Neihna, a natural wonder that will test your limits and reward you with an unforgettable experience. This unique site, located about 86 km from Champhai, is a small, plateau-like rock formation jutting out from a hillock. While reaching the top might not be for the faint of heart, the challenge is part of the thrill! As you delve deeper into Champhai's past, uncover the legend of the Lianchhiari Lunglen Tlang , that beckons you with its panoramic vistas and a legendary love story. This scenic viewpoint is a rocky ledge jutting out from a high cliff, offering breathtaking views of the surrounding landscape. Legend whispers the tale of Lianchhiari, a lovestruck woman who used to gaze from this very spot towards the distant village where her beloved Chawngfianga had migrated. Make your way to the Lamsial Puk, a cave near Farkawn village, that offers a glimpse into a bygone era, but be prepared for a somber experience. Unearthed here were a large number of skeletons, believed to be the remains of warriors from a gruesome battle between two neighbouring villages. If you’re a literature lover, Champhai has a unique gem for you – Hlakungpui Mual , also known as the Mizo Poet's Square, a monument to commemorate the poets of Mizoram. Explore a serene park with an orchid haven, then delve into the museum showcasing the works of Mizo's most esteemed poets. No visit to Champhai would be complete without exploring its many Christian churches, which stand as monuments to the town's rich religious heritage. Marvel at the intricate woodcarvings and stained-glass windows that adorn the interiors of these sacred spaces, each one a testament to the region's resilient faith and the harmonious coexistence of diverse belief systems.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Champhai isn't a destination to be rushed. It's a place to be savoured. Stroll barefoot through its paddy fields, feel the cool earth between your toes, and capture postcard-perfect moments with your camera. Champhai's natural splendour is incomplete if you don’t visit the Rih Dil Lake , a mesmerising heart-shaped body of water that straddles the India-Myanmar border. Gaze upon its serene surface, which reflects the surrounding hills in a captivating display of nature's artistry. Spend time in quiet contemplation, allowing the peaceful ambience to soothe your soul. Venture into the Murlen National Park , a vast wilderness teeming with a diverse array of flora and fauna. Keep your eyes peeled for the elusive hoolock gibbon, the only ape species found in India, as well as the majestic clouded leopard, among a host of other endemic species that call this haven home.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For over a decade, this region has been cultivating grapes specifically for crafting delicious wines. Explore the vineyards nestled in the upper part of Champhai town, and witness the lush rows firsthand. But for a truly immersive experience, head to Hanhlan village, renowned for its wine production. Here, you can witness the entire process, from grape cultivation to the final bottling, and even sample some of the local vintages.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Champhai's cuisine reflects the Mizo people's life. Imagine hearty plates with fresh, local vegetables, fluffy rice, and vibrant greens, all thanks to the region's rich agricultural heritage. Meat lovers won't be disappointed, but be prepared for a lighter style – steaming and boiling are the preferred cooking methods, creating healthy and flavourful dishes. Champhai's unique location near Myanmar even infuses a touch of Southeast Asian flair, making for a truly unforgettable culinary experience. Savour flavourful dishes like Bai, a vibrant vegetable stew, or Sawhchiar, a hearty rice dish cooked with pork, chicken, or beef. Embrace the freshness with Chhum han, steamed or boiled vegetables, or delve into the unique world of Bawl, dishes prepared with fermented fats. Some popular eateries include Zote Bakery, Blue Mountain restaurant and Hotel Sangchia.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For an authentic experience of Mizo tradition and culture, you must visit the nearby villages. Head to Ruantlang village, a charming gem nestled just 5 km from Champhai. This quaint village proudly displays its commitment to healthy living with a prominent ‘Tobacco-Free Village’ sign – a true breath of fresh air! For the history buffs, a visit to Vangchhia is a must. Nestled close to the Myanmar border, this village boasts rolling hills and dense forests, an idyllic backdrop for its unique claim to fame – Kawtchhuah Ropui , a natural wonder and Mizoram's first protected archaeological site. Here, explore 171 giant stone slabs (menhirs) adorned with ancient etchings – human figures, animals, and even floral designs. These ancient markers, along with unearthed graves and a 200-meter-long water pavilion, offer tantalising clues about a lost civilisation!",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You can soak in Champhai's charm year-round. But if you're an adventurer at heart, November to March offers pure bliss. Imagine exploring under clear skies with mild temperatures – perfect weather for uncovering the hidden treasures of nearby villages and landmarks! You can also plan your visit around the vibrant Chapchar Kut harvest festival in March, that pulsates with music, dance, and local delicacies. But if tranquility is your aim, plan your visit before or after the festivities. So, what are you waiting for? Unveil the magic of Champhai, Mizoram's hidden gem, and embark on an unforgettable adventure!",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vangchhia is considered to be the world's largest necropolis site, nestled in Champhai district near Khawbung Village.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Champhai stands as one of the oldest settlements established by the Mizo people, once serving as the capital for the Hmar dynasty.",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Off-roading To Champhai-mizoram’s Best-kept Secret",
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Champhai",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/champhai",
+        "retrieved_at": "2026-09-22T18:36:39.264201+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

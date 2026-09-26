@@ -1,0 +1,124 @@
+{
+  "destination_id": "IN-TRIPURA-UNAKOTI",
+  "destination_name": "Unakoti",
+  "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharaja Bir Bikram Airport (IXA), Agartala"
+      },
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kumarghat Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maharaja Bir Bikram Airport (IXA), Agartala",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unakoti is a hidden gem nestled in the verdant landscapes of Tripura, India. Tucked away amidst lush forests and rolling hills, Unakoti is a place of mystical beauty and ancient wonders waiting to be discovered. Join us on a journey as we uncover the secrets of Unakoti and delve into its rich history and vibrant culture.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unakoti is renowned for its ancient rock-cut sculptures and intricate carvings that adorn the hillsides, dating back to the 7th-9th centuries CE. Begin your exploration at the main site, where you'll encounter the iconic rock-cut figures of gods and goddesses. Marvel at the skill and artistry of the artisans who created these magnificent works of art, each with its unique charm and significance. As you wander through the serene surroundings, you'll encounter countless other sculptures and rock formations, each telling a story of ancient legends and mythology.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surrounded by lush greenery and pristine landscapes, Unakoti offers ample opportunities for nature lovers and outdoor enthusiasts. Embark on a trekking expedition through the dense forests and meandering trails that lead to hidden waterfalls, gurgling streams, and panoramic viewpoints. Keep an eye out for exotic bird species, rare flora, and fauna that call this region home. For a more leisurely experience, enjoy a tranquil boat ride on the serene backwaters or simply unwind amidst the natural beauty of Unakoti.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unakoti is not just a place of natural beauty but also a repository of rich cultural heritage and traditions.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the nearby villages and interact with the local communities to learn about their way of life, folklore, and rituals. Witness traditional dance performances, music recitals, and religious ceremonies that celebrate the vibrant culture of Tripura. Don't miss the opportunity to savour the local cuisine, known for its spicy flavours and aromatic spices, at roadside eateries and village markets.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unakoti famously known as Angkor Wat of the North-East, is a sculptural emblem and ancient Shaivite place that hosts rock carvings, figures, and images of gods and goddesses. Unakoti literally means \"one less than one crore\" or \"koti\" in Hindi. It was put on the UNESCO World Heritage Site tentative list in 2022. According to Hindu scriptures, Lord Shiva once spent a night here en route to Kashi. 99,99,999 gods and goddesses followed him. He had asked his followers to wake up before sunrise and make their way towards Kashi. Unfortunately, none awoke, except Lord Shiva himself. Before he set out for Kashi alone, he put a curse on the others, turning them to stone and that is how the site got its name. Local tribals believe that the maker of these idols was Kallu Gurjar. He was a devotee of Parvati and wanted to accompany Shiva-Parvati to their abode on Mount Kailash.",
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show results",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Unakoti",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/unakoti",
+        "retrieved_at": "2026-09-22T18:36:47.181558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

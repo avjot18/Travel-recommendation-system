@@ -1,0 +1,533 @@
+{
+  "destination_id": "IN-KERALA-WAYANAD",
+  "destination_name": "Wayanad",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Calicut International Airport (CCJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kozhikode Railway Station (CLT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the northeastern highlands of Kerala, Wayanad, derived from Vayal Nadu, meaning the land of paddy fields, is a breathtaking plateau draped in misty hills, emerald forests, and serene valleys. Sharing its edges with Karnataka and Tamil Nadu, this enchanting district is often fondly called the Ooty of Kerala for its cool climate, spice plantations, and sprawling tea and coffee estates.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wayanad’s terrain is a vibrant mosaic of nature and culture: mountains piercing the clouds, shimmering lakes, forested trekking trails, cascading waterfalls, and ancient caves that whisper stories of early civilizations. It is also home to India’s largest earthen dam, Banasura Sagar, and the prehistoric Edakkal Caves, where carvings dating as far back as 6000 BC still stand as a bridge to another era.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding to its charm is Wayanad’s long-standing tradition of cultivating Robusta coffee, grown under the shade of evergreen forests at altitudes of 700–2100 meters. This specialty, recognized as the district’s ODOP (One District One Product) enriches the region not only economically but experientially. Every cup carries the aroma of its unique terroir, shaped by Wayanad’s forest canopy, cool climate, and nutrient-rich soil. The coffee-chocolate notes drifting through plantation trails blend beautifully into the sensory tapestry of Wayanad, making it as much a place to savour as to explore.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wayanad is an ideal choice for travelers seeking nature, culture, and rejuvenation in one destination. The district forms part of the Nilgiri Biosphere Reserve which is recognized by UNESCO as part of the World Network of Biosphere Reserves. This gives Wayanad a rare ecological significance that elevates every nature-based experience. Mist covered peaks, forest trails, wildlife encounters, coffee scented breezes, and peaceful lakes make Wayanad a destination that appeals to families, adventure seekers, couples, photographers, and wellness travelers alike. Its blend of tranquility and adventure offers the kind of refreshing escape that feels both restorative and inspiring.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wayanad falls within the Nilgiri Biosphere Reserve which is known for its exceptional biodiversity and protected forest ecosystems. The Wayanad Wildlife Sanctuary offers sightings of elephants, tigers, deer, and a wide range of bird species. Visitors can explore the Muthanga and Tholpetty ranges through guided jeep safaris which provide opportunities to observe wildlife in natural surroundings.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wayanad’s cultural story spans ancient civilizations and diverse communities. A key highlight is the Edakkal Caves whose Neolithic carvings provide rare insight into early human history. The district is dotted with spiritual landmarks such as the Thirunelli Temple dedicated to Lord Vishnu and the peaceful Pallikkunnu Church which attracts visitors for its serene setting and architectural charm.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Trek to Chembra Peak Climb to Kerala’s loftiest vantage point and discover the iconic, heart-shaped Hridaya Saras lake along the way.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "2. Boating at Pookode Lake A serene freshwater lake surrounded by lush greenery—ideal for families and nature lovers.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "3. Explore Edakkal Caves Marvel at prehistoric petroglyphs etched into time on Ambukuthi Hills.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "4. Visit Banasura Sagar Dam India’s largest earth dam offers scenic boat rides and postcard-perfect mountain views.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Soochippara (Sentinel Rock) Falls – A dramatic three-tiered cascade, perfect for photography and a refreshing dip.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "2. Kanthanpara Falls – Gentle, peaceful, and ideal for relaxed nature walks.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "3. Meenmutty Falls – A multi-tiered waterfall accessible via a short forest trek.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Lakkidi Viewpoint – Known as the Gateway to Wayanad, offering sweeping valley views.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "2. 900 Kandi – Famous for its glass bridge, skywalk, and adventure experiences amid dense forests. Visitors can also book the tickets online on their website.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "3. Kuruvadweep – A protected river island with rich biodiversity and tranquil bamboo groves.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "4. Chain Tree of Karinthandan – A legendary landmark that blends folklore with history.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Wayanad is from October to May , when the weather is pleasant and ideal for sightseeing, trekking, and outdoor activities. Temperatures remain comfortable and the post monsoon greenery makes the landscape vibrant. This period is considered the most favorable for travelers who want to explore waterfalls, forest trails, and tea or coffee plantations.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From June to September, monsoon rains create misty forests and dramatic scenery although travel may be restricted in some areas due to heavy showers.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Calicut International Airport (Kozhikode) which is located approximately 65 to 93 kilometers from Wayanad depending on the entry point. From the airport, travelers can hire taxis or take buses to reach Wayanad.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: Wayanad does not have its own railway station. The nearest railhead is Kozhikode Railway Station, about 90 to 110 kilometers away. Taxis and buses are easily available from Kozhikode to reach key towns in Wayanad such as Kalpetta, Sulthan Bathery, and Mananthavady.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Wayanad is well connected by road to cities in Kerala, Karnataka, and Tamil Nadu. Popular entry routes include the Kozhikode–Mysore highway . State transport buses, private buses, taxis, and self-drive options offer convenient access from Bengaluru, Mysuru, Kochi, Kozhikode, and Coimbatore . The journey is scenic and passes through forested stretches and hilly.",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Wayanad forms part of the Nilgiri Biosphere Reserve, one of India’s most ecologically significant regions",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Edakkal Caves feature prehistoric carvings dating back to 6000 BC",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Banasura Sagar is India’s largest earthen dam",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Wayanad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/wayanad",
+        "retrieved_at": "2026-09-22T18:36:34.833002+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

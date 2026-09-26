@@ -1,0 +1,153 @@
+{
+  "destination_id": "IN-KARNATAKA-MYSURU",
+  "name": "Mysuru",
+  "state_or_ut": "Karnataka",
+  "region": null,
+  "description": "Mysuru is an officially listed tourism destination in Karnataka, India. It is best treated as a heritage, nature, beach travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "nature",
+    "beach",
+    "wildlife",
+    "food",
+    "adventure"
+  ],
+  "best_for": [
+    "heritage",
+    "beaches",
+    "wildlife",
+    "food",
+    "road trips"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 16.2,
+      "maximum_celsius": 29.3
+    },
+    "february": {
+      "minimum_celsius": 17.3,
+      "maximum_celsius": 31.4
+    },
+    "march": {
+      "minimum_celsius": 19.4,
+      "maximum_celsius": 33.6
+    },
+    "april": {
+      "minimum_celsius": 21.0,
+      "maximum_celsius": 34.3
+    },
+    "may": {
+      "minimum_celsius": 21.2,
+      "maximum_celsius": 33.4
+    },
+    "june": {
+      "minimum_celsius": 20.4,
+      "maximum_celsius": 30.0
+    },
+    "july": {
+      "minimum_celsius": 19.9,
+      "maximum_celsius": 28.7
+    },
+    "august": {
+      "minimum_celsius": 19.8,
+      "maximum_celsius": 28.6
+    },
+    "september": {
+      "minimum_celsius": 19.7,
+      "maximum_celsius": 29.5
+    },
+    "october": {
+      "minimum_celsius": 19.7,
+      "maximum_celsius": 29.4
+    },
+    "november": {
+      "minimum_celsius": 18.7,
+      "maximum_celsius": 28.7
+    },
+    "december": {
+      "minimum_celsius": 16.9,
+      "maximum_celsius": 28.3
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Karnataka",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Mysore Airport (MYQ), Mysore Kempegowda International Airport (BLR), Bengaluru"
+    ],
+    "railway_station": [
+      "Mysuru Junction Railway Station (MYS)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Karnataka",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Mysuru",
+      "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

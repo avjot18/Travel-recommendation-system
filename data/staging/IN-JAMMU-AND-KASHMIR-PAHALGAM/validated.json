@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-PAHALGAM",
+  "destination_name": "Pahalgam",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Srinagar International Airport (SXR), Srinagar"
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Udhampur Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -12.5,
+        "maximum_celsius": 10.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -10.1,
+        "maximum_celsius": 12.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -5.6,
+        "maximum_celsius": 19.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": -1.0,
+        "maximum_celsius": 24.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 2.0,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 29.1
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 4.3,
+        "maximum_celsius": 27.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": -1.4,
+        "maximum_celsius": 24.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -5.3,
+        "maximum_celsius": 19.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -8.8,
+        "maximum_celsius": 12.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srinagar International Airport (SXR), Srinagar",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled amidst the majestic Himalayas, Pahalgam ( meaning the village of shepherds in Kashmiri) stands as a testament to Kashmir's breathtaking beauty and serene charm. This picturesque town, cradled by verdant valleys and snow-capped peaks, beckons travellers seeking solace in nature's embrace. From the soothing waters of the Lidder River to the spiritual aura of the Amarnath Yatra, Pahalgam offers a myriad of experiences that captivate the soul.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pahalgam is a haven for nature enthusiasts, boasting landscapes that seem straight out of a postcard with its lush meadows, pristine forests, and the melodious Lidder River. The river, lifeline of the region, meanders through the valley, offering a symphony of soothing sounds that complement the visual splendour. It's an angler's paradise, with trout teeming in the crystal-clear waters. One can indulge in leisurely walks along its banks or partake in exhilarating activities like river rafting. Beyond the river, lush meadows stretch as far as the eye can see, carpeted with wildflowers in the spring and blanketed with snow in the winter. There are apple and walnut orchards waiting to be visited. The Betaab Valley, immortalized by Bollywood film, enchants visitors with its greenery and panoramic vistas. Here, one can lose themselves in the tranquility of nature, far away from the bustle of city life.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pahalgam isn't just a feast for the eyes; it's also a sanctuary for the weary soul. The crisp mountain air, laden with the scent of pine and cedar, invigorates the senses and rejuvenates the body and mind. Many visitors flock to Pahalgam seeking respite from the stresses of modern life, finding solace in its serene ambience and therapeutic environment.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Pahalgam is complete without indulging in its delectable cuisine. From aromatic kebabs sizzling on charcoal grills to piping hot bowls of Kashmiri dum aloo, the local fare tantalizes the taste buds with its rich flavors and fragrant spices. You may also enjoy the elaborate traditional multi-course meal called Kashmiri Wazwan featuring dishes like Rogan Josh, Gushtaba, Yakhni, and more. Don't forget to sample the iconic Kashmiri teas - 'noon chai' a pink creamy concoction infused with saffron and cardamom or Kahwa - a fragrant, warming, mild green tea made with whole spices, saffron, and nuts like almonds or walnuts, that warms the soul in chilly mountain evenings.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pahalgam is steeped in rich cultural heritage, evident in its vibrant festivals and age-old traditions. Visitors can immerse themselves in the rhythms of Kashmiri folk music, performed with traditional instruments like the santoor and rabab.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pahalgam- the gateway to the sacred Amarnath cave unveils a spiritual tapestry woven with temples and dargahs, enriching the town's allure with divine sanctity. From the ancient Mamleshwar Temple, Lok Bhawan temple to the revered Aishmuqam Shrine which is primarily a Sufi shrine it also houses a Hindu temple dedicated to Lord Shiva each sacred site exudes a serene ambiance. Alongside, dargahs like Hazrat Zain-ud-din Wali Shrine and Khanqah-e-Moula offer pilgrims a tranquil haven for spiritual reflection and communion. These hallowed grounds not only nurture individual faith but also embody the essence of communal harmony, where seekers from diverse backgrounds converge to experience the profound spirituality that permeates the serene landscape of Pahalgam.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The town is a treasure trove of exquisite handicrafts, reflecting Kashmir's centuries-old artisanal traditions. Intricately embroidered phirans, exquisite handwoven shawls, intricately carved walnut woodwork, delicate papier-mâché artifacts, and ornate copperware adorn the shelves of local bazaars, tempting visitors with their timeless beauty. Take home a piece of Pahalgam's craftsmanship as a memento of your journey, a tangible reminder of the town's enduring charm. Pahalgam is more than just a destination; it's a sanctuary for the senses, a refuge for the soul. Whether you're seeking adventure amidst the rugged mountains or serenity beside the gentle waters, Pahalgam promises an unforgettable experience that will linger in your heart long after you've bid farewell to its enchanting vistas. Come, lose yourself in the magic of Pahalgam, and discover the true essence of Kashmir's timeless allure.",
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pahalgam",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/pahalgam",
+        "retrieved_at": "2026-09-22T18:36:53.426573+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

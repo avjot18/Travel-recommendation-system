@@ -1,0 +1,493 @@
+{
+  "destination_id": "IN-KERALA-VARKALA",
+  "destination_name": "Varkala",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thivandrum International Airport (TRV), Thiruvananthapuram"
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Thiruvananthapuram Central Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thivandrum International Airport (TRV), Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram Central Railway Station",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Picture yourself on a sun-drenched shore where azure waters lap at the golden sands, and ancient cliffs rise majestically in the distance. Welcome to Varkala, a captivating coastal town in southern Kerala, that beckons you to unwind on pristine beaches, soak up the warmth of the Arabian Sea, and breathe in the fresh ocean air.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Varkala, you’ll find its crown jewel, the Varkala Beach (or Papanasam Beach) which is renowned for its white sands and crystal-clear waters. Beyond its idyllic beachfront, Varkala holds a revered status as a major pilgrim destination. Immerse yourself in the serenity of the Sivagiri Mutt , a place of peace and social reform, or explore the ancient Janardhana Swamy Temple, a 2,000-year-old architectural marvel perched on the cliffs overlooking the sea.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Despite its popularity, Varkala retains a sense of calm and serenity, offering respite from the usual hustle and bustle. Whether you crave relaxation on beaches, exploration of ancient wonders, or a journey of spiritual discovery, Varkala has something for everyone. Come, and embark on an unforgettable journey to this hidden paradise in Kerala!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What sets Varkala apart from other southern Kerala beaches is its breathtaking stretch of cliffs, a rarity along Kerala's flat coastline. Dubbed ‘The Varkala Formation’ by geologists, these cliffs have been declared a national geological monument by the Geological Survey of India. Alongside these cliffs, you'll discover picturesque spouts and spas, adding to the area's allure and offering unforgettable vistas.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varkala Beach is synonymous with the town and is nothing short of a coastal haven. Imagine yourself embraced by swaying coconut palms, the rhythmic sound of waves lapping at the shore, and endless stretches of turquoise blue waters. Its laid-back charm is perfect for rejuvenation. Sink your toes into the soft sand, collect seashells as treasured mementoes, or simply lie down and soak up the warm Kerala sun.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varkala Beach isn't just for sunbathing, it offers the perfect arena for jet skiing, parasailing, banana boat rides, and even surfing. Adrenaline junkies, rejoice! That’s not enough, you can even spot playful dolphins dancing in the waves! Just take a boat ride and you may come across these majestic creatures in their natural habitat.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You just can’t miss the magical sunsets here. Linger over a delicious meal at a beachfront restaurant and watch the sky erupt in colours as the sun dips below the horizon. While relaxing on the beach, you might notice a hint of black in the sand. This is a natural phenomenon caused by the presence of Thorium-oxide, a harmless mineral found throughout Kerala. It adds a unique touch to the beach’s captivating beauty.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But there’s more to the beach than just serenity. The beach is distinguished by a natural spring believed to possess medicinal and curative properties. A dip in its holy waters is said to cleanse the body of impurities and the soul of sins, earning it the name 'Papanasam’ (where ‘paapa’ means sin and ‘naasam’ signifies elimination).",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You can head next to the calm and serene Thiruvambadi Beach, nestled beside Varkala's northern cliffs. Don't miss Kappil, a hidden gem, where the sea, river, and backwaters converge in a breathtaking display of nature's artistry. Feeling adventurous? Catch your first wave with surf lessons here!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varkala's magic isn’t just confined to its natural beauty. Here, you can delve into the depths of Kerala's spiritual soul by visiting the 2,000-year-old Janardhana Swamy Temple which is perched on a cliff, overlooking the vast expanse of Varkala Beach.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The temple is a prominent Vaishnavaite (devotees of Lord Vishnu and his avatars) shrine revered throughout India. Often called ‘Dakshin Kashi’ (Varanasi of the South), the temple pulsates with a mystical aura, inviting you to explore its ancient corridors. Step inside to discover a remarkable bell with a captivating history. Donated by the captain of a Dutch vessel that met its fate near Varkala, this bell serves as a poignant reminder of the temple's enduring legacy.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short journey from Varkala lies the sprawling Sivagiri Mutt, a place of profound peace and social reform. Explore the distinctive multi-tiered white terraces and pay your respects at the samadhi, the final resting place of Sree Narayana Guru, a revered saint and philosopher.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Near Varkala, you can visit several revered spiritual sites that attract pilgrims and tourists alike. Pay respects at Kaduvayil Juma Masjid, a 17 th -century mosque known for its intricate architecture and serene atmosphere. Head to the revered Sarkara Devi Temple located in the nearby town of Chirayinkeezhu. This ancient temple is dedicated to the goddess Bhadrakali and is renowned for its vibrant annual festival. Another spiritual haven is the Panayara Triporittakkavu Bhagavathi Temple, a centuries-old temple dedicated to the goddess Bhagavathi, known for its powerful healing energies.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Once you've soaked up the sun, why not venture further and discover hidden gems nearby?",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step back in time with a visit to the Varkala Tunnel, also known as Varkala Turuthu. This 19 th -century engineering marvel, built to establish an inland waterway route, can be experienced on a unique boat ride. Imagine cruising through the cool, dark tunnel, picturing the bullock carts and pedestrians who once used it for transportation.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a touch of history, head to the Anjengo Fort, a 12 km journey from Varkala. This fascinating fort, standing tall with its laterite walls, whispers tales of Portuguese, Dutch, and English colonial powers vying for control. Ascend the 130-foot Anjengo Lighthouse above the sparkling Arabian Sea and see the world unfolding before you in a breathtaking panorama. Get transported back in time as you explore this historical landmark!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Art lover? Explore the Kilimanoor Palace, the former residence of the renowned artist Raja Ravi Varma. The palace is a masterpiece, showcasing traditional Keralan architecture. Don’t miss it!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you crave tranquillity, escape to the lush island paradise of Ponnumthuruthu. Board a traditional country boat from Nedunganda and embark on a scenic 30-minute backwater tour. As you reach the island, prepare to be charmed by the simplicity of the makeshift jetty, crafted from coconut husk, mud, and coir waste. Pure bliss awaits on this secluded island getaway!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Don't leave Varkala without treating your taste buds! This beach paradise offers a culinary adventure to tantalise every palate. Freshly caught seafood takes centre stage at beachfront eateries, offering stunning ocean views and an unforgettable ambience. Craving a taste of Kerala? Sample a traditional feast served on banana leaves, featuring all the classic regional dishes you've ever dreamed of.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The coastal city of Varkala is steeped in captivating myths and legends, adding another layer of intrigue to your visit.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend whispers of a Pandyan king seeking redemption. In his dreams, Lord Brahma is said to have instructed him to build a temple to absolve his sins. Following this divine prophecy, the king embarked on a journey, eventually landing in Varkala – the chosen location for the magnificent Janardhana Swamy Temple that stands today!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another legend tells the tale of Sage Narada, a revered figure in Indian mythology. When approached by nine celestial beings seeking to atone for their misdeeds, Narada is said to have thrown his valkalam (garment made of tree bark) to the earth. This spot, where the valkalam landed, is believed to be where Varkala now thrives, with the name itself possibly derived from ‘valkalam.’",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varkala's significance extends far back in time. Ancient Greek texts like The Periplus of the Erythraean Sea mention a place called Balita, which is believed to be none other than Varkala! Imagine yourself walking in the footsteps of historic traders who may have visited these very shores centuries ago!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Varkala's magic unfolds best between October and March when the weather transforms into a beach lover's dream. Come, discover this coastal paradise!",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Varkala, you'll find a unique landscape where cliffs meet the Arabian Sea, a distinctive feature not found elsewhere in Southern Kerala.",
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Varkala",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/varkala",
+        "retrieved_at": "2026-09-22T18:36:34.697773+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

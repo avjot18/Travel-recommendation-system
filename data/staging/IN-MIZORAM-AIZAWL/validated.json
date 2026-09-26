@@ -1,0 +1,423 @@
+{
+  "destination_id": "IN-MIZORAM-AIZAWL",
+  "destination_name": "Aizawl",
+  "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lengpui Airport (AJL), Aizawl Silchar Airport (IXS), Silchar Bir Tikendrajit International Airport (IMF), Imphal"
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Silchar Railway Station (SCL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 9.7,
+        "maximum_celsius": 24.8
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 11.4,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.6,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 31.3
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 31.1
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 30.9
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 15.4,
+        "maximum_celsius": 27.8
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 25.0
+      },
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bir Tikendrajit International Airport (IMF), Imphal",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Regally perched on the high hills of the North-Eastern corner, Mizoram is a reservoir of ethereal beauty with its wide spectrum of landscapes, mountainous terrain, innumerable streams, deep gorges, and an affluence of flora and fauna that is rarely witnessed in the world. Aizwal, Mizoram’s capital, is home to the Mizo tribe. World-renowned for their hospitality, the Mizos are a close-knit society bound by a peculiar code of ethics, 'Tlawmngaihna' which is an untranslatable term meaning the part of everyone to be hospitable, kind unselfish, and helpful to others. A good starting point for your Aizawl adventure is the Mizoram State Museum on Macdonald Hill. Though the museum is not awe-inspiring in its size, it offers a wonderful glimpse into the state’s rich heritage, showcasing a spectrum of artefacts, costumes, and historical relics that unravel the stories of Mizoram. The museum will give you a peek into Mizo society's cultural and historical nuances. Another heritage site, the Beraw Tlang, is a cultural complex that would be a fantastic complement to the state museum offers insights into Mizo traditions and lifestyles and houses a range of traditional huts, Mizo history exhibits, and cultural performances making it a captivating place.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the sun-kissed streets of the city unfold, there lies a secret— Solomon’s Temple —a celestial whisper etched in stone. Imagine walking towards it, your footsteps echoing through the Kidron Valley. The air smells of ancient prayers, and the hills lean in, eager to share their tales.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This gigantic architectural phenomenon is a living testimony to the Christian ethos reverberating throughout Mizo society. It is open to all, and the white façade shining under the sun against the backdrop of verdant hills is as pleasant a welcome as any visitor can expect, offering a peaceful retreat for reflection and admiration.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you want a panoramic view of the city and beyond, a trek to Durtlang Hills is a must. The road may be steep and challenging, but the payoff at the summit is unparalleled — a breath-taking vista of Aizawl, an intersection of urban life and natural beauty. This is the kind of haven that photographers and nature lovers dream of living in.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a glimpse of Aizawl's markets, abuzz with activity and colour.The Bara Bazaar is the central hub, where you might stumble across everything, from fresh produce to handwoven textiles. It's also the best place to taste local delicacies like bamboo shoot stir-fry and Mizo thali — a platter that offers a taste of the region's culinary diversity. If you step out of your comfort zone and move outside the city, the nearby hills and valleys offer myriad avenues for hiking and bird-watching. The Reiek Heritage Village, about an hour's drive from Aizawl, stands out as a living microcosm of Mizo life. The hike to Reiek Peak from the village is fairly accessible and rewards trekkers with awe-inspiring views of the surrounding countryside.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those looking for a challenge, the Dampa Tiger Reserve provides an exciting opportunity for wildlife spotting and an intense trek through Mizoram’s largest wildlife sanctuary. In the evenings, Aizawl puts on a completely different avatar. The streets take on the hue of the vibrant lights emitting on, and the chilled hill air is pleasant. Dining at a local restaurant that offers floor seating and serves Mizo delicacies can be a delightful experience, allowing you to end your day as the Mizos do.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With its luxurious green landscapes, Aizwal offers a unique culinary experience that holds both the locals and travellers in rapture. Particularly, the culinary delights of bamboo shoot stew and pumpkin leaves stew stand out, reflecting the rich agricultural heritage and the reliance on natural resources. These dishes, deeply rooted in the local tradition, become a focal point during the annual festivals, especially the Thalfavang Kut and Ana Chachar Kut, where they are celebrated alongside the state's handicrafts and places of interest like Hmuifang, Tamdil, Vantawng Khawhthla, and the typical Mizo village (Zokhua) at Falkawn.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bamboo shoot stew and pumpkin leaves stew encapsulates the essence of Mizo cuisine with their subtlety and the use of fresh, locally sourced ingredients. Bamboo shoots, being slightly bitter yet remarkably crispy, are meticulously prepared to enhance their unique taste, often cooked with local spices and sometimes pork, creating a rich, flavourful broth. On the other hand, pumpkin leaves stew is a testament to the Mizo's innovative use of vegetables, turning what many might disregard into a delicious, nutritious dish often enjoyed with rice, the staple food.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "These sumptuous dishes gain more importance during the annual Thalfavang Kut festival, which indicates the end of the harvest season, and Ana Chachar Kut, a celebration of bamboo shooting season. These festivals are not just a highlight of Mizoram's impressive agricultural yield but also a time when communities come together to celebrate their cultural identity through food, music, dance, and traditional games. It is a spectacle where one can truly experience the warmth and hospitality of the Mizo people.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst these celebrations, the handicrafts of Mizoram also take centre stage. The state is renowned for its vintage handloom and handicraft products, a reflection of the rich tribal traditions. Handwoven shawls, bags, bamboo, and cane products highlight the intricate craftsmanship that has been passed down through generations. The festivals provide an excellent platform for artisans to display and sell their creations, contributing significantly to the preservation and promotion of Mizo culture.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Moreover, Mizoram is blessed with natural beauties and places of interest that attract tourists. Hmuifang, with its breath-taking scenic locales and lush greenery, offers a serene escape from the bustling city life. Tamdil Lake is another feather in its cap, known for its elegant picturesque surroundings and boating facilities, providing a peaceful inroad into nature. Vantawng Khawhthla, the highest waterfall in Mizoram, presents a splendid view, while a visit to a typical Mizo village (Zokhua) at Falkawn offers insights into the traditional lifestyles and cultures of the local tribes.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mizoram is linked with the rest of the country by air. Lengpui Airport which is 37 km from the capital city Aizawl has direct flights from Delhi, Kolkata, Guwahati, Imphal, Shillong and Agartala operated by various airlines such as Indigo, Air India, and Alliance Air. The nearest railhead is Bairabi (132 km) in Kolasib District and Silchar (180 km) in Assam.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mizoram is accessible through National Highway 54 via Silchar in Assam and can also be accessed from Tripura and Manipur.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aizawl is situated at an elevation of 1,132 meters (3,714 feet) above sea level. Nestled amidst picturesque hills, it offers breathtaking views of the surrounding valleys and mountains.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The largest Mizoram Baptist Church in India is located in Aizawl. Additionally, the distinctive architecture of Solomon’s Temple stands as a prominent landmark in the city, reflecting the rich cultural identity of the Mizo people.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Aizawl’s population of over 293,416 people comprises different communities of ethnic Mizos. The locals celebrate their cultural heritage with pride, and the city hosts vibrant and colorful festivals like Chapchar Kut, Thalfavang Kut, and Pawl Kut.",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the essence of Aizawl: The rich flavours of north-eastern cuisine",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The bazaars of Aizawl await the shopaholic you",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover a paradise of hills, mountains, rivers, and lakes in Aizawl",
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Aizawl",
+        "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+        "retrieved_at": "2026-09-22T18:36:39.133284+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

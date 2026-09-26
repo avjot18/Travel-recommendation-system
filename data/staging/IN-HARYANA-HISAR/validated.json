@@ -1,0 +1,292 @@
+{
+  "destination_id": "IN-HARYANA-HISAR",
+  "destination_name": "Hisar",
+  "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharaja Agrasen International Airport (HSS), Hisar"
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Hisar Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.4,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 46.3
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 45.9
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 37.8
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.7,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.7,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maharaja Agrasen International Airport (HSS), Hisar",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hisar is a city in the state of Haryana that is known for its rich culture and history. It has witnessed the rise and fall of several empires over thousands of years, making it a place of great historical significance. The city is home to many archaeological wonders, including ancient forts and temples, and it seamlessly blends old and new through modern urban development.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For thousands of years, this place was ruled by various dynasties, including the Mauryans, Tughlaqs, Mughals, and British rulers. The discovery of Rakhigarhi and other pre-Indus settlements is set to rewrite the 5000-year history of our civilisation back more than a thousand years. The name ‘Hisar’ has its roots in Arabic and Persian, with the word meaning \"fort\" or \"quilla\". Built in 1354 AD, by Emperor Firoz Shah Tughlaq, who was the Sultan of Delhi from 1351 to 1388, and named it 'Hisar India-e-Firoza'. The city was built around the palace that Emperor Firoz Shah constructed for his beloved, the 'Gujari Mahal'. The palace still stands today and is a complex of buildings that includes the sultan's regal residence, Shahi Darwaza, Diwan-e-Aam, and Baradari with three tehkhanas, a Hamam, a Mosque, and a Pillar. The palace is known for its beautifully carved stone pillars and it exudes a truly breathtaking grandeur. During the reign of Emperor Akbar (1556-1605), the city became known as 'Hisar'.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other ancient attractions here include Agroha from where around seven thousand antiquities from the 3rd-4th century B.C to 13th-14th century A.D, including stone sculptures, terracotta sealing, iron and copper implements, beads, shell, glass, and terracotta objects, along with coins and sculptures. It is from here that the famous seal of Pasupathi Mahadeva was discovered. It is also the site of Ashoka's pillar.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other attractions include the ancient Gumbad, the tomb of Pranpir Badshah, (belonging to the early 14th Century A.D), the spiritual teacher of Sher Bahlol or Dana Sher. He was a great Sufi Saint and prophesied that Ghiyas-ud-din Tughluq would become the king of Delhi. Jahaj Kothi was built by George Thomas a native of Ireland and uncrowned ruler of the territory for a period, as his residence. Religious sites such as the Agroha Dham Temple in Hisar, dedicated to the Hindu deity Raja Agrasen, and the Shri Guru Harkrishan Sahib Ji Gurudwara, dedicated to the eighth Sikhism guru, attract significant devotees and tourists.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hisar is a noteworthy agricultural centre, renowned for its fertile soil and the production of exquisite handicrafts, such as pottery, embroidery, and traditional textiles. The city's proximity to Delhi, Punjab, and Rajasthan has influenced its cuisine, and it offers various local delicacies, including the famous Hisar ki Lassi a must-try.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name “Hisar” literally means “fortress” in Arabic.",
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Hisar",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/hisar",
+        "retrieved_at": "2026-09-22T18:36:27.984909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

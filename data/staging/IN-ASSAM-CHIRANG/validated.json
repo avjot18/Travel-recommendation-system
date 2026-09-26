@@ -1,0 +1,144 @@
+{
+  "destination_id": "IN-ASSAM-CHIRANG",
+  "destination_name": "Chirang",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Lokpriya Gopinath Bordoloi International Airport (GAU) Rupsi Airport (RUP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Basugaon (BSGN) Bijni (BJF)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lokpriya Gopinath Bordoloi International Airport (GAU)",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the enchanting embrace of Assam lies the hidden gem of Chirang District, a destination that promises untouched natural beauty, vibrant cultural experiences, and a peaceful escape from the everyday hustle. If you’ve got an adventurous spirit and a craving for something off the beaten path, Chirang is calling your name! This beautiful destination invites you to explore a landscape where vast stretches of emerald greenery coexist with the rhythmic flow of meandering rivers. But there’s more than just breathtaking views here. Chirang, which means 'Water' in the Bodo language, is a vibrant tapestry of the Bodo culture, boasting experiences that feel both exhilarating and authentic. Situated along the picturesque Bhutan border, this district is not just a feast for the eyes - it's a portal to adventure and a canvas for cultural exploration. So, pack your bags and get ready to dive into the tranquil yet exhilarating world of Chirang!",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of Chirang’s highlights is Manas National Park, a UNESCO World Heritage Site that spans the district and is home to diverse wildlife, including the Bengal Tiger, Indian Rhinoceros, and Pygmy Hog. For nature enthusiasts and wildlife photographers, the park offers jungle safaris, river rafting on the Manas River, and guided nature walks, providing an unparalleled opportunity to witness rare species and engage in eco-tourism.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chirang, despite being one of the least populated districts in Assam, is captivating due to its natural wonders and rich cultural heritage. Among its must-see spots is the Champamati Mini Hydro-electric Power Project, which offers breathtaking views. If you’re a nature enthusiast, a visit to Kalamati is a must, as it’s home to a diverse range of orchids and butterflies.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "You can also explore other natural attractions like Gabharukhunda, a biological hotspot, and forest reserves such as Datgiri and and Rani Sundari, which showcase the district's rich biodiversity. The Laoti Hagrama Bridge is a popular picnic spot in the area, offering serene views of the river and surrounding landscapes. Additionally, the breathtaking beauty of Ghumeswar Hill makes it another favoured destination for travellers in Chirang.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No trip to Chirang is complete without indulging in the local cuisine. From Bodo specialities like Onlakharwi (rice flour curry) and Narzi (gravy made from jute leaves) to Assamese favourites like Aloo Pitika (mashed potatoes) and Masor Tenga (sour fish curry), the flavours of this region are a true delight for food lovers.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When visiting Chirang, you will have the opportunity to explore the Bodo tribe, who are renowned for their traditional music and distinctive handwoven textiles. You must visit the Bodo Handloom and Handicrafts Centre, where you can watch skilled artisans weave intricate shawls and saris. Witness their craftsmanship up close and take home one of these beautifully crafted pieces as a unique souvenir to remember your journey.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Chirang, festivals offer you a vibrant and immersive experience of Bodo culture and tradition. The most captivating is Bwisagu, a lively spring festival celebrating the Bodo New Year. You’ll be swept up in the energy of traditional dances, folk songs, and the unique ritual of washing cattle - symbolising renewal and gratitude for the agricultural bounty. Baishagu, another major festival, invites you to witness the colourful attire, rhythmic music, and delicious feasts as the Bodo Kachari community celebrates their New Year. For a deeper spiritual connection, you can also experience Bathou Puja, a sacred festival dedicated to Bathoubwrai, the supreme deity. During this time, you’ll see prayers, offerings, and ceremonies around the revered Siju plant.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the best ways to experience Chirang is by staying in a local homestay. The warm hospitality of the locals adds a personal touch to your journey, offering you a chance to understand their way of life, customs, and traditions. Whether you’re seeking adventure, cultural experiences, or simply a serene getaway, Chirang offers a slice of Assam that remains beautifully untamed and waiting to be explored.",
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chirang",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/chirang",
+        "retrieved_at": "2026-09-22T18:36:22.912737+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

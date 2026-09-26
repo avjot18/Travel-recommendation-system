@@ -1,0 +1,433 @@
+{
+  "destination_id": "IN-RAJASTHAN-UDAIPUR",
+  "destination_name": "Udaipur",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharana Pratap Airport (UDR), Udaipur"
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Udaipur City Railway Station (UDZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.2,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.0,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 41.5
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.6,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.1,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 36.7
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.7,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.4,
+        "maximum_celsius": 30.2
+      },
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated amid the lush green hills of the Aravalli Range of Rajasthan, Udaipur rises like a mirage from the arid landscape. It is a city of shimmering lakes and marble palaces that seem to float between earth and sky. Known as the ‘City of Lakes,’ Udaipur is renowned for its Rajputana grandeur, romantic vistas, and timeless charm that beckon travellers from across the globe. The abundance of lakes has also earned Udaipur the nickname ‘Venice of the East.’ As you first lay eyes on Udaipur, you'll understand why it's often hailed as India's most romantic city. The serene waters of Lake Pichola reflect the ivory facades of palatial buildings, creating a dreamlike panorama that has enchanted visitors for centuries. This picturesque setting has made Udaipur a favourite among filmmakers, with the James Bond film Octopussy famously showcasing its ethereal beauty to the world. While the lakes are undeniably captivating, Udaipur boasts majestic forts and historic palaces that stand as testaments to the city's rich heritage. Museums and galleries offer fascinating glimpses into Udaipur's vibrant culture. Nature enthusiasts will find solace in the city's natural landscapes. Architectural marvels like temples and intricately designed buildings, lively traditional fairs and festivals add a touch of vibrancy to the city, while delectable cuisine tantalises taste buds with its unique flavours.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's story unfolds like a captivating legend. Founded by Maharana Udai Singh II in 1553, the city served as a refuge for the Mewar dynasty, known for its valour and resistance against Mughal emperors. Maharana Udai Singh II's legacy of resistance lives on in the very stones of the City Palace Complex, a sprawling labyrinth of courtyards, museums, and intricately carved buildings where his descendants sought shelter. Within the City Palace, ascend to the Bada Mahal which is known to be the men’s section and marvel at the breathtaking panorama of Lake Pichola , where the majestic City Palace appears to float on the water's surface. Imagine the grandeur of the Mewar court as you explore the Crystal Gallery, its collection of glittering crystal ware and chandeliers sparkling under the soft glow of the lights. Jag Mandir Palace , known as 'The Lake Garden Palace,' is a striking three-story marble and sandstone structure on Lake Pichola's southern island. The palace features life-sized marble elephants and architectural gems like the Gul Mahal and Zenana Mahal. It is complemented by lush gardens, a Rajasthani cuisine restaurant, and a museum.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby, the Taj Lake Palace , originally Jag Niwas Palace, also on Lake Pichola, was built as a summer retreat and converted into a five-star hotel later. Known as one of the world's most romantic hotels, it offers opulent décor with ivory white and black marble, luxurious hospitality, recreational activities, and a range of dining options from Rajasthani to European cuisines.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched atop the Aravalli Range, 85 km away from Udaipur, lies a monumental testament to Rajput valour and architectural brilliance – the Kumbhalgarh Fort . Built in the 15th century by Maharana Kumbha, it spans over 36 kilometres, making it one of India's largest and most intricate fortresses. You can explore its imposing walls, intricate temples, and royal palaces, immersing yourself in the rich heritage and panoramic vistas it offers.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Constructed in the 18 th century by a Mewar minister, Bagore Ki Haveli is a historic mansion-turned-museum on the shores of Lake Pichola. The haveli boasts over 100 rooms, each adorned with intricate Rajasthani art, including paintings, glasswork, and carvings that showcase the region's heritage and architectural elegance. It houses a variety of Rajput-era artefacts, such as copper vessels and jewellery boxes. For a cultural experience, visit in the evening to enjoy the Dharohar Dance Show, where traditional Rajasthani dances like Ghoomar and Kathak are performed. These spirited performances of local music and dance highlight the cultural richness of Rajasthan, making Bagore Ki Haveli a pivotal destination in Udaipur.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur weaves its charm around the numerous tranquil bodies of water that dot its landscape. Lake Pichola has stood out as a jewel in the city’s crown since 1362. Take a boat ride on Lake Pichola and enjoy unparalleled views of the majestic City Palace and the mystical Jag Mandir Palace, whose stunning reflections create breathtaking vistas, turning each moment into a living postcard.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Fateh Sagar Lake , located northwest of Udaipur and the second-largest in the city, offers picturesque boating experiences. Escape to the tranquil waters of Badi Lake , a sprawling artificial lake outside Udaipur. Ideal for peaceful picnics and refreshing swims, it also offers a scenic trek to the 'Bahubali' hilltop, famed for its stunning sunrise and sunset views.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur is more than just its shimmering lakes and grand palaces; it's a mosaic of sacred spaces. Seek spiritual solace at the magnificent Jagdish Temple , a three-story architectural marvel adorned with elaborate carvings and sculptures. Climb the temple steps and be rewarded with a breathtaking bird's-eye view of the bustling market area and the City Palace complex below. Located on the banks of Fateh Sagar Lake is the Mahakal Mandir, a revered Hindu temple dedicated to Lord Shiva. The temple complex has a serene atmosphere, perfect for connecting with both nature and the divine for a memorable spiritual experience. The Mansapurna Karni Mata Temple , once a remote shrine, is now easily accessible via a 387-meter ropeway from Deendayal Upadhyay Park, offering breathtaking views and a quick, comfortable ascent. Further enriching Udaipur’s spiritual landscape, Neemach Mata Temple sits atop Dewali Hill, featuring a grand central shikhar and panoramic views of the city and lake below. The temple, a significant site for Hindu pilgrims, includes a revered idol of Neemach Mata Devi, believed to be the royal family's household goddess. Located 22 km north of Udaipur, the revered Eklingji Temple, dedicated to Lord Shiva, showcases exquisite architecture dating back to 734 AD. Famous for its four-faced black marble Lord Shiva idol and ornate silver Nandi, this temple remains a cornerstone of Mewar's spiritual and royal heritage.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur is renowned for its dynamic culture and royal history and offers visitors a trio of captivating outdoor attractions. Begin your exploration at Saheliyon Ki Bari , the Garden of the Maidens. This picturesque 18th-century garden, designed for the royal maidens accompanying a newlywed princess, boasts lush greenery, ornate fountains, and shaded walkways along the banks of Fateh Sagar Lake. Nearby, the Ambrai Ghat, also known as Manjhi Ghat, is popular for its serene mornings and lively evenings. It offers a peaceful respite where you can enjoy yoga, lake baths, and stunning views of heritage hotels like Lake Palace and Jag Mandir across the water. With six daily aartis and marble seating, it’s a perfect spot for cultural immersion and relaxation. Lastly, the Doodh Talai Musical Garden provides a harmonious blend of nature and music near the city centre. This rock and fountain garden is an ideal venue for sunset views and is connected to the Karni Mata Temple by an aerial tramway, offering expansive city vistas.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's cuisine is a captivating melody, harmonising the rich history of the Mewar region with its famed regal hospitality. Its roots trace back to the royal kitchens, where skilled chefs meticulously crafted dishes fit for the royal table. Indulge in the region's must-try traditional dishes like Dal Baati Churma (a hearty combination of lentils, pan-fried wheat balls, and crumbled sweet-fried bread), Gatte ki Sabzi (savoury chickpea flour dumplings in a flavorful gravy), Ker Sangri (a tangy dish featuring dried berries and beans), Laal Maas (a fiery red meat curry) or Bajra Khichdi (a comforting millet porridge). Beyond traditional dishes, explore the bustling lanes for a vibrant street food adventure. Savour specialities like Kachori (crispy fried pastries with savoury fillings), Pyaaz ki Kachori (flaky pastries with a delicious onion filling) or Mawa Kachori (a sweet twist on kachori). Don't miss the melt-in-your-mouth Ghevar (a local sweet masterpiece made with flour, clarified butter, and sugary syrup). For an unforgettable culinary experience, head to popular foodie havens like Hathi Pol Bazaar or Lake Palace Road.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur offers a diverse and colourful shopping experience that caters to all tastes and preferences. Start your shopping adventure at Hathi Pol Bazaar, a crowded marketplace renowned for its authentic Rajasthani handicrafts, miniature paintings, and phad scrolls, perfect for art enthusiasts. Nearby, Bada Bazar provides a lively atmosphere where you can find everything from traditional clothing and footwear to exquisite silver jewellery and colourful textiles. For a more local feel, head to Bapu Bazar, known for its affordable prices and wide range of goods including textiles, pottery, and brassware. It's an ideal spot for budget shoppers looking to delve into the local culture. Shilpgram , a crafts village situated just outside the city, offers a unique peek into the rural arts and crafts of the Western India region. Watch skilled artisans at work, learn about different techniques like miniature painting and textile weaving, and take home a unique piece of Rajasthan as a souvenir. Lastly, Chetak Circle is a haven for souvenir seekers, offering a variety of handicrafts, designer jewellery, and wooden toys. It’s a great place where you can buy mementoes that capture the essence of Udaipur.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated on an island in Udaipur's Fateh Sagar Lake, the Udaipur Solar Observatory benefits from favourable sky conditions and offers enhanced solar observations. Established in 1976 by Dr Arvind Bhatnagar and inspired by California's Big Bear Solar Observatory, it hosts various telescopes for high-resolution studies of solar phenomena. Udaipur offers hidden treasures waiting to be discovered. Step back in time at the Vintage Car Museum , a collection of classic cars from the royal era of Mewar, each one a testament to a bygone era of grandeur. For a deeper dive into Rajasthan's rich folk traditions, visit the Bhartiya Lok Kala Mandal. Here, you can learn about the region's cultural heritage and be captivated by traditional puppet shows that bring Rajasthan's folklore to life.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's charm extends beyond its city centre. Venture into the Aravalli Hills and reach the Monsoon Palace (or Sajjan Garh Palace), a captivating structure often shrouded in mist during the monsoon season. Capture panoramic views of the Fateh Sagar Lake, imagining yourself as a member of the royal court who once enjoyed this breathtaking vista. Atop the Moti Magri hill, pay your respects to the legendary warrior king Maharana Pratap at his memorial. Immerse yourself in nature at the Sajjangarh Biological Park , a haven for wildlife enthusiasts, or spot a variety of birds at the serene Udai Sagar Lake . Embark on a short hike up the hill near Jaisamand Lake . The modest effort is rewarded with a breathtaking vista of the entire lake and the forested island located in the midst of the shimmering expanse of the lake. Explore Udaipur's historical significance at the Ahar Museum, which houses artefacts from ancient empires like the Mauryas and Guptas. Step back in time and uncover the fascinating stories that lie beneath the surface of this vibrant city. Haldighati , renowned for its turmeric-coloured terrain, is a historic site in the Aravalli range, 44 kilometres from Udaipur. This mountain pass, celebrated for the valiant battle led by Maharana Pratap in 1576 AD, symbolises the bravery that defended the Mewar dynasty. The area also features a marble cenotaph honouring Pratap's loyal horse, Chetak.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur is a city that weaves a spell on its visitors. From the grandeur of its palaces to the serenity of its lakes, the vibrancy of its bazaars to the deliciousness of its cuisine, Udaipur offers an unforgettable experience. Whether you seek cultural immersion, historical exploration, or simply a chance to relax amidst breathtaking beauty, Udaipur has something for everyone. The best time to visit the city is between September and March. So come, embark on a journey to this enchanting city and discover its magic for yourself!",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Inspired by the architecture of Jag Mandir Palace , Shahjahan built the Taj Mahal, the world famous monument in Agra.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaisamand Lake , also known as Dhebar Lake, is the second largest artificial lake in Asia.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The City Palace of Udaipur , started by Maharana Udai Singh II in 1553, evolved over centuries with additional palaces built by successive kings.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kumbhalgarh Fort near Udaipur boasts the world's second-longest wall, spanning 36km.",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perfect pre-wedding shoot ideas in Udaipur",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Udaipur's ultimate shopping paradise!",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's gateway to the serene beauty of Nature!",
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Udaipur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/udaipur",
+        "retrieved_at": "2026-09-22T18:36:44.493866+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

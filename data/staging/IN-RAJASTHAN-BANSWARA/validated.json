@@ -1,0 +1,553 @@
+{
+  "destination_id": "IN-RAJASTHAN-BANSWARA",
+  "destination_name": "Banswara",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharana Pratap Airport (UDR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ratlam Junction (RTM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When you think of Rajasthan, the image of golden deserts and majestic forts often comes to mind. But travel south, and the desert gives way to a different world—a land of emerald hills, shimmering lakes, and cascading waterfalls. Welcome to Banswara, the enchanting “ City of a Hundred Islands ”, a destination that feels like nature’s own masterpiece.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the southern tip of Rajasthan, Banswara is a refreshing surprise. The Mahi River flows gracefully through its valleys, creating countless islands that lend the city its poetic name. Here, the monsoon transforms the landscape into a lush paradise, earning Banswara the title of “ Cherrapunji of Rajasthan \" . It’s a place where nature and culture coexist in harmony, offering travelers an experience that is serene, soulful, and unforgettable.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of Banswara begins in the whispers of bamboo forests—bans in Hindi—after which the city is named. Legends speak of Bansia Bhil, a tribal ruler who once governed this land before Rajput kings carved their legacy here. In the 16th century, Maharawal Jagmal Singh established the princely state of Banswara, but the soul of this land has always belonged to its people—the Bhils.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bhil tribe is the heartbeat of Banswara. Their courage shines in the pages of history, most notably in the Mangarh Hills, where thousands of Bhil freedom fighters laid down their lives in 1913 under the leadership of Govind Guru. This tragic massacre turned Mangarh into a symbol of resistance and pride, a silent reminder of the sacrifices that shaped India’s freedom struggle.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Banswara’s spiritual landscape is as rich as its natural beauty. The Tripura Sundari Temple, stands in serene grandeur, housing a striking black stone idol of the goddess with eighteen arms. Devotees flock here to seek blessings and marvel at its architectural elegance.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hidden in a quiet cave, the Madareshwar Temple honors Lord Shiva. Perched on a hill, it offers panoramic views of the valley below—a perfect blend of spirituality and scenic charm. For history lovers, the ruins of Arthuna whisper tales of the Paramara dynasty, their intricate carvings frozen in time. These 11th-century temples showcase the artistry and devotion of a bygone era.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jain pilgrims find solace at Andeshwar Parshwanath, a hilltop shrine adorned with ancient inscriptions, while the Abdulla Pir Dargah reflects the harmony of faiths that defines this land. Each sacred site in Banswara is not just a place of worship—it is a chapter in the story of resilience and reverence.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek nature’s embrace, Banswara will leave you spellbound. The Mahi Bajaj Sagar Dam stretches majestically across the river, its calm waters perfect for boating and picnics. Anand Sagar Lake, fringed by cenotaphs and sacred Kalpavriksha trees, invites quiet reflection, while Diablab Lake, dotted with lotus blooms, paints a picture of tranquility.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And when the monsoon arrives, Banswara transforms into a wonderland. Places like Kagdi Pick-Up Weir become breathtaking escapes, where cascading waters and emerald landscapes soothe the soul. Unlike the stereotypical image of Rajasthan’s deserts, Banswara surprises visitors with its lush green hills and teak forests. It’s a paradise for photographers, nature lovers, and anyone seeking a break from the ordinary.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The true heartbeat of Banswara lies in its vibrant tribal traditions. The Bhil tribe, with their colorful attire and rhythmic dances, turns every festival into a celebration of life. Visit during Baneshwar Fair, and you’ll witness a cultural spectacle at the confluence of three rivers. Thousands of devotees come together to worship Lord Shiva, transforming the region into a carnival of faith and festivity.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During Holi, the air dances with colors and the rhythmic beats of the Gair dance, a traditional performance that celebrates unity and joy. Fairs like Ghotia Amba and festivals like Aamligyaras immerse you in rituals that have endured for centuries. Here, music is not just heard—it is felt in the pulse of the land.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Banswara’s cultural heritage extends beyond festivals. Its tribal art—handcrafted jewelry, bamboo artifacts, and vibrant textiles—reflects the creativity and resilience of its people. Local markets brim with these treasures, offering visitors a chance to take home a piece of Banswara’s soul.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No journey is complete without savoring the local cuisine. Banswara’s food is a rustic delight, dominated by simple yet flavorful dishes. From spicy curries to traditional sweets, every bite tells a story of the land and its people. Don’t miss the chance to taste tribal specialties prepared with local ingredients—a culinary experience that lingers long after the journey ends.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Planning a trip to Banswara is as much about timing as it is about curiosity. The monsoon months—July to September—turn this land into a lush green paradise, with waterfalls cascading down rocky cliffs and lakes brimming with life. If you prefer pleasant weather for sightseeing, October to March is ideal, when the air is cool and the skies are clear.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Udaipur Maharana Pratap Airport (UDR) is the nearest airport to Banswara, located approximately 165 km away. Taxis and private cabs are available from the airport for the onward journey.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: Ratlam Junction (RTM) is the closest major railway station, situated about 80 km from Banswara. It is well connected to cities like Delhi, Mumbai, Jaipur, and Ahmedabad. Buses and taxis operate regularly from Ratlam to Banswara.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Banswara is well connected by road to Udaipur, Ratlam, Indore, and Ahmedabad. Rajasthan State Road Transport Corporation (RSRTC) and private buses run frequent services. Driving to Banswara offers scenic views, especially along routes passing through the Mahi River region.",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Best Jaipur viewpoints – where to go for Jaipur sunset views",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Phenomenal Things To See In Ajmer, Rajasthan",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perfect pre-wedding shoot ideas in Udaipur",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the religious spots in Bikaner",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palace on Wheels: Experience Royalty on India's Luxury Train - Route & Price Details",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Of blues & golds: Jodhpur Jaisalmer 4 day itinerary",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of golden beauty and natural wonders",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through its religious spots in Jaisalmer",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A lip-smacking culinary journey of Jodhpur",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Udaipur's ultimate shopping paradise!",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's gateway to the serene beauty of Nature!",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enter Jaisalmer's treasure-filled markets",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Jaisalmer's culinary kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through Bharatpur’s flavours",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Harmonizing health and happiness in Bharatpur",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dadra and Nagar Haveli and Daman and Diu",
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Banswara",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/banswara",
+        "retrieved_at": "2026-09-22T18:36:42.727991+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

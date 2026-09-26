@@ -1,8 +1,8 @@
 from app.destination.models import (
     DestinationProfile,
-    AttractionProfile
+    AttractionProfile,
+    ActivityProfile
 )
-
 from app.destination.normalizer import (
     DestinationNormalizer
 )
@@ -15,6 +15,39 @@ class DestinationProfileBuilder:
         self.normalizer = (
             DestinationNormalizer()
         )
+
+    def _build_activities(
+        self,
+        activities
+    ) -> list[ActivityProfile]:
+
+        result = []
+
+        for activity in activities or []:
+
+            # Existing dataset format
+            if isinstance(activity, str):
+                result.append(
+                    ActivityProfile(
+                        name=activity
+                    )
+                )
+
+            # New structured format
+            elif isinstance(activity, dict):
+                result.append(
+                    ActivityProfile(
+                        name=activity.get("name", ""),
+                        description=activity.get("description"),
+                        category=activity.get("category"),
+                        best_seasons=activity.get(
+                            "best_seasons",
+                            []
+                        )
+                    )
+                )
+
+        return result
 
     def build_destination(
         self,
@@ -72,10 +105,12 @@ class DestinationProfileBuilder:
                 "budget_tier"
             ),
 
-            activities=destination.get(
-                "activities",
-                []
-            ),
+            activities=self._build_activities(
+    destination.get(
+        "activities",
+        []
+    )
+),
 
             food_highlights=destination.get(
                 "food_highlights",

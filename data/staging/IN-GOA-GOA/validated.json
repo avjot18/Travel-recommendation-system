@@ -1,0 +1,502 @@
+{
+  "destination_id": "IN-GOA-GOA",
+  "destination_name": "Goa",
+  "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dabolim Airport (GOI), Goa Manohar International Airport (GOX), North Goa"
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Madgaon Junction Railway Station (MAO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 17.4,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.9,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 34.4
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 31.5
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.6,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 18.3,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Manohar International Airport (GOX), North Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ah, Goa! The very name conjures up images of sun-kissed beaches, swaying palm trees, and a laid-back vibe that is as contagious as a beachside melody. Let's dive into this coastal paradise and explore its magic.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Goa's coastline stretches across 3,702 kilometers, and it's no wonder that the beaches here are the stuff of dreams. From the bustling shores of Baga and Calangute to the serene sands of Palolem and Agonda, each beach has its unique flavor. Picture yourself sipping coconut water under the shade of a palm tree, the waves gently lapping at your toes. Bliss, right?",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Goa knows how to celebrate life! Whether it's the colourful Carnival, the spiritual Shigmo festival, or the pulsating Sunburn music festival, there's always something happening. The air is charged with excitement, and locals and tourists alike dance to the rhythm of the drums. It's a kaleidoscope of colors, music, and joy.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare your taste buds for a flavour explosion! Goan cuisine is a delightful fusion of Indian, Portuguese, and Konkani influences. Seafood lovers rejoice—the fish curry rice, prawn balchão, and xacuti are legendary. Wash it down with some Feni (a local cashew spirit) or a chilled beer. And don't forget the bebinca for dessert—a layered cake that's pure indulgence.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Goa wears its history proudly. The Portuguese left their mark here, evident in the charming churches, cathedrals, and old colonial buildings. Step into the Basilica of Bom Jesus , where the mortal remains of St. Francis Xavier rest. Explore the Fontainhas neighbourhood with its narrow lanes and colourful houses—it's like stepping into a European postcard.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Now, let's talk about Susegad. It's more than just a word; it's a state of mind. Imagine swinging lazily in a hammock, the sea breeze ruffling your hair, and time slowing down. That's Susegad. Goans have mastered the art of relaxation—they know how to take life easy, enjoy the moment, and let stress drift away like a paper boat on the Mandovi River. So, whether you're an adventure seeker ready to tackle the Dudhsagar Waterfalls or a history buff exploring the forts of Old Goa, this coastal gem promises an unforgettable experience. Goa whispers to your soul, inviting you to stay a little longer, dance a little freer, and soak in the sunsets that paint the sky in hues of orange and pink. In Goa, time is a mere suggestion. Let the waves dictate your rhythm, and let Susegad be your mantra.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Goa’s capital, Panaji, situated at the mouth of the Mandovi river, is reminiscent of a provincial Mediterranean town. Earlier a port of the Adil Shahi kings of Bijapur, it became a military landing stage and warehouse after the arrival of the Portuguese in 1510. In 1759, after a series of epidemics in Old Goa, the viceroy was forced to move his residence to Panaji, or Panjim as it was then called. However, it was only in 1843 that the town became the official capital of Portuguese territories in India. Today, Panaji has a relaxed and friendly ambience, especially along the leafy avenues of the old town. The newer commercial hub, laid out on a grid, has concrete structures interspersed with colonial buildings and churches. Overlooking Largo da Igreja or “Church Square”, Panaji’s main square, is the Church of Our Lady of the Immaculate Conception, the town’s most important landmark. Portuguese sailors used to come to the original chapel, consecrated in 1541, to offer thanksgiving prayers after their long and treacherous voyage from Lisbon. The present church, with its Baroque façade framed by twin towers, was built in 1619. Its most striking feature, the double flight of stairs leading up to the church, was added in 1871. The central pediment was built at the same time, as was the belfry to accommodate the huge bell brought from Old Goa’s Augustinian monastery. An excellent example of 19th-century Portuguese civic architecture, the Institute Vasco da Gama was built to impart knowledge in the arts and sciences. It was later renamed after the philanthropist Luis de Menezes Braganza (1878–1938), whose family home is in Chandor. Today, this is Goa’s Central Library, with a good collection of rare books. The superb mural in blue painted ceramic tiles (azulezos) was added to the entrance lobby in 1935, and depicts scenes from the epic Os Lusiadas (Lusiada, meaning the “people of Portugal”, is derived from Lusitania, Portugal’s old name). Written by the 16th-century Portuguese poet, Luis Vaz de Camões, this recounts the history of the Portuguese presence in Goa. The institute used to have an art gallery with works by late 19th- and early 20th-century European artists. Panaji’s nearest beach, Miramar, is 3 km (2 miles) west. Dona Paula, 7 km (4 miles) southwest of Panaji, is near the headland dividing the estuaries of the Zuari and Mandovi rivers. It is named after a viceroy’s daughter who, the story goes, jumped into the sea when she was not allowed to marry a local fisherman. The jetty offers fine views of Fort Aguada across the bay. Jet skis are available for rent and visitors can also take a ferry ride to Vasco da Gama harbour.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away between Ourem Creek and Altinho Hill in Panaji are the old residential quarters of Fontainhas and São Tomé, built on reclaimed land in the 19th century. Fontainhas was named after the fountain of Phoenix, a spring that provided the quarter’s only source of water, while São Tomé takes its name from the São Tomé Church. This old-world precinct, characterized by a jumble of painted, tile-roofed houses, has streets lined with taverns offering authentic Goan cuisine and feni (cashewnut liqueur), and bakeries serving bebinca, the delicious local cake. Many of the residents still speak Portuguese.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The fort at Reis Magos was built in 1551 by Don Alfonso de Noronha, the fifth viceroy, as a second line of defence after the forts at Aguada and Cabo (the tip of Dona Paula). It once housed a prison, which was moved to Mormugao in 1996. Adjacent to the fort is the Reis Magos Church. Constructed in 1555, this is one of Goa’s earliest churches and has the royal Portuguese coat of arms on its façade. Fort Aguada, 4 km (2.5 miles) west of Reis Magos, was built in 1612 as a defence against the Marathas and the Dutch. Its church, dedicated to St Lawrence, the patron saint of sailors, was built in 1630, while the huge lighthouse dates to 1864. Some buildings within the fort now house the state prison. The local beach, Sinquerim, is known for its luxury resorts. Extending north of Calangute, Baga Beach is far less crowded, although its expanse of soft, white sand has its share of guesthouses and bars. It hosts the leisurely Saturday Night Ingo’s Bazaar – a great alternative to the Wednesday flea market at nearby Anjuna. Tito’s Bar, which has the only dance floor on the entire beach, is the hub of Baga’s nightlife. Candolim Beach, 2.5 km (2 miles) south of Calangute, stretches to Fort Aguada. Popular with large tour groups, the once peaceful waters now resound with the whir of speedboats and jet skis. Saligao, 2 km (1.3 miles) east of Calangute, has the pretty Church of Mae de Deus, in Neo-Gothic style, as well as a seminary that prepares boys for theological studies at Rachol Seminary. Anjuna has now replaced Calangute as a haven for backpackers. It is better known for its full-moon rave parties and sprawling flea market than for its beach. The popular flea market, held every Wednesday, is crowded with hawkers from all over India selling everything from Balinese batik, silver jewellery and papier-mâché boxes, to Tibetan prayer wheels, Rajasthani mirrorwork and Kerala woodcarvings. Fluorescent rave gear and trendy beachwear round off the selection, while added attractions are performing monkeys and fortune-telling Nandi bulls. The largest town in northern Goa, Mapusa’s main point of interest is the colourful Friday market, with its tantalizing aromas of dried fish, spices, chillies, vinegar, local toddy and the spicy Goan sausages, chouriça. The region’s famous cashewnuts are also much in demand. Hawkers peddle a range of beachwear, including cheap T-shirts and summer dresses, in the covered colonnades in front of the rows of shops. In the lanes leading off from the main market are stalls selling handicrafts and souvenirs from all over the country. St Jerome’s Church, also known as the Church of Our Lady of Miracles, was rebuilt twice, first in 1719 and again in 1838, after it was destroyed by fire. Its main altar, with the image of Nossa Senhora de Milagres, has some grand ornamental screens, salvaged from a church in Old Goa. Interestingly, both Hindus and Catholics celebrate the Feast of Our Lady (held 16 days after Easter) with equal fervour. At the end of the festival, Hindu devotees, accompanied by Catholics, take the holy oil from St Jerome’s church back to the nearby Shanteri Temple. A beautiful bay sheltered by rocky outcrops at both ends, Vagator consists of a number of small beaches fringed by shady coconut palms. Rarely crowded, it is the perfect place to discover Goa’s unspoilt beauty. The southernmost cove of Ozran lies below a steep cliff, where a freshwater stream empties into a clear pool, ideal for swimming. Little Vagator, to the north, is a secluded stretch of sand popular with more discerning visitors. Big Vagator Beach is dominated by the red laterite Chapora Fort situated on top of a hill at its northern tip. Now in ruins, this fort was built by the Portuguese in 1717 on the remains of an older bastion erected by the Adil Shahi sultans. Its name, Chapora, is derived from “Shahpura”, or “Town of the Shah”, as the village was once known. In 1739, Sambhaji, the son of the Maratha chief Shivaji , occupied the fort for a short time until it was returned to the Portuguese in exchange for Bassein, near Mumbai. Its ramparts, now desolate, offer sweeping views of the coast. Chapora village, below the fort, has many pleasant cafés.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A magnificent complex of cathedrals, churches and monasteries, spread along a 1.5-km (1-mile) stretch, marks the site of Old Goa, the Portuguese capital until the mid-18th century. The walk through this area, now a UNESCO World Heritage Site, takes in two of Goa’s most important religious monuments, the Basilica de Bom Jesus and the grand Sé Cathedral , and ends on Holy Hill, where some of Goa’s oldest churches are located. Most of these buildings, designed by Italian or Portuguese architects, encompass a range of European styles, from sober Renaissance to exuberant Baroque and Portuguese Manueline. The Basilica de Bom Jesus is revered by Roman Catholics all over the world since it houses the mortal remains of Goa’s patron saint, Francis Xavier. It was the first church in South Asia to be granted the status of Minor Basilica, by Pope Pius XII in 1946. Built by the Jesuits in 1594, this grand Baroque structure blends Corinthian, Doric, Ionic and composite styles in its magnificent three-tiered façade. The Duke of Tuscany, Cosimo III, donated the elaborate tomb of St Francis in exchange for the pillow that lay under the saint’s head. The tomb took the Florentine sculptor Giovanni Foggini ten years to build; it was finally assembled in 1698. The adjoining Professed House (1589) was used as the priests’ quarters until it was damaged by a fire in 1633.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The capital of Salcete province, Margao (also known as Madgaon) is the main population centre of south Goa and is a friendly, bustling market town of a manageable size for getting things done, or for getting in and out of the state.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built in the 17th century, this is possibly the best example of what Goa’s scores of once grand and glorious mansions have today become. Built on land in Chandor, 15km east of Margao, that was granted by the King of Portugal, the house was divided from the outset into two wings, to house two sides of the same big family.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Colva and Benaulim, with their broad, open beaches, are not the first place backpackers head – most tourists here are domestic or senior Europeans – but are, as a result, slightly less scenic than Palolem or the beach towns up north. Perhaps the biggest reason to stay at either is to explore this part of the southern coast (which stretches north as far as Velsao and south as far as the mouth of the Sal River at Mobor), which in many parts is empty and gorgeous. The inland road that runs this length is perfect for gentle cycling and scootering, with lots of picturesque Portuguese-era mansions and whitewashed churches along the way.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palolem’s stunning crescent beach was, as recently as 15 years ago, another of Goa’s undiscovered gems, with few tourists and even fewer facilities for them. Nowadays, it’s no longer quiet or hidden, but remains one of Goa’s most beautiful spots, with a friendly, laid-back pace and lots of budget accommodation along the sands. Nightlife’s still sleepy here – there are no real clubs, and the place goes to bed when the music stops at 10pm. But if you’re looking for a nice place to lay up, rest a while, swim in calm seas and choose from an infinite range of yoga, massages and therapies on offer, this is your place. If even Palolem’s version of action is too much for you, head south, along the small rocky cove named Colomb Bay, which hosts several basic places to stay, to Patnem Beach , where a fine selection of beach huts, and a less pretty – but infinitely quieter – stretch of sand awaits.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With a history deeply intertwined with many Indian dynasties and Portuguese colonization, Goa showcases a unique blend of Indian and European influences. The charming colonial architecture, ancient temples, and ornate churches stand as a testament to its diverse heritage. With a rich history of nearly 450 years under Portuguese rule, Goa proudly showcases an abundance of Portuguese architecture. Explore the charm of Fort Tiracol, which is now turned into a heritage hotel that offers a serene view of the Arabian Sea. Do not forget to visit the Bom Jesus Basilica, a UNESCO World Heritage site known worldwide for hosting the mortal remains of St. Francis Xavier. Experience the rich heritage of Goa by marvelling at the white-washed architecture of Se Cathedral, one of the largest churches in Asia and visiting Fort Aguada which narrates tales of the past. Head to the Chapora Fort with your friends and recreate the frames from the Bollywood film, 'Dil Chahta Hai'. Moreover, you can wander through the vibrant streets adorned with yellow houses boasting purple doors, ochre-coloured mansions, and unique oyster shell windows, creating a mesmerizing kaleidoscope of Goan architecture that promises a visual delight for every traveller.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Goa has a global reputation for being a hotspot of music festivals and a popular beach destination for the younger crowd. However, there's so much more to explore in Goa that is far beyond its beaches and lively parties. Take a break from the everyday hustle and immerse yourself in the tranquillity of old Goa's churches. Visit the Church of our Lady of Rosary , the Church of St. Francis of Assissi, and St. Cajetan Church for a spiritual sojourn. Goa's cultural diversity is intact with its revered Hindu temples and their magnificent architecture. Explore the grandeur of temples like the Shri Manguesh Temple, devoted to Lord Shiva, and the Shanta Durga Temple, dedicated to the goddess of peace. Additionally, Safa Shahourie Masjid offers a peaceful atmosphere for those of the Muslim faith.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare to embark on a culinary journey, like no other. Goan cuisine is a delightful fusion of spices, flavours, and influences, making it a paradise for food enthusiasts. From the fiery and flavourful Vindaloo to the mouth-watering seafood delicacies like Prawn Balchão and Fish Curry Rice, every bite is an explosion of taste. Don't forget to indulge in the popular dessert, Bebinca, a layered cake that perfectly captures Goa's sweet essence.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its beautiful beaches and vibrant culture, Goa offers a plethora of thrilling activities for adventurous souls. Explore the dense jungles and wildlife sanctuaries, such as Bhagwan Mahavir Wildlife Sanctuary, Mhadei Wildlife Sanctuary , Netravali Wildlife Sanctuary and the Bondla Wildlife Sanctuary , where you can spot exotic flora and fauna. If you are in love with the birds and birdwatching gives you immense pleasure, head to Dr Salim Ali Bird Sanctuary . For water sports enthusiasts, scuba diving, snorkelling, and dolphin-watching expeditions await in Goa, promising unforgettable experiences beneath the serene turquoise waters. Goa's allure lies in its ability to enchant travellers with its diverse offerings. It is a perfect amalgamation of sun, sand, spirituality, and adventure, where every experience leaves a lasting impression on your soul. Whether you're strolling through the vibrant markets, relishing delectable cuisine, or simply soaking up the sun on pristine beaches, Goa beckons you to immerse yourself in its magic. So, come and discover the enchantment of this coastal paradise. Let the warm hospitality, rich history, and awe-inspiring beauty of Goa create cherished memories that will stay with you forever. Goa welcomes you with open arms, promising an extraordinary journey that will ignite your senses and touch your soul.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Basilica of Bom Jesus is a UNESCO World Heritage Site.",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the beauty of the pristine coastline",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Eat Local - Top 14 foods to try in Panjim, Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Goa through its music: Guide to a melodious holiday",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A guide to 7 unforgettable adventure experiences in and around Panjim, Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "12 Food souvenirs to bring back from Panaji, Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Soaring in paradise: A guide to thrilling adventures in Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Benaulim Beach - One of the most popular white sand beaches in South Goa",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Go Goa to experience wellness and rejuvenation!",
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Goa",
+        "source_url": "https://www.incredibleindia.gov.in/en/goa/goa",
+        "retrieved_at": "2026-09-22T18:36:25.274136+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "destination_id": "IN-GUJARAT-VADODARA",
+  "destination_name": "Vadodara",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vadodara Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Standing proud on the banks of the Vishwamitri river, Vadodara is a city steeped in history and tradition. Originally named Vadapradaka, meaning \"a village amidst Banyan trees,\" Vadodara boasts a history steeped in antiquity, with evidence of human habitation dating back to prehistoric times. Positioned at the crossroads of pivotal trade routes leading to the Arabian Sea, Vadodara has been a melting pot of cultures since ancient times. From Buddhist and Hindu rulers to Jain and Muslim dynasties, each era has left its mark on the city's rich cultural heritage. Embracing influences from the north, north-west, and south, Vadodara thrived under the sway of various empires, including the Guptas, Chalukyas, Rashtrakutas, and Mughals, and ultimately the Marathas.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "However, it was during the reign of Maharaja Sayajirao Gaekwad III that Vadodara truly came into its own. A visionary leader and patron of the arts, Maharaja Sayajirao spearheaded the city's transformation, laying the foundation for its grandeur.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Today, Vadodara stands as a testament to its illustrious past, adorned with palaces, verdant gardens, and thriving industries. Earnestly embracing its cultural legacy, the city has earned the moniker of 'Cultural Capital of Gujarat.' A persona that runs hand-in-hand with its alter ego as a modern metropolis embracing change and growth as the state's third-largest city.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From magnificent palaces and spectacular temples to ancient monuments and natural splendour, Vadodara and its surrounding region is home to extraordinary beauty. Experience its unmistakable magnificence and grandeur in the majestic Laxmi Vilas Palace , a royal residence four times the size of Buckingham Palace. Marvel at the stunning Statue of Unity, the tallest statue in the world paying tribute to Sardar Vallabhbhai Patel. Explore the ancient ruins of Champaner, a UNESCO World Heritage site that is home to some of the finest examples of pre-Mughal Islamic architecture in India. With its vast range of iconic landmarks, Vadodara is a destination that will leave you amazed!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pay your respects at the iconic Kirti Mandir, the royal mausoleum of the Gaekwad dynasty, or trek up the hill to the iconic Pavagadh Temple, dedicated to the mighty Goddess Mahakali. Visit the unique Stambeshwar Mahadev Temple, a temple where the tides of the sea appear to be doing ‘Jalabhishek’ to the historic Shiva Linga. With its peaceful atmosphere and spiritual energy, Vadodara is a destination that will leave you feeling renewed and refreshed!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadodara is the place to be during festivals. The festival of Uttarayan, which marks the beginning of the sun’s journey northwards, is celebrated with great enthusiasm by flying colourful kites in Gujarat. To add to the festive spirit, the Gujarat government hosts a week-long International Kite Festival in various cities across the state.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Navratri, a nine-day long festival dedicated to worshipping Goddess Durga, celebrated with immense fervour and devotion. Magnificent idols of Goddess Durga are placed in spacious compounds, where people of all ages come together to dance the Garba, a traditional folk dance of Gujarat. From dusk till midnight, the air reverberates with the joyous sound of people clapping, tapping Dandiya sticks, and twirling to the rhythmic beats of the Garba.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And if you're visiting Vadodara during Navratri, make sure you join the Garba festival, the perfect way to experience the rich culture and tradition.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadodara is a city that has a history of patronizing the arts. While all the artisans are not based in the city, there are several outlets that provide a view the products of these amazing craftspeople. A wide range of traditional craft including beadwork, woodcarving, bandhini fabric, Pithora paintings, silver jewellery, Patola sarees and Sankheda lacquer work await you.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The magnificent beadwork of Gujarat, made by deftly stringing together multicoloured and multi-styled bead, is one of the most popular souvenirs from Vadodara. You can find a plethora of items made with this exquisite art form, ranging from elegant home décor to fashionable accessories like necklaces, bangles and earrings.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Carved wooden delights such as tea pots, bowls, table lamps, even toys make a timeless memory of this ubiquitous art form in Gujarat, found everywhere from intricate palatial carvings to utilitarian items.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The beauty of Bandhini is sure to captivate. Choose from an endless variety of dupattas, saris, scarves, dresses or simply fabric in Bandhani. The stunning textile pattern is famous worldwide for its vibrant colours, fine crinkled texture, and infinite tiny specks, created painstakingly by pinching, tying, and resist-dyeing the fabric.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pithora paintings, the stunning artwork created by the talented Rathwa tribes of central Gujarat traditionally depict the main deity, Pithora, along with a procession that displays his numerous accomplishments. These vibrant paintings, often seen as wall hangings, are believed to bring peace, prosperity, and happiness to homes. And of course, Kutch's silver jewellery id a true testament to the rich cultural heritage of the region. Men and women alike adorn themselves with these stunning pieces, including bracelets, necklaces, nose rings, earrings, finger rings, and even anklets. Bhuj's silver work extends beyond traditional jewellery to encompass a range of lifestyle products, including dining sets, tea pots, cups, cutlery, bowls, candle stands and more.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the luxurious world of Patola, the exquisite double ikat woven sari crafted in the historic city of Patan, Gujarat, India. These silk saris have a rich legacy, with the word Patola possibly originating from the Sanskrit word “Pattakula”, meaning a silk fabric. This legendary heritage of Indian textiles from North Gujarat was once exclusively reserved for the royal and aristocratic families, making it an incredibly exclusive and highly valued fabric. The intricate weaving process involves dyeing both the warp and weft threads to create a complex and beautiful pattern, making it one of the most complex textile-weaving techniques in the world. Each Patola sari is a masterpiece, a testament to the skill and dedication of the artisans who create them. Experience the luxury of Patola for yourself and discover the timeless elegance of this iconic Indian textile.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Just 50 km away from Vadodara, discover the exquisite craft of lacquer work in Sankheda. The artisans of the Kharadi Suthars community specialize in crafting intricate and colourful wooden furniture using traditional woodworking, woodturning, and hand painting techniques. These skilled artisans prefer using handheld tools and straightforward methods to create masterpieces that showcase their brilliant craftsmanship. The roots of this art form date back to the 1800s, making it a long-standing tradition in the region. But that's not all that makes Sankheda special. The town has a rich history, with stone relics from the Stone Age and five ancient temples, believed to have been built during the period of the Mahabharata. These relics provide a glimpse into the past and suggest that the Pandavas might have even resided there for a while!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadodara is a city that perfectly blends traditional charm with modernity. Explore the charm of its bustling local markets to discover exquisite local handicrafts and textiles. For those who prefer a more modern shopping experience, Vadodara also offers several malls where you can find national and international brands while enjoying modern amenities. From high street shopping to authentic local craft, you would be spoilt for choice in Vadodara.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among its authentic local shopping bazaars is the bustling Teen Darwaza Bazaar. This is the ultimate destination for ethnic wear, where you will find a dazzling array of bandhani sarees, suits, ghagra cholis, and dress materials to choose from. The market is teeming with a variety of shops offering an endless selection of ethnic wear, so you can find the perfect attire that reflects your style and taste. Not only that, but you can also indulge in shopping for beautiful silver ornaments at a bargain price. Immerse yourself in the authentic culture and traditions of Vadodara by exploring this shopping haven that promises an unforgettable shopping experience! The colourful Madar Bazar is home to a treasure of sarees, chaniya choli, and salwar suits, all at unbeatable prices. And that's not all – be sure to check out the stunning collection of traditional paintings on display, each one created by a talented local artist and capturing the rich tradition of the region. The diverse shopping scene at Mandvi Market is a must-visit destination for both locals and tourists. Mandvi Market is renowned for its exquisite silver jewellery, perfect for accessorizing any outfit. Also on offer are unique handicrafts here that add character to any home décor. Get your hands on the finest ethnic footwear and locally made wall hangings, each of which adds a touch of cultural authenticity to your shopping experience.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you prefer high street retail, experience the best of shopping, dining, and entertainment all under one roof at Vadodara’s variety of malls, including Inorbit Mall, EVA the Mall, Seven Seas Mall and many more. Get ready to indulge in a world-class shopping experience with a vast selection of international and domestic brands across fashion, lifestyle, and beauty. From trendy outfits to chic accessories, find everything you need to elevate your style game. Hungry after all that shopping? Explore the diverse culinary options available at the malls, ranging from street food to gourmet dining. And don't forget to check out the movies at their latest multiplex offerings. Whether you're here to shop, dine or simply have a great time, Vadodara’s malls have everything to make your day memorable.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Looking for a culinary adventure? Vadodara’s got you covered, boasting a tantalizing mix of mouth-watering traditional dishes, street food, and the latest and greatest international restaurants. Satisfy your cravings with a stroll through the city's bustling food markets, where the aromas of fragrant spices and sizzling delicacies entice your taste buds. And when you're ready for a sit-down meal, choose from a diverse range of dining options that cater to every palate and preference. Come discover the culinary delights of Vadodara and experience a food lover's paradise like no other!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No better cuisine to start with than the traditional Gujarati thali, where sweet and salty flavours blend seamlessly to create a culinary masterpiece. A feast for the senses, featuring a delectable array of dishes that typically includes three flavourful vegetable dishes, a sprouted pulse dish like ugadyala or dry dal, fragrant rice, a tangy kadhi, another dal, a mouth-watering sweet dish or mithai, freshly made rotis, crispy pooris, crunchy papad, along with refreshing salad, chutney, and pickle. The Gujarati cuisine is a true celebration of seasonal ingredients, with the spices used in the recipes changing to suit the weather, while salt, jaggery, and lemon create a perfectly balanced taste.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Like a snack instead? Get ready to tantalize your taste buds with the world-famous Sev Usal in Vadodara! This sweet and savoury mouth-watering dish, prepared with dried green peas and a blend of spicy and aromatic ingredients that will leave you craving for more. What makes Sev Usal so special is the Tari, prepared using an abundance of garlic and a tadka of red chilli powder, giving it a deliciously fiery kick. Enjoy it with some chopped onions, spring onions, loads of crispy sev! You will also find a wide variety of popular snacks like egg omelettes, farsan and jalebi, pav bhaji and Kachori, and much more in Vadodara. They can be found at eateries and street vendors across the city – as well as the Ratri bazaar which promises a unique experience for Vadodara foodies.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadodara’s entertainment scene has something for everyone – adventure parks, theme parks, water parks, game arcades, go karting speedways, sports complexes, bowling alleys, or simply what we call an “urban playparks.”",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventuraa is one of India’s largest Urban Play Park’s and is spread over 70,000 sq. ft. With over hundreds of activities, it is all set to redefine the concept of fun. Get ready to unleash your inner child at its inflatable jump park. Adrenaline junkies can get their fix with our heart-racing activities like the Bungee Rocket Ejector, Zip Line, Bumping Cars, Shooting Arena and Wall Climbing. And after all that excitement, you can sit back, relax and enjoy fun activities at the open-air theatre.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "AATAPI Wonderland is Gujarat's largest and most thrilling theme park located in the heart of Vadodara. Sprawled across more than 70 acres, it promises pure fun and entertainment. With more than 40 attractions and rides, it's no wonder why this park sees thousands of visitors every day.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the magical Water Laser Show that will leave you spellbound, wander through the surreal Jugnoo World, India's first ever Glow Garden, and journey through time at the Lost Valley Dinosaur Attraction. Get lost in the vibrant Vrundavan Garden, which boasts of dancing fountains and don't forget to try India's first Tubby Jump! With so many heart-racing rides and attractions to choose from, you'll be spoilt for choice at this magnificent theme park.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Natural beauty in Vadodara walks hand in hand with the city’s exquisite manmade structures. From sprawling city parks to scenic lakes, there is no dearth of places for nature lovers in the city.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the wonders of Sayaji Baug, the sprawling green haven also known as Kamati Baug. This iconic park, gifted by Maharaja Sayajirao, boasts over 98 species of trees, a large zoo housing Asiatic lions, a health museum, and a planetarium. Kids will love the toy train and flowerbed clock while history buffs can explore the famous Baroda Museum and Picture Gallery. With its massive 113-acre expanse, there's something for everyone at Sayaji Baug, making it the largest public garden in the western region of India. So why wait? Come and immerse yourself in the beauty of this treasured gem.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the magic of Sursagar Lake! Located in the heart of the city, it is the perfect spot to unwind and find tranquillity within the bustling metropolis. The lake is surrounded by a concrete wall that offers visitors a perfect vantage point. Rebuilt in the 18th century with stone banks and masonry, Sursagar Lake is a breath-taking sight that shines under the moonlight. You can enjoy a leisurely boat ride or take a casual stroll in its pleasant atmosphere. At the center of the lake stands a magnificent 120-foot-tall statue of Lord Shiva known as Sarveshwar Mahadev that is beautifully decorated with lights during festivals like Shivratri.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover the hidden gem of Wadhwana, a small village just 50 kms from Vadodara. Immerse yourself in the serene beauty of the vast lake with a 2 km radius, surrounded by watchtowers, offering picturesque views of the surrounding landscapes. Knowledgeable forest department personnel guide visitors and share insights about the local flora and fauna. What’s more, visitors can enjoy stargazing with the high-quality Celestron telescope provided. Wadhwana is a perfect destination to indulge in nature and enjoy a rejuvenating environment.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vadodara’s wildlife treasures are unique to the region and boast an impressive diverse range of flora and fauna. Explore the breath-taking Ratanmahal Sloth Bear Sanctuary, home to sloth bears and a variety of exotic birds. Take a trek through the dense forests of the Jambughoda Wildlife Sanctuary, home to exotic leopards and wild boars. With its unique landscapes and exotic wildlife, Vadodara is a paradise for nature lovers!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Laxmi Vilas Palace , the magnificent residence of the city's esteemed royal family, spans a massive 500 acres, making it four times the size of Buckingham Palace and among the largest private homes ever built!",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Depicting India's Iron Man, Sardar Vallabhbhai Patel, the Statue of Unity stands at a staggering 182 meters, making it the tallest statue in the world.",
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Vadodara",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/vadodara",
+        "retrieved_at": "2026-09-22T18:36:27.473744+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+  "name": "Amaravati",
+  "state_or_ut": "Andhra Pradesh",
+  "region": null,
+  "description": "Amaravati is an officially listed tourism destination in Andhra Pradesh, India. It is best treated as a heritage, spiritual, coastal travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "spiritual",
+    "coastal",
+    "food",
+    "nature"
+  ],
+  "best_for": [
+    "temples",
+    "heritage",
+    "families",
+    "pilgrimage",
+    "coast"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 10.0,
+      "maximum_celsius": 32.6
+    },
+    "february": {
+      "minimum_celsius": 12.2,
+      "maximum_celsius": 36.0
+    },
+    "march": {
+      "minimum_celsius": 15.5,
+      "maximum_celsius": 40.2
+    },
+    "april": {
+      "minimum_celsius": 19.2,
+      "maximum_celsius": 43.6
+    },
+    "may": {
+      "minimum_celsius": 21.6,
+      "maximum_celsius": 45.2
+    },
+    "june": {
+      "minimum_celsius": 19.3,
+      "maximum_celsius": 42.9
+    },
+    "july": {
+      "minimum_celsius": 20.2,
+      "maximum_celsius": 35.9
+    },
+    "august": {
+      "minimum_celsius": 19.9,
+      "maximum_celsius": 33.4
+    },
+    "september": {
+      "minimum_celsius": 19.5,
+      "maximum_celsius": 34.6
+    },
+    "october": {
+      "minimum_celsius": 15.9,
+      "maximum_celsius": 35.5
+    },
+    "november": {
+      "minimum_celsius": 13.5,
+      "maximum_celsius": 34.0
+    },
+    "december": {
+      "minimum_celsius": 11.3,
+      "maximum_celsius": 31.9
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "Visiting the Amaravati Stupa",
+      "description": "A massive structure built in the 2nd century BCE during the Satavahana dynasty, adorned with intricate carvings and sculptures depicting scenes from the life of the Buddha.",
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "Exploring the Amareswara Temple",
+      "description": "An ancient temple dedicated to Lord Shiva, believed to have been built in the 5th century, renowned for its exquisite architecture and intricate carvings.",
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "Visiting the Kondapalli Fort",
+      "description": "A historic hilltop fortress offering panoramic countryside views, known for its impressive architecture, ancient weaponry, and colorful Kondapalli toys.",
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "Exploring the Undavalli Caves",
+      "description": "A unique opportunity to explore ancient rock-cut architecture, located on the banks of the Krishna River.",
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "Shopping for Kondapalli Toys",
+      "description": "Traditional handcrafted wooden toys designed with intricate designs, popular among collectors as souvenirs.",
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Amaravati Stupa",
+      "description": "A massive structure built in the 2nd century BCE during the Satavahana dynasty, adorned with intricate carvings and sculptures depicting scenes from the life of the Buddha.",
+      "search_tags": [],
+      "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+      "notes": null,
+      "data_quality": null,
+      "verification_status": "semantic_source_extraction"
+    },
+    {
+      "name": "Amareswara Temple",
+      "description": "An ancient temple dedicated to Lord Shiva, believed to have been built in the 5th century, renowned for its exquisite architecture and intricate carvings.",
+      "search_tags": [],
+      "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+      "notes": null,
+      "data_quality": null,
+      "verification_status": "semantic_source_extraction"
+    },
+    {
+      "name": "Kondapalli Fort",
+      "description": "A historic hilltop fortress offering panoramic countryside views, known for its impressive architecture, ancient weaponry, and colorful Kondapalli toys.",
+      "search_tags": [],
+      "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+      "notes": null,
+      "data_quality": null,
+      "verification_status": "semantic_source_extraction"
+    },
+    {
+      "name": "Undavalli Caves",
+      "description": "A unique opportunity to explore ancient rock-cut architecture, located on the banks of the Krishna River.",
+      "search_tags": [],
+      "destination_id": "IN-ANDHRA-PRADESH-AMARAVATI",
+      "notes": null,
+      "data_quality": null,
+      "verification_status": "semantic_source_extraction"
+    }
+  ],
+  "food_highlights": [
+    "Regional cuisine of Andhra Pradesh",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available",
+    "Andhra-style Biryani",
+    "Pesarattu",
+    "Gongura Pachadi",
+    "Pulihora",
+    "Bobbatlu",
+    "Ariselu",
+    "Pootharekulu"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Vijayawada International Airport (VGA)"
+    ],
+    "railway_station": [
+      "Vijayawada Railway Station (BZA)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Andhra Pradesh",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": null,
+      "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/amaravati",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

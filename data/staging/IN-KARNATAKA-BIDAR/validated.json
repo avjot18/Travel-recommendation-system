@@ -1,0 +1,332 @@
+{
+  "destination_id": "IN-KARNATAKA-BIDAR",
+  "destination_name": "Bidar",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bidar Airport (IXX), Bidar Rajiv Gandhi International Airport (HYD), Hyderabad Kalaburagi Airport (GBI), Kalaburagi"
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bidar Railway Station (BIDR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 12.3,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.2,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.6,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 42.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 40.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 12.3,
+        "maximum_celsius": 30.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajiv Gandhi International Airport (HYD), Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visit to this enchanting city is nothing short of thrilling, as one immerses himself in its rich heritage and explore its scenic landscapes. Bidar, often dubbed as the \"City of Whispering Monuments,\" offers a compelling blend of ancient architecture, bustling markets, and serene surroundings that leaves an indelible mark on one's travel experiences. The ancient city of Bidar is located in the northern part of Karnataka, India, at about 150 from Hyderabad. It is a historical gem waiting to be explored by the avid travellers. With its rich history, impressive architecture, and cultural significance, Bidar offers an enchanting journey through time for visitors worldwide. Its impressive forts, sacred sites, delectable cuisine, and vibrant markets create an unforgettable experience for travellers. Whether you're interested in history, cuisine, or spirituality, Bidar invites you to explore its timeless charm and India's rich cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar boasts a history spanning over two thousand years and traces its roots back to the Mauryan Empire in the 3rd century BCE. In these two thousand years this city has witnessed the rise and fall of various dynasties, including the Bahmani Sultanate, Barid Shahi dynasty, and the Mughals. All of these dynasties have left a lasting impact on the city's landscape.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most notable attraction of this city is the Bidar Fort , which was constructed during the Bahmani Sultanate period in the 14th century. This fort is the living testimony of city's grandeur and magnificence of yesteryears. Its extensive complex comprises palaces, mosques, gardens and reservoirs, showcasing exemplary Islamic architecture. very close to the Bidar Fort stands the remarkable Rangeen Mahal, renowned for its vibrant artwork and intricate frescoes. Once the residence of Bahmani rulers, the palace impresses visitors with its delicate stucco work and elaborate carvings and captivating murals depicting stories from mythology and history. Exploring the Rangeen Mahal is like stepping back in time, as each corner reveals a new story waiting to be unveiled.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar is home to several revered sites that attract pilgrims from all the faiths and seekers of spirituality. In one of the many valleys of the city is located the Papnaash Temple . It is believed that this idol of Lord Shiva was installed by Lord Rama on his way back to Ayodhya from Lanka. Here Lord Rama worshipped Lord Shiva and asked for his forgiveness as he had killed Ravan who was a brahmin. His sin (Paap) was forgiven and so the name Paap-Nash. The original temple was lost with time and a new temple was then built at the ruins of the ancient temple. Yet another notable religious landmark at Bidar is the Gurudwara Nanak Jhira Sahib , built to honour the visit of Guru Nanak Dev Ji, the founder of Sikhism. It is believed that Guru Nanakji visited the place while the land was in the grip of a famine and he performed a miracle at the request of the locals and a spring of water from the laterite rock mountain burst out. The name Nanak Jhira is based on this belief. Till this day crystal clear water flows from the laterite trap. The belief is that drinking of this water cures many ailments. Another spiritual marvel at Bidar is the Shrine of Hazrat Khalil Ullah, which is dedicated to the Sufi saint and serves as a place of devotion and reflection. This place attracts devotees from far and wide, seeking blessings and solace.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Though located in the state of Karnataka, Bidar is not very far off from the states of Andhra Pradesh and Maharashtra. Due to this proximity Bidar's cultural richness reflects influences from all of these three states. Its culinary scene delights food enthusiasts with a blend of flavors and aromas. From fragrant Bidri biryani to savory Bidri kalia, Bidar's cuisine showcases its diverse culinary heritage. The diverse heritage is also reflected in the festivals celebrated here where the people irrespective of faith participate and enjoy together. Apart from the main national festivals, the locals celebrate Urs or Jaathre Mahotsav for five days in March or April each year to mark the death anniversary of Sultan Ahmad Shah Bahmani. Another important festival is Veerabhadreshwara Jatra, a seven-day long festival, which is celebrated between January and February where a large number of pilgrims and tourists participate pulling carts or take walks to the auspicious Veerbhadra temple of Lord Shiva in Humnabad. The citizens of Bidar also celebrate Bidar Utsav, at the Bidar Fort. This festival hosts many modern and traditional modes of celebration including physical and cultural activities such as film festival, kite festival and wrestling etc. Bidar is also home to the world renowned Indian Air Force Aerobatic team, known as the Surya Kiran Aerobatics Team or simply SKAT. If you are lucky enough you can witness the entire team of these red and white aircraft practicing their precision aerobatic stunts in the blue skies of the city with colourful smoke emanating out of these wonderful flying machines.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Bidar's bustling markets offers a chance to discover handicrafts, textiles, and souvenirs. The most outstanding handicraft style in Bidar is the Bidriware which is known for its intricate metalwork with silver and gold inlays. This is the highlight of Bidar's craftsmanship. In addition to this, the visitors can also find colorful handloom textiles, detailed wood carvings, and other local specialties as keepsakes of their visit. The old part of this city has a lot of traditional shops offering mind-boggling options of these must-buy items.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar is renowned for its unique metal handicraft known as Bidriware .",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar is the coldest and wettest place in north Karnataka .",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar is considered a holy place for Sikh pilgrimage .",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bidar is home to Guru Nanak Jhira Sahib , one of the holiest Sikh shrines outside of Punjab.",
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bidar",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bidar",
+        "retrieved_at": "2026-09-22T18:36:31.251700+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

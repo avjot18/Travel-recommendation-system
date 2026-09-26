@@ -1,0 +1,533 @@
+{
+  "destination_id": "IN-GUJARAT-PATAN",
+  "destination_name": "Patan",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Ahmedabad Airport (AMD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mehsana Railway Station (MSH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In this historic city of North Gujarat, centuries-old traditions continue much as they have for generations. The rhythmic movement of a weaver working on a Patola saree, the silent grandeur of intricately carved stone sculptures, and the enduring presence of temples and heritage structures all speak of a past that remains deeply woven into the present. Founded in 745 CE by Vanraj Chavda, Patan was once the capital of a flourishing kingdom and one of western India's most important centres of trade, culture, and learning.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Known in earlier times as Anhilwad Patan, the city grew along the banks of the Saraswati River and attracted merchants, scholars, craftsmen, and rulers who shaped its identity over centuries. Today, Patan draws travellers seeking experiences rooted in history, craftsmanship, spirituality, and architecture. From a UNESCO World Heritage Site hidden beneath ground level to one of the world's most intricate weaving traditions, the city offers a journey through Gujarat's cultural heart.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Patan's story stretches back more than twelve centuries. Established by King Vanraj Chavda, the city rose to prominence as the seat of power for successive dynasties, particularly the Solankis, under whom Gujarat witnessed significant cultural and architectural development. Palaces, temples, stepwells, and public structures built during this period reflected the prosperity and vision of the kingdom.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city's strategic location helped it emerge as an important centre of trade and commerce, connecting different regions of the Indian subcontinent. Wealth generated through these networks encouraged the growth of art, literature, religion, and craftsmanship, many forms of which continue to survive in Patan today. Walking through the city reveals traces of this layered history at every turn.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the centre of Patan's heritage stands Rani ki Vav , one of India's finest examples of stepwell architecture and a UNESCO World Heritage Site. Built in the 11th century, this remarkable monument descends through seven levels and contains more than 1,500 sculptures carved with extraordinary detail. Images of Lord Vishnu, celestial beings, and ornamental motifs cover the walls, pillars, and niches, transforming a functional water structure into a monumental work of art.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Equally fascinating is the Patan Patola Heritage Museum , where visitors can explore the story of Gujarat's celebrated Patola weave. The museum introduces travellers to the painstaking process behind the creation of these prized textiles while displaying historic examples that showcase the skill of generations of master weavers.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Panchasara Parshwanath Jain Derasar is another important landmark. Dedicated to Lord Parshwanath, the temple reflects the deep-rooted Jain traditions of the region and is admired for its craftsmanship, spiritual significance, and serene atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short distance from Patan lies Siddhpur , known for its distinctive Bohra neighbourhoods and elegant heritage mansions. The colourful streets of Bohra Vad offer a glimpse into a unique architectural and cultural legacy that has flourished in the region for generations.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For many travellers, Patan is synonymous with the legendary Patola saree . Renowned across India for its vibrant colours and intricate patterns, Patola is created using the highly complex double ikat technique. In this process, both the warp and weft threads are individually tied, dyed, and carefully arranged before weaving begins. The precision required leaves little room for error, making every finished saree a remarkable achievement of craftsmanship.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The tradition has been preserved by the Salvi family, who brought this art form to Patan more than 700 years ago. Depending on the design, a single Patola saree can take several months, and sometimes years, to complete. Each piece reflects countless hours of planning, dyeing, and weaving carried out entirely by hand.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Traditional motifs feature parrots, elephants, flowers, and dancing figures, each carrying cultural and symbolic significance. Once favoured by royalty and wealthy merchant families, Patola sarees remain treasured heirlooms and continue to represent one of Gujarat's most prestigious craft traditions. Visitors can observe artisans at work and gain first-hand insight into a skill that has endured through centuries of change.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Patan also serves as a convenient base for exploring several significant destinations in North Gujarat. Just 25 kilometres away stands the Modhera Sun Temple , a stunning example of Solanki-era architecture renowned for its intricate carvings and sacred step tank.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The historic town of Siddhpur , associated with the scholar Hemachandra Acharya, offers heritage architecture and colourful streets that reward slow exploration. Pilgrims often continue onward to Ambaji Temple , one of the revered Shakti Peethas that draws devotees from across the country throughout the year.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Together, these destinations provide a deeper understanding of the region's religious traditions, architectural achievements, and cultural history.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The cuisine of Patan reflects Gujarat's longstanding culinary traditions. Visitors can enjoy an array of vegetarian dishes shaped by local ingredients and Jain influences. Regional favourites include Patan na gota, dhokla, and festive sweets prepared during celebrations and community gatherings. Exploring the local food scene offers a delicious way to experience the city's cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Patan is from October to March , when the weather remains comfortable for sightseeing and exploring outdoor attractions. Winter months are particularly suitable for visiting heritage landmarks such as Rani ki Vav and wandering through the city's historic quarters.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While summers can be extremely hot, the monsoon season brings fresh greenery to the surrounding landscape and a different perspective on the region's historic sites.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Ahmedabad Airport, approximately 130 km away, is the nearest major airport and offers regular connectivity to destinations across India.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Mehsana Railway Station, located around 30 km from Patan, serves as the nearest major railhead.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Patan is well connected by road to Ahmedabad, Gandhinagar, Rajkot, and other cities in Gujarat through regular bus and taxi services.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rani ki Vav received UNESCO World Heritage status in 2014 and is regarded as one of India's most significant stepwells.",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food trail: Eat your way through Surat's gastronomic delights",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An Avian Affair at Nal Sarovar with a Dash of Nostalgia",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Religious Spots in and Around Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Experiences in Ahmedabad You Must Not Miss",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - The Best Gujarati Thalis in Ahmedabad",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Taste the mouth-watering cuisine of Dwarka",
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Patan",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/patan",
+        "retrieved_at": "2026-09-22T18:36:26.792818+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

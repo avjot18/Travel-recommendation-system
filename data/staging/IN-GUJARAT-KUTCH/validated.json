@@ -1,0 +1,319 @@
+{
+  "destination_id": "IN-GUJARAT-KUTCH",
+  "destination_name": "Kutch",
+  "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bhuj Railway Station (BHUJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -6.3,
+        "maximum_celsius": 16.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -4.0,
+        "maximum_celsius": 18.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": -1.2,
+        "maximum_celsius": 23.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 2.5,
+        "maximum_celsius": 26.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 5.2,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 8.5,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 29.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 11.9,
+        "maximum_celsius": 28.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 7.7,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 2.8,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -0.4,
+        "maximum_celsius": 20.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -2.7,
+        "maximum_celsius": 17.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An expanse of salt flats and grasslands in northwest Gujarat , the Little Rann of Kutch has a stark and unforgettable beauty – in sunlight, the salt crystals in the sand glitter like diamonds, while at night they bathe the landscape in an eerie blue haze. Every year, during the monsoon, when the sea and rivers flood the region, the salt flats are transformed into great marshy swamps, with patches of higher ground forming grassy islands known as bets. Some 4,841 sq km (1,869 sq miles) of this unique ecosystem, which supports a variety of rare fauna, form a wildlife sanctuary that is one of the last refuges of the Asiatic wild ass (Equus hemionus khur), known locally as Ghorkhur. Akin to the Tibetan kiang, the Ghorkhur is distinguished by a dark stripe along its back. Only about 1,000 of them now remain. Known for its speed (up to 60km or 37 miles per hour), the wild ass lives in herds led by a stallion and survives by migrating between the grassy bets through the seasons, in search of food. The sanctuary also has a large population of nilgai (blue bull), blackbuck, chinkara (Indian gazelle), wolves, and the rare caracal. Birdlife includes migratory demoiselle cranes, pelicans, and flamingoes who come to the salt marshes during the winter months.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dhrangadhra and Dasada are both interesting bases from which to visit the Little Rann of Kutch Sanctuary. Dasada has a 15th-century fort and a village where potters and textile printers practice their craft. The family of Dasada’s former feudal chiefs arrange accommodation and guided tours of the Rann. Dhrangadhra, the capital of a former princely state, has a fine 18th-century palace and a bazaar with interesting colonial buildings. Tours of the sanctuary can be arranged through the Forest Office here. Accommodation is available in the government rest house.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kutch is home to several pastoral communities, many of them semi-nomadic herders of camels and sheep. Among them are the Rabaris, whose round houses (bhoongas) with conical roofs are a distinctive feature of the Kutch landscape. These communities are skilled in a variety of crafts, the vibrant hues and forms of their creations adding beauty to their stark surroundings. Anjar, which used to be the crafts centre of Kutch, was tragically destroyed in the January 2001 earthquake, as were many of the crafts villages near Bhuj. Despite this, the intrepid craftspeople continue to work and sell their creations at shops in Mumbai, Ahmedabad, and Delhi.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The bhoongas of the Rabaris, superbly designed for the hot, arid climate of Kutch, are also structurally solid. The roof is conical, with a deep overhang to keep the walls cool. The parasol-shaped roof frame is made of wood, covered with tightly woven thatch. The thick walls, tiny windows, and thatched roofs provide excellent insulation against the harsh desert climate. The circular shape helps the smooth circulation of air inside. Most of them withstood the 2001 earthquake. A typical cluster of bhoongas, their beautifully decorated interiors displaying the artistic skills of the Rabaris, can be seen at Tunda Vandh, 15 km (9 miles) east of Mandvi . Rabari women dress in black wool, dramatically offset with silver jewellery. They also sport tattoos of peacocks and camels, as well as small crosses to keep away the evil eye. Rabari girls wear the family’s finest heirlooms. They begin embroidering their trousseau dresses as soon as they can hold a needle. Rabari men in contrast to the women, wear only white, with fine embroidery at the back of their pleated kediyans (jackets). White and red woven shawls and voluminous turbans complete their attire. Crafts are not just a means of earning and employment for the rural people of Kutch. They are also a proud and creative expression of each community’s distinct culture and identity, through which utilitarian objects like cupboards, quilts, shoes, cowbells or clay dishes are transformed into art forms. Rogan, a specialty of Niruna village near Bhuj, is a unique technique by which cloth is decorated with intricate, embossed lacquer-work patterns. Leather objects are made by Meghwal men. They are embellished with bright tassels and embroidery. Pottery dishes such as this large platter are used at village feasts. They are made by the men of the Kumbhar (potter) community. Patchwork in vivid colours, using scraps and waste material, is done by Bharwad women to make items such as quilts, awnings, and camel saddle covers. Silverwork is crafted by the Sodha community, who also make jewellery to order in traditional designs, for the other pastoral communities.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "North of the village of Khavda, Kalo Dungar (Black Hill) marks Kutch’s highest point (462 m), with remarkable views of the Great Rann salt flat (or inland sea if you’re visiting during the monsoon). You will need your transport to visit. The hill is also famous for a 400-year-old temple dedicated to Lord Dattatreya. You walk to the edge of the hill and look over at the sprawling blanched landscape that changes hues as the day progresses and the sun sinks behind the mountains. A 15-minute drive from the base of the hill lands you on the India bridge that connects the far north of Kutch to the mainland. The area comes under the jurisdiction of the army and photography is not allowed. The Indo-Pak border lies about 40 km north from here. Legends say that Lord Dattatreya stopped to rest here and found a group of starving jackals. He offered them his body to eat and as they ate, his body continually regenerated itself. For the last four centuries, the priests at the temple have prepared cooked rice for jackals who come in the late evenings for a meal. Narayan Sarovar & Wildlife Sanctuary is a beautiful natural area located in the Kutch region of Gujarat. This sanctuary covers an area of 444 sq. km and is home to a wide variety of flora and fauna. The sanctuary is located close to the Narayan Sarovar Lake , which is considered a holy place for Hindus and a popular pilgrimage destination. The Narayan Sarovar & Wildlife Sanctuary is a great place to explore and experience the natural beauty of Gujarat. The sanctuary is home to a wide variety of wildlife, including the Indian wild ass, chinkara, wolf, caracal, desert fox, Indian hare, and many more. You can also spot a wide variety of bird species such as flamingos, cranes, and pelicans. Apart from wildlife, the sanctuary is also home to many rare and endangered species of plants. You can take a nature walk through the sanctuary to see the unique flora and fauna that thrive here. Located on the edge of the arid Banni grasslands and the marshy salt flats of the Rann of Kutch in Kutch district, the Chari-Dhand wetland conservation reserve is a protected forest in India. In the local Kutchi language, Chhari means \"salty\" and Dhand means \"shallow wetlands\". This seasonal desert wetland gets swampy during the monsoon season and is fed by north-flowing rivers and surrounding hills. Bird watchers and ornithologists will find this place a paradise, as it attracts numerous species of migratory birds every year during the monsoon and winter seasons, making it a potential candidate for inclusion in the Ramsar Convention due to its rich biodiversity. The wetland is home to endangered species such as Dalmatian pelican, Oriental darter, Black-necked stork, and Indian skimmer, while thousands of flamingos, Common cranes, Painted storks, raptors, and spoonbills among others can also be spotted here. Additionally, the wetland also attracts chinkara, wolves, caracal, desert cats, and desert foxes, apart from endangered birds.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chari-Dhand: In the local Kutchi language, Chhari means \"salty\" and Dhand means \"shallow wetlands\".",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalo Dungar: marks Kutch’s highest point (462 m), with remarkable views of the Great Rann.",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Kutch during Rann Utsav : A complete guide",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rann Utsav guide: Where white desert sands meet vibrant Kutchi culture",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholavira in Kutch – Untouched mysteries",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Crafts of Kutch - Rogan art, ajrakh & more (Gujarat , India)",
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kutch",
+        "source_url": "https://www.incredibleindia.gov.in/en/gujarat/kutch",
+        "retrieved_at": "2026-09-22T18:36:26.614439+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

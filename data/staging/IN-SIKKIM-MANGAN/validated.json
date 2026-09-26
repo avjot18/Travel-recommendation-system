@@ -1,0 +1,194 @@
+{
+  "destination_id": "IN-SIKKIM-MANGAN",
+  "destination_name": "Mangan",
+  "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra Pakyong Airport (PYG), Gangtok"
+      },
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Jalpaiguri Railway Station (NJP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you traverse the winding roads that lead to this quaint town in the north of Sikkim, you'll be greeted by breath-taking vistas of snow-capped peaks, lush forests, and cascading waterfalls, setting the stage for an unforgettable adventure.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Despite its small size, Mangan boasts a rich cultural tapestry woven from the diverse ethnic communities that call this town home. From the indigenous Lepcha and Bhutia tribes to the vibrant Nepali and Tibetan communities, Mangan is a melting pot of traditions, festivals, and culinary delights waiting to be explored.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the highlights of Mangan is its bustling markets and bazaars, where locals gather to trade goods, share stories, and celebrate life. Immerse yourself in the vibrant atmosphere as you stroll through the colourful stalls, sampling local delicacies, and picking up handmade crafts and souvenirs to cherish.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking peace and serenity, Mangan offers an array of tranquil retreats tucked away amidst the hills. From cosy homestays and guesthouses to eco-resorts and campsites, there's no shortage of options for unwinding and rejuvenating in the lap of nature.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure enthusiasts will find plenty to keep their adrenaline pumping in Mangan. Embark on thrilling treks through dense forests, experience white-water rafting expeditions along the Teesta River, or simply lose yourself in the beauty of nature as you explore hidden trails and secluded viewpoints.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangan serves as the gateway to the revered Gurudongmar Lake , one of the highest lakes in the world and a sacred pilgrimage site for Buddhists and Hindus alike. A journey to Gurudongmar Lake promises awe-inspiring vistas of emerald waters, surrounded by towering peaks and pristine wilderness.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Throughout the year, Mangan comes alive with vibrant festivals and cultural celebrations that showcase the rich heritage of the region. From the colourful Saga Dawa festival to the lively Losar celebrations, each event offers a glimpse into the traditions and customs of the local communities.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Mangan is complete without indulging in the delectable flavours of Sikkimese cuisine. From hearty thukpas and momos to fragrant bamboo shoot delicacies and traditional millet-based dishes, every meal is a culinary adventure waiting to be savoured.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you wander the streets of Mangan, keep an eye out for hidden gems and local landmarks that tell tales of bygone eras. From ancient monasteries and sacred stupas to mysterious caves and stone carvings, each discovery adds a layer of intrigue to your Mangan adventure.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Labrang Monastery: This ancient monastery is known for its traditional statues, murals, and language books. Sirijonga Yuma Mangheem: Built in 1983, this cultural site replicates the original Sirijonga Yuma Mangheem of West Bengal. Rong Lungten Lee: Located in Namprikdang, this museum is modelled after a traditional Lepcha house and is situated at the confluence of the Teesta and Kanaka rivers. Singhik : This small village offers breath-taking views of Mt. Khangchendzonga and the surrounding peaks. Dzongu: A reserved area for the Lepcha community, Dzongu is rich in natural beauty and cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Above all, what makes Mangan truly special is the warmth and hospitality of its people. Whether you're sharing a meal with a local family, seeking directions from a friendly villager, or simply exchanging smiles with passers-by, you'll be welcomed with open arms and genuine kindness at every turn. Mangan is more than just a stopover on the road to North Sikkim – it's a destination brimming with charm, beauty, and endless possibilities for exploration. So, pack your bags, embrace the spirit of adventure, and embark on a journey to discover the magic of Mangan for yourself.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangan a haven for traditional healers and alternative medicine enthusiasts as it is renowned for its abundance of medicinal herbs and plants",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From banning single-use plastics to promoting renewable energy sources , the town is committed to preserving its pristine environment and reducing its ecological footprint emerging as a pioneer in eco-friendly practices and sustainable development initiatives.",
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mangan",
+        "source_url": "https://www.incredibleindia.gov.in/en/sikkim/mangan",
+        "retrieved_at": "2026-09-22T18:36:44.766682+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

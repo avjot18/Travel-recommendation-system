@@ -1,0 +1,409 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-INDORE",
+  "destination_name": "Indore",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Indore Junction Railway Station (INDB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.3,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.6,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 44.3
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 43.3
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.2,
+        "maximum_celsius": 30.7
+      },
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Devi Ahilyabai Holkar International Airport (IDR), Indore",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the serene Narmada valley, at the confluence of Saraswati and Khan rivers, Indore is a city steeped in history and heritage. This historic city, whose name is derived from the ancient Indreshwar temple built in the 17 th century, beckons you to embark on a journey through its rich cultural and architectural wonders. Discovered by the intrepid Rao Nandlal Chaudhary, Indore flourished under the visionary leadership of the courageous and noble Rani Ahilya Bai Holkar of the Holkar dynasty. With her keen interest in education and urban planning, she laid the foundations for what would become the largest city in Madhya Pradesh and the commercial capital of the state. Today, Indore embodies its rich legacy, blending ancient heritage with modern culture. As you wander through its streets, you'll be captivated by the majestic palaces boasting stunning architecture, intricately carved temples, and mouthwatering street food tantalising the senses. Indore wears its accolades with pride, having been recognised as the birthplace of the revered Indore Gharana of Hindustani Classical music and the legendary playback singer Lata Mangeshkar. It is the cleanest city in India, showcasing its commitment to preserving heritage while embracing modernity. Come, let's delve deeper into the wonders of Indore.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Begin your exploration at the breathtaking Rajwada Palace , a 275-year-old majestic structure built by Malhar Rao Holkar, which stands as the crowning jewel of the city's attractions. Situated in the heart of the old quarter, the Rajwada will captivate you with its awe-inspiring seven-storeyed façade and grandeur. Marvel at the harmonious blend of Maratha, Mughal, and French architectural styles that come together to create this masterpiece. Continue your journey at the Lalbagh Palace , another grand monument that pays homage to the illustrious Holkar dynasty. Set amidst manicured gardens, this resplendent white palace reflects the European influences of its time. An imposing gate awaits at the entrance - a larger replica of Buckingham Palace's main gate! Explore prehistoric and antique artefacts from the Holkar era at the palace’s museum. If you seek to delve even deeper into Indore's legacy, head to the Central Museum , which beckons with its unparalleled collection of Hindu and Jain sculptures. The museum's inscriptions, coins, and antiquities galleries offer a fascinating glimpse into the city's storied past.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore’s historical treasures aren’t limited to palaces. Here, ancient temples whisper stories of faith, and intricate architecture inspires awe. One such wonder you must visit is the Kanch Mandir , a Jain temple built in the early 20 th century that will leave you awestruck. Imagine walls, ceilings, floors, doors, paintings, and murals crafted entirely from glass! Marvel at the distinctive glass room where the three Tirthankara statues – Lord Adinath, Lord Shantinath, and Lord Chandraprabha – carved from dazzling black onyx, seem to multiply infinitely. Gaze at the murals depicting Jain scriptures and Mahabharata tales in the temple. Just a short distance west of Kanch Mandir lies the awe-inspiring Bada Ganpati Temple . Prepare to be dwarfed by the towering 26-foot-tall idol of Lord Ganesha, the remover of obstacles. Legend imbues this idol with special significance – it's believed to be crafted from a unique blend of fenugreek seed, soil collected from the seven holy Hindu pilgrimage sites, and even the precious powder of five gems! Next, head towards the Khajrana Ganesh Temple , a revered site built by the legendary Rani Ahilya Bai Holkar. The vibrant orange idol of Lord Ganesha instantly captivates your gaze. Devotees flock to this temple on Wednesdays and Sundays, seeking blessings and offering prayers to the beloved elephant god. Visit the architecturally stunning Annapurna Mandir , dedicated to the Goddess Annapurna, the deity of food. Marvel at the intricate design inspired by Madurai's iconic Meenakshi Temple, a testament to the temple's rich cultural heritage. Finally, step into the serene embrace of the White Church , the oldest church in Indore. As you approach, you'll be struck by its European-style architecture, a blend of elegance and reverence.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If Indore's architectural wonders captivate the soul, its cuisine is a siren call for the senses, beckoning you to indulge in a delectable fusion of Maharashtrian, Malwi, Rajasthani, and Gujarati influences. Indore's true magic unfolds on its bustling streets, where its lip-smacking street food awaits. Head to Sarafa Bazaar , a dazzling jewellery market by day and a foodie's paradise after dusk! The old bazaar lanes entice you to explore a dazzling array of street food stalls offering tangy chaats, melt-in-your-mouth sweets, and savoury snacks that will leave you wanting more. Continue your adventure at Chhappan Dukan , literally translating to '56 shops.’ Indulge in a mind-boggling variety here—samosas, coconut patties, hot dogs, momos, desserts, and everything in between. Quench your thirst with refreshing hot and cold drinks to complement your culinary journey.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Here are a few local specialities you simply can't miss: Poha Jalebi (a delightful breakfast combo), Mawa Bati, Bhutte ka Kees, Kacche Kele ke Bade and Dahi Vada, amongst others. Indori Namkeen, a medley of crunchy, savoury snacks, is perfect for munching on the go. Bottom line? Come hungry to Indore and…",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Indore gives you the best of both worlds - an old-world charm with ancient bazaars and narrow lanes and modern retail therapy with glistening malls. So whether you love handcrafted treasures or have a magpie eye for sparkling trinkets, this city has something to fill your bags. Your first stop: Sarafa Bazaar! Head to this amazing marketplace for a treasure trove of jewellery, artefacts, and ornaments. Plus, you might snag some amazing deals on Maheshwari sarees, Chanderi silks, and Bagh-printed fabrics – perfect souvenirs to bring a piece of Indore home! Fashionistas can also check out the vibrant MT Cloth Market, which has everything from silks and embroidered fabrics to block prints and Zari work. Craft enthusiast? Mrignayani on MG Road is your happy place. You'll find a delightful collection of handcrafted items and handloom wonders here. The Heritage Market is your one-stop shop for stylish and comfortable footwear, while the Topkhana Market has terracotta items that will add a touch of rustic charm to your space.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore offers some natural wonders if you’re a wildlife enthusiast, nature lover, or someone who just needs an escape from the city's hustle. Embark on an exhilarating safari at the Ralamandal Wildlife Sanctuary , a paradise teeming with diverse flora and fauna, or visit the Kamla Nehru Prani Sangrahalaya, one of the oldest zoological parks in Madhya Pradesh, to observe a captivating array of animals in their carefully designed habitats. Make the most of your Indore visit by exploring gems nearby. Head south to Patalpani Waterfalls , a 33 km journey that rewards you with a scenic locale ideal for a hike and a picnic. During monsoons, witness the 300-foot-tall falls transform into thundering jets of white water, creating a breathtaking spectacle. Travel further south to Choral Dam , a serene haven built around the backwaters of the Narmada River. Spend a peaceful afternoon paddling in its cool and clear waters. West of Indore lies Gomatgiri, a sacred Jain pilgrimage site renowned for its 21-foot statue of Gomateshwara, son of Lord Rishabhanatha, the first Tirthankara in Jainism. A short distance away, Pitra Parvat beckons with Lord Hanuman's colossal 72-foot golden idol sitting in a meditative pose. The hilltop offers a place for reflection and mesmerising panoramic views. For a touch of natural wonder, head northwest to discover Gulawat Lotus Valley, Asia's largest lotus valley, located in the northwest amidst the swamps of Yeshwant Sagar Dam. History buffs can journey back in time to Mandu 's ancient palaces and tombs (99 km away). Seek spiritual solace in the holy city of Ujjain (55 km away), where the Mahakaleshwar Jyotirlinga, one of India's most revered Shiva sites, awaits. Explore the sacred island town of Omkareshwar (80 km away), dedicated to Lord Shiva, or immerse yourself in the beauty of Maheshwar (95 km away), known for its fort, temples, and handwoven sarees.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in the vibrant spirit of Indore's festivals! The city explodes with colour and music throughout the year. In September, celebrate Ganesh Chaturthi's grand finale with Anant Chaudas. Huge processions wind through the streets, culminating in the immersion of Lord Ganesha's idols. Experience a unique twist on Holi with Rangpanchami, a five-day post-Holi celebration. Forget the traditional colours – here, music fills the air as the electrifying ‘Faag Yatra’ or ‘Gair’ procession takes over the streets. Other prominent festivals include Ahilya Utsav, Makar Sankranti and Amir Khan festival celebrating the founder of Indore Gharana (school of classical music).",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore's unique location on the southern edge of the Malwa plateau provides cool evening breezes, poetically called ‘Shab-e-Malwa,’ offering a refreshing respite. Still, the perfect time to explore all this city has to offer is between October and March! Come embark on an enchanting journey to Indore, where majestic monuments, mouthwatering flavours, and sacred sites converge to offer an unforgettable experience.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore has held the title of India's cleanest city for six consecutive years, from 2017 to 2022.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore was the first city in India to have a toll road and a private telephone network!",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indore is the only city in India that is home to both an IIT (Indian Institute of Technology) and an IIM (Indian Institute of Management) .",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The gates of Lalbagh Palace in Indore are replicas of those found at Buckingham Palace in London. Cast in England, they were then transported to Indore.",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bada Ganpati Temple in Indore has one of the world’s tallest Lord Ganesha idols!",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Indore",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/indore",
+        "retrieved_at": "2026-09-22T18:36:35.868174+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

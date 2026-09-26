@@ -1,0 +1,339 @@
+{
+  "destination_id": "IN-PUNJAB-LUDHIANA",
+  "destination_name": "Ludhiana",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ludhiana Junction Railway Station (LDH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.0,
+        "maximum_celsius": 23.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 26.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 40.5
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.2,
+        "maximum_celsius": 43.9
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 38.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 12.9,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ), Amritsar",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana, the throbbing heart of Punjab, pulsates with a captivating symphony of rich history, thriving industry, and vibrant culture. Originally founded in 1481 on the Sutlej River banks and known for its dominant industries in the fields of manufacturing and exporting, this bustling metropolis offers a kaleidoscope of experiences for every visitor. Delve into its ancient past, immerse yourself in the energy of its bustling bazaars, or marvel at the architectural wonders that dot the city – Ludhiana promises an unforgettable journey.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a historical perspective, visit the iconic Clock Tower, a prominent landmark towering over the city. Built in the neo-Gothic style during the British Raj, it stands as a reminder of Ludhiana's multifaceted past. Ascend to the top (if permitted) for panoramic views of the city's ever-evolving skyline. The Phillaur Fort, also known as Maharaja Ranjit Singh Fort, is an 18th-century military fortress that served as a strategic point during Sikh rule. Explore the imposing walls, bastions, and courtyards of Phillaur Fort, remnants of a bygone era that stand as a witness to the rise of Sikh power in the region. Constructed during the reign of Sikandar Khan Lodi over 500 years ago, the Lodi Fort, also known as Purāṇā Kila in Punjabi, stands as a historic citadel in Ludhiana, Punjab, India. Situated along the banks of the Sutlej River, this fort features a tunnel that connects to the nearby town of Phillaur. Head to the Punjab Agricultural University Museum for a fascinating glimpse into the state's agricultural heritage. Exhibits showcase traditional farming tools, machinery, and historical photographs, highlighting Ludhiana's crucial role in India's agricultural development. Escape the urban buzz at the Maharaja Ranjit Singh Zoological Park. This zoo offers a diverse collection of animals and birds, including lions, tigers, elephants, and a variety of exotic species. The zoo also organizes educational programs and workshops, making it a perfect family outing.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana's cultural landscape is as rich and diverse as the threads woven into its famous textiles. Punjabi culture forms the heart and soul of the city, evident in the warmth of its people, the infectious beats of Bhangra music, and the delectable flavours of Punjabi cuisine. For a spiritual experience, delve into the serenity of historical gurudwaras like Gurudwara Dukh Niwaran Sahib, a revered Sikh pilgrimage site where Guru Nanak Dev, the founder of Sikhism, is believed to have cured a leper king. Located in the renowned Field Ganj area of Ludhiana, the Gurudwara not only captivates with its intricate architecture but also radiates a profound sense of peace and tranquillity. Gurdwara Charan Kanwal in Machhiwara commemorates the site where Guru Gobind Singh, joined by his devoted followers, briefly rested and drank water. This sacred shrine, notable for its beautiful architecture, honours this significant historical event. Each December, an annual fair is held on days corresponding to the 9th and 10 th of Poh, marking the days of Guruji's stay at Machhiwara. Gurudwara Shri Manji Sahib (Alamgir) in Ludhiana commemorates the visit of Shri Guru Gobind Singh Ji on December 29, 1704, when he created a healing spring by striking the ground with an arrow, curing an old woman's leprosy. This miraculous event led to the establishment of the Gurudwara at the site where the Guru rested, becoming a revered pilgrimage spot. Art enthusiasts can explore the Maharaja Ranjit Singh War Museum which houses a collection of artifacts and paintings that narrate the saga of the Sikh Empire and its legendary leader. On the other hand, Museum of Fine Arts depict the region's artistic traditions through its collection of paintings, sculptures, and artifacts. Catch a captivating performance or a soulful musical evening at Gaurav Bhawan, a lively cultural hub. Finally, experience Ludhiana's surprisingly spirited nightlife scene. Upscale pubs and rooftop restaurants offer a sophisticated ambiance with live music and delectable cocktails.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana's crowded bazaars, teeming with life and colour, offer a glimpse into the city's commercial spirit. From traditional Punjabi attire like colourful Phulkari dupattas (scarves) with intricate embroidery work to exquisite Patiala Salwar Kameez (suits), these bazaars cater to every shopping whim. Don't miss out on bargaining for a pair of Punjabi Juttis (traditional footwear) adorned with intricate beadwork. Head to Chaura Bazaar, a labyrinthine maze of shops offering textiles, spices, clothing, jewellery, and local handicrafts, or Ghanta Ghar Market, a haven for traditional Punjabi clothing. Ludhiana's bazaars are a sensory overload in the best way possible, a captivating blend of sights, sounds, and aromas that leave a lasting impression. For a modern shopping experience, visit the Exhibition Ground, a complex housing showrooms and shopping malls with a wide range of national and international brands.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to Ludhiana is incomplete without embarking on a culinary adventure. Punjabi cuisine, renowned for its rich flavours and generous portions, takes centre stage. Savour a plate of 'Maa ki Dal' (creamy black lentil dish), a staple in Punjabi homes, relish the crispy delight of 'Sarson da Saag' (mustard greens curry) paired with fluffy ‘Makki Di Roti’ (cornmeal flatbread), or indulge in the melt-in-your-mouth goodness of ‘Butter Chicken’, a dish that has taken the world by storm. For a taste of street food, head to one of the many busy stalls offering 'Chole Bhature' (chickpea curry with fried bread), 'Aloo Tikki' (spiced potato patty), or the ever-refreshing 'Lassi' (yogurt-based drink). Ludhiana also offers a delightful selection of vegetarian and non-vegetarian options, catering to diverse palates. Don't miss out on sampling local specialties like 'Amritsari Kulcha' (stuffed flatbread), or 'Fish Fry,' a popular dish enjoyed with mint chutney.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana serves as a perfect base to explore the surrounding regions of Punjab. History buffs can delve into the rich past of Maharaja Ranjit Singh's capital city, Amritsar, just a short drive away. The Golden Temple, the holiest shrine for Sikhs, and the Jallianwala Bagh complex, a poignant reminder of India's struggle for independence, are must-visit sites. Nature lovers can escape the urban buzz and head to the scenic beauty of Ropar Wetland, a haven for migratory birds and a paradise for birdwatching enthusiasts. For a dose of spirituality, visit the historical town of Anandpur Sahib, the birthplace of the Khalsa, a significant event in Sikh history. The majestic Anandpur Sahib Fort and serene Takht Sri Keshgarh Sahib gurudwara offer a sense of peace and tranquillity.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ludhiana's people are renowned for their warmth and hospitality. Their friendly smiles and willingness to help make visitors feel welcome. Whether you're seeking guidance from a shopkeeper in a bustling bazaar or simply asking for directions on the street, you'll be met with genuine kindness. The city's energetic Punjabi culture also extends to its people. Their infectious enthusiasm for life and love for celebration add to the city's charismatic energy. Ludhiana, a city woven with threads of history, industry, and culture, promises a captivating experience that will leave a lasting impression on your heart and mind. Come, discover the magic of Ludhiana.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Punjab Agricultural University Museum located in Ludhiana is a unique museum where traditional Rural life of Punjab has been displayed through a collection of traditional household implements, handicrafts and musical instruments.",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Daily, 50,000 devotees visit and pay homage to the sacred Sri Guru Granth Sahib at Gurudwara Dukh Niwaran Sahib .",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ludhiana",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/ludhiana",
+        "retrieved_at": "2026-09-22T18:36:41.696978+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

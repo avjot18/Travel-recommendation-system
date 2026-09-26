@@ -1,0 +1,329 @@
+{
+  "destination_id": "IN-KARNATAKA-BAGALKOTE",
+  "destination_name": "Bagalkote",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bagalkote Railway Station (BGK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.8,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 15.8,
+        "maximum_celsius": 38.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 39.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kempegowda International Airport (BLR), Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Bagalkote, a hidden gem nestled in the heart of Karnataka, where ancient tales are etched in stone, and modern aspirations paint the horizon. Picture yourself in a city where millennia-old cave temples whisper secrets of dynasties past while the gentle hum of progress echoes through its bustling streets. Here, the mighty Krishna River cradles civilization's roots, nourishing a land where rock-cut marvels and thriving industries stand side by side. Bagalkote beckons you to explore its captivating duality - a place where the weight of history and the pulse of contemporary life paint a beautiful picture as rich and diverse as India itself. Step into a world where every corner tells a story, inviting you to become part of its unfolding narrative.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagalkote defies conventional expectations. It is a unique destination that attracts visitors with its cultural richness and architectural wonders, offering fascinating insights into the region's history. For those who thirst for historical exploration, Bagalkote is an unparalleled trove of historic monuments. The city's crown jewel, the Badami Fort, represents this illustrious legacy. The fort is a formidable structure with towering ramparts and intricately carved gateways. As you stroll around the fort, you can't help but envision the grandeur of bygone eras. Explore its every nook and cranny, where each stone whispers tales of valour and resilience, and marvel at the ingenuity of its builders.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Its brilliant architectural side unfolds as you explore Bagalkote and meander through the city. Notable among the many beautiful structures is the Mallikarjuna Temple, a masterpiece of Chalukyan craftsmanship, which captivates all with its intricate carvings and towering gopuras or gateways. The temple's serene ambience provides a respite from the hustle and bustle, allowing visitors to immerse themselves in the spiritual essence that permeates every inch of its sacred grounds.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There are many more historical gems to be discovered. Prepare to be awestruck by the exquisite Chalukyan architecture at Pattadakal, a UNESCO World Heritage Site. This temple town on the Malaprabha River flaunts striking temples adorned with intricate carvings that will transport you back to the 7th and 8th centuries.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And the wonders don't stop there! Badami's cave temples, carved into red sandstone cliffs, are a sight to behold, especially during the golden hour when the setting sun casts a warm glow over the rustic hues. Another must-visit destination is Aihole, a UNESCO World Heritage Site renowned for its exquisite rock-cut temples and cave sculptures.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking a spiritual escape, Mahakuta's temple town beckons with its sacred shrines nestled amidst hills. The Mahakuteshwara temple , adorned with intricate carvings, will leave you in awe of the region's rich cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you want to extend your historical sojourn, don't miss the chance to explore Jamakhandi's Kalyana Chalukyan era monuments, Kulahalli's prehistoric artworks, and the ancient fort and temples in Karadi and Terdal.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagalkote is also an absolute treat for adventure enthusiasts. For the rush of adrenalin, rock climbing in Badami is a must-try. Imagine scaling those sandstone cliffs and conquering routes that have earned the region the moniker \"Mecca of Rock Climbing.\" Whether you're a newbie or a seasoned climber, there are challenges galore for free climbing, rappelling, and bouldering enthusiasts. For those seeking a more intimate connection with nature, Bagalkote offers a delightful escape in the form of the Ghataprabha Bird Sanctuary. This avian paradise is a haven for many feathered friends, including migratory birds that flock to its tranquil waters and lush greenery. Embark on a guided tour or simply enjoy a walk listening to the melodious symphony of chirps and trills as you spot rare and exotic species in their natural habitat.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Bagalkote would be complete without indulging in the region's culinary delights. The city's vibrant street food scene is a gastronomic adventure waiting to be explored. From savoury delicacies like the famous Bagalkote Pedha, a mouth-watering milk-based sweet, to tantalizing Mirchi Bajji (a spicy fried chilli fritter) and Khara Pudi (a spicy and crispy flatbread), every bite leaves you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking a unique shopping experience, Bagalkote's traditional markets offer an abundance of locally crafted wares. Explore the vibrant bazaars, where skilled artisans showcase their work, from intricately woven textiles to exquisite handicrafts. Bargain your way through the bustling stalls and take home a piece of Bagalkote's cultural heritage as a cherished souvenir.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With so much to see and do, Bagalkote promises an unforgettable adventure that seamlessly blends thrill, history, and spirituality into one incredible experience! So, come and uncover a city that is a confluence of its storied past and a promising future, leaving you with memories to cherish long after your visit.",
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bagalkote",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/bagalkote",
+        "retrieved_at": "2026-09-22T18:36:30.793558+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

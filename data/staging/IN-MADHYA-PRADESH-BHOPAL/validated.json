@@ -1,0 +1,349 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-BHOPAL",
+  "destination_name": "Bhopal",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bhopal Junction Railway Station (BPL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.3,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.6,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 42.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 44.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 43.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.2,
+        "maximum_celsius": 30.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Bhopal, a vibrant city in the heart of India, where every corner holds a story and every moment is an invitation to explore. As the capital of Madhya Pradesh, Bhopal seamlessly blends tradition with modernity and offers you a delightful fusion of ancient heritage and contemporary charm. Picture-perfect lakes shimmering under the sun's gentle rays beckon you to unwind amidst nature's tranquillity, while bustling markets pulse with the energy of today, inviting you to immerse yourself in a vibrant collage of local life. Bhopal unfolds like a captivating story. North of the serene lakes lies the old city where you wander through narrow alleys, past fascinating mosques, and discover hidden gems – bustling chowks overflowing with local delicacies and charming food corners. Cross the Upper Lake and a transformation awaits. Modern Bhopal emerges, a city reborn with wide, sleek avenues, gleaming shopping complexes, and luxurious hotels and restaurants. Whether you're drawn to its architectural marvels, cultural landmarks, or natural wonders, Bhopal promises an unforgettable adventure filled with discovery and wonder.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Originally known as Bhojpal, named after the 11 th century Paramara King Bhoja, Bhopal's captivating narrative began in the 17 th century with the reign of Dost Mohammad Khan, an Afghan warrior who shaped its destiny after the passing of Gond queen Rani Kamlapati. In the 1720s, he built the Fatehgarh Fort, which developed into the city of Bhopal over the next few decades. Bhopal thrived under the rule of powerful Begums, female leaders who reigned from 1819 to 1926. These remarkable women, like Qudsia Begum and Kaikhusrau Jahan, left a lasting mark on the city. They were known for their wise leadership, building schools, roads, and beautiful monuments that you can still see today. One of the shining testaments of the reign of Qudsia Begum, also known as Gohar Begum, is the magnificent Gohar Mahal. The palace's courtyard is a true work of art, with its large water tank and fountains, creating a serene atmosphere and making you want to relax there for a while. The palatial halls and spacious surrounding rooms, once venues for social and cultural events, now offer a glimpse into the glorious past of the palace, transporting you back in time.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come and discover the shimmering oasis of tranquillity in the twin lakes of Bhopal, where azure waters sparkle under the gentle caress of the sun. Fondly referred to as the ‘City of Lakes,’ Bhopal invites you to unwind amidst its serene waters. Legend has it that these lakes hold tales of royalty and romance, with begums of yesteryears gracing the tranquil waters in lotus barges beneath the moonlit sky. Explore these timeless tales that add a touch of enchantment to the lakes, captivating your imagination. Meet the Bhojtal (also known as Upper Lake) and Lower Lake, Bhopal's prized gems, where serenity stretches as far as the eye can see. Beyond the breathtaking views, they are your havens for peace and rejuvenation. Take a boat ride, have a lakeside picnic, or simply stroll along the shore for some nature therapy. As dusk falls, watch the lakes come alive with a mesmerising light and sound show, enchanting all who gather by the water's edge.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into Bhopal's vibrant history and wander through narrow lanes adorned with majestic havelis, bustling bazaars, and ancient mosques that breathe life into the city's heritage. Witness the awe-inspiring Taj-ul-Masjid , one of the largest mosques in Asia! It is a timeless symbol of devotion and grandeur, welcoming you with its pink façades, marble floors, vast courtyards, and majestic domes. Experience an aura of deep devotion at the Laxmi Narayan Temple (or Birla Mandir), where the idols of Lord Vishnu and Goddess Lakshmi are carved out of a single piece of marble, making them an exquisite piece of art. Just a short journey from Bhopal, a wealth of history awaits. Step back into another millennium at the enchanting Bhojeshwar Temple , hailed as the 'Somnath of the East.' Marvel at its unfinished grandeur and the majestic Shiva Linga, carved from a single stone, radiating architectural elegance and spiritual reverence. Explore the Bhimbetka Rock Shelters, a UNESCO World Heritage Site boasting over 243 caves adorned with prehistoric paintings – a window into the lives of ancient civilisations. Or journey northwest of Bhopal to reach the Sanchi Stupa, one of the oldest stone structures in India, is another UNESCO treasure. This exquisitely carved Buddhist monument, dating back to the 3rd century BC, is a masterpiece of Indian architecture and a spiritual centre for centuries. These captivating destinations, within easy reach of Bhopal, offer an unforgettable journey through time. Don't miss your chance to experience them!",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhopal’s regal past is preserved through its museums and palaces. Step into a realm of elegance and heritage as you explore the majestic Shaukat Mahal. Built in the 1830s, it’s a timeless masterpiece built with devotion and adorned with exquisite architectural details conceived by Nawab Jahangir Mohammed Khan as an expression of devotion to Sikander Jehan Begum. Behold its magnificence along with the adjoining Sadar Manzil, and get immersed in the rich cultural fusion of Islamic, European, and Hindu influences as you explore the intricately carved halls and graceful arches of both these monuments. Get ready to be amazed at the Indira Gandhi Rashtriya Manav Sangrahalaya , India's largest anthropological museum! Spread across a sprawling 200-acre landscape, this unique open-air exhibition showcases life-size replicas of traditional dwellings from tribal, coastal, and Himalayan villages.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhopal's culinary wonders can leave your palate longing for more. Every bite here tells a story of tradition and taste, with influences from the Mughal era as well as adaptations from the Marwari culinary culture. Picture yourself wandering through vibrant lanes, savouring everything from the sweet magic of poha-jalebi at the legendary Baba Jalebi Wale at dawn to the rich, creamy goodness of bhutte ki kees at Vrindavan Restaurant. Let the city take you on a gastronomic journey with its signature dishes like dal-bafla, achari gosht, and melt-in-your-mouth seekh kebabs. And don't forget to top off your culinary adventure with a refreshing bhopali paan, a perfect end to your feast. Bhopal invites you to taste its treasures, promising flavours that linger long after the meal ends.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Craving a cultural immersion? Don’t miss Madhya Pradesh's most anticipated cultural celebration – Lokrang. Over five exhilarating days, experience a vibrant showcase of India's diverse tribal and folk heritage - from mesmerising classical and folk-dance performances to captivating art and craft exhibitions, Lokrang promises a feast for the senses. Join people from around the world in this event, celebrating Indian culture.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure awaits in Bhopal! Head to Sair Sapata, Bhopal's vibrant entertainment hub by the Bhojtal lake. Test your courage on the suspension bridge, zoom around in zorbs, or take a peaceful boat ride – there's something for everyone! Embark on a thrilling safari at Van Vihar National Park ! Get up close with nature as you explore the park's diverse wildlife, especially white tigers (most visible during July-September) and a wide variety of birds.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Bhopal's captivating blend of history, culture, and nature as it offers unforgettable experiences for every traveller – from history buffs to foodies to pilgrims. Plan your visit to Bhopal ideally between the winter months of August to March, with pleasant conditions for sightseeing. Pack your bags and get ready for Bhopal!",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built by King Bhoj, Bhojtal , as per the popular legend, had a secret tunnel that connected the King’s palace to the bottom of the lake, so he could take a dip at any time.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sanchi Stupa has awe-inspiring statues of supernatural beings called Yakshas, who, according to local legends, come to life at night, patrolling the structures.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhojeshwar temple is an impressive temple ruin with visible architectural drawings and mason’s marks from those times to ponder how it would have been if it was completed.",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bhopal",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/bhopal",
+        "retrieved_at": "2026-09-22T18:36:35.102980+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

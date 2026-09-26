@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-DADRA-AND-NAGAR-HAVELI-AND-DAMAN-AND-DIU-DAMAN",
+  "destination_name": "Daman",
+  "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Daman Airport (NMB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vapi Railway Station (VAPI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Daman, the charming capital of the union territory of Dadra and Nagar Haveli and Daman and Diu, is a mesmerising blend of historical grandeur and contemporary vibrancy. This quaint city, a former Portuguese colony, beckons you with its cobblestone lanes, majestic forts, and the serene expanse of its beaches, promising an escape where time stands still. As you step into this enchanting destination, you're greeted with the rich aroma of spices, the soothing sound of waves caressing the shore, and the warm hospitality of its people. Daman's beaches paint a picturesque scene, where golden sands meet the boundless expanse of the sky. Here, amidst the tranquil embrace of the Arabian Sea, you will find solace from the bustle of everyday life as the gentle waves wash away your worries. The city of Daman is a unique blend of history and modernity, where colonial-era buildings with intricate Portuguese architecture stand side by side with modern skyscrapers. The past and the present coexist in perfect harmony, creating a vibrant and diverse cityscape. At night, the city comes alive with the vibrant hues of bustling nightclubs and serene beach parties, offering a glimpse into the pulsating rhythm of contemporary life.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Come and explore the treasures of this enchanting city where the past and the present dance in perfect harmony. Welcome to Daman!",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the allure of Daman’s storied past at the Moti Daman Fort , built in the 16th century. Step into history at this sprawling ancient fort, covering an expansive area of about 30,000 square metres. One of its most fascinating features is the impressive array of cannons it houses. These beautifully crafted cannons, adorned with noteworthy carvings, will leave you spellbound as you explore the fort's rich heritage. Two magnificent lighthouses also await your discovery. Climb the winding spiral staircase to reach the top of the Old Lighthouse, and treat yourself to a breathtaking view of the expansive sea.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Marvel at the awe-inspiring Fort of St. Jerome , dedicated to Saint Jerome. Here, you'll encounter a captivating façade adorned with Portuguese-carved crosses, intricate carvings, and inscriptions. Inside, you'll discover a cemetery and a charming church. Perched at the point where the Daman Ganga River meets the Arabian Sea, the fort offers breathtaking views from its elevated vantage point. Don't miss the chance to visit the Church of Our Lady of the Sea nestled within the fort's walls. Discover more captivating monuments, each narrating a unique tale of the region's colonial legacy. From the serene Church of Bom Jesus to the majestic Dominican Monastery , embark on a profound journey through time. Delight in the fusion of European and Indian architectural styles, adorned with magnificent arches and intricate brickwork, inviting you to unravel the mysteries of a bygone era.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Daman would be complete without a stroll along the pristine sands of its beaches. As you venture out of the bustling city centre, the tranquil Jampore Beach beckons you to slow down and savour the serenity of Daman's coastline. Located a mere 5 kilometres from the Moti Daman Jetty, this remote stretch of shoreline captivates with its distinctive blackish, mud-coloured waters. Simply gazing upon the mesmerising sea is a soothing balm for the senses as you bask in the peace and solitude of this secluded stretch of sand. Just a short distance away, Devka Beach unveils a sight of pure, unadulterated beauty. Like many of Daman's coastal gems, this expansive, picturesque shore remains wonderfully unspoiled, with clean waters and well-maintained sands that beckon visitors to linger and savour the natural splendour. Explore the renovated seafront promenade, featuring beautiful gardens, various food options, recreational activities, and convenient parking. The beach offers an added allure – a delightful amusement park with towering fountains and a vibrant play area for the young and young-at-heart. Though not a coastal retreat, you will enjoy visiting the Mirasol Lake Garden, also known as Kadaiya Lake Garden, a beloved destination for locals and tourists alike. Here, you can indulge in paddle boating, enjoy delightful toy train rides, and unwind in the company of ducks and birds. Don't forget to explore the variety of food stalls and indulge in delicious treats, or dine at the multi-cuisine restaurant at the heart of the garden.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek tranquillity and a chance to reconnect with your inner self, Daman’s spiritual landscape awaits you. Get dazzled with the exquisite architecture of BAPS Swaminarayan Temple . Every inch of the temple is adorned with intricate carvings, showcasing exquisite craftsmanship. As you explore the spacious garden and marvel at the magnificent construction, prepare to be mesmerised by the temple's undeniable charm. Experience the sacred atmosphere of the Somanath Mahadev Temple , a revered Hindu shrine dedicated to Lord Shiva. Legend has it that the sacred Shivalinga here manifested in the 19 th century at the behest of a monk. Don't miss the annual Masi Fair, a vibrant celebration that attracts thousands of devotees.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek a quick experience of vibrancy, stroll through the Nani Daman Market, nestled within the ancient Fort of St. Jerome, to feel a vibrant hub of culture. Here, you can explore a plethora of exotic spices, exquisite handicrafts, and tempting snacks, making it a paradise for shoppers and foodies alike. Daman is a kaleidoscope of vibrant festivals that bring its rich heritage to life. From experiencing the spectacle of Nariyal Poornima to the dazzling festivities of Diwali, you’ll witness the lively spirit and communal harmony that defines Daman.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Daman has something delightful for everyone, whether you're a vegetarian or a non-vegetarian foodie. The local cuisine, a blend of Gujarati zest and Portuguese subtlety, is a culinary journey. Daman's proximity to the Arabian Sea blesses it with abundant seafood, turning the city into a paradise for lovers of aquatic fare. Treat yourself to the flavours of Goa with the iconic Goan fish curry and rice or the aromatic chicken xacuti. Don't forget to try the mouthwatering butter-garlic tiger prawns and crispy fried squid! For street food lovers, sample local favourites like the Jetty roll - a delicious twist on the classic kathi kebab rolls, papri, pav bhaji, bhel, and chaat, bound to leave you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The region surrounding Daman is dotted with hidden gems and stunning landscapes waiting to be discovered. Venturing just a short distance from the city, you can uncover an array of attractions that promise to enrich your travel diary. Just about 30 km from Daman, Silvassa offers an intriguing escape. Known for its lush greenery, exotic wildlife parks, and tribal culture, Silvassa is a haven for nature lovers and culture enthusiasts alike. The Lion Safari Wildlife Park and Vanganga Lake are just a few highlights of the region's natural beauty and indigenous heritage. Drive just 12 km from Daman, and you will hit Vapi, often considered the gateway to the Daman Ganga River's estuaries. Vapi is a convenient base for exploring the region's natural attractions, including the Daman Ganga River banks, where you can have family picnics or just leisurely walks. If you’re looking for spiritual sojourns, drive 30 km north of Daman to Udvada, a town of great religious significance for Zoroastrians. It is home to the Atash Behram, the oldest and most sacred of the Zoroastrian fire temples in India.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, whether you're strolling through the old town's narrow lanes, indulging in delectable seafood cuisine, or simply basking in the golden hues of a Daman sunset, you'll find yourself enchanted by the charm and vibrancy of this captivating city. Walk on a journey of discovery in Daman, where every moment is an invitation to explore and savour the beauty of life. For a delightful experience, plan your visit to Daman during winters, from November to February, when the weather is pleasantly cool, and the city comes alive with festivals and events.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Church of Bom Jesus in Daman harbours a secret chamber beneath its main altar, reportedly serving as a covert refuge for persecuted individuals during the Portuguese rule.",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A guide to Daman’s must-visit attractions and adventures",
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Daman",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/daman",
+        "retrieved_at": "2026-09-22T18:36:52.444042+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

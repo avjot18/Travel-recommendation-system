@@ -1,0 +1,300 @@
+{
+  "destination_id": "IN-CHHATTISGARH-BILASPUR",
+  "destination_name": "Bilaspur",
+  "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bilaspur Junction Railway Station (BSP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 7.5,
+        "maximum_celsius": 30.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.3,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 14.2,
+        "maximum_celsius": 41.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 45.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 43.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 37.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 32.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.4,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilasa Devi Kevat Airport (PAB), Bilaspur",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur, the heart of Chhattisgarh, is a city that invites you to explore its majestic temples, serene lakes, and dense forests. From the revered Mahamaya Devi temple to the sprawling landscapes of the Achanakmar Wildlife Sanctuary, Bilaspur offers a journey through time and nature. Here, every path leads to discovery, from the echoes of battles fought in ancient forts to the tranquil retreats beside quiet waters. Join us as we unveil the layers of Bilaspur's history, celebrate its ongoing cultural saga, and wander through the wild beauty that makes this city a must-visit destination for those seeking to connect with India's lively spirit.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur's rich history and architectural grandeur trace back to its origins in the ancient Dakshina Kosala kingdom, noted for its strategic and cultural importance with connections to historic cities like Sirpur and Ratanpur. By the 5th century, the powerful Kalachuri dynasty dominated the region, leaving behind iconic structures such as the Malhar temples, showcasing the era's artistic and architectural prowess. The city further evolved under Maratha rule in the 18th century, adding layers to its historical narrative. Today, visitors can explore these heritage sites, each narrating a unique story of Bilaspur’s past. Begin your exploration at the Mahamaya Devi Temple , a venerated site in Ratanpur. Built nearly a millennium ago by King Ratnadeva I, the origins of this temple trace back to a transformative experience during a hunting trip in the village around 1045 AD. This temple, recognized as a Shakti Peeth — specifically, the site where the right hand of Goddess Sati fell — is a pivotal centre for spiritual rites. The temple's profound energy is particularly palpable during the Navaratri festival, when thousands of devotees light Manashakamna Jyoti Uphras, seeking blessings and fulfilling vows under the auspices of the deity. Continue your journey to Malhar, a historical place that resonates with the legacy of the Kalachuri dynasty. This ancient town is dotted with significant archaeological treasures, notably the Pataleshwar Kedar Temple and the Didneshwari Temple. The Pataleshwar Kedar Temple , dedicakananted to Lord Shiva, is renowned for its classical architectural style with a sanctum that houses a revered Shiva lingam, surrounded by sculptures that depict various deities and mythological scenes. This temple exemplifies the artistry of rock-cut architecture, showcasing the skill and religious devotion of its creators. Adjacent to it, the Didneshwari Temple, dedicated to Goddess Durga, is renowned for its spiritual significance and architectural beauty. This temple is known for intricate carvings and sculptures that depict tales from Hindu mythology, emphasizing the goddess's strength. The temple's design features a prominent shikhara (spire), ornate sanctum sanctorum, and several smaller shrines, each reflecting the rich craftsmanship of local artisans. The mandapa (pillared hall) is adorned with detailed columns, adding to the temple’s aesthetic and spiritual ambiance. The layout facilitates a seamless flow of devotees, particularly during major rituals and festivals, making the temple a focal point for both religious devotion and artistic appreciation. Just a short journey from Malhar, the imposing Ratanpur Fort stands as a robust testament to the region's rich historical and military significance. Built by the Kalachuri dynasty, this fort served as both a royal residence and a military bastion, reflecting its central role in the history of central India. As visitors explore the ancient ramparts, they encounter defensive features like arrow slits and cannon placements, illustrating its military importance. Additionally, the fort's walls, adorned with intricate carvings, narrate stories from its past, from divine interventions in battles to everyday royal life. The architectural design, including courtyards and secret passages, offers insight into ancient fortification strategies, making Ratanpur Fort a significant attraction for those visiting Bilaspur. Celebrate the unique bond between sisters-in-law at the Shri Dewrani Jethani Temple, a proof of familial harmony. This temple is not just a religious site but a cultural icon that embodies the deep-rooted social traditions of the region. The architecture of the temple is as compelling as its story, with elements that reflect the local aesthetic and spiritual beliefs. It is a place where visitors can observe and appreciate the enduring customs that have shaped the local community's social fabric.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a thrilling wildlife safari in the sprawling Achanakmar Tiger Reserve. Home to majestic tigers, leopards, sloth bears, and a plethora of birdlife, this sanctuary promises an unforgettable encounter with nature's raw power. Sprawling over an impressive 557 square kilometres, it attracts wildlife enthusiasts and nature lovers alike. Visitors to the reserve are treated to an amazing experience, with thrilling safaris providing the chance to witness these majestic creatures in their natural habitat. Guided nature walks offer a deeper understanding of the reserve's flora and fauna, while birdwatching opportunities abound, allowing visitors to admire the colourful avian residents that call Achanakmar home. Discover a hidden gem in the heart of Bilaspur - Madku Dweep, a small island formed by the Shivnath River. The island is home to several ancient temples, each with its own spiritual aura and unique architecture. As you wander through the island, you'll come across intricately carved stone structures that date back centuries, offering a glimpse into the region's rich past. One of the most prominent temples on Madku Dweep is the Shiva Temple, dedicated to Lord Shiva. This temple is a popular pilgrimage site and is known for its stunning architecture and spiritual atmosphere. Another highlight of Madku Dweep is the Ganesha Temple, dedicated to Lord Ganesha. This temple is revered by devotees and offers a peaceful retreat for those seeking spiritual solace. Escape the hustle and bustle of city life and immerse yourself in the tranquil beauty of Kanan Pendari Zoo Park . This lush expanse, sprehad over 350 acres, offers scenic trails that wind through verdant forests, inviting you to lose yourself in the symphony of birdsong and the soothing rustle of leaves. The area is also known for its rich biodiversity, with a variety of plant and animal species to discover. Cradled by picturesque hills, Bilasa Tal, is a tranquil oasis perfect for rejuvenation. The lake's crystal-clear waters mirror the surrounding greenery, creating a mesmerizing vista. You can enjoy a leisurely boat ride, gently gliding across the serene waters, or opt for a peaceful stroll along the waterfront, soaking in the beauty of the surroundings. Bilasa Tal has a calming effect on people making it an idyllic spot to unwind and connect with nature. Witness the awe-inspiring engineering marvel of the Kutaghat Dam , standing tall in the middle of lush greenery. As you gaze upon the panoramic vistas from the dam, you can appreciate the harmony between nature and engineering, making it a captivating sight.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience the lively side of Bilaspur with its array of entertainment options, promising fun-filled days for tourists of all ages. Ignite your curiosity at Urja Park, a unique blend of education and recreation. Explore various renewable energy sources and learn about sustainability in a fun and interactive way. Let your inner child run free at Wonder World, an amusement park offering a plethora of thrilling rides and exciting games. From roller coasters to water slides, this park is sure to delight children and adults alike. Immerse yourself in the local culture by exploring Bilaspur's bustling markets. From traditional handicrafts to local delicacies, these markets offer a glimpse into the city's spirited lifestyle. Don't forget to bargain for souvenirs to take back home.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indulge your taste buds in Bilaspur's culinary delights. From street food stalls to fine dining restaurants, the city offers a diverse range of flavours to suit every palate. Don't miss the opportunity to savour local specialties like the famous Bilaspur Thali or the delectable Petha sweet. The traditional breakfast dishes in Bilaspur, Bara and Ghugni are savoury pancakes made from ground lentils and served with a spicy chickpea curry. Another local favourite, Bafauri is a steamed lentil dumpling that is spiced with green chilies, ginger, and garlic. Indulge in Bilaspur's variety of sweet delicacies, including Balushahi, Khurma, Akhrot Barfi and Petha. A must-try for every food enthusiast, the Bilaspur Thali is a feast for the senses. For a quick and delicious snack, try Chana Jor Garam.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Let Bilaspur be the first line in your epic adventure story. Come, explore the hidden gems of Chhattisgarh's heartland, where every corner tells a story and every experience is a treasure waiting to be discovered. Bilaspur awaits, ready to enchant and inspire you with its timeless charm and unparalleled hospitality.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The nearest airport to Bilaspur is Swami Vivekananda Airport in Raipur, located about 130 kilometres away. It provides connectivity to major cities across India, making Bilaspur accessible to travellers seeking to explore this diverse and vibrant destination.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the unexplored wonders of Bilaspur",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:24.613008+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

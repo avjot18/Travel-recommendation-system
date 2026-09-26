@@ -1,0 +1,339 @@
+{
+  "destination_id": "IN-TELANGANA-BHONGIR",
+  "destination_name": "Bhongir",
+  "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bhongir/Bhuvanagiri Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajiv Gandhi International Airport (HYD), Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched majestically on the expansive Deccan Plateau, a mere 50 km east of Hyderabad in Telangana, lies the unique historic town of Bhongir. Also known as Bhuvanagiri, this town is a treasure trove of ancient wonders, spiritual sanctuaries, natural beauty, and heart-pounding adventures, setting it apart from other tourist destinations. Steeped in the legacy of the Kakatiya dynasty, Bhongir boasts the magnificent Bhongir Fort (or Bhuvanagiri Fort) as its crown jewel. Towering above the town on a monolithic rock, this fortress is the origin of the town's name. Feel the thrill of history come alive as you explore its ramparts and test your limits with rock climbing on the same rock face that cradles the fort. Bhongir is part of the Yadadri Bhuvanagiri district, a haven for spiritual explorers. Hike up Yadagirigutta hill to the revered Sri Lakshmi Narasimha Swamy Temple, a pilgrimage site steeped in Hindu tradition. Or delve into a 2000-year-old Jain Temple at Kolanupaka, a testament to the region's spiritual diversity. The district is renowned for its flourishing textile industry, particularly the exquisite handloom products of Pochampally, which are known worldwide for their vibrant colours and intricate designs. Bhongir is where history whispers, adventure beckons, and serenity awaits. Come embark on your own unforgettable journey!",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare for an unforgettable adventure as you step into Bhongir, starting with its most renowned attraction—the mighty, awe-inspiring, egg-shaped Bhongir Fort. Constructed by the Chalukya ruler Tribhuvanamalla Vikramaditya VI, this grand fortress is a testament to the dynasty’s architectural brilliance. Imagine yourself atop a 700-foot-tall hill, the wind caressing your face as you take in the sprawling 40-acre complex. This was once an impregnable structure, and even halfway up the climb, you'll be treated to breathtaking views of the town below. Don't forget your camera – these panoramic vistas are a sight to behold! Pro-tip: Join a special trekking tour organised by the tourism department or collaborate with adventure enthusiasts to truly experience the thrill of the climb. Beyond the fort walls, just a short 11 km north, lies Surendrapuri, a unique destination for history and mythology enthusiasts. Here, you'll find the Kunda Satyanarayana Kaladhamam (Mythological Awareness Center), a fascinating museum housing full-sized replicas of some of India's most famous Hindu temples. Not just that, prepare to be awestruck by the colossal 101-foot Shiva Linga (representation of Lord Shiva) and the towering 60-foot double-sided Panchamukhi Hanuman (five-faced Lord Hanuman) statue.",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir isn't just about the history and adrenaline – it's also a place steeped in spiritual significance. Here's how you can enrich your journey with a touch of serenity. Visit the revered Yadadri Temple , also known as Sri Lakshmi Narasimha Swamy Temple or Yadagirigutta Temple. This ancient temple, perched atop a picturesque hillock, is dedicated to Lord Narasimha Swamy, an incarnation of Lord Vishnu. Five forms of Lord Vishnu are worshipped here, offering a unique experience for devotees. The temple's significance is evident from the fact that it is often hailed as Telangana's own Tirupati, one of the most revered shrines in India. Journey back in time at the 2,000-year-old Kulpakji Shwetambar Jain Temple, also known as the Kolanupaka Temple. This vital Jain pilgrimage site houses three main idols – Lord Rishabhadev, Lord Neminath, and Lord Mahaveer. Be mesmerised by the stunning architecture and intricate carvings gracing the temple walls. Venture to the south of Bhongir to the unique Sri Matsyagiri Lakshmi Narasimha Swamy Temple in Vemulakonda village. Here, Lord Narasimha Swamy, the presiding deity, is believed to be self-manifested (Swayambhu) in the form of a fish within the rock itself! The legend goes that Lord Vishnu took the form of a fish and resided in the Matsyagiri pond atop the hill. Intriguing, isn't it?",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Yadadri Bhuvanagiri district, where Bhongir resides, is renowned worldwide for its breathtaking Pochampally Ikat designs. Here, skilled weavers transform threads and colours into stunning sarees and dress materials, their fingers dancing across looms that have been humming for generations. The intricate geometric patterns of Pochampally Ikat are a feast for the eyes, and the village itself has even been nominated for UNESCO's prestigious ‘Iconic Saree Weaving Clusters of India’ list. A Pochampally Ikat saree or dress material is a timeless work of art. So, don't miss your chance to take home a piece of this heritage! Explore the shops and boutiques in Bhongir and the surrounding villages.",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Bhongir's cuisine may not be entirely unique, it offers a delicious window into Telangana's rich culinary heritage. Drawing influences from Mughal, Turkish, and Persian traditions, it blends seamlessly with South Indian flavours to create a unique taste experience. Get ready to tantalise your taste buds with the diverse use of spices, the tangy touch of tamarind, and the fiery kick of red chillies. The region's geography plays a role too. Expect more millet and roti-based dishes, with Jowar and Bajra taking centre stage. Some must-try local specialities include biryani (a fragrant rice dish with exotic spices), sakinalu (traditional snacks), sarva pindi (a savoury pancake), jonna rotte (sorghum flatbread), and kodi pulusu (fiery chicken curry), among many other scrumptious dishes. Head to local restaurants and eateries where you can savour authentic Telangana cuisine. For an even wider selection, venture out and explore the nearby Nalgonda district.",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Bhongir adventure doesn't have to end at the town limits! Venture out and discover hidden gems and thrilling experiences that will make your trip truly unforgettable. Head south and be captivated by the beauty of Rachakonda Fort, a hidden gem waiting to be unearthed. Imagine towering boulders, lush green paddy fields stretching towards the horizon, and a backdrop of rolling hills – a scene that's refreshingly serene. Explore the fort's ramparts and soak in the panoramic views, or simply relax amidst the natural splendour. Then Ramoji Film City, at around a distance of 55 km, is a must-visit! This world-renowned destination, India's only thematic holiday park, is the largest integrated film city in the world. Prepare to be spellbound by its larger-than-life attractions, captivating shows, and endless entertainment options. From thrilling rides to stunning sets, Ramoji Film City offers something for everyone, making it the perfect day trip for the whole family.",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir's rich history beckons travellers year-round, but for the most comfortable adventure, plan your visit between October and March, perfect for exploring the region’s historical wonders, natural beauty, and spiritual sanctuaries. So pack your bags for an unforgettable journey through time and prepare to be charmed by Bhongir's multifaceted magic!",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Yadadri Temple attracts many devotees, with an average of 5000-8000 pilgrims visiting daily to offer vows, perform pujas, participate in kalyanam, abhishekam, and more.",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir: Unleash Your Adventurous Spirit",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir: Where Art Blooms and Creativity Flourishes",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir: The Entertainment Oasis of Telangana",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhongir's Gastronomic Delights: A Culinary Journey",
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bhongir",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/bhongir",
+        "retrieved_at": "2026-09-22T18:36:46.352509+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

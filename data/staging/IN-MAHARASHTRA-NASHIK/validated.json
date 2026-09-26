@@ -1,0 +1,362 @@
+{
+  "destination_id": "IN-MAHARASHTRA-NASHIK",
+  "destination_name": "Nashik",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Nashik International Airport (ISK), Nagpur Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai"
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nasik Road Railway Station (NK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.2,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.6,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik International Airport (ISK), Nagpur",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to Nashik, a city steeped in mythology, and renowned for hosting the Kumbh Mela, the largest spiritual gathering on earth, every 12 years. Nashik has great religious significance. It is believed to be the abode of Lord Ram, his wife, Goddess Sita and brother Lord Lakshman during their 14-year exile, as described in the Hindu epic Ramayana. The name ‘Nashik’ itself is said to originate from the legend that Lord Lakshman, cut the nose of ‘Surpanakha’ at this place. Surrounded by serene hills, lakes and lush green forests, Nashik is situated on the banks of the holy Godavari River and is home to several notable Hindu shrines. It is considered to be one of the holiest places for Hindus worldwide. Experience the allure of this ancient site, known as Panchvati during the period of Ramayana. Panchvati is situated on the left banks of sacred river Godavari in Nashik city. The name ‘Panchvati’ is derived from the words Panch which means five and Vati which means banyan tree. There are some very old and lofty banyan trees close to Kalaram temple in Nashik, which are believed to have sprung from five banyans which gave Panchvati its name. This is where Sita Gufa or Sita’s Cave is situated.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik is also famous for its contribution to India's struggle for independence. The city has produced well-known freedom fighters like Veer Savarkar and Anant Laxman Kanhere. But there's more than just religious and historical significance to Nashik. Its natural beauty will leave you breathless. The enchanting hills of the Sahyadri range, pristine streams of the Western Ghats, picturesque waterfalls, and lush vineyards make it a haven for relaxation and rejuvenation. Yet another side to the city is that it is known as the wine capital of India, Nashik is the perfect destination to explore wine tourism. Take a sip of chilled Chenin Blanc and embark on a journey through the lovely vineyards, sampling different varieties of wine while learning about the painstaking process that precedes their creation. A range of ancient forts and caves in the region give visitors a glimpse of its rich heritage. These architectural marvels serve as great trekking sites, while the tranquil undertone of the city makes it an excellent spot for meditation and traditional wellness centres.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As the spiritual heart of Maharashtra, the appeal of Nashik’s sacred wonders is unmatched. Embark on a journey of tranquillity as you explore the divine sanctuaries that define this unique city. Begin your spiritual quest in the hallowed waters of Ramkund , where the soul finds solace in the purifying embrace of the Godavari river. Believed to be the bathing spot of Lord Rama, this sacred site resonates with centuries of devout reverence. Delve into the rich spirit of devotion at Kalaram Temple, a symbol of deep faith and spiritual fervour. Adorned with a magnificent black stone idol of Lord Rama, this temple stands as a testament to timeless devotion and architectural splendour. Lose yourself in the divine aura of Trimbakeshwar Temple , a celestial abode of Lord Shiva nestled amidst the tranquil hills of Nashik. Enshrining one of the twelve Jyotirlingas, this ancient temple exudes an aura of mystique and reverence. Surrender to the majestic beauty and spiritual energy of Saptashrungi Devi Mandir, a sacred sanctuary dedicated to Goddess Saptashrungi, with its 8-feel tall swayambhu (self-manifested) idol. Set amidst the picturesque landscapes of Nashik, this revered pilgrimage site beckons seekers of divine blessings. Discover the lush greenery, cool climes, and spiritual energy of Anjaneri , a hill that takes its name from Anjana Devi, the mother of Pavanputra Hanuman. According to local legend, Anjana Devi gave birth to Lord Hanuman in a cave atop the hill, where a temple dedicated to her now stands. The trek up the hill is tiring but rewarding, with sights like the cave where Lord Hanuman was brought as a child and inscriptions dating back almost 1,000 years. In the tranquil suburbs of Nashik also lies Someshwar Temple, one of the oldest temples devoted to Lord Shiva and is also a shrine of Lord Hanuman. It offers visitors pleasant weather and a respite from the main city, inviting them to seek the blessings of the divine lords and explore the entire temple. Around 90 km from Nashik, discover the spiritual haven of Shirdi, home to the revered shrine of Shirdi Sai Baba. As one of the greatest saints of India, Sai Baba's teachings of love, compassion, and unity continue to inspire millions of people worldwide. The Shirdi temple complex covers an area of about 200 square meters and attracts over 50,000 devotees daily.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in Nashik’s historical locales like Bhagur, the birthplace of the legendary freedom fighter Veer Savarkar (Vinayak Damodar Savarkar). Explore the hallowed halls of Savarkar Wada there and unravel the legacy of a true patriot amidst the quaint charm of this historic town. Journey through India's rich numismatic heritage at the Coin Museum, where every coin tells a story of bygone eras and cultural legacies. Delve into the fascinating world of currency and witness history come alive through a treasure trove of artefacts and exhibits. Embark on an adventure to Tringalwadi Fort, a rugged citadel perched atop the Sahyadri ranges, offering panoramic vistas and tales of valour. Trek through its ancient ramparts and soak in the awe-inspiring beauty of Nashik's natural wonders. Uncover the power of history at Asia's largest artillery museum, where relics of warfare and technological marvels stand as testaments to human ingenuity. Experience the thrill of exploration as you delve into the military heritage of Nashik and witness the evolution of warfare through the ages.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Steeped in spirituality, Nashik hosts a number of festivals and events that ignite the senses. But none as awe-inspiring as the revered Kumbh Mela, an iconic gathering that draws millions of devotees from across the globe. This sacred pilgrimage, held at the banks of the Godavari River, offers a divine opportunity for spiritual rejuvenation as pilgrims immerse themselves in the purifying waters to cleanse their souls and seek blessings. March-April heralds the arrival of the Ram Navami Rath Yatra, a grand procession that traverses the city streets in a glorious spectacle of devotion and reverence. Starting at the iconic Kalaram Temple, this 15-day extravaganza attracts throngs of devotees from far and wide, who gather to pay homage to Lord Rama and seek his divine blessings. Amidst the rhythmic chants and colourful adornment, the Rath Yatra epitomises the essence of Nashik's cultural heritage, inviting one and all to join in the joyous festivities and bask in the glory of ancient traditions renewed. On Diwali, as festive fervour fills the air, Nashik comes alive with a radiant glow of a celebration deeply intertwined with the city's rich heritage and reverence for Lord Rama. From the bustling streets to the tranquil corners, Nashik gleams with the warm embrace of lights and the joyous celebrations of its residents. This auspicious occasion brings communities together in a spirit of unity and gratitude, as they illuminate their homes and hearts with the brilliance of hope and prosperity.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik beckons adventurers and nature enthusiasts to embark on a journey of discovery and serenity. Surrounded by rolling hills, cascading waterfalls, lush vineyards, and ancient temples and forts, this picturesque destination offers a perfect blend of natural beauty and adventure, ideal for those seeking to escape the hustle and bustle of city life. From the renowned Sula Vineyards, where visitors can indulge in wine tours and tastings amidst sprawling vineyards, to the tranquil Trimbakeshwar, home to the revered Trimbakeshwar Temple and its surrounding hills, the magnetic beauty of Nashik is captivating. Bhandardara enchants with its breathtaking vistas of waterfalls and lakes, inviting camping enthusiasts and trekkers to explore its verdant trails and scenic wonders. For those seeking an adrenaline rush, Nashik boasts an array of thrilling trekking adventures amidst its rugged terrain. Scale the historic Harihar Fort and marvel at panoramic views of the city below, or conquer the towering peak of Kalsubai, the highest summit in the Sahyadri range. With trails leading to majestic forts like Anjaneri and picturesque destinations like Bhandardara, Nashik promises unforgettable experiences for adventurers of all levels.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik beckons avid shoppers with its bustling markets, promising an unforgettable experience. Dive into the heart of the city's shopping scene with a visit to Saraf Bazaar, a busy marketplace renowned for its diverse array of jewellery stores. Whether you're seeking a dazzling necklace, intricate trinkets, or delicate bracelets, you'll find treasures to cherish at reasonable prices. For a dose of feel-good shopping and cosy winter essentials, head to the Tibetan Market, where colourful stalls beckon with a variety of clothing options, from stylish jackets to warm scarves and mittens. After indulging in some retail therapy, tantalise your taste buds with spicy local delicacies and authentic Tibetan treats, adding a culinary adventure to your shopping excursion. Meanwhile, at Deolali Camp Market, immerse yourself in the charm of antique treasures and handicraft wonders, where each shop unveils unique curios and works of art waiting to be discovered in the market's winding alleys and stalls.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik boasts culinary fare rich in Maharashtrian flavours and traditions, offering a delicious gastronomic adventure. At the forefront of Nashik's culinary scene stands Misal Pav, a beloved signature dish renowned for its spicy curry made from sprouted lentils, served alongside Pav bread, papad, and refreshing buttermilk. This iconic breakfast staple teases your taste buds with its aromatic spices and hearty flavours, embodying the essence of Nashik's traditional cuisine. Venture through the bustling streets of Nashik, and you'll encounter another culinary gem: Vada Pav. This ubiquitous snack, found on every street corner, features a crispy potato fritter sandwiched between soft Pav bread, accompanied by zesty green and red chutneys. Whether enjoyed as a quick bite on the go or savoured leisurely, Vada Pav delights locals and visitors alike with its irresistible combination of textures and flavours, epitomising the essence of street food culture in Nashik. No exploration of Nashik's culinary delights is complete without indulging in Sabudana Vada, a popular snack beloved for its crispy exterior and soft, flavourful interior. Made from soaked tapioca pearls, potatoes, peanuts, and spices, these golden-brown delights offer a delightful crunch with each bite, accompanied by either tangy green chutney or sweet and sour yogurt dip. Whether savoured during festive celebrations or as a delectable treat on fasting days, Sabudana Vada showcases the culinary diversity and cultural richness of Nashik's amazing food scene.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amidst the serene landscapes of Nashik lies a haven for wellness enthusiasts seeking rejuvenation of mind, body, and soul. Immerse yourself in the ancient wisdom of Ayurveda at the city's renowned Ayurvedic spas, where traditional therapies and detoxification treatments promise to restore balance and vitality. For those yearning for deeper spiritual exploration, the Vipassana International Academy offers transformative courses in Vipassana meditation. Situated in the tranquil outskirts of Nashik, this reputed academy beckons visitors from around the globe to embark on an inward journey of self-discovery and inner peace. With courses available in both English and Hindi, participants are guided through the ancient Indian technique of self-observation and self-purification, unlocking the potential for profound personal transformation. From tranquil yoga and meditation classes to invigorating nature walks amidst lush hills and forests, Nashik offers a myriad of holistic wellness options. With the healing energy of its tranquil landscapes, Nashik invites you on a journey of self-care and renewal.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kalaram temple boasts a remarkable gold-plated peak that weighs a staggering 32 tons and stands tall at 70 feet.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Anjaneri is steeped in local lore, with the cave atop the main hill believed to be the birthplace of Lord Hanuman, according to legend.",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide: Many a delight hidden in Nashik’s tastes",
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Nashik",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/nashik",
+        "retrieved_at": "2026-09-22T18:36:38.263065+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

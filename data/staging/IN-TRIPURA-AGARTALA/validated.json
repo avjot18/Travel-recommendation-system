@@ -1,0 +1,340 @@
+{
+  "destination_id": "IN-TRIPURA-AGARTALA",
+  "destination_name": "Agartala",
+  "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Agartala Railway Station (AGTL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 6.8,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.3,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 36.3
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 9.0,
+        "maximum_celsius": 30.2
+      },
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maharaja Bir Bikram Airport (IXA), Agartala",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surrounded by lush green hills and verdant landscapes, Agartala is a nature lover's paradise. The city's serene lakes, such as Dumboor Lake and Amarpur Lake, offer tranquil retreats for those seeking solace amidst nature's embrace. The nearby Sepahijala Wildlife Sanctuary beckons adventure enthusiasts with its diverse flora and fauna.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agartala boasts a rich historical heritage that dates back centuries, with influences from various dynasties and cultures shaping its identity over time. The city served as the capital of the princely state of Tripura under the rule of the Manikya dynasty, which flourished from the 15th to the 20th century. The Tripura Sundari Temple , dedicated to the goddess Tripura Sundari, is a prominent landmark in Agartala and a testament to the city's religious and cultural significance. The Ujjayanta Palace , built by Maharaja Radha Kishore Manikya in the 19th century, is another architectural gem that reflects the opulence and grandeur of Tripura's royal legacy. The Neermahal , or Water Palace, located on the banks of the Rudrasagar Lake, is a popular tourist attraction that epitomizes Agartala's natural splendor and architectural heritage. The Sepahijala Wildlife Sanctuary, situated on the outskirts of the city, is home to a diverse array of flora and fauna, making it a haven for nature lovers and wildlife enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agartala is home to a diverse array of ethnic communities, each contributing to the city's vibrant cultural tapestry with their unique customs, traditions, and festivals. The indigenous tribes of Tripura, including the Tripuris, Reangs, and Jamatias, celebrate their heritage through colorful folk dances, music, and handicrafts. The annual Kharchi Puja, celebrated at the Chaturdasha Devata Temple, is one of Agartala's most important festivals, attracting devotees from across the region. The city's cosmopolitan character is further enriched by the presence of people from Bengal, Bihar, and Manipur, who add to its cultural diversity with their own traditions and cuisines.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agartala is blessed with abundant natural beauty, with lush greenery, rolling hills, and serene lakes dotting its landscape. The city's proximity to the Bangladesh border offers stunning views of the lush plains of the neighboring country, while its tranquil surroundings provide an ideal escape from the hustle and bustle of urban life.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In recent years, Agartala has emerged as a key economic center in the Northeast Frontier, fueled by growth in sectors such as tourism, agriculture, and information technology. The city's strategic location as a gateway to the Northeast region has led to increased investment and infrastructure development, with initiatives such as the Agartala Smart City project aimed at enhancing urban amenities and connectivity. The establishment of special economic zones and industrial parks has spurred economic activity and job creation, contributing to Agartala's status as a dynamic economic powerhouse in the Northeast.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agartala is experiencing a cultural renaissance, with a burgeoning arts and entertainment scene that celebrates the city's rich heritage and contemporary creativity. The Tripura State Museum, located in the Ujjayanta Palace complex, showcases the art, history, and culture of the region through its extensive collection of artifacts and exhibits. The annual Agartala Book Fair, held at the Agartala International Convention Center, attracts renowned authors, scholars, and bibliophiles from across the country, fostering a culture of literary exchange and intellectual discourse. The city's vibrant music and theater scene, exemplified by events such as the Agartala Theatre Festival and North East Festival, showcases the talents of local artists and performers while promoting cultural exchange and dialogue.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agartala stands as a shining beacon of cultural diversity, economic growth, and natural beauty in the Northeast Frontier of India. From its rich historical heritage to its vibrant arts and entertainment scene, Agartala offers visitors a myriad of experiences that capture the essence of the region's unique identity. As the city continues to evolve and embrace change, its timeless charm and enduring spirit will continue to inspire generations to come.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ujjayanta Palace built by Maharaja Radha Kishore Manikya is now the state legislative assembly and houses a museum that showcases the history and culture of Tripura.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Neermahal is one of the only two water palaces in India.",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling Agartala's shopping extravaganza",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring heritage and religious gems of Agartala",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Agartala- A Cultural Kaleidoscope For Wedding",
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Agartala",
+        "source_url": "https://www.incredibleindia.gov.in/en/tripura/agartala",
+        "retrieved_at": "2026-09-22T18:36:47.063506+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

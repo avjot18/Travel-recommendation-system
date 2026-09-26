@@ -1,0 +1,185 @@
+{
+  "destination_id": "IN-NAGALAND-DIMAPUR",
+  "destination_name": "Dimapur",
+  "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dimapur Airport (DMU), Dimapur Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati"
+      },
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dimapur Railway Station (DMV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lokpriya Gopinath Bordoloi International Airport (GAU), Guwahati",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is called the Gateway to Nagaland. A quaint city nestled in the plains of the Dhansiri River in the Northeast of India, Dimapur is a perfect blend of ancient history, rich culture and vibrant modern life. Whether you are a history buff, an adventure seeker or a culture explorer, Dimapur offers a unique mix of experiences for all travellers.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This bustling town was founded by the Kachari rulers, a Tibeto-Burmese people who were displaced from their territories in Assam in the 13th century by the invading Ahoms. Some of the ruins of their old capital can be seen in the heart of the town. Most notable are 30 carved megaliths, believed to be fertility symbols. About 5 kms from the city centre, on the road to Kohima, is the Ruzaphema Bazaar which displays a fascinating range of tribal handicrafts.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The heart of Dimapur's historical significance is the Kachari Ruins , remnants of the 10th-century Kachari civilisation. These ruins are remnants of the ancient Kachari kingdom, which thrived before the 13th century until its fall at the hands of the Ahom invaders in the 19th century. The site is most famous for its mysterious megalithic structures, which include pillars, mushroom-shaped domed structures believed to be the chess pieces of giants, and other monuments that reflect the rituals and architectural prowess of the Kachari people. These ruins, characterised by their mushroom-domed pillars, are believed to have been associated with rituals of fertility. Walking through these ruins, visitors are transported back to an era that predates much of modern history, offering a glimpse into the ancient practices and architectural styles of the region. Exploring the Kachari Ruins provides a unique glimpse into the past. To enhance your experience, consider visiting early in the day or late in the afternoon to avoid the heat and to catch the best light for photography. Bring water and wear comfortable shoes as you would be walking amongst the ruins. Detailed information or a guidebook on the history of the Kachari kingdom can greatly enrich your visit, offering insights into the significance of each structure and the stories behind them. Lastly, respect the site by avoiding climbing on the fragile structures and taking nothing but photos. This way, you help preserve the ruins for future generations to explore and learn from.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the bustling markets of Dimapur to find intricately woven shawls, bamboo products, tribal jewellery, and unique souvenirs that reflect Nagaland’s rich cultural heritage. sis and immerse yourself in nature’s embrace. Handicraft shopping here is a must-do activity, with the local markets bustling with the craftsmanship of the Naga people. These markets are a treasure trove of traditional Naga exquisite handmade jewelry. Purchasing these items not only provides a tangible memory of the trip but also supports the local artisan community. One of the most prominent markets in Dimapur is the Hong Kong Market, a melting pot of local and imported goods ranging from traditional Naga garments, and handicrafts, to everyday items and electronics, making it a favorite among locals and tourists alike. Another notable market is the New Market, famed for its extensive array of fresh produce and exquisite local delicacies.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For nature lovers, the Triple Falls, situated in the Seithekima village, presents an awe-inspiring spectacle. The waterfall cascades from a height of about 280 feet into three separate streams, creating a breathtaking view amidst the lush greenery. This spot is perfect for picnickers and those seeking a serene escape into nature. The Rangapahar Reserve forest, another jewel in Dimapur's crown, is home to a diverse range of flora and fauna, including some endangered species. This conservation area offers a peaceful retreat for bird watchers and wildlife enthusiasts, keen to spot rare plants and animals in their natural habitat.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culinary scene in Dimapur is a delightful fusion of traditional Naga cuisine and influences from other parts of India like Assamese and Bengali flavours, and Southeast Asia. Local delicacies, often made with bamboo shoots, fermented fish, and smoked meat, provide a flavorful adventure for the palate. The city's restaurants and street food stalls are the perfect places to savor these dishes. Traditional dishes, heavily featuring smoked meat, bamboo shoots, and the infamous Bhut Jolokia (ghost pepper) are popular. For those interested in religious and cultural sites, the Dimapur Ao Baptist Church is an important landmark. It stands as a testament to the spread of Christianity in the region and is a place of peace and spiritual gathering for locals and visitors alike.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In terms of festivals, the city comes alive during the Hornbill Festival, celebrated annually from December 1 to December 10. Although it's a state-wide festival, Dimapur plays a significant role in hosting various events and activities. The Hornbill Festival is a grandiose celebration of the diverse indigenous cultures of Nagaland, featuring traditional Naga music, dance, art, and sumptuous culinary delights. It's a time when the local markets are bustling with activity, offering a plethora of Naga crafts, textiles, and ornaments. Another significant festival celebrated in Dimapur is the Tuluni Festival, predominantly celebrated by the Sumi Naga tribe in July, which marks a time of thanksgiving and community feasting. It's an occasion where the local markets brim with seasonal produce and traditional foods, providing a glimpse into the agricultural abundance and culinary traditions of the region. Reaching Dimapur is relatively straightforward, with the city being well-connected by air, rail, and road. Dimapur Airport links the city to major Indian cities, while the railway station is a crucial hub in Nagaland's transport network. The roads leading into Dimapur offer stunning views of the surrounding hills and countryside, making the journey as memorable as the destination itself. Dimapur, with its lush landscapes and tranquil waterfalls, truly offers a serene escape. The best time to visit Dimapur is during the cooler months from October to March. During this period, the weather is pleasantly mild, usually ranging between 15°C and 25°C, making it an ideal time for tourists to explore the rich cultural heritage and scenic beauty of Dimapur. This season also marks the time when the famous Hornbill Festival takes place in early December, drawing visitors from around the world to witness the vibrant display of Naga culture, traditional arts, dances, and cuisine. The cool and comfortable climate not only enhances the experience of outdoor activities such as sightseeing, trekking in the nearby hills, and visiting the historical sites, but it also makes it easier for travelers to participate in local festivals and interact with the community, offering a deep insight into the life of the Naga tribes.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Kachari Ruins are mysterious mushroom-domed pillars built by the Dimasa Kachari Kingdoms before the Ahom invasion in the 13th century.",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dimapur, Nagaland - Travel and Food Guide",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering treasures in Dimapur, the heart of Nagaland",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A cultural sojourn awaits you in Dimapur",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dimapur, a city that knows how to have fun",
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dimapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/nagaland/dimapur",
+        "retrieved_at": "2026-09-22T18:36:39.677867+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

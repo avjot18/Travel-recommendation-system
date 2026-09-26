@@ -1,0 +1,382 @@
+{
+  "destination_id": "IN-WEST-BENGAL-HOWRAH",
+  "destination_name": "Howrah",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Netaji Subhash Chandra Bose Airport (CCU), Kolkata"
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Howrah Railway Station (HWH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Netaji Subhash Chandra Bose Airport (CCU), Kolkata",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Howrah, the twin city of Kolkata has a charm and character all its own. Nestled on the western banks of the Hooghly River, Howrah is a melting pot of cultures, traditions, and amazing architectural wonders. Historically, Howrah has played a significant role in the growth and development of Bengal. It was a major trading hub during the British Raj, and the iconic Howrah Bridge , a marvel of engineering, was built in 1943 to facilitate the movement of people and goods across the river. Today, the bridge is an iconic known world over. If you're a history buff, Howrah is home to several fascinating attractions that offer a glimpse into the past. The Belur Math, the headquarters of the Ramakrishna Math and Ramakrishna Mission, is a must-visit. This peaceful complex, established by Swami Vivekananda, is a spiritual haven that attracts devotees and tourists alike. A beautiful locale, this spiritual center is located on the banks of the Hooghly River. It features beautiful temples, gardens, and a museum dedicated to Swami Vivekananda.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For those seeking a deeper cultural experience, the Ananda Palit Bari, a magnificent 19th-century mansion, is a true gem. This 19th-century heritage mansion is a fine example of Bengali architecture and craftsmanship. The intricately carved wooden panels and terracotta work are stunning. This beautifully preserved heritage site showcases the grandeur of Bengal's rich architectural legacy and is a testament to the region's artistic prowess.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you're an art enthusiast, the Howrah Art Gallery is a hidden treasure that houses an impressive collection of contemporary and traditional art. Established in 2003, this gallery showcases a diverse collection of contemporary and traditional art, including paintings, sculptures, and installations. One is guaranteed to lose oneself in the vibrant colors and intricate details of the paintings, sculptures, and installations on display.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Howrah has its share of unusual offbeat experiences too. Taking a cruise on the Hooghly River is a great way to experience the city of Howrah and its surroundings from a different perspective while enjoying the scenic beauty and historical significance of the region. If you enjoy water bodies, don’t miss exploring Bally Khal, Howrah’s historic canal system that was once used for transportation and trade. It a popular spot for leisurely walks and photography.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The famed Howrah Flower Market is a sensory feast especially early morning as the fresh blooms make their way in to create a vibrant and colorful market. Located conveniently near the Howrah Station, it is an unusual experience of the local culture.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Rail Museum at Howrah is also a crowd puller. It displays an astounding collection of well-preserved rare steam engines, electric locomotives, tracks and signals that showcase the evolution of the railways in India.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For the spiritually inclined Howrah has its share of iconic ancient temples that not only have religious significance but also showcase the rich cultural heritage and architectural marvels of Howrah.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Anandamath Mandir also known as the Ananda Akhara Mandir, is associated with the revolutionary Anushilan Samiti movement during the Indian independence struggle. The temple is dedicated to Sri Ramakrishna Vivekananda and features intricate architecture with Bengali terracotta work. Another notable temple is the Baidyanath Jyotirlinga Temple. It is one of the most revered Shiva temples in West Bengal. The temple's main attraction is the Shivalinga, which is said to be formed naturally from a meteorite and is believed to be one of the 12 Jyotirlinga shrines in India. The Batanagar Mandir is also dedicated to Lord Shiva and features several shrines, including the main Shiva temple, a Radha-Krishna temple, and a Durga temple. A must visit is the Dakshineswar Kali Temple on the banks of the Hooghly River. It is just a short distance away from Howrah and a popular pilgrimage site.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But Howrah isn't just about history and culture; it's also a foodie's paradise. Indulge in the mouthwatering delicacies that line the streets, from the famous Howrah Bridge Rolls to the irresistible sweet treats like Rossogolla and Sandesh. Just be prepared to loosen your belt a notch or two!",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And if you're up for a little adventure, venture out to the nearby Sundarbans National Park, a UNESCO World Heritage Site and one of the largest mangrove forests in the world. This unique ecosystem is home to the elusive Royal Bengal Tiger, along with a diverse array of flora and fauna that will leave you in awe of nature's wonders.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, whether you're a history buff, an art connoisseur, a foodie, or an adventure seeker, Howrah has something to offer everyone. Embrace the chaos, soak in the vibrant atmosphere, and let this iconic city captivate you with its charm and authenticity.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Howrah does not have its own airport. The nearest airport is Netaji Subhash Chandra Bose International Airport in Kolkata, which is approximately 20 km away from Howrah. After arriving at the Kolkata airport, you can take one of the iconic yellow ambassador taxis to reach Howrah. You can also take the metro from the airport to the Maidan station, and then change to the Circular Railway line to reach Howrah Station.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Howrah is well-connected by rail to various parts of the country. The main railway station in Howrah is Howrah Junction, which is one of the busiest and largest railway stations in India. You can take a direct train to Howrah Junction from major cities like Delhi, Mumbai, Chennai, and others.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Howrah is well-connected by road to other parts of West Bengal and neighboring states. It is well connected to Kolkata by the Howrah Bridge and the travel time is around 30 minutes to 1 hour, depending on traffic conditions. Howrah is also extremely accessible from cities like Bhubaneswar, Ranchi, Siliguri by National Highways.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The iconic Howrah Bridge connects Howrah with Kolkata.",
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Howrah",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/howrah",
+        "retrieved_at": "2026-09-22T18:36:51.290203+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

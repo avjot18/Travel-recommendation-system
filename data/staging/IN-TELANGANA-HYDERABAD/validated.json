@@ -1,0 +1,349 @@
+{
+  "destination_id": "IN-TELANGANA-HYDERABAD",
+  "destination_name": "Hyderabad",
+  "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Hyderabad Deccan Railway Station (HYB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 11.5,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 14.6,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.1,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 41.2
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 42.8
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.2,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.3,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad, Rajiv Gandhi International Airport (HYD)",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad is the powerful capital of the youngest state of India, Telangana, and is among the most sought-after travel destinations in the country. There is so much to see and do in this remarkable city that you cannot probably expect to cover everything awesome in just one trip. It is one of the most important metropolitan cities in India. Hyderabadi lifestyle and Hyderabadi language are quite famous and it’s a flourishing hub for movies and movie stars who are considered no less than attractions of the city! Hyderabad today is a technology and business hub with multinational companies having their India headquarters. Hyderabad is the home to hi tech city, convention center, state of the art modern buildings, business offices and is also called as Hi-tech city of India. Dotted with beautiful lakes and parks, Hyderabad, along with its twin city Secunderabad are a must visit for food & culture lovers.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad became the capital of the Nizams, originally appointed as viceroys of the Deccan by the Mughal emperor. The Nizams governed for over two centuries, shaping the city's cultural identity and architectural landscape. Hyderabad's status became a point of contention after India's independence in 1947, with the last Nizam, Mir Osman Ali Khan, aiming to preserve its autonomy. However, in 1948, Hyderabad was assimilated into the Indian Union. Throughout its history, Hyderabad has evolved as a distinctive blend of indigenous traditions, Islamic heritage, and colonial legacies, rendering it a unique and dynamic city in India.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culture of Hyderabad, also known as Hyderabadi Tehzeeb or Dakhini Tehzeeb, is the traditional cultural lifestyle of the Hyderabadi Muslims and characterises distinct linguistic and cultural traditions of North and South India, which meet and mingle in the city and erstwhile kingdom. Culturally, Hyderabad is known for its rich cultural tapestry, which is shaped by the intermingling of Hindu, Muslim, and Telugu traditions. Festivals such as Eid, Diwali, Ugadi, and Bonalu are celebrated with great enthusiasm, reflecting the city's diverse population. Also known as the ‘City of Pearls’, Hyderabad Pearl business is booming and is popular all around the world. Chandanpet near Hyderabad is a hub for pearl businesses. The almost entire population of Chandanpet is engaged in the delicate art of drilling pearls. This makes Hyderabad, the City of Pearls a globally popular-only pearl business hub.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There are so many places and monuments to visit in Hyderabad that it is impossible for anyone to soak in the tourist charms which the city has to offer in a limited time span. In the splendid attractions, Charminar tops the list which is an iconic landmark of Hyderabad and located in the Old City. This world famous monument is known for its intricate architecture. The building also houses the oldest (400 years old) mosque of Hyderabad which is on its top floor. The beautiful bustling bazaar near Charminar is an extremely popular and thriving market known as Laad Bazaar or Choodi (Bangles) Bazaar. As the word suggests, the market is most famous for colourful bangles. The market is best explored on foot. Ladies can be seen stuffing their shopping bags with colourful bangles, jewellery pieces, precious stones, pearls, Kalamkari paintings and velvet and handwoven fabrics. The market is at its loveliest and busiest during Ramadan when the shops are glittering and all decked up. Golconda Fort is another major draw for visitors. It is considered by many to be one of the most magnificent fortress complexes in India. A Light and Sound show is held in the evenings where the glorious past of Golconda Fort is narrated, with Golconda depicted as full of life, glory, and grandeur. Another must-visit place is the Salar Jung Museum , which is one of the most prominent national museums in India and houses the largest one-man collection of antiques in the world. Falaknuma Palace , now a beautiful heritage hotel, is not to be missed either. The other major attractions include Husain sagar lake. The lake connects the twin cities of Hyderabad and Secunderabad. Considered to be the largest man made Lake in Asia, it was excavated in 1562 AD during the reign of Ibrahim kuli Qutub Shah. A monolithic Buddha statue which is 16 m tall and weighs about 350 ton was installed in the middle of the Hussain Sagar Lake. Made of white granite it looks brilliant at the time of sunset. The lighted road around the lake, looks like a necklace in the evenings, thereby earning it the epithet, \"Queen's necklace\". Travellers are sure in for a visual and sensory treat when taking a stroll around the lake. The area is bustling with activity in the evenings and travelers can spend hours here. Lined - up cruises take tourists for a ride around the lake. Troops of young dancers keep the audience enthralled by their dance performances on the cruise. The area around the lake is full of street food stalls and tourists queue up to experience the Hyderabadi cuisines. Many other prominent tourist spots like the enchanting Birla Mandir , Snow world, NTR gardens and Planetarium are also located near the Hussain Sagar Lake. Chowmahalla Palace, Mecca Masjid and Nehru Zoological Park are some other places thronged by the tourists.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad serves as the hub for the Telugu Cinema Industry, often referred to as Tollywood. Both Telugu and Hyderabadi language films contribute significantly to the revenue of the local film sector. Tollywood cinema has international appeal not just in India , but with an international audience. It has even brought home the prestigious Oscar for best original song – “ Natu Natu” Ramoji Film City, spread across thousands of acres near Hyderabad, is a prominent tourist destination and a major center for the production of Telugu, Hindi, and other language films. It offers visitors insights into the filmmaking process and features entertainment parks, making it a popular attraction for tourists.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabadi cuisine is a princely legacy of the Nizams of Hyderabad, India who developed their own cuisine over the centuries and was heavily influenced by Turkish, Arabic, Mughlai styles of cooking with the considerable influence of the spices and herbs of the native Telugu and Marathwada cuisine .The famous Hyderabadi Biryani & Double ka meetha – (a sweet bread pudding), Khubani ka meetha(apricot pudding) are not to be missed on your plate. Hyderabadi Haleem Khorma, Shorba, Mirchi Ka Saalan along with the local telugu fare of Pesarattus & Dosa’s and chutneys will make your mouth water. In summary, Hyderabad stands as a living testament to Nizam's rich history, culture, and heritage. From its majestic forts and ancient monuments to its vibrant festivals and natural landscapes, this city offers an enriching experience for travellers eager to immerse themselves in a blend of Deccan heritage.",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hyderabad is famous for its “Midnight Biryani” .",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best local foods in Hyderabad and where to find them",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Of Divine Discovery In Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unleash your adventurous spirit in Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hills Weekend Getaways From Hyderabad You",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best places to shop in Hyderabad for every budget",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on an extravagant culinary journey in Hyderabad",
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Hyderabad",
+        "source_url": "https://www.incredibleindia.gov.in/en/telangana/hyderabad",
+        "retrieved_at": "2026-09-22T18:36:46.488313+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

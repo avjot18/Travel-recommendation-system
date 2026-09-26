@@ -1,0 +1,292 @@
+{
+  "destination_id": "IN-MAHARASHTRA-PUNE",
+  "destination_name": "Pune",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Pune Airport (PNQ), Pune"
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Pune Junction Railway Station (PUNE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 8.2,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.1,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 41.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 38.0
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.3,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.8,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of Maharashtra, where the Deccan Plateau meets the Western Ghats, lies a city—a unique blend of pastel hues and bustling streets. Welcome to Pune, where time dances between ancient forts and glass-and-steel towers. It is a poetic compass through its vibrant tapestry, inviting you to unravel its intriguing blend of history and modernity. Nestled in the Western Ghats of Maharashtra, India, Pune is a city where history and modernity coalesce seamlessly, offering travelers an enriching, multifaceted experience. Dubbed the \"Oxford of the East\" due to its myriad esteemed educational institutions, Pune is a vibrant metropolis brimming with culture, tradition, and innovation. The city's history of Maratha pride and valour, with the impressive Sinhagad Fort standing as a testament to Pune's historical significance, offers a glimpse into its glorious past. This ancient fortress, perched atop a hill, offers panoramic views of the surrounding landscape, making it a must-visit for history enthusiasts and nature lovers alike. The climb to the fort is both an adventure and a journey back in time, as one imagines the epic battles and strategic discussions within its walls. Pune is also home to the Aga Khan Palace , a monument of national importance due to its role in the Indian freedom struggle. The palace's graceful architecture and beautifully maintained gardens provide a tranquil retreat from the city's hustle and bustle. The palace's historical significance, having served as a prison for Mahatma Gandhi and his wife, Kasturba Gandhi, during the Quit India Movement, adds a layer of solemnity to the visit.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The heart of Pune's cultural richness beats strongest in its bustling markets and at the Pataleshwar Cave Temple—a marvel of rock-cut architecture dedicated to Lord Shiva. This temple, carved out of a single rock, is a serene sanctuary, and its complex craftsmanship speaks volumes of the artistic heritage that Pune has preserved over centuries. Immerse yourself in this rich cultural tapestry and feel inspired by Pune's heritage. Pune also thrives as a hub for classical music, dance, and theater, with numerous festivals and performances showcasing India's diverse cultural landscape. The Sawai Gandharva Bhimsen Festival, held annually, attracts classical music aficionados from across the globe, offering a splendid exposure to Indian classical music traditions. Pune buzzes with festivals throughout the year. The Ganesh Festival, celebrated grandly in August or September, transforms the city with elaborate public displays of devotion, processions, and cultural performances. Another highlight is the Pune International Film Festival, which attracts cinema enthusiasts every January. Additionally, based on the teachings of the spiritual leader Osho, the Osho Festival draws visitors from around the globe in December, offering a blend of meditation, music, and dance.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pune’s streets are a buffet—spicy, sweet, and always surprising. Start with a vada pav—a potato fritter sandwich that tastes like rebellion. Then, wander to Vaishali, where the Irani chai flows like nostalgia. And don’t miss the Misal Pav—a fiery concoction that sets your taste buds dancing. Head to German Bakery for dinner—its wooden tables worn by conversations. Order a wood-fired pizza and let the candlelight flicker on your wine glass. Pune’s food scene is a symphony—each bite is a note in the chorus of flavours. Culinary explorers in Pune are always in for a treat, with the city's streets lined with eateries serving delectable local cuisine. Savouries like Pithla Bhakri and street foods like Sev Puri and Bhel Puri offer a taste of Maharashtrian spice and flavour. Sweet-toothed visitors will delight in traditional desserts like Shrikhand and Puran Poli. From the iconic Kayani Bakery, known for its Shrewsbury biscuits and mawa cakes, to the spicy and flavourful street food of Vohuman Café, which serves irresistible cheese omelettes and bun maska, there's something for everyone. German Bakery, another popular haunt, offers a variety of pastries, sandwiches, and savouries. Some places serve sumptuous thalis for those looking for traditional Maharashtrian cuisine, which will satisfy them. The shopping experience in Pune is as diverse as the city itself, ranging from traditional bazaars to modern malls. For an authentic local shopping experience, head to Laxmi Road and Tulsi Baug, where you can find a variety of sarees, jewellery, and handicrafts. Those looking for more contemporary shopping can visit the upscale malls. Pune also boasts unique boutique shops in areas like Koregaon Park and Camp, offering everything from traditional to avant-garde fashion and home decor, making shopping a delightful experience for all.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city's proximity to hill stations like Lonavala and the verdant expanse of Lavasa make Pune an ideal starting point for weekend getaways, offering respite to those seeking solace in nature. These scenic escapes provide a refreshing break from the urban environment, with ample opportunities for trekking, camping, and experiencing the Western Ghats' biodiversity. Pune and its surroundings are a paradise for trek enthusiasts with its diverse range of trekking spots catering to all levels of trekkers. The Sahyadri range offers magnificent treks, such as the Rajmachi Fort Trek, which provides breathtaking views of the surrounding valleys and forests. The Sinhagad Fort Trek is another popular choice, offering historical insights and scenic beauty. For those seeking a bit more adventure, the trek to the cave of Harishchandragad presents a challenging but rewarding experience, showcasing the best natural landscapes and ancient fort ruins.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Pune isn’t just a city; it’s a classroom—an open book waiting to be read. Students flock here, their backpacks heavy with dreams. The University of Pune's sprawling campus is a sanctuary of knowledge. Imagine sitting under ancient banyan trees, your thoughts dancing with the rustle of leaves at the Fergusson College— Gothic spires are seeking enlightenment. Here, debates crackle like monsoon thunder, and poets find solace in quiet corners. Pune’s streets are lined with chai stalls, where philosophy is brewed alongside ginger tea. Seekers arrive—a rainbow tribe—in search of inner peace. The Osho International Meditation Resort beckons. Imagine white robes and mala beads, laughter, and silence. The ashram is a lotus that blooms in the midst of chaos. You’ll meditate, dance, and maybe—maybe—find answers. Pune's educational institutions give it a youthful vigour and foster a spirit of innovation and entrepreneurship. This intellectual atmosphere, combined with the city's cultural heritage, natural beauty, and historical significance, makes Pune a travel destination that educates, inspires, and delights. From the echoes of its proud Maratha history to the lively buzz of its educational campuses, Pune encapsulates the essence of a journey through time, where every turn tells a story and every vista inspires awe. To reach Pune, one has the options of air, rail, and road transport. The Pune International Airport connects the city with other major cities in India and a few international destinations. If you’re traveling by train, Pune is well-connected with a widespread railway network across India. Road travellers can enjoy a scenic drive on the Mumbai-Pune Expressway or the National Highway 4, making it easily accessible from neighbouring cities.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amid the hustle and bustle, Pune offers lush green spaces. Parks like Saras Baug and Empress Garden provide serene escapes. Other than that, the city has numerous attractions, making it a perfect weekend getaway. The serene Pavana Lake, nestled a few hours away, is ideal for camping and water sports. For history enthusiasts, the ancient forts of Lohagad and Visapur present an exciting exploration opportunity. The picturesque hill stations of Lonavala and Khandala, with their misty hills and green valleys, offer a refreshing retreat from the city's hustle. Plus, the verdant beauty of Lavasa, India's first planned hill city, provides a unique mix of modern architecture and natural beauty, making it a must-visit. The best time to visit Pune is between October and February when the weather is pleasantly cool and perfect for exploring the city's numerous attractions. This is an ideal climate for tourists to discover Pune’s historical sites, green parks, and vibrant streets. The period to avoid is from June to September due to the heavy monsoon rains and the scorching summers from March to May. Pune is a blend of chai and chaos, of rickshaws and ragas. Let its streets lead you, its stories embrace you. And when you leave, you’ll carry a piece of Pune—a sun-kissed memory—in your pocket.",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 10 things to do in Pune during your visit to the beautiful city",
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Pune",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/pune",
+        "retrieved_at": "2026-09-22T18:36:38.396703+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

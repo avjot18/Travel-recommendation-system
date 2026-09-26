@@ -1,0 +1,503 @@
+{
+  "destination_id": "IN-ASSAM-TINSUKIA",
+  "destination_name": "Tinsukia",
+  "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Dibrugarh Airport (DIB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "New Tinsukia Junction (NTSK) Tinsukia Junction (TSK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located in the far eastern corner of Assam, where the mighty Brahmaputra curves gracefully and endless tea gardens blanket the land in emerald hues, Tinsukia is a destination where nature, culture, and history come together effortlessly. Often referred to as the Industrial Hub of Assam, Tinsukia transcends its commercial identity to reveal a region rich in biodiversity, heritage, spirituality, and authentic Assamese experiences. For travelers seeking unspoiled landscapes and meaningful journeys, Tinsukia is not just a place to visit; it is a place to feel.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The pride of Tinsukia, Dibru-Saikhowa National Park , is one of India’s most unique biodiversity hotspots. Spread across floodplains, wetlands, and grasslands, the park is home to rare species such as the white-winged wood duck, feral horses, river dolphins, and hundreds of bird species. Jeep and boat safaris allow visitors to explore its raw, untamed beauty, while trekking trails offer close encounters with pristine nature. With over 350 bird species, it is a paradise for birdwatchers and wildlife photographers.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located near Dibru-Saikhowa National Park, Maguri Beel is a tranquil wetland renowned for migratory birds and aquatic biodiversity. Hosting over 110 bird species including rare ones like the Ferruginous Duck, Swamp Grass Babbler and Black-breasted Parrotbill, this wetland is a perfect destination for visitors to enjoy boat safaris, bird photography and nature walks.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tinsukia lies at the heart of Assam’s world-famous tea country, where vast plantations stretch endlessly across the district, offering visitors an immersive journey into the rich legacy of Assam tea. Renowned estates such as Roseberry Tea Estate (formerly Daimukhia) showcase modern tea production techniques, while Hilika Tea Estate stands out for its colonial-era heritage bungalows that echo the charm of a bygone era.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Doom Dooma region, a major hub of large tea estates operated by leading companies, further highlights Tinsukia’s importance in India’s tea industry. Visitors can wander along scenic tea trails, observe the art of tea processing, enjoy guided tasting sessions, and even stay in heritage bungalows, where misty mornings, sunlit verandas, and the tranquil rhythm of plantation life create an unforgettable experience.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of Assam’s most revered spiritual sites, Tilinga Mandir is renowned for the thousands of bells tied by devotees as offerings while seeking the fulfillment of their wishes. The sight of countless bells and the constant chime they create lend the temple a deeply spiritual and visually captivating atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Complementing this sacred experience is the Dibong Buddhist Temple , nestled amidst a serene natural setting rich in lush flora. The monastery serves as a center for peace, learning, and spiritual reflection, housing a Buddhist study center where highly learned monks impart valuable teachings to students and visitors alike. Its calm ambience, disciplined way of life, and even the simple yet delicious food offered at the monastery leave visitors feeling enriched and spiritually uplifted.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tinsukia’s cultural roots trace back to the Ahom dynasty , with significant historical sites such as the Charaideo Maidams nearby, often referred to as the “Pyramids of Assam.” The district’s villages, monuments, and living traditions reflect a heritage shaped by centuries of history, resilience, and a deep harmony with nature.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Surrounded by hills, forests, tea gardens, and the flowing Dihing River, Margherita , popularly known as the Coal Queen of Assam, is a charming sub-district town celebrated for its coal heritage. Developed during the British era, the town was named after an Italian queen in honor of the Italian engineer Chevalier R. Paganini, who played a key role in railway construction in the region. Today, Margherita is home to major operations of Coal India Ltd. and features a golf course, hospitals, and educational institutions. As the last major town of Upper Assam, it also serves as an important base for travelers exploring the surrounding region.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Festivals bring Tinsukia to life, with Bihu being celebrated with unmatched enthusiasm. Folk dances, traditional music, colorful attire, and community feasts reflect the agricultural rhythm of Assamese life. Local fairs showcase crafts, cuisines, and performances, offering visitors a window into the district’s vibrant cultural soul.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tinsukia’s cuisine is simple, seasonal, and deeply flavourful, reflecting Assam’s close relationship with nature and tradition. A traditional Assamese meal typically features rice accompanied by fresh fish and locally grown greens, prepared with minimal spices to preserve natural flavours. Among the must-try dishes is Masor Tenga , a light and tangy fish curry flavored with elephant apple, which perfectly balances sourness and freshness. Festive delicacies such as pitha and laru , traditional rice cakes and sweets, add a touch of warmth and nostalgia to local celebrations. Street food lovers can relish steaming momos, spicy chaat, and the ever-popular Assam tea served in earthen cups, making every meal in Tinsukia a wholesome and memorable culinary experience.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A landmark of modern India, the Bhupen Hazarika Setu is the longest bridge in India over water, stretching 9.15 km across the Lohit River. Connecting Dhola in Tinsukia to Sadiya, the bridge is the first permanent road link between northern Assam and eastern Arunachal Pradesh. Beyond its engineering brilliance, it opens access to scenic landscapes, historical ruins like Pratimagarh and cultural sites in Sadiya.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to explore Tinsukia is October to April , when the weather is cool and pleasant. This season is perfect for outdoor activities, wildlife excursions, and cultural festivals. Monsoons (June to September) drape the region in lush greenery but bring heavy rains, so plan accordingly.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Dibrugarh Airport (DIB) is the nearest airport, located approximately 36 km from the district headquarters. The nearest international airport is Lokpriya Gopinath Bordoloi International Airport, Guwahati, about 501 km away.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: New Tinsukia Junction (NTSK) and Tinsukia Junction (TSK) are the principal railway stations serving the district.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Tinsukia district is well connected by road, with regular state transport services operating through its towns. National Highway 37 links the district to other parts of Assam.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Digboi Centenary and Oil Museum in Assam’s Tinsukia is known as the birthplace of Asia’s Oldest oil refinery",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Digboi War Cemetery contains the burial of Sergente A. Respanti, the only Italian casualty interred in a Commonwealth War Graves Commission cemetery in South Asia.",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on an idyllic adventure in Guwahati",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dibrugarh - A Gateway To The Seven Lakes",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore A Picturesque Destination Wedding At Dibrugarh",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "8 Hours in Guwahati - The pictures capture the candidness of this impromptu trip",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "11 Traditional Dishes Of Assam You Must Try In Guwahati",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Find nature’s beauty blooming in the heart of Guwahati",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the magic of Guwahati’s marketplaces",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Savour the culinary artistry of Guwahati’s cuisine",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover a vibrant Guwahati brimming with entertainment",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best wellness retreat centres in Guwahati",
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Tinsukia",
+        "source_url": "https://www.incredibleindia.gov.in/en/assam/tinsukia",
+        "retrieved_at": "2026-09-22T18:36:23.799526+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

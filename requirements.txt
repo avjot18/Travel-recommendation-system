@@ -5,6 +5,7 @@ langchain-ollama
 langchain-chroma
 langchain-huggingface
 langgraph
+beautifulsoup4
 
 chromadb
 sentence-transformers

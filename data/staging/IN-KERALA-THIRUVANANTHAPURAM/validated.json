@@ -1,0 +1,333 @@
+{
+  "destination_id": "IN-KERALA-THIRUVANANTHAPURAM",
+  "destination_name": "Thiruvananthapuram",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thivandrum International Airport (TRV), Thiruvananthapuram"
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Thiruvananthapuram Central Railway Station (TVC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.9,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 32.7
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 33.2
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thivandrum International Airport (TRV), Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram Central Railway Station (TVC)",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated along the sun-drenched shores of Kerala's southern coast, Thiruvananthapuram, the capital city, is a dynamic blend of history, culture, and natural beauty. From its ancient temples and colonial architecture to its pristine beaches and lush landscapes, Thiruvananthapuram is a captivating destination that offers travellers an enriching journey of discovery and inspiration. \"With a history dating back over a thousand years, Thiruvananthapuram is steeped in legend and lore. The city's name, which means \"City of Lord Anantha\" in Malayalam, is rooted in its ancient connections to the revered Sree Padmanabhaswamy Temple, dedicated to Lord Vishnu. This sacred temple, characterised by its splendid architecture and deep religious significance, stands as the spiritual core of the city, attracting pilgrims and devotees from near and far.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In recent years, Thiruvananthapuram has experienced a remarkable transformation, evolving into a vibrant centre of innovation, entrepreneurship and sustainability. With initiatives like Technopark, India's largest IT park and the exciting Trivandrum Smart City project on the horizon, the city is gearing up to make its mark as a global destination for cutting-edge technology, research and development. Despite this wave of modernisation, Thiruvananthapuram remains dedicated to preserving its rich cultural heritage and natural assets, striking a beautiful balance between progress and tradition.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram is a city where tradition and modernity converge to create a diverse and vibrant culture. The bustling markets, colourful festivals, and lively arts scene showcase the rich cultural heritage of Kerala. The city is also a melting pot of religious diversity, with temples, churches, mosques, and other places of worship coexisting harmoniously in the cityscape. The Padmanabhaswamy Temple, the Attukal Bhagavathy Temple, the Palayam Juma Masjid, and the St. Joseph's Cathedral are among the prominent religious landmarks that reflect the city's religious pluralism and cultural tolerance. In addition to its cultural richness, Thiruvananthapuram boasts an abundance of natural beauty. From the serene backwaters of Poovar and Vellayani to the lush greenery of Neyyar Wildlife Sanctuary and Peppara Wildlife Sanctuary, the city offers a haven for nature lovers and outdoor enthusiasts. Its beaches, like Kovalam Beach and Shanghumukham Beach, provide the perfect backdrop for relaxation and rejuvenation, while the scenic trails and hidden treasures of Ponmudi and Agasthyakoodam beckon adventurers to explore the emerald hills.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram offers a delectable culinary experience, with a variety of traditional Kerala dishes and flavoursome delicacies to tantalise the taste buds. The city's cuisine is known for its use of fresh seafood, aromatic spices, and coconut-based curries. Popular dishes include Kerala-style fish curry, appam with stew, puttu and kadala curry, and banana leaf meals. Thiruvananthapuram's bustling street food scene, with its array of snacks and sweets, is a must-try for food enthusiasts. As the sun sets over the shimmering waters of the Arabian Sea, casting its golden glow upon the ancient temples and modern skyscrapers of Thiruvananthapuram, one cannot help but be filled with a sense of awe and wonder. In this city, inspiration awaits at every turn, inviting you to explore, discover, and dream!",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sree Padmanabhaswamy Temple: The iconic Sree Padmanabhaswamy Temple, dedicated to Lord Vishnu, is one of the wealthiest temples in the world.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Technopark: Thiruvananthapuram is home to Technopark, one of India's largest information technology (IT) parks.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Agasthyakoodam: Thiruvananthapuram is the gateway to Agasthyakoodam, the second-highest peak in Kerala. It is considered a sacred mountain and is part of the Agasthyamalai Biosphere Reserve, known for its rich biodiversity and endemic species.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cultural Festivals: Thiruvananthapuram hosts several cultural festivals throughout the year, including the famous Onam festival, which celebrates the harvest season with colorful decorations, traditional dance performances, and boat races.",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Thiruvananthapuram",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thiruvananthapuram",
+        "retrieved_at": "2026-09-22T18:36:34.440185+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

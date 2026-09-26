@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-KARNATAKA-HAMPI",
+  "destination_name": "Hampi",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kempegowda International Airport (BLR), Bengaluru Jindal Vijayanagar Airport (VDY), Vidyanagar Hubballi Airport (HBX), Hubballi"
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Hospet Junction Railway Station (HPT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 31.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 24.0,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 17.0,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kempegowda International Airport (BLR), Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jindal Vijayanagar Airport (VDY), Vidyanagar",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Settled amidst an enchanting landscape, where ancient ruins whisper legends, and emerald fields dance to the melody of the Tungabhadra's gentle currents, lies a treasure trove of history known as Hampi. Derived from the word ‘Pampa’, an ancient name of the pristine Tungabhadra River, and the name of Goddess Parvati, Hampi unfolds like a chapter from the ancient epic Ramayana. Once hailed as Kishkinda, the fabled kingdom of monkeys, this land bore witness to the mythical encounters of Lord Ram and Lord Hanuman. Declared a UNESCO World Heritage Site, Hampi stands as a living testament to India's historical and architectural legacy. As the erstwhile capital of the Vijayanagara Empire, Hampi invites you to unravel its myriad wonders. From the revered Virupaksha Temple , where prayers of thousands ascend like incense to the heavens, to the iconic Stone Chariot in the Vitthala Temple Complex , Hampi reveals a panorama of marvels waiting to be explored. Embark on a journey of discovery as you traverse the labyrinthine corridors of ancient temples or explore hidden caves shrouded in mystery. Trek through rugged landscapes or surrender to the tranquillity of Coracle Crossings , where basket boats ferry travellers across gentle waters. Pause, and witness the sun’s artistry as dawn paints the sky in hues of gold and dusk bids farewell in a blaze of crimson. In Hampi, every moment is an ode to the divine, where myth and history converge to weave an unforgettable journey.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the enchanting world of Hampi, every rock tells tales of ages past. Wander through the city, and you can almost hear the echoes reverberating with the regal footsteps of emperors, the scholarly musings of sages, and the symphonies of creators. Gaze at the palaces whose spires once reached towards the heavens. You will be awe-struck by the divine splendour of Hampi’s majestic temples, whose intricate carvings tell of grand sagas of devotion and faith. Marvel at the mighty fortifications that bear witness to the indomitable spirit of a bygone empire. If you think this is fascinating, wait; Hampi is just getting started with you. In this fascinating cityscape, you will discover treasures like once-opulent baths that glistened like jewels, markets that bustled with life, royal elephant stables that speak of a time when majestic beasts were revered as much as kings, and so much more.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hampi’s magnificent architecture is like a vibrant tapestry woven with threads of legend. Crafted predominantly from the abundant local stone, these architectural marvels invite you to explore a dominant Dravidian style rooted in the rich heritage of Hindu arts and architecture. Prepare to be enchanted by the Queen's Bath and Elephant Stables , where architects melded elements of Indo-Islamic design, that UNESCO applauds as a reflection of a \"highly developed multi-religious and multi-ethnic society.” Behold the majestic Virupaksha Temple, a sacred shrine dedicated to the divine Lord Shiva, which stands as a timeless beacon of Vijayanagara artistry. Lose yourself in wonder as you explore the sprawling expanse of the Vitthala Temple Complex, where the iconic Stone Chariot stands sentinel, and is also home to the legendary musical pillars. It is said that even the British, drawn by the enchanting allure of these melodies, sought to unravel their mysteries. There are many more architectural gems that await. Traverse the sacred grounds of Lotus Mahal , Hazara Rama Temple , Achyutaraya Temple , and the cluster of temples nestled in the verdant embrace of Hemakuta Hill . Here, religion, politics, art, and architecture converge in a kaleidoscope of human endeavour, offering a glimpse into the evolution of civilization itself.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Venture near the Zenana enclosure , and you will find the place where the main mint of the mighty Vijayanagara Empire once thrived. Here, amidst the whispers of ancient coinage, every artifact, every relic, becomes a portal to a bygone era, inviting you to unravel the mysteries of a world long forgotten. Step into the hallowed halls of the Archaeological Museum, where time stands still, and marvel at the treasures that lay within. Behold the mesmerizing array of coins, each bearing the likeness of birds, beasts, and divine deities, which are a testament to the grandeur of the Vijayanagara Empire.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hampi awaits you with a promise of exploration and adventure, where every step leads to new marvels and every vista is a masterpiece of surreal magnificence. For rock climbers and nature enthusiasts alike, Hampi's boulders hold boundless adventures where you can lose yourself in the rugged embrace of nature. As the sun dips below the horizon, casting its golden glow upon the ancient stones, photographers will find themselves drawn by the enchanting allure of the sunset soaked scenery. The sky becomes a canvas of fiery hues, a breathtaking spectacle that captures the imagination and stirs the soul. On the tranquil waters of the Tungabhadra, colourful coracles can be seen gliding serenely, pulling you in with the rhythmic lull of the river's gentle currents. Many travellers can be seen simply basking in the peaceful ambiance of its shores, where time itself seems to stand still. In Hampi, history and myth converge in a timeless dance, enchanting the mind, body, and soul. So, heed the call, dear traveller, and embark on a journey most incredible, to Hampi.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The musical pillars of the Vitthala Temple Complex are known to sing with the harmonies of 81 different musical instruments.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hampi Bazar was a street market that served as a 'mall' for the Vijayanagar empire.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The shivlings inside Badavilinga Temple is carved out of a single block of black stone.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hampi is widely considered to be the 'World's Largest Open-air Museum'.",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through the sacred sites of Hampi",
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Hampi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/hampi",
+        "retrieved_at": "2026-09-22T18:36:31.634410+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

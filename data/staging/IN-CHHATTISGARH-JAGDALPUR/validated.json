@@ -1,0 +1,270 @@
+{
+  "destination_id": "IN-CHHATTISGARH-JAGDALPUR",
+  "destination_name": "Jagdalpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jagdalpur Railway Station (JDB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 7.1,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 10.0,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 14.2,
+        "maximum_celsius": 38.3
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 40.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.0,
+        "maximum_celsius": 41.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 39.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.4,
+        "maximum_celsius": 30.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maa Danteshwari Airport (JGB), Jagdalpur",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bastar region of Chhattisgarh lays claim to a jewel unlike any other. It is home to the beautiful and unique city of Jagdalpur. Endowed with picturesque natural beauty and the fascinating cultural traditions of its local tribal population, Jagdalpur is a perfect mosaic of attractions. As you wind your way through the abundantly green forests of Bastar, the untouched beauty of the region welcomes you to a city where nature, culture and spiritual mysticism harmoniously coexist. Natural caves, mesmerising waterfalls, national parks, majestic palaces, museums heritage sites and religious sites, Jagdalpur is blessed with it all. It is a city where mystique and legend add to the colour and vibrancy of the culture. Locals believe the legendary Dandakaranya forest mentioned in the Hindu epic Ramayana was part of the present-day Bastar region and that Lord Ram, Sita and Lakshman lived in this forest during their 14-year exile. The moment you arrive, Jagdalpur’s unique vibe becomes palpable. The hum of Ghotul songs set the vibe as the aroma of freshly pounded rice wafts through the market squares.",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jagdalpur, is the urban heart of the tribal Bastar region in Chhattisgarh and offers a fascinating window into India's indigenous cultures. Start your exploration at the acclaimed Anthropological Museum that artistically showcases the culture of the myriad indigenous tribes that have called these lands home for centuries. A walk through the museum's galleries gives you a peek into the vibrant cultural tapestry of tribal life. From the intricately beaded jewellery and dhanokacchus; the traditional skirts of the Maria tribes to the fascinating Ghotul courtship dances of the Murias - every photograph and artefact has story to tell. Don't miss the exquisite Dokra artworks on display and the mesmerising Bastar dances performed live here on Sundays. Jagdalpur's allure transcends just museums. The town's effervescent energy comes alive at the boisterous Mawai Bazaar - a weekly market where tribal folk converge from near and far. Shop for colourful handicrafts, herbal medicines and get immersed in the unique rituals, dances and fashion on display. Amidst stalls selling colourful Bastar handicrafts, herbal medicines and farm produce, you can witness unique rituals and fashion that have remained unchanged for centuries. Jagdalpur's forested environs are a huge attraction if you are a nature enthusiast. Explore the natural beauty of the Indravati National Park. Take a boat safari along the Indravati River to spot the elusive Indian bison and other wildlife in their natural habitat within this serene national park on the outskirts. Picnic at the majestic Chitrakote Falls and enjoy the natural beauty of the picturesque Indravati River. Venture into the primordial Kanger Valley National Park to explore some of India's oldest rock formations and the renowned Kutumsar Caves . These prehistoric caves are famous for their incredible stalactite and stalagmite formations created over millennia. As you navigate the narrow tunnels by torchlight, the eerie limestone structures seem to come alive, while little pools harbour unique frog and fish species. Kutumsar is also a revered spiritual site with a Shiva shrine tucked away at the caves' end, which devotees’ access through cramped passageways. The very journey to these caves is an adventure - following a winding trail of red gravel snaking through the forest, over gigantic termite mounds. Geological wonders, adventure, spiritual solace: Kutumsar offers it all. Your trip to Jagdalpur won’t be complete until you enjoy the vibrant cultural heritage of Chhattisgarh. Witness the traditional performances of Ghotul, Karma and other tribal dances and partake in the vibrant Bastar Dussehra or Jagdalpur Dussehra. Lasting for 75 days, it's one of the longest festivals and is celebrated with fervour. It dates back to the 13th century during King Purushottam Dev's reign. Unlike other Dussehra celebrations, it doesn't commemorate Lord Rama's victory over Ravana; instead, it honours the local deity, Goddess Danteshwari Devi. People from different tribal backgrounds don colourful traditional attire and fill the streets with energy, dance and folk music. The festival's highlight is a grand, beautifully adorned chariot pulled by up to 400 people.",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The nearest major airport is Visakhapatnam Airport which is around 320 km away. Fly to Visakhapatnam and then take a taxi or bus to travel to Jagdalpur by road, a journey which takes around 6-7 hours. Jagdalpur has a railway station that is well-connected to cities like Visakhapatnam, Raipur, Bhubaneswar and Mumbai by direct trains. You can take the Hirakhand Express or Araku Express from Visakhapatnam. Intercity trains and the Durg-Jagdalpur Express connect Jagdalpur from Raipur Many prefer to take a flight or train to Visakhapatnam and then driving down to Jagdalpur to enjoy the scenic route through forests and hills. Jagdalpur is 320 kilometers from Visakhapatnam. It takes six hours to cover the 270 kilometers that connect Jagdalpur and Raipur. Both the road trips are extremely scenic and enjoyable.",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jagdalpur is the administrative headquarters of the Bastar district and division.",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It's the largest city in south Chhattisgarh and the fourth largest in the state by population.",
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jagdalpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/chhattisgarh/jagdalpur",
+        "retrieved_at": "2026-09-22T18:36:24.869105+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

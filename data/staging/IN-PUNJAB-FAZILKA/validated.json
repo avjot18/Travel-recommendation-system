@@ -1,0 +1,410 @@
+{
+  "destination_id": "IN-PUNJAB-FAZILKA",
+  "destination_name": "Fazilka",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Fazilka Railway Station (FKA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the south‑western edge of Punjab, Fazilka is a charming 165‑year‑old border town that invites travellers to discover a lesser‑known side of the state, one shaped by history, rich agrarian landscapes, vibrant local flavours, and enduring patriotism. Part of District Fazilka, this historic town is also affectionately called Bangla, a name deeply rooted in its colonial past.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located about 325 km from Chandigarh, 200 km from Amritsar, and only 11 km from the India–Pakistan International Border, Fazilka sits amidst Punjab’s fertile rice and cotton belt, offering visitors a refreshing rural backdrop alongside stories of resilience and trade.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Founded in 1844 , Fazilka grew from a small riverside settlement into a flourishing market town due to its strategic location near the Satluj River . The town was named after Mian Fazil Watoo , one of the early settlers, while its older name, Bangla, comes from a colonial bungalow built by British officer Vans Agnew.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Before Independence, Fazilka was renowned as the largest wool market in undivided Punjab , attracting traders from Rajasthan, Sindh, and beyond. Though the trade routes changed after Partition, the town retained its mercantile spirit and evolved into an important rice‑exporting centre . Strolling through Fazilka today, visitors can sense its layered past, colonial architecture, bustling markets, and stories shaped by time, floods, and wars.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Being close to the border has profoundly influenced Fazilka’s identity. The town bore witness to the Indo‑Pak wars of 1965 and 1971 , and today, sites such as the Asafwala War Memorial stand as powerful reminders of India’s military history. Nearby, visitors can attend the Sadqi–Sulemanki Border Retreat Ceremony , a lesser‑known yet deeply moving counterpart to Wagah, offering an authentic and intimate patriotic experience.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Fazilka offers travellers a taste of authentic Punjab , away from the crowds. The town is known for traditional handcrafted items such as baan, moorhas , and sirkis , reflecting its artisanal heritage. Food lovers must not miss the iconic ‘Tosha’ sweets , which originated here and remain a local pride. A visit to Pakpattnian Di Hatti is a must to savour this signature delicacy.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adding a modern landmark to its skyline, Fazilka is home to Asia’s second‑tallest television tower , standing at 305 metres , an interesting contrast to its old‑world charm.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Fazilka is during the winter and early spring months , from October to March , when the weather is pleasant and well‑suited for sightseeing, border visits, and outdoor exploration. Winter mornings can be crisp, adding to the charm of rural Punjab.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Sri Guru Ram Dass Jee International Airport , Amritsar (ATQ): Roughly 200 km away. Bathinda Airport (BUP): Roughly 90 km away.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Nearest railway station is Fazilka Junction (FKA) .",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Fazilka is well-connected via National Highways (NH-7, NH-10) , linking it to major towns like Firozpur, Bathinda, and Delhi.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend has it that Dhabaleswar Temple was dedicated to Lord Shiva and visited by Lord Rama during his exile period.",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Jalandhar’s vibrant markets",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Fazilka",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/fazilka",
+        "retrieved_at": "2026-09-22T18:36:41.046759+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

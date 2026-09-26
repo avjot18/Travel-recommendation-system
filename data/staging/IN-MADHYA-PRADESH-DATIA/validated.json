@@ -1,0 +1,433 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-DATIA",
+  "destination_name": "Datia",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Gwalior Airport (GWL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Datia Railway Station (DAA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Datia is a small temple town in the Bundelkhand region of Madhya Pradesh, tucked between Gwalior and Jhansi on the historic route through central India. It rarely makes it onto the mainstream tourist trail, yet it holds two of the most striking sights in the region: the Siddha Shakti Peeth of Pitambara Devi, one of the country's most powerful Tantric shrines, and the Bir Singh Palace, a seven-storey stone palace that architect Sir Edwin Lutyens himself admired and drew inspiration from while designing New Delhi. Together they make Datia a destination that rewards travellers looking for authentic spirituality and untouched Bundela heritage away from the crowds.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The town takes its name from the mythical demon king Dantavakra, mentioned in the Mahabharata, and its recorded history stretches back to the reign of the Bundela king Raja Bir Singh Deo in the early 17th century. Since then, Datia has grown into a layered destination: a living pilgrimage centre for devotees of the goddess Baglamukhi, a showcase of Bundela stone architecture, and a quiet Bundelkhandi town where daily life still moves at the pace of temple bells and railway whistles.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Datia sits at the heart of the Bundelkhand region, a cultural zone shared by Madhya Pradesh and Uttar Pradesh known for its forts, folk ballads, and deep devotion to both Shakti (the mother goddess) and Rama. The town's rhythm is set by the Pitambara Peeth: mornings begin with temple aartis audible across the old quarter, and the streets fill with pilgrims dressed in yellow, the colour sacred to Goddess Baglamukhi. Datia's residents are known for their simplicity and strong religious observance, and the town swells with visitors during Navratri, when the temple hosts elaborate rituals and cultural programmes. Classical music has historical roots here too, the Peeth's founder was himself a connoisseur of Hindustani classical music, and stalwarts of the tradition once travelled to Datia to perform for him.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Datia's skyline is defined by Bundela-era stone construction — a distinct architectural language that blends Rajput fortification with Mughal symmetry. The Bir Singh Palace, the Pitambara Peeth's temple complexes, and the nearby Sonagiri Jain hills (with their cluster of white marble temples) all showcase this craftsmanship. Locally quarried sandstone, corbelled domes, jharokha balconies, and geometric ground plans recur across the town's monuments, offering a masterclass in 17th-century Indian architecture within a compact, walkable radius.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As part of the Bundelkhand food belt, Datia's cuisine leans on wheat, gram flour, and millets rather than rice-heavy fare. Look out for bafauri (steamed millet or gram-flour dumplings), meeda (gram-flour pieces in a light tomato gravy), maheri (a mild, slow-cooked broken-wheat dish similar to khichdi), and the ever-popular poha-jalebi breakfast combination found across Bundelkhand's tea stalls. For dessert, try ras ki kheer, a naturally sweetened kheer made with mahua flower extract, or a warm plate of malpua. Since Pitambara Peeth is a major pilgrimage site, simple vegetarian thalis and prasad are widely available near the temple complex.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to March offers the most comfortable weather for temple visits and sightseeing, with Navratri (September–October and March–April) being the most vibrant, though also the most crowded, time to experience Datia's devotional energy firsthand. Summers (April–June) are hot and best avoided for extended outdoor exploration.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air : Datia does not have a commercial airport of its own. The nearest airport is Gwalior Airport (GWL) , located approximately 67 km away. Travelers can hire taxis or use local transport from Gwalior to reach Datia. Other nearby airports include Agra Airport (AGR) , around 172 km from the city.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail : Datia is well connected to the Indian Railways network through Datia Railway Station (DAA) , which lies on the busy Delhi–Chennai rail corridor. Regular trains connect Datia with major cities such as Delhi, Gwalior, Jhansi, Bhopal, and Mumbai. The nearby Sonagir Railway Station (SOR) also serves visitors traveling to the region along with Jhansi Railway Station .",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road : Datia enjoys good road connectivity with major cities in Madhya Pradesh and neighboring states. Regular state-run and private buses operate from Gwalior, Jhansi, Agra, Bhopal, and Indore . The city can also be conveniently reached by taxi or private vehicle via well-maintained highways.",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kandariya Mahadev Temple, Khajuraho- The Grandeur of carvings and divinity!",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raneh Falls - A preserved area with Magnificent Waterfall around underrated Canyon with colourful rocks and lush green Forest with active wildlife around Ken river in Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahma Temple In Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Datia",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/datia",
+        "retrieved_at": "2026-09-22T18:36:35.598515+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

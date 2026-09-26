@@ -1,0 +1,352 @@
+{
+  "destination_id": "IN-TAMIL-NADU-MADURAI",
+  "destination_name": "Madurai",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Madurai International Airport (IXM), Madurai"
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Madurai Junction Railway Station (MDU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 35.5
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 39.0
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 39.2
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 38.2
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 38.1
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Madurai International Airport (IXM), Madurai",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the timeless charm of Madurai, where spirituality embraces every corner and the spirit of Tamil Nadu echoes through majestic temples. Begin your journey at the iconic Sri Meenakshi-Sundareswarar Temple, a symbol of the city’s spiritual grandeur and a magnificent testament to the city's spiritual devotion, drawing devotees from near and far. Explore palatial elegance at architectural marvels that have stood the test of time, and experience the bustle of a ‘city that never sleeps.’ Journey to sacred abodes resonating with divinity and devotion. Explore tranquil hill stations and sacred shrines, each offering a unique glimpse into the soul of Madurai. Witness its amazing cultural heritage and embark on a journeythat stirs the soul.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveil the awe-inspiring legends of Madurai where history whispers tales of ancient splendor and divine intervention. Legend has it that the city emerged from the sacred drops of nectar that fell from Lord Shiva's locks, earning its name \"Madhurapuri,\" the city of sweetness. It is also said that Lord Siva performed sixty-four wonders, called \"Thiruvilaiyadals\", in Madurai. This holy city also finds mention in Indian epics like Ramayana, Kautilyas and Arthasastra. As you wander through this lotus-shaped city, you'll be transported to its rich past, dating back to the Sangam period. Picture yourself standing amidst structures over two millennia old, each bearing witness to the city's enduring legacy. Madurai beckons you to uncover its secrets, where every step is a journey through time.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Madurai is one of the oldest living cities in the world and among the most culturally significant. It is often referred to as the Athens of the East for its architectural grandeur and cultural richness. Explore the Thirumalai Nayak Palace, a majestic testament to regal elegance, where Dravidian and Islamic styles converge seamlessly. From the intricate stucco work to the celestial pavilion defying architectural norms; from its exquisite paintings and sculpture to 248 majestic pillars, the palace exhibits sheer magnificence. Delve into the inspiring legacy of Mahatma Gandhi at the Gandhi Memorial Museum, housed within the historic Tamukkam Palace, and immerse yourself in the remarkable stories of India's freedom struggle. The museum houses around 100 artifacts used by Mahatma Gandhi, including a letter written to Adolf Hitler and a blood-stained cloth worn by Gandhi on the day of his assassination. It is a remarkable place to explore the facets and impact of Gandhiji's life and principles. Journey through time at the Government Museum, where rare exhibits showcase Madurai's rich cultural heritage, from ancient artefacts to archaeological treasures. Journey to Kaanadukathan and Karaikudi nearby to discover the enchanting heritage of the Chettinads, where opulent mansions and delectable cuisine beckon. Unveil the sacred charms of Karur, a riverside town steeped in ancient lore and artistic treasures. A city steeped in ancient heritage, legend has it that Lord Brahma, the creator, started his work of creation here.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Madurai is a spiritual city, replete with magnificent temples. No matter where you look, you will see devotion and divinity. The astounding Sri Meenakshi-Sundareswarar Temple is a majestic masterpiece that defines the city's identity. One of the largest temple complexes in India, its monumental presence and exquisite architecture, is sure to leave you awestruck. With 14 towering gopurams, reaching heights of 45 to 50 meters, the temple complex stands as an architectural wonder, adorned with intricate sculptures and ornate designs. The Aayiram Kaal Mandapam, or the '1000-pillar hall,' is a prominent highlight of the temple, featuring intricately carved pillars depicting mythological tales. The temple's musical pillars are a mesmerising spectacle, producing enchanting musical notes when gently tapped. Discover the enchanting Teppakulam nearby, a sacred oasis with the largest temple tank in the state. Dedicated to Lord Vigneshwara, and adorned with exquisite ghats on all four sides, each with 12 long granite steps, the tank cradles the enchanting Maiya Mandapam, where a resplendent idol of Lord Ganesha resides. The divine allure and serene ambience of Azhagar Kovil Temple, a sacred abode dedicated to Lord Vishnu at the foothills of the majestic Alagar Hills. Legend has it that the Pandava brothers, Yudhishtir and Arjun, visited the temple during the era of the Mahabharata. Experience the profound aura of Srivilliputtur Andal Temple , revered as one of the 108 temples dedicated to Lord Vishnu. Marvel at its majestic 11-tier rajagopuram, the tallest in Tamil Nadu, and discover the enchanting sanctum sanctorum housing Lord Vishnu in a reclining pose. Journey to Tirupparankundram, the auspicious abode of Lord Murugan, carved out of rock with exquisite carvings that speak of divine mystique. Tirupparankundram is considered as the most auspicious location for conducting marriages due to the legend that its cave shrine was the location of the marriage between Lord Subrahmanya and Devayani, the daughter of Lord Indra. Experience the ethereal ambiance of the melodic chants of prayers, the sweet fragrance of flowers, and the illuminating glow of countless lamps at the Thirumohoor Kalamegaperumal Temple. An architectural masterpiece amidst the hills adorned with resplendent sculptures, it is revered as a gateway to the divine blessings of Lord Vishnu and Goddess Mahalakshmi. Finally, immerse yourself in the timeless beauty of Koodal Azhagar Temple, known as Madurai’s divine temple of ‘the beautiful one.’ Its ornate five-tiered rajagopuram (monumental entrance tower) is one of the most attractive features of this temple. Granite walls surrounding the shrines adorned with intricate carvings further enhance the beauty of the temple where brilliant architecture meets profound spirituality.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Madurai, every month brings forth a new reason to celebrate life and culture. The year begins with Pongal, a 3-day Harvest Festival celebrated with great pomp and splendour, paying tribute to the sun, nature and cattle for helping with a rich harvest. The Jallikattu festival, a spellbinding bull-taming sport is part of the Pongal festival celebrations. People throng the open grounds to watch man and beast pitting their strength against each other. In April-May, witness the grandeur of the Chithirai Festival, commemorating the divine union of Goddess Meenakshi and Lord Sundareswarar, drawing millions to the city. Legend has it that Lord Vishnu, as Alagar, rode on a golden horse to Madurai to attend the celestial wedding. Experience the charm of the Festival of the Cradle in June-July, as the deities of Goddess Meenakshi and Lord Sundareswarar are gently rocked on a swing for nine days. In August-September, rejoice in the Avanimoolam Festival, celebrating the coronation of Lord Sundareswarar. A “Lila” or play is performed daily where the temple priest recites stories of the 64 miracles of Lord Shiva, which protected the city of Madurai from adversity. Finally, revel in the splendour of the Navarathri Festival, honouring Goddess Meenakshi in all her forms, as the temple is illuminated beautifully with colourful lamps, marking nine days of devotion and celebration.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Madurai offers a captivating blend of natural beauty and cultural heritage. Beyond the magnificent temples and bustling streets, this region is blessed with picturesque waterfalls, lush forests, majestic hills, and charming hill stations, beckoning nature enthusiasts from all corners of the globe. Just a short drive from Madurai, you'll discover spectacular waterfalls that cascade down rocky cliffs, creating a symphony of nature's music. Visit the enchanting Suruli Waterfalls plummeting through a series of cascades, forming a stunning sight to behold. Embark on an adventurous journey to the Megamalai forests , where dense foliage, gushing streams, and exotic wildlife await. For breath-taking panoramic views, venture to the majestic Elephant Hill. Trek to its summit and be rewarded with sweeping vistas of Madurai and its surrounding landscapes. Or, immerse yourself in the tranquility of nearby hill stations like Kodaikanal, where mist-covered mountains, serene lakes, and verdant valleys create an idyllic setting for relaxation and exploration. Delight your senses at the amazing flower market in Madurai, where you'll find the world-famous Malligai Jasmine flower. Experience the fragrance and beauty of these delicate blooms as you immerse yourself in a riot of colours and aromas. This bustling market offers a glimpse into the local culture and traditions, as vendors showcase an array of flowers used in religious ceremonies, weddings, and daily rituals. Madurai and its surrounding areas beckon nature enthusiasts with their magnificent landscapes, providing a perfect escape from the bustling city.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indulge in a tantalising culinary adventure through the streets of Madurai, where each dish tells a story of heritage and flavour, enticing you to savour every bite. From the exclusive drink of Madurai, Paruthipal, made from cotton seeds and jaggery, to the beloved street-side dish, Kuthuparotta, minced and spiced to perfection, your taste buds are in for a treat. Dive into the unique fusion of Indian and pizza-like elements with Kari Dosai, a mouth-watering creation featuring a dosa base topped with perfectly spiced mutton. Cool off with the refreshing flavours of Jigarthanda, Madurai's famous cold beverage, or delight in the heavenly taste of Appam, soft and fluffy Indian pancakes paired with spicy condiments or curry. Explore the irresistible allure of Chettinad cuisine, where aromatic spices and delicate flavours come together to create culinary masterpieces. From the fiery delight of Chettinad Chicken Curry to the tempting snack of Chettinad Kuzhi Paniyaram, each dish offers a journey through the rich culinary heritage of Madurai. Experience the ultimate gastronomic adventure with the Madurai Food Safari, where traditions and specialties of the region come to life through the world of food. Embark on a journey that will awaken your taste buds and leave you craving for more.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready to immerse yourself in the charm and allure of Madurai, with its wealth of culture, spirituality, heritage and wonderful cuisine. Every street beckons with history, legends and splendour waiting to be discovered. Whether you're marvelling at the architectural wonders or indulging in the delectable street food, Madurai promises an experience like no other. And with its hot tropical climate, you can visit any time of the year, though for the ultimate adventure, plan your trip between December and February when the weather is most pleasant, and every moment offers an opportunity to create cherished memories.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Sri Meenakshi-Sundareswarar Temple features two remarkable architectural marvels: the Aayiram Kaal Mandapam, a '1000-pillar hall' with intricately carved pillars depicting mythological tales, and a set of musical pillars that produce enchanting notes when gently tapped, offering visitors a unique auditory and visual experience.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Aayiram Kaal Mandapam , known as the '1000-pillar hall,' is a prominent highlight of the Sri Meenakshi-Sundareswarar Temple, featuring intricately carved pillars depicting mythological tales.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The musical pillars at the Sri Meenakshi-Sundareswarar Temple are a mesmerising spectacle, producing enchanting musical notes when gently tapped, offering an other-worldly experience to visitors.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Gandhi Memorial Museum in the city exhibits a range of artifacts from different phases of Gandhiji's life, along with letters written to famous personalities like Adolf Hitler.",
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Madurai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/madurai",
+        "retrieved_at": "2026-09-22T18:36:45.591505+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

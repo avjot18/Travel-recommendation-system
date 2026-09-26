@@ -1,0 +1,289 @@
+{
+  "destination_id": "IN-ANDAMAN-AND-NICOBAR-ISLANDS-MAYABUNDER",
+  "destination_name": "Mayabunder",
+  "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Veer Savarkar International Airport (IXZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chennai Central Railway Station (MAS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 32.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 32.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Veer Savarkar International Airport (IXZ)",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the pristine wilderness of the Andaman Islands, Mayabunder emerges as a hidden gem waiting to be discovered. With its untouched natural beauty, rich history, and captivating attractions, Mayabunder offers travellers an enchanting retreat away from the hustle and bustle of urban life.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayabunder's history is a tapestry woven with threads of colonial influence and indigenous traditions. Originally inhabited by the indigenous Aka-Jeru tribes, the region witnessed waves of migration and colonization, first by the British and later by settlers from mainland India. Today, remnants of this colonial past mingle with the vibrant cultural fabric of the indigenous communities, creating a unique blend of heritage and diversity.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayabunder's proximity to Port Blair, the capital of the Andaman and Nicobar Islands, imbues it with historical significance. During the British colonial era, the infamous Cellular Jail in Port Blair housed political prisoners, many of whom played pivotal roles in India's struggle for independence. Mayabunder served as a settlement for freed political prisoners, contributing to its cultural mosaic and historical legacy.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayabunder boasts some of the most pristine beaches in the Andaman Islands, offering travellers a tranquil escape amidst nature's splendour. Beaches like Karmatang Beach and Avis Island Beach mesmerize visitors with their crystal-clear waters, powdery white sands, and lush greenery. These secluded shores provide the perfect backdrop for sunbathing, swimming, and leisurely strolls along the coastline.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The mangrove forests surrounding Mayabunder harbour a rich diversity of flora and fauna, making them an ideal destination for ecotourism and wildlife enthusiasts. Visitors can explore the Mayabunder Mangrove Park, home to mangrove species like the Sundari and Rhizophora, and embark on boat tours to spot native wildlife such as crocodiles, turtles, and various bird species.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayabunder offers a rare opportunity to connect with the indigenous Aka-Jeru tribes, who have inhabited the region for centuries. Travelers can experience their rich cultural heritage through traditional dance performances, handicraft demonstrations, and interactions with community members. Immersing oneself in the customs and traditions of the Aka-Jeru tribes provides insights into their way of life and fosters cultural exchange and appreciation.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ray Hill Viewpoint - For panoramic vistas of Mayabunder's picturesque landscape, visitors can trek to Ray Hill Viewpoint. The vantage point offers sweeping views of the surrounding forests, mangroves, and coastline, providing a breathtaking backdrop for photography enthusiasts and nature lovers. German Jetty - Constructed during World War II by German prisoners of war, the German Jetty serves as a poignant reminder of Mayabunder's wartime history. The jetty, with its weathered wooden structures and rustic charm, offers a serene spot for watching the sunset and reflecting on the region's past. Mayabunder beckons travellers with its untamed beauty, rich history, and cultural diversity, offering a sanctuary for those seeking adventure, relaxation, and exploration. Whether wandering along secluded beaches, delving into indigenous traditions, or marvelling at natural wonders, visitors to Mayabunder are sure to be captivated by its allure and inspired by its hidden treasures.",
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mayabunder",
+        "source_url": "https://www.incredibleindia.gov.in/en/andaman-and-nicobar-islands/mayabunder",
+        "retrieved_at": "2026-09-22T18:36:51.848909+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

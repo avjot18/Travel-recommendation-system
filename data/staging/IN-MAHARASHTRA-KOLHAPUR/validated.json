@@ -1,0 +1,442 @@
+{
+  "destination_id": "IN-MAHARASHTRA-KOLHAPUR",
+  "destination_name": "Kolhapur",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chhatrapati Rajaram Maharaj Airport(KLH), Kolhapur Pune International Airport (PNQ), Pune"
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chhatrapati Shahu Maharaj Terminus (KOP)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 12.4,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.0,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 39.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 13.0,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Rajaram Maharaj Airport(KLH), Kolhapur",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shahu Maharaj Terminus (KOP)",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cradled by the tranquil Sahyadri mountain ranges on the banks of the sacred Panchganga River, Kolhapur is a city that resonates with echoes of a glorious past, dynamic culture, and a touch of lingering royalty. Celebrated for its brave traditions, architectural wonders, and the world-famous Kolhapuri chappals (sandals), Kolhapur invites every soul to delve into its splendid cultural mosaic.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend says that Kolhapur was named after the demon Kolhasur, vanquished by the mighty deity Mahalakshmi. However, the city's significance stretches far beyond mythology. Enthusiasts of the past will be captivated by Kolhapur's ties to the legendary Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire. The city, once the capital of the Kolhapur princely state, a key Maratha kingdom, has a significant place in the heritage of Maharashtra. This rich legacy is visible throughout Kolhapur, from its grand forts to expansive palaces that serve as monuments to an era of courage and grandeur.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dive into Kolhapur's regal legacy at the Chhatrapati Shahu Maharaj Gallery, set within the grand confines of Kolhapur Palace. This architectural treasure, which merges Maratha and European design elements, showcases elaborate carvings and decorated courtyards reminiscent of splendid past epochs. The exhibit's array includes a vast collection of majestic armouries, exquisite jewellery, and relics that tell of the bravery and luxury of the Kolhapur Royal family. Beyond the palace, historical sites such as Panhala Fort reveal insights into Maratha military strategies with its elaborate gateways and hidden passages. The peaceful Rankala Lake offers a serene getaway with options for boat rides or quiet reflection by the water, overlooking the majestic statue of Shivaji Maharaj. The New Palace , erected in the 19th century by Chhatrapati Shahu Maharaj, displays a stunning amalgamation of European and Indian styles, surrounded by meticulously groomed gardens. Additionally, the age-old Jagadamba Caves, dating back to the 2nd century BC and set in the rolling hills, exhibit exquisite carvings and sculptures that unveil the religious and creative practices of ancient times.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore beyond the opulence of the Chhatrapati Shahu Maharaj Museum to uncover a diverse collection of galleries in Kolhapur that deepen the understanding of its cultural and mahaal landscape. The Siddha Giri Gramjivan Museum brings traditional village life to the forefront with dynamic sculptures and interactive displays—from potters and farmers actively engaged to lively harvest festivities. At the heart of the city, the Town Hall Museum presents a broad array of classic Maharashtrian textiles, elaborate sculptures of Hindu deities, and ancient Maratha weaponry, alongside rare coins and prehistoric implements. Explore contemporary works at the Chandrakant Mandare Art Gallery, showcasing thought-provoking pieces by one of Maharashtra’s esteemed artists. Additionally, the lesser-known Shahu Maharaj's Toys Museum within the Rajarshee Shahu Chhatrapati Museum complex reveals a delightful collection of vintage toys and games, offering a peek into the world of regal childhood in those times. Each gallery in Kolhapur acts as a portal into the region’s rich treasure of history and art, unveiling gems of tradition and innovation that embody the spirit of this dynamic city.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the core of Kolhapur’s spiritual life is the revered Shri Mahalakshmi Temple, dedicated to the Goddess of prosperity. This masterpiece of Deccan design, dating back to the 7th century AD, is counted as one of Hinduism's three and a half Shakti Peethas. Adorned with vibrant ochre and detailed carvings, the temple radiates an atmosphere of serenity and reverence. Inside, the grand idol of Goddess Mahalakshmi, decked in gold jewellery and exuding a powerful divine aura, captivates devotees from diverse backgrounds, who seek blessings and offer prayers to the benevolent deity.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolhapur’s cultural identity is further enriched by its tradition of craftsmanship, notably the famed Kolhapuri Saaj. These distinctive necklaces, crafted with detailed gold work and ornamented with gems such as rubies, emeralds, and pearls, are masterpieces of artistry and sought-after souvenirs for visitors. The elaborate designs and rich symbolism interwoven into the necklaces reflect Kolhapur’s cultural heritage and the enduring skill of its artisans.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond galleries and bustling bazaars lies a thriving world of traditional art forms handed down through generations. Witness the meticulous artistry of Kolhapuri Bidriware, where silver inlay on dark metal transforms into intricate jewellery boxes, vases, and hookah bases decked with botanical, faunal, and religious motifs. Immerse yourself in the colourful world of Tarpa weaving, a handloom textile craft boasting geometric patterns and vivid colours on silk and cotton fabrics. Tarpa sarees are not just beautiful souvenirs but prized possessions. And for those who appreciate leather beyond chappals, Kolhapur offers a treasure trove of handcrafted leather goods, from belts and wallets to bags and even furniture, all created using time-tested techniques by skilled artisans.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to Kolhapur is incomplete without indulging in its renowned spicy delights. While the iconic Kolhapuri mutton curry, a symphony of chilies, aromatic spices, and tender meat, is a must-try, the city's culinary scene boasts a dazzling array beyond this legend. Sample the textural contrast and flavour explosion of Misal Pav - toasted buns smothered in a spicy potato and onion mix. Dive into the Kolhapuri Tambda Pandhra Rassa, where a fiery red curry meets a cooling white gravy in a dance of complex spices and creamy textures. End your fiery adventure with a sweet note - Ukdiche Modak, steamed dumplings bursting with a delightful coconut filling. Venture beyond restaurants and explore the bustling streets for authentic Kolhapuri flavour. Savour piping hot batata vadas, indulge in the tangy sweetness of Aam Panna and don't miss the aromatic Kolhapuri Chawal (masala rice). From melt-in-your-mouth Malai Ghevar to the comforting Shrikhand Puree, Kolhapur offers a delightful journey for dessert lovers, ensuring a truly unforgettable culinary experience.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolhapur is a paradise for shoppers, bustling with vibrant markets that showcase a diverse selection of traditional crafts, local produce, and the renowned Kolhapuri chappals. At the heart of the city's shopping scene, Rajaram Market offers a rich array of spices, local textiles, and handcrafted souvenirs, where bargaining adds to the lively atmosphere. Nearby, Sadar Bazaar, close to Rankala Lake, caters to food enthusiasts with its abundance of fresh fruits, vegetables, and a variety of Maharashtrian treats such as batata vadas and the refreshing Aam Panna. For footwear aficionados, Shankar Market is a treasure trove, featuring a wide range of Kolhapuri chappals from traditional black leather to elaborately embroidered options, ensuring visitors can carry a piece of Kolhapur's distinctive style back home.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolhapur pulsates with energetic festivals throughout the year. Soak yourself in the ten-day Ganeshotsav, where on the last day colossal Ganesha idols are taken through colourfully decorated streets for the grand 'Visarjan' immersion ceremony. Winter brings the Kolhapur Mahotsav, a celebration of Maharashtrian culture with captivating folk dances, melodious music, and exquisite art exhibitions. Witness the deep faith of the locals during the nine-day Navratri festival honouring Durga, and for animal lovers, the December Saoji Fair offers a glimpse into traditional animal husbandry practices alongside cultural performances and delectable treats.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Journey beyond the city centre and discover captivating gems. Seek serenity at Bhavani Mandap , a picturesque dam on the Krishna River, offering boat rides, picnic spots, and breathtaking natural vistas. Explore the historic Kaneri Math, a 12th-century Hindu monastery complex on a serene island, with ancient temples, caves, and peaceful ghats. Hike the scenic trails of Vedagiri Hills, dotted with age-old temples and caves, offering panoramic views and a spiritual retreat. For wildlife enthusiasts, the Panhala Wildlife Sanctuary beckons. Embark on a jeep safari to spot leopards, hyenas, and diverse birdlife amidst cascading waterfalls and lush green forests.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolhapur lingers in the memory long after you depart. From the whispers of its glorious past to the vibrant pulse of its present, Kolhapur invites you to explore, to savour, and to discover the magic that unfolds at every turn. Here, amidst the echoes of a bygone era, you'll find a city that ignites your senses, warms your heart, and leaves you yearning to return for another taste of its captivating charm.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The New Palace , a blend of Gothic and Rajasthani architecture, was completed in the 19th century and houses the Shahaji Chhatrapati Museum, displaying artifacts from the Bhonsle dynasty.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The revered Mahalakshmi Temple in Kolhapur, dating back to the 7th century, is uniquely positioned so that the sun's rays illuminate the goddess's face during the equinoxes.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Panhala Fort , the largest fort in the Deccan plateau, served as a crucial military outpost and residence for Maratha ruler Shivaji Maharaj.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Legend has it that Rankala Lake was formed following an earthquake in the 9th century and is named after the temple of Rankabhairav at its center.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Known for its intense spice, Kolhapuri Misal is a beloved local dish that combines a spicy curry with mixed sprouts, topped with savory snacks and served with bread.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siddhagiri Gramjivan Museum showcases over 80 life-size sculptures depicting traditional rural life in Maharashtra before industrialization.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shahu Maharaj was a pioneer of social reform in early 20th century Kolhapur, promoting education and equality for women and lower castes.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kolhapuri chappal, known for its sturdiness and unique design, are crafted using traditional techniques involving vegetable-dyed leather and intricate hand-stitching, making each pair a durable and stylish artifact.",
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kolhapur",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/kolhapur",
+        "retrieved_at": "2026-09-22T18:36:37.719906+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-SRINAGAR",
+  "destination_name": "Srinagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jammu Civil Enclave (IXJ), Jammu"
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Srinagar Railway Station, Nowgam (SINA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": -5.9,
+        "maximum_celsius": 11.9
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": -3.6,
+        "maximum_celsius": 15.8
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 0.0,
+        "maximum_celsius": 22.5
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 3.5,
+        "maximum_celsius": 27.1
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 6.9,
+        "maximum_celsius": 30.5
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 14.4,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 8.5,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 1.9,
+        "maximum_celsius": 28.2
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": -2.6,
+        "maximum_celsius": 21.6
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": -5.5,
+        "maximum_celsius": 14.3
+      },
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srinagar, the jewel in the crown of Jammu and Kashmir, is a city that whispers tales of timeless beauty and resilience. As the summer capital of this northernmost Indian state, it paints a mesmerizing picture where nature's grandeur meets centuries of rich culture. Imagine waking up to mist-kissed mornings on the shores of the iconic Dal Lake, where shikaras glide gracefully, their reflections dancing on the mirror-like waters. As the day unfolds, you'll find yourself wandering through a living canvas - saffron-hued sunsets drape the sky, while vibrant gardens burst with colors that seem almost otherworldly. But Srinagar is more than just a feast for the eyes; it's a sensory experience that stirs the soul. Here, ancient charm blends seamlessly with breathtaking landscapes, creating a paradise that beckons to both the adventure seeker and the peace-loving traveler. Whether you're exploring the bustling old town bazaars, marveling at Mughal architecture, or simply basking in the serenity of the Kashmir Valley, Srinagar offers a poetic journey through a land where every moment feels like a verse from nature's own composition. Welcome to a city that's not just a destination, but a feeling - an ode to the extraordinary beauty of our world and the enduring spirit of those who call this heavenly abode home.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you enter Srinagar, the majestic Himalayas set the stage for the city's crown jewel - the iconic Dal Lake. This shimmering expanse of water is the heart and soul of Srinagar, offering an experience that transcends mere sightseeing. Glide across the mirror-like surface in a shikara, a gondola-like boat propelled by heart-shaped paddles, and watch the city unfold around you. The lake is a world unto itself, with floating markets, gardens, and a way of life that has remained unchanged for centuries. As you navigate the lake's tranquil waters, you'll be treated to breathtaking views of the Zabarwan Range reflected in the calm surface, creating a mesmerizing interplay of sky and water. The shoreline is dotted with intricately carved wooden houseboats, each a floating testament to Srinagar's colonial past and artistic heritage. These floating palaces, born out of necessity when the British were prohibited from owning land, now offer visitors a unique stay experience. Step aboard, and you might find yourself transported to the 1930s Raj era, surrounded by chandeliers, carved walnut panels, and Khatamband ceilings. For an authentic glimpse of local life, visit the early morning floating vegetable market near Nehru Park. Here, the lake comes alive with the vibrant colors of fresh produce and the animated bargaining of locals. As the day progresses, you can explore the canal-like passages linking Dal to Nagin Lake, or simply relax on a houseboat's carved wooden verandah, watching the gentle rhythm of waterborne life pass by. Whether you choose to spend your nights lulled to sleep by the gentle lapping of water against your houseboat or prefer to stroll along the Boulevard at sunset, Dal Lake will undoubtedly etch itself into your memories as the essence of Srinagar's timeless charm and natural beauty.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srinagar's historical significance is displayed through its well-preserved heritage sites. The Mughal Gardens, such as Shalimar Bagh, Nishat Bagh, and Chashme Shahi, are masterpieces of Mughal horticulture, reflecting Persian influences in their terraced lawns, cascading fountains, and colorful flowerbeds. These gardens, built by Mughal emperors, blend seamlessly with the natural beauty of Srinagar, creating serene spots ideal for strolls and picnics. Another jewel in Srinagar's crown is the old city, which is a labyrinth of narrow lanes, ancient mosques, and bustling bazaars that sell everything from Kashmiri handicrafts, and Pashmina shawls, to traditional spices and dry fruits. The Jamia Masjid, with its stunning wooden architecture, and the Shah Hamdan shrine , are reflective of the city's rich Islamic heritage and architectural brilliance. For the spiritually inclined, Srinagar offers the Hazratbal Shrine , housing a relic believed to be the hair of the prophet Muhammad. This white marble edifice, located on the banks of Dal Lake, is a site of deep spiritual significance and attracts devotees from across the world. You must visit the Khanqah-e-Muala, also known as the Khawaja Bazaar area. This unique 1730s Muslim meeting hall is considered one of the most beautiful spots in Srinagar. It is adorned with papier-mâché reliefs on both its frontage and interiors, as well as elaborately coloured Khatamband (faceted wood paneling). Non-Muslim visitors are welcome to peek through the door and take in the beauty, even though they are not allowed to enter. Additionally, the Jama Masjid, built in 1672, is a sight to behold. It can accommodate thousands of worshippers and is supported by 378 columns made from the trunk of a single deodar tree. The mosque is marked by monumental brick gatehouses that indicate the four cardinal directions.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the Sri Pratap Singh Historical Museum, a treasure trove of ancient artefacts seated across the Jhelum River. To reach it, you'll cross a charming footbridge and then shimmy through coils of razor wire for an exciting adventure. Once inside, marvel at the Mughal papier-mâché work, historical weaponry, and traditional Kashmiri costumes. Don't miss the upcoming new exhibition hall that promises to be truly impressive. Just a stone's throw away, you'll find the century-old half-timbered former British Residency Building, now lovingly restored and transformed into the Kashmir Government Arts Emporium craft showroom. Here, you can leisurely explore exquisite Kashmiri copperwork, intricate rugs, embroidered bedcovers, and finely carved furniture without any sales pressure. It's a delightful opportunity to immerse yourself in the rich cultural heritage of Kashmir.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Venture to the lushly wooded Shankaracharya Hill, which is adorned with a small Shiva temple constructed from weathered blocks of ancient grey stone. It is named after a sage who attained enlightenment here in 750 AD, although signs suggest that the octagonal structure dates back to the 5th century, and the site is even older. To reach this enchanting spot, take the winding 5.5 km road from Nehru Park (₹150 return by autorickshaw). It's best to avoid walking, as the area is inhabited by wild bears. You can't miss out on Srinagar’s renowned gardens either! The origins of these havens can be traced back to the Mughal era. Most feature similar layouts with terraced lawns, fountain pools, and meticulously tended flowerbeds scattered with majestic chinar (plane trees), pavilions, and faux fortress fronts. Shalimar Bagh, built for Nur Jahan by her husband Jehangir, is the most famous garden, while Nishat Bagh captivates visitors instantly with its steep terracing and panoramic view of the lake. A visit to Srinagar is not merely a journey; it's an immersive experience in a culture steeped in history, breathtaking natural splendour, and the warmth of the hospitable locals. Each season in Srinagar adorns the city in a different light, from the blooming gardens in spring to the snow-covered landscapes in winter, rendering it a year-round destination for those seeking tranquillity, beauty, and adventure.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dal Lake takes center stage, famous for its houseboats and Shikara rides.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shankaracharya Hill is named for a sage who reached enlightenment here in 750 AD.",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nishat Bagh in Srinagar, Kashmir | A Splendid Garden with a Breathtaking View of the Dal Lake beneath Pir Panjal Mountain Range",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Unmissable adventure experiences in Srinagar",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Almond Blooms in Badam Vaer Garden, in Srinagar",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shalimar Bagh in Srinagar, Jammu and Kashmir || A Mughal Garden of Ethereal Beauty and stories in every nook and corner",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Best Vegetarian Dishes To Try In Srinagar, Kashmir",
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Srinagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar",
+        "retrieved_at": "2026-09-22T18:36:53.735253+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

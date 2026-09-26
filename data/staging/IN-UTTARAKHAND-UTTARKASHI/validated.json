@@ -1,0 +1,320 @@
+{
+  "destination_id": "IN-UTTARAKHAND-UTTARKASHI",
+  "destination_name": "Uttarkashi",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dehradun Railway Station (DDN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the bustling pilgrimage routes of Uttarakhand lies a tranquil Himalayan town where snow-clad peaks rise above ancient temples, sacred rivers flow through deep valleys, and spirituality is woven into everyday life. Welcome to Uttarkashi , a destination where nature, adventure, and devotion come together in perfect harmony.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the banks of the mighty Bhagirathi River , Uttarkashi is often regarded as the spiritual counterpart of Kashi in the Himalayas. Surrounded by dense forests, alpine meadows, and towering mountain ranges, the town serves as a gateway to some of the region's most revered shrines, glaciers, and trekking routes. Whether it is the resonance of temple bells, the thrill of high-altitude trails, or the serenity of the Himalayan landscape, Uttarkashi offers an experience that is both rejuvenating and unforgettable.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The spiritual heart of Uttarkashi beats through its ancient temples and sacred sites. The revered Kashi Vishwanath Temple , dedicated to Lord Shiva, has drawn pilgrims for centuries and remains one of the town's most significant landmarks. Nearby, the ancient Shakti Temple stands as a symbol of faith and devotion, attracting visitors seeking blessings amidst the tranquil surroundings.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its religious significance, Uttarkashi is deeply connected to the traditions and culture of the Garhwal Himalayas. Local festivals, age-old customs, and warm community life reflect a heritage that has remained rooted in the mountains for generations.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Uttarkashi is where the Himalayas reveal their most captivating beauty. Verdant valleys, glacial rivers, and panoramic mountain vistas create a landscape that inspires both exploration and reflection. Serving as the gateway to destinations such as Gangotri, Gaumukh, and Dayara Bugyal, the town attracts pilgrims, trekkers, mountaineers, and nature enthusiasts alike.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether watching the Bhagirathi flow through the valley, admiring the changing colours of the Himalayan peaks, or embarking on a mountain adventure, visitors discover experiences that are both exhilarating and deeply peaceful.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "March to June offers pleasant weather, clear skies, and ideal conditions for sightseeing, trekking, and outdoor activities. The post-monsoon season from September to November is equally rewarding, with crisp mountain views and comfortable temperatures. Winter, from December to February , transforms the surrounding higher reaches into a snowy wonderland, attracting visitors seeking a classic Himalayan experience.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Jolly Grant Airport, Dehradun (DED) , located approximately 165 km from Uttarkashi. Taxis and regular transport services are available from the airport.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: The nearest major railway station is Dehradun Railway Station , about 145 km away, with good connectivity to Delhi and other major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Uttarkashi is well connected by road to Dehradun, Rishikesh, Haridwar , and Mussoorie . Regular state-run and private buses, along with taxis, operate on these routes, making road travel convenient and scenic.",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling the Top 8 Adventure Activities in Dehradun",
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Uttarkashi",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/uttarkashi",
+        "retrieved_at": "2026-09-22T18:36:50.898644+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

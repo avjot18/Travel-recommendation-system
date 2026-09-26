@@ -1,0 +1,463 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-RAJAHMUNDRY",
+  "destination_name": "Rajahmundry",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Rajahmundry Airport (RJA) Vijayawada Airport (VGA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rajahmundry Railway Station (RJY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated on the eastern banks of the mighty Godavari River, Gracefully set along the banks of the Godavari River, Rajahmundry is one of Andhra Pradesh’s oldest and most culturally vibrant cities. Often regarded as the cultural capital of the region, the city blends literary heritage, riverine landscapes, spiritual landmarks, and a relaxed pace of life. Its scenic ghats, historic temples, and proximity to lush countryside make Rajahmundry an appealing destination for travellers seeking culture, nature, and heritage in equal measure.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the city’s most striking landmarks is the Godavari Rail Bridge , an engineering marvel that stretches across the river and offers stunning views, especially at sunrise and sunset. Nearby, the riverfront ghats provide a serene setting for evening walks and boat rides.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Spiritual seekers often visit the ISKCON Rajahmundry , known for its peaceful atmosphere and well-maintained premises. The Markandeya Temple , dedicated to Sage Markandeya, adds to the city’s spiritual significance with its riverside location and traditional architecture. A short drive from the city leads to Dowleswaram Barrage , where the Godavari branches into canals that nourish the fertile delta. This area offers scenic views and insight into the region’s irrigation system.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nature lovers can explore Papi Hills , a picturesque stretch of forested hills best experienced via a boat cruise on the Godavari. The journey through narrow gorges and lush landscapes is one of the most memorable experiences in the region.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajahmundry offers a harmonious blend of culture, spirituality, and nature. Known as the birthplace of the Telugu language, the city appeals to lovers of literature and history, with its streets, bookshops, and cultural spaces reflecting centuries of Telugu heritage.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Godavari River adds a serene charm to the city. Life along the ghats moves gently, with morning rituals, quiet boat rides, and stunning sunsets. River cruises and Papikondalu trips offer peaceful, scenic experiences perfect for photographers and slow travellers.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajahmundry is also a spiritual hub, surrounded by revered temples such as Draksharamam, Bikkavolu, Kumararama Bheemeshwara Swamy Temple, and Sri Umakotilingeswara Swamy. The ISKCON Temple within the city provides a calm retreat with devotional programs and a welcoming atmosphere.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October to February is the peak season when the weather is pleasantly cool and ideal for sightseeing, outdoor adventures, and cultural exploration. Visitors can enjoy vibrant festivals, traditional performances, river cruises along scenic stretches, and temple visits that showcase the region’s spiritual heritage. The crisp air and festive atmosphere make these months perfect for an unforgettable travel experience.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Rajahmundry Airport is the nearest, located about 17 km from Rajahmundry city center. It connects Hyderabad, Chennai, and Bangalore. Taxis and cabs are accessible from the airport to the city center.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Rajahmundry Railway Station 5 km from the city center. Trains from Hyderabad, Vijayawada, Chennai, and Bengaluru run frequently and conveniently.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: The city is well linked via NH216 and state highways. Buses travel often from Hyderabad, Vijayawada, Visakhapatnam , and other cities. Self-driving or taxi rentals offer the flexibility to visit neighbouring sights such as Papi Hills and Uppada Beach.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maredumilli - Known as “Andhra Ooty” , featuring waterfalls like Jalatharangini and Amruthadhara, viewpoints, and tribal-led eco-tourism.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kumararama Bheemeshwara Swamy Temple, Samalkot - One of the five Pancharama Kshetras , built by the Eastern Chalukyas in the 10th century , and houses a 14-ft white crystal Shiva Linga.",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Rajahmundry",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/rajahmundry",
+        "retrieved_at": "2026-09-22T18:36:20.540976+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

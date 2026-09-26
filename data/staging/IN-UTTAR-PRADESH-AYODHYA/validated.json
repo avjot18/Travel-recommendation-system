@@ -1,0 +1,184 @@
+{
+  "destination_id": "IN-UTTAR-PRADESH-AYODHYA",
+  "destination_name": "Ayodhya",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chaudhary Charan Singh International Airport (LKO), Lucknow Maharishi Valmiki International Airport (AYJ), Ayodhya"
+      },
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ayodhya Junction Railway Station (AY)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chaudhary Charan Singh International Airport (LKO), Lucknow",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maharishi Valmiki International Airport (AYJ), Ayodhya",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of Uttar Pradesh, along the banks of the sacred Sarayu River, lies the ancient city of Ayodhya. Revered by millions as the birthplace of Lord Rama, Ayodhya is steeped in mythology, history, and spirituality, making it a cherished pilgrimage site and a symbol of India's cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ayodhya's history is intertwined with the epic Ramayana, one of the most revered texts in Hindu mythology. According to legend, Ayodhya was founded by the legendary king Manu, but it was Lord Rama's divine presence that elevated the city to celestial heights. As the heir to the throne of Ayodhya, Rama's life journey—from exile to triumphant return—embodies the timeless principles of righteousness, duty, and devotion that continue to inspire humanity. It served as the capital of the ancient Kosala Kingdom. The city gained eternal fame as the birthplace of Lord Rama, the seventh avatar of Lord Vishnu, and the hero of the Ramayana.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Ramayana narrates the tale of Lord Rama's exile, his battle against the demon king Ravana, and his eventual return to Ayodhya after 14 years. The significance of Ayodhya as the birthplace of Lord Rama has made it a focal point of devotion and pilgrimage for millions of Hindus worldwide.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its mythological significance, Ayodhya is also a site of historical importance. It was a thriving centre of trade, culture, and spirituality during ancient times. Over the centuries, Ayodhya witnessed the rise and fall of several dynasties, including the Mauryas, Guptas, and Mughals, each leaving their imprint on the city's architectural and cultural landscape.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For millions of devotees, Ayodhya is not merely a destination; it is a sacred pilgrimage that nourishes the soul and kindles the flames of devotion. The Ram Janmabhoomi, believed to be the very spot where Lord Rama was born, serves as the spiritual nucleus of Ayodhya. Here, amidst the echoes of ancient hymns and the fragrance of incense, pilgrims offer their prayers and seek blessings for spiritual fulfilment and divine grace.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ayodhya is home to numerous temples, shrines, and historical monuments that reflect its rich heritage. The Ram Janmabhoomi Temple, situated at the site believed to be Lord Rama's birthplace, is the most revered shrine in Ayodhya. Ayodhya's architectural heritage is a testament to its illustrious past and cultural richness. The Ram Janmabhoomi Temple, with its majestic spires and intricate carvings, stands as a symbol of devotion and resilience, echoing the aspirations of millions who yearn to connect with the divine. Beyond the temple precincts, Ayodhya's labyrinthine lanes are adorned with vibrant shrines, ancient ghats, and timeless monuments, each narrating a story of faith and resilience that has endured through the ages.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Hanuman Garhi : A temple dedicated to Lord Hanuman, known for its towering statue of the monkey god and panoramic views of Ayodhya. 2. Kanak Bhawan : A beautifully adorned temple dedicated to Lord Rama and Goddess Sita, famous for its ornate architecture and exquisite idols. 3. Dashashwamedh Ghat : A sacred bathing ghat on the banks of the Sarayu River, where pilgrims gather to perform rituals and ceremonies. 4. Nageshwarnath Temple : An ancient Shiva temple believed to have been established by Kush, Lord Rama's son.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Ram Mandir in Ayodhya is made entirely of stone and has 360 pillars in the Nagar style. The temple is 380 feet long, 250 feet wide, and 161 feet tall, and has 392 pillars and 44 doors. The ground floor depicts Lord Ram's life, and the first-floor features Lord Ram's Darbaar, which is made from pink sandstone from Rajasthan. The temple's foundation is made from sacred soil from 2,587 religious’ sites, including the Golden Temple, Jhansi, and Bithoori. The temple also incorporates soil and water from Thailand.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 51-inch-tall Ram Lalla idol in the temple's sanctum sanctorum is made from a special rock called Shaligram, which is estimated to be 60 million years old.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ayodhya's cultural heritage extends beyond its religious significance. The city is known for its vibrant festivals, including Ram Navami, Diwali, and Kartik Purnima, which are celebrated with great fervour and enthusiasm. These festivals showcase Ayodhya's rich traditions, music, dance, and culinary delights, attracting visitors from all walks of life.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As Ayodhya continues to inspire devotion, pilgrimage, and scholarly inquiry, it remains a timeless symbol of India's spiritual and cultural heritage. Whether you're a devout pilgrim, a history enthusiast, or a seeker of spiritual wisdom, Ayodhya welcomes you with open arms, inviting you to embark on a journey of discovery and reverence in the land of Lord Rama. In the sacred precincts of Ayodhya, where the past mingles with the present and the mundane melts into the mystical, every step is a revelation, every moment a communion with the divine. As pilgrims and seekers tread the hallowed pathways of this ancient city, they are reminded of the eternal truth that lies at the heart of Ayodhya—the truth that love, faith, and righteousness will forever illuminate the path to enlightenment and inner peace.",
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ayodhya",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/ayodhya",
+        "retrieved_at": "2026-09-22T18:36:47.480267+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

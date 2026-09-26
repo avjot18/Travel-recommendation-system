@@ -1,0 +1,402 @@
+{
+  "destination_id": "IN-JAMMU-AND-KASHMIR-JAMMU",
+  "destination_name": "Jammu",
+  "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Sri Guru Ram Dass Jee International Airport (ATQ) Jammu Airport (IXJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Jammu Tawi Railway Station (JAT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 23.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.5,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.8,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu - the city of temples is surrounded by the Shivalik range to the north, east, and southeast while the Trikuta Range surrounds it in the northwest. The city spreads around the Tawi river with the old city overlooking it from the north while the new neighbourhoods spread around the southern side of the river. From majestic mountains to vibrant markets, Jammu offers a diverse range of experiences for travellers seeking to delve into its enchanting legacy.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "According to the most acceptable and popular legend, Jammu city was founded by Raja Jamboo Lochan in 14 th Century BC. During one of his hunting trips, he reached near Tawi river where he saw a goat and a lion drinking water together at the same place. The King realised that there was some divine power in that area and decided to set up a town which was named after him. With the passage of time, Jamboopura came to be known as Jammu. Ruled by different dynasties Jammu was under the rule of Mughals, followed by the Sikhs and then it was subjected to the British Raj. Also, the city was ruled for a sizeable period of about 984 years by Dev dynasty followed by the Dogra rule. It was during the tenure of the Dogra rule, that innumerable temples, mosques and educational institutions were constructed. The ancient history of this city is confirmed by the traces of Harappan civilization that have been found from an excavation site near Akhnoor which is at a distance of 32 kms from Jammu.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu's landscape is adorned with breathtaking vistas, from lush valleys to snow-capped peaks. The iconic River Tawi winds through the city, providing serene spots for relaxation. Nature enthusiasts can explore the famous hill station Patnitop, and catch stunning views of the sunset from Nathatop. Jammu also boasts of several beautiful lakes, two notable ones being Mansar Lake and Surinsar Lake. They both sit amidst verdant forests with the Surinsar Lake conveniently located near Jammu. Whether you're planning a family outing or a short escape to a scenic spot, this location is perfect. Lush greenery surrounds the lakes, contrasted by the dramatic backdrop of the hilly terrain.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There are several wildlife sanctuaries which are very close to Jammu that offer a glimpse of some of the rarest flora and fauna to be found in the world. The Ramnagar Wildlife Sanctuary, which is at a distance of just 6 kms from Jammu, shelters some rare species like blue rock pigeon, barking deer, wild boar, rhesus monkey, the Indian Mynah, Neel Gai etc. Species like the Musk deer and the rare Himalayan black and brown bears can be found at the Kishtwar High Altitude National Park , which is spread over 400 square kilometres and is at a height of 4800 metres. Around 28 kms from Jammu is the Nandni Wildlife Sanctuary wherein one can find leopards, wild boar, the langur, and rare birds like the red jungle fowl, chir pheasants, chakor and Indian mynah.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu is replete with captivating tourist attractions, from the imposing Bahu Fort to the tranquil Bagh-e-Bahu Garden and the historic Mubarak Mandi Palace complex. Additionally, Punj Old Fort, Bhimgarh Fort, Ramnagar Fort , Mantalai, and Shivkhori offer unique experiences, with places like Mantalai and Shivkhori also promoting eco-tourism. The city's skyline is adorned with the majestic \"Shikhars\" of these monuments, offering breathtaking vistas at every turn. For a deeper dive into the region's rich history, visitors can explore two renowned museums. The Amar Palace Museum, situated atop a hillock overlooking the Tawi River valley, showcases an impressive array of exhibits, including the famed 120-kilogram golden throne, antique books, and paintings by celebrated artists like MF Hussain. Meanwhile, the Dogra Art Museum, housed within the Pink Hall of the Mubarak Mandi Complex, boasts a diverse collection of over 800 rare paintings, including Pahari miniatures from Basohli along with Emperor Shah Jehan's gold-plated bow.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu is renowned for its religious significance, with temples and shrines scattered across the landscape. The Vaishno Devi Temple situated in the Trikuta Mountains, draws millions of pilgrims annually. The approach to Vaishno Devi is through a town named Katra which is around 13 km from Jammu and is a resting place for the pilgrims. The ancient Raghunath Temple , dedicated to Lord Rama, is a must-visit for devotees and architecture enthusiasts. The towering Shankaracharya Temple is also revered by Hindus. Other places of religious importance are Bawey Wali Mata temple, Peer Baba Dargah, Peer Kho Cave temple , Shri Ranbireshwar Temple , Panchvaktar Temple, Rani Kalhuri Devi Temple, Radha Krishan Rukmani Temple, Shri Satya Naryan Temple, Maha Maya Temple and Maha Lakshmi Temple.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The traditional music of Jammu encompasses a wide range of themes and styles. From the solemn Karkan, honouring martyrs and gurus, to the spirited Baran, celebrating valour and sacrifice, and the devotional Bhaints sung in praise of goddesses, the repertoire is as diverse as it is enchanting. Bishanpate exalts Vishnu and his incarnations. Special occasions are marked with specific songs like Bihai, sung at the birth of a child, and Badhai, reserved for ceremonial events. Folk dances are another cherished aspect of Jammu's cultural heritage, with Dogra folk dances taking centre stage in worship, ceremonies, and festive occasions. Both men and women participate in these dances. Other notable dances include Dheku, Phummani, Jagarana, Chhajja, Kuddha, Hirana, Bhagtan, Raas, and Chandrauli, each with its own unique movements and rhythms. The music and dance traditions of Jammu are a blend of various influences, incorporating elements from Dogri Lok geet, Punjabi Geet, Pahadi geet, Bhadarwahi geet, and Gojri Geet. Together, they form a lively expression deeply rooted in the history and traditions of the region.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The bustling markets of Jammu offer a wide array of souvenirs and handicrafts, from traditional attire to local spices and dry fruits. Aided with the right bargaining skills, one can get exquisite handicrafts and quality items at a very reasonable cost. These items can make stupendous souvenirs for your friends and family. Some of the wooden and walnut wood handicrafts can be a rare collection for you to treasure for long. Handicrafts, furniture, beautifully designed wooden boxes, hand woven carpets, rugs and a variety of shawls are available here. Some of the famous shopping areas in Jammu are Vir Marg, Raghunath Bazaar, Gole Market and Hari Market.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu is a paradise for food enthusiasts, offering a diverse range of traditional delicacies infused with local flavours. Jammu’s speciality is in a simple preparation which is famous all-over North India, known as the “Rajma Chawal”. This recipe is all about specially cooked kidney beans which is rich in aroma of its spices and is served with rice. Jammu is also renowned for its processed cheese, Kaladi (local Cheese), which is made in the Ramnagar region of the state. Some of the famous Dogri dishes of this region are: Ambal, Khatta Meat, Kulcha, Kulthein di Dal, Kashmiri Aloo Dum, Phirni, Kashmiri Pulao, Dal Patt, Maa da Madra, and Auriya. Other specialities are Morel Palov, Oria (Patato/Pumpkin in mustard sauce), Maani, Khameera, Timru-di-Chatni, and Shiri Pulav. Those with sweet tooth can savour Mitha Bhat (Sweet Rice), the famous Chocolate Barfi and Sund Panjeeri.& That is not all, the much needed tanginess is provided by the pickles made of Kasrod, Girgle, Zimikand, Tyaoo, Seyoo, and Potatoes.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The district of Doda in Jammu is specially revered by the trekkers and tourists who are on a look out for an adrenaline rush. This place provides one with an option of exploring some of the most thrilling adventurous sports like camping, skiing, trekking, mountaineering etc. If you want to go paragliding, then Sanasar is the place for you.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jammu invites travellers to witness its enchanting charm. With its majestic landscapes, ancient temples, bustling bazaars and robust cultural scene, Jammu promises an unforgettable journey of discovery and exploration.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Amar Mahal Palace Museum houses a pure gold throne of Dogra rulers which weighs around 120 kg.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Mubarak Mandi Palace has endured over 36 fires throughout its history. Additionally, the palace faced the destructive force of earthquakes not once, but twice, in the 1980s and again in 2005. This palace has actually stood the test of time and is still standing tall to tell the stories of the glorious past.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dogra Art Museum has a set of gold-plated bow and arrow of the Mughal Emperor Shah Jahan, which is one of the major attractions.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Peer Kho Cave Temple is in an underground cave which is twenty to thirty feet deep. A unique feature of the temple is the continuous smoke-emitting shrine at its centre.",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Vaishno Devi Yatra: A spiritual journey from Jammu",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Purple farms of the saffron flowers - Kashmir story",
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jammu",
+        "source_url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/jammu",
+        "retrieved_at": "2026-09-22T18:36:53.296415+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

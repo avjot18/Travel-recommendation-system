@@ -1,0 +1,155 @@
+{
+  "destination_id": "IN-RAJASTHAN-DHOLPUR",
+  "destination_name": "Dholpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Rajmata Vijaya Raje Scindia Airport (GWL), Gwalior Agra Airport (AGR), Agra"
+      },
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dholpur Junction Railway Station (DHO)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajmata Vijaya Raje Scindia Airport (GWL), Gwalior",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched along the banks of the serene Chambal River, Dholpur is a hidden gem in the heart of Rajasthan, India. Often overshadowed by its more famous neighbours like Jaipur and Agra, Dholpur boasts a rich tapestry of history, architectural marvels, and natural beauty. This charming town invites travellers to explore its royal heritage, stunning landscapes, and vibrant culture, making it a must-visit destination for those seeking an off-the-beaten-path adventure.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholpur's history is steeped in royalty and valour. Established in the early 11th century, it has been ruled by several dynasties, each leaving its indelible mark on the town's heritage. The most notable rulers were the Jats of the Bamraulia clan, who transformed Dholpur into a princely state during the British Raj. The regal past of Dholpur is reflected in its grand palaces, forts, and temples that stand as testaments to its glorious legacy.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most striking landmarks in Dholpur is the Dholpur Palace, also known as Raj Niwas Palace. This magnificent structure, built in red sandstone, exemplifies the architectural brilliance of the region. Surrounded by lush gardens and offering panoramic views of the Chambal River, the palace once served as the royal residence of the Maharajas of Dholpur. Today, it stands as a symbol of the town's opulent past and is a must-visit for history enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most striking landmarks in Dholpur is the Dholpur City Palace, also known as Raj Niwas Palace. This magnificent structure, built in red sandstone, exemplifies the architectural brilliance of the region. Surrounded by lush gardens and offering panoramic views of the Chambal River, the palace once served as the royal residence of the Maharajas of Dholpur. Today, it stands as a symbol of the town's opulent past and is a must-visit for history enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A prominent feature of Dholpur's skyline, the Nihal Tower stands tall as a beacon of the town's historical significance. Erected in honour of Raja Nihal Singh, this towering structure is adorned with intricate carvings and offers a bird's-eye view of the surrounding landscape. The tower is a testament to the town's architectural heritage and provides a unique vantage point for visitors to appreciate the beauty of Dholpur.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholpur's proximity to the Chambal River adds a unique dimension to its appeal. The Chambal River is one of the cleanest rivers in India and is home to a rich diversity of flora and fauna. Embark on a Chambal River Safari to witness the breath-taking beauty of the riverine ecosystem. Spotting the elusive gharials (a type of crocodile), Gangetic dolphins, and a plethora of bird species is an experience that nature enthusiasts will cherish.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For wildlife lovers, the National Chambal Sanctuary, located near Dholpur, is a paradise waiting to be explored. This sanctuary is renowned for its efforts to protect the endangered gharials and other wildlife species. The sanctuary's diverse habitats, ranging from lush forests to arid grasslands, support a wide array of fauna, including Indian wolves, hyenas, and various migratory birds.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dholpur's vibrant culture is best experienced during its traditional festivals. The town comes alive with colours, music, and dance during celebrations like Teej, Diwali, and Holi. These festivals offer a glimpse into the rich cultural heritage of Rajasthan and provide an opportunity for visitors to immerse themselves in the local traditions and customs.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Dholpur is complete without savouring its delectable local cuisine. The town offers a delightful array of Rajasthani dishes, from spicy curries to sweet treats. Be sure to try the famous Dal Baati Churma, a traditional Rajasthani dish that combines lentils, baked wheat balls, and a sweet crumble. The flavours of Dholpur's cuisine are sure to leave a lasting impression on your palate. Dholpur is a treasure trove of historical wonders, natural beauty, and cultural richness. Its majestic palaces, ancient forts, and serene river landscapes create a captivating blend of experiences for travellers. Whether you're a history buff, a nature enthusiast, or a cultural explorer, Dholpur offers a unique and enriching journey into the heart of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dholpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/dholpur",
+        "retrieved_at": "2026-09-22T18:36:43.531545+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

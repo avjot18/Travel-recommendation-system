@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-MIZORAM-AIZAWL",
+  "name": "Aizawl",
+  "state_or_ut": "Mizoram",
+  "region": null,
+  "description": "Aizawl is an officially listed tourism destination in Mizoram, India. It is best treated as a mountains, nature, culture travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "mountains",
+    "nature",
+    "culture",
+    "road trips"
+  ],
+  "best_for": [
+    "mountains",
+    "culture",
+    "nature",
+    "quiet travel"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 9.7,
+      "maximum_celsius": 24.8
+    },
+    "february": {
+      "minimum_celsius": 11.4,
+      "maximum_celsius": 27.6
+    },
+    "march": {
+      "minimum_celsius": 15.3,
+      "maximum_celsius": 31.0
+    },
+    "april": {
+      "minimum_celsius": 18.6,
+      "maximum_celsius": 32.3
+    },
+    "may": {
+      "minimum_celsius": 20.7,
+      "maximum_celsius": 31.8
+    },
+    "june": {
+      "minimum_celsius": 22.6,
+      "maximum_celsius": 31.3
+    },
+    "july": {
+      "minimum_celsius": 22.8,
+      "maximum_celsius": 31.2
+    },
+    "august": {
+      "minimum_celsius": 22.7,
+      "maximum_celsius": 31.1
+    },
+    "september": {
+      "minimum_celsius": 22.2,
+      "maximum_celsius": 30.9
+    },
+    "october": {
+      "minimum_celsius": 20.2,
+      "maximum_celsius": 29.9
+    },
+    "november": {
+      "minimum_celsius": 15.4,
+      "maximum_celsius": 27.8
+    },
+    "december": {
+      "minimum_celsius": 11.1,
+      "maximum_celsius": 25.0
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Mizoram",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Lengpui Airport (AJL), Aizawl Silchar Airport (IXS), Silchar Bir Tikendrajit International Airport (IMF), Imphal"
+    ],
+    "railway_station": [
+      "Silchar Railway Station (SCL)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Mizoram",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Aizawl",
+      "source_url": "https://www.incredibleindia.gov.in/en/mizoram/aizawl",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

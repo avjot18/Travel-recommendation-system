@@ -1,0 +1,403 @@
+{
+  "destination_id": "IN-MAHARASHTRA-MUMBAI",
+  "destination_name": "Mumbai",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai"
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mumbai Central Railway Station (MMCT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 12.6,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.9,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.1,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.5,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 35.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 36.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mumbai! India’s city of dreams. A world of possibilities that beckons those who dare to dream big. A bustling metropolis. A melting pot of diversity. A commercial hub. An entertainment capital, where a galaxy of stars and celebrities jostle for the spotlight. Yet, Mumbai is so much more. A city with a past so rich that it is home of multiple UNESCO World Heritage Sites. And yet, it has a present that’s equally fascinating, with lofty skyscrapers and glossy towers rising tall amidst beautiful colonial architecture and Victorian buildings. The hypnotic pace of the city grips you with pulsating nightlife, romantic beaches, charming bazaars, iconic temples, heritage institutions and gourmet restaurants, not to miss the magnetic draw of its art, culture, music, dance and movies in its omnipresent galleries, museums and theatres. Come experience the magic of Mumbai. It is sure to leave you spellbound.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mumbai boasts a history as fascinating as its present. This coastal gem on the shores of the Arabian Sea originated as a constellation of seven islands. Although there is archaeological evidence of the region being inhabited since the Stone Age, it was the arrival of the Portuguese in the 16th century that heralded a new epoch as a trading hub. The Portuguese gifted the seven islands to the British Crown, as royal dowry in the wedding of Princess Catherine with King Charles II. The King of England then leased the islands for an annual rent of £10 to the East India Company. The British rule marked the amalgamation of the seven islands, setting the stage for its meteoric rise post-Independence as India's commercial nucleus.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The bustle of contemporary life weaves itself easily through its rich historical landmarks. The Gateway of India, an icon of the city, is symbolic evidence of this. Marvel at its grandeur and intricate architectural details as you soak in panoramic views of the Arabian Sea. Continue your journey to the Elephanta Caves, where ancient rock-cut art and architecture whisper tales of bygone eras. Delve into the mysteries of this UNESCO World Heritage Site, dedicated to Lord Shiva, and be transported back in time amidst stunning sculptures and carvings. Back in the city, uncover the architectural marvels of Mumbai's Victorian and Art Deco Ensemble , another UNESCO World Heritage Site that pays homage to the city's colonial past and Art Deco heritage. Admire the intricate craftsmanship of these historic buildings as you stroll through the charming by-lanes. Or take a train ride from Chhatrapati Shivaji Maharaj Terminus , yet another UNESCO World Heritage Site and a living symbol of Mumbai's heritage. Admire the stunning Gothic architecture of this historic railway terminus, which serves as a hub for millions of commuters daily. Experience the grandeur of the Mahalaxmi Temple , an architectural masterpiece with intricate designs and ornate carvings. One of the oldest temples in Mumbai, it is dedicated to the revered Goddess of Wealth, Mahalaxmi. The temple also houses the idols of Mahakali and Mahasaraswati along with Mahalaxmi, together known as the Mahalaxmi Trinity. Seek blessing of Lord Ganesha at Siddhivinayak Temple , one of Mumbai's most revered shrines. This magnificent temple is renowned for its self-manifested idol, carved out of a single black stone. The temple's distinct architecture and serene environment, offers a peaceful haven amidst hectic city life. Discover the mystical allure of the Haji Ali Dargah, a tribute to the Muslim saint Haji Ali Bukhari. The Dargah is a stunning example of Indo-Islamic architecture, with its elegant white marble structures and intricate mirror work. What sets Haji Ali Dargah apart is its unique location, surrounded by the sea on all sides, accessible only during low tide via a causeway. Visit the Basilica of Our Lady of the Mount, also known as the Mount Mary Church , perched atop a picturesque hillock overlooking the Arabian Sea and a true testament to the power of faith. With a miraculous history and stunning architecture, the church attracts hundreds of thousands of pilgrims and devotees transcending all faiths.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dive into the spirit of Mumbai as it comes alive with a kaleidoscope of festivals and events throughout the year. In February, the Kala Ghoda Arts Festival fashions a hub of creativity and expression. Held in the heart of South Mumbai's artsy neighbourhood, this week-long extravaganza showcases a lively blend of music, dance, theatre, visual arts, and literature. As the monsoon clouds give way to clear skies, Mumbai gears up for the grand spectacle of Ganesh Chaturthi, a 10-day festival honouring the beloved Lord Ganesh. Amidst the rhythmic beats of traditional drums and the fragrance of incense, the city comes alive with processions, music, and fervent devotion. As the festive season continues, Mumbai embraces the lively hues of Navratri, a nine-day celebration dedicated to the Goddess Durga. Joining hands in joyful revelry, people adorn traditional attire and immerse themselves in the mesmerising rhythms of Garba and Dandiya, dancing to the tunes of ancient folklore and modern beats.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Every street corner in Mumbai is a veritable cultural enclave pulsating with creativity and expression. From the glittering lights of Bollywood to the soul-stirring performances at iconic theatres, Mumbai is a melting pot of artistic brilliance waiting to be explored. Step into the cultural oasis of the Nita Mukesh Ambani Cultural Centre, a modern marvel dedicated to celebrating India's rich heritage and artistic diversity. From captivating visual spectacles to engaging workshops for children, this cutting-edge venue offers a dynamic platform for artists to showcase their talent and creativity. At the heart of Mumbai's artistic landscape lies the Jehangir Art Gallery, a hallowed sanctuary for art enthusiasts and budding creators alike. With its four halls hosting over 300 shows annually, the gallery continues to be a beacon of inspiration to the city's thriving art community. Go deeper into the cultural scene at the National Gallery of Modern Art, where masterpieces by renowned artists such as Pablo Picasso and Raja Ravi Varma adorn the walls. Explore the vibrant streets of Kala Ghoda, Mumbai's pulsating arts precinct, where creativity knows no bounds. Adorned with colourful murals and graffiti, this eclectic neighborhood is a testament to the city's dynamic spirit and cultural richness. Or enjoy a play at the Prithvi Theatre, where the magic of theatre comes alive in intimate settings, transporting audiences to realms of fantasy and enchantment.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the gastronomic wonderland of Mumbai. From street food classics to fine dining and international cuisine, Mumbai offers a culinary journey for every palate. Sink your teeth into the quintessential Vada Pav, a symphony of spicy potato fritter encased in soft bread, or tantalise your palate with the comforting embrace of Pav Bhaji, a spicy vegetable curry served with buttery bread rolls. For those craving a crunch, Bhel Puri and Sev Puri beckon with their irresistible medley of textures and tastes, while the fiery allure of Misal Pav promises a spicy start to your day. Experience the essence of Mumbai's street food culture at iconic locales like Crawford Market and Mohammed Ali Road, where the air is alive with the aroma of spices. Unwind by the sea at Juhu Beach and Chowpatty, with local delicacies topped with Kulfi. For a taste of authentic Maharashtrian cuisine, head to Dadar, where favourites like Misal Pav and Thalipeeth await to tantalise your taste buds.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embark on a leisurely stroll along Marine Drive , affectionately known as the Queen’s Necklace, and immerse yourself in the breath-taking views of the Arabian Sea. Discover the beauty of Hanging Gardens atop Malabar Hill, where lush vegetation and animal-shaped hedges create a peaceful oasis. Don't miss the stunning flower clock or the panoramic view of the Arabian Sea. Unwind at Kamala Nehru Park in the heart of Mumbai. Kids will love the quirky Boot House and the park's viewpoint providing stunning vistas of the city's iconic landmarks. Explore the sandy shores of Juhu Beach and Girgaum Chowpatty, where the rhythmic waves of the Arabian Sea beckon. Indulge in mouth-watering street food and soak in the scenic views – you might even catch a glimpse of Bollywood celebrities. For a serene getaway, head to Marve Beach or Versova Beach, offering picturesque views and a peaceful ambiance away from the city. Or escape the urbanscape to the natural wonders of Mumbai. Embark on an adventure at Jijamata Udyan, Mumbai's only zoo, where you can encounter an array of wildlife like lions, monkeys, crocodiles, elephants, and even penguins! Get away from the hustle of the city and head to Sanjay Gandhi National Park, an urban oasis spanning over 104 square kilometres. Lose yourself in the park's dense evergreen forests, home to an astounding 1,300 species of flora and 500 species of fauna.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The streets of Mumbai offer you a shopping extravaganza like no other. Colaba Causeway beckons with its eclectic mix of fashion, accessories, and home decor. For those seeking a mix of local charm and branded fashion, Linking Road and Hill Road in Bandra offer an irresistible blend of style and culture. Explore the colourful stalls brimming with fashion apparel and chic accessories. The air is filled with the aroma of fresh foods and spices at Crawford Market. From everyday household items to charming souvenirs, this historic market caters to all your shopping needs. Venture further into the heart of South Mumbai to uncover the hidden treasures of Chor Bazaar, where antique enthusiasts can browse through a captivating array of vintage items and curiosities. Or indulge in the ultimate shopping spree at Phoenix Marketcity, where over 600 stores and 100 restaurants make it Mumbai's premier shopping destination.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Entertainment knows no bounds in Mumbai. Dive headfirst into the glitz and glamour of Bollywood with a captivating behind-the-scenes tour. Step into the legendary Film City, where you can explore state-of-the-art studios, catch live shoots, and even participate in film-making workshops for an inside view of Bollywood. For adrenaline junkies and adventure enthusiasts, Mumbai offers an array of heart-pounding activities to satisfy your thrill-seeking soul. Enjoy water sports like surfing, jet skiing, and banana boat rides at a variety of beaches like Juhu, Aksa and Mandwa Beach. Trek through the lush greenery of the Western Ghats with iconic treks like Bhimashankar and Gorakhgad, where you'll encounter cascading waterfalls, ancient forts, and stunning vistas at every turn. Dive into the crystal-clear waters of Malvan and Tarkali for an unforgettable scuba diving experience or take to the skies with tandem paragliding in Kamshet. Or simply choose from its variety of theme parks, amusement parks and water parks. Mumbai's multifaceted personality offers a kaleidoscope of delightful experiences. The ideal time to visit the city is between October and February when mild temperatures and breezy evenings make it best for sightseeing Whether you're exploring UNESCO World Heritage Sites, indulging in street food delights, or seeking adventure in its natural wonders, be prepared for a journey filled with wonder.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mumbai’s rich history makes it home to three UNESCO World Heritage Sites , including Elephanta Caves, the Victorian and Art Deco Ensemble, and Chhatrapati Shivaji Maharaj Terminus.",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mumbai has the largest number of millionaires and billionaires of any city in India, with many of them living in the affluent neighbourhoods of Malabar Hill and Cuffe Parade .",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Weekend Getaways from Mumbai for Some Fun",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Culinary Journey Through Mumbai's Local Delights",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Preserving Goan Heritage In Mumbai Khotachiwadi",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experiencing the Essence of Ganesh Chaturthi in Mumbai",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "15 Thrilling Adventure Experiences Near Mumbai",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mumbai's Culinary Tapestry: A Gastronomic Odyssey",
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mumbai",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai",
+        "retrieved_at": "2026-09-22T18:36:37.998086+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

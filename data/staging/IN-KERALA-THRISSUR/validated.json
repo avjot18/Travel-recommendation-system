@@ -1,0 +1,303 @@
+{
+  "destination_id": "IN-KERALA-THRISSUR",
+  "destination_name": "Thrissur",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Kochi"
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Thrissur Railway Station (TCR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Kochi",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of Kerala, Thrissur is a city that embodies the essence of the state's rich cultural heritage and spiritual legacy. With its ancient temples, vibrant festivals, and thriving arts scene, Thrissur is a destination that captivates the imagination and inspires the soul. Let us delve into the history, culture, and fascinating facts that make Thrissur a truly inspiring place to visit.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrissur, often referred to as the \"Cultural Capital of Kerala,\" has a history that dates back over two millennia. The city was once a flourishing centre of trade and commerce, attracting merchants from distant lands who were drawn to its fertile plains and strategic location along trade routes. Over the centuries, Thrissur has been ruled by various dynasties, including the Chera, Pandya, and Perumals, each leaving behind a legacy of architectural marvels and cultural treasures.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the defining features of Thrissur is its rich cultural heritage, which is evident in its magnificent temples, historic monuments, and traditional art forms. The Vadakkunnathan Temple , dedicated to Lord Shiva, is a prime example of Kerala's temple architecture, with its majestic gopuram and intricately carved sculptures. The city is also known for its vibrant performing arts scene, with festivals like the Thrissur Pooram showcasing the best of traditional music, dance, and rituals.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrissur is a city steeped in spirituality, with numerous temples, churches, and mosques dotting its landscape. The Guruvayur Sri Krishna Temple , one of the most revered pilgrimage sites in South India, draws millions of devotees each year with its divine aura and sacred rituals. The Basilica of Our Lady of Dolours, a magnificent Roman Catholic church, stands as a testament to the city's religious diversity and harmony.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrissur boasts of a rich historical legacy, with several landmarks and monuments that offer insights into its past. The Thrissur Palace, also known as the Sakthan Thampuran Palace, is a magnificent structure built by Raja Rama Varma, the ruler of Cochin, in the 18th century. The palace complex houses a museum showcasing artifacts, paintings, and royal memorabilia.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrissur has a thriving arts and literary scene, with a number of cultural organizations, libraries, and theaters promoting the arts. The Kerala Sahitya Akademi, located in Thrissur, is an autonomous institution dedicated to the promotion and preservation of Malayalam literature. The city also hosts the International Film Festival of Kerala (IFFK), which attracts filmmakers and cinephiles from around the world.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrissur is an important educational and commercial center in Kerala, with several prestigious educational institutions and commercial establishments. The city is home to the Kerala Agricultural University, the Kerala Veterinary and Animal Sciences University, and the Sree Kerala Varma College, among others. Thrissur is also known for its thriving trade and commerce, with bustling markets, shopping centres, and industries contributing to its economic growth. Thrissur is more than just a city; it is a living testament to Kerala's rich cultural tapestry, spiritual heritage, and timeless beauty. Whether you're exploring its ancient temples, witnessing its vibrant festivals, or marvelling at its natural wonders, Thrissur is sure to leave an indelible impression on your heart and soul. It is a place where tradition meets modernity, where spirituality meets serenity, and where every corner tells a story of resilience, beauty, and inspiration.",
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Thrissur",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/thrissur",
+        "retrieved_at": "2026-09-22T18:36:34.561833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "destination_id": "IN-BIHAR-GAYA",
+  "destination_name": "Gaya",
+  "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bodh Gaya Airport (GAY), Gaya"
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gaya Junction Railway Station (GAYA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 28.4
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.0,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.2,
+        "maximum_celsius": 38.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 45.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 37.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 15.4,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.7,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 28.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the heart of Bihar, where the Phalgu River weaves its way through time, lies the mystical city of Gaya. This ancient gem, nestled amidst rocky hills and age-old buildings, whispers tales of devotion, enlightenment, and myth. Here you may embark on a poetic journey through the winding lanes. Every cobblestone holds a secret and every temple resonates with ancient hymns. Gaya is no ordinary city; It is a celestial crossroad. Hindus, Buddhists, and Jains converge here, their footsteps echoing across centuries. The Phalgu River, known as Niranjana in the Ramayana, cradles the city’s sacred essence. Imagine the river’s gentle murmur as it carries away sins and memories, leaving pilgrims cleansed and renewed. The name Bihar derives from the Sanskrit word vihara, or monastery – an apt appellation for a state which was the birthplace of Buddhism. Stretching along the banks of the Phalgu river, Gaya along with Varanasi and Allahabad, is regarded as one of the three most sacred sites for performing Hindu funeral rites. It is believed that Vishnu himself sanctified Gaya, decreeing that prayers for departed souls performed here would absolve all their earthly sins. Dominating the religious life of the city is the Vishnupad Temple, which is not open to non-Hindus, but no such restrictions apply to the picturesque ghats and shrines along the riverfront.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Barabar Caves, cut deep into a granite hill, are 24 kms (15 miles) north of Gaya, along a bumpy jeep road. They were the inspiration for the Marabar Caves in EM Forster’s famous novel, A Passage to India. Dating to the 3rd century BC, these are the earliest examples of rock-cut caves in India. Of the four caves, built for ascetics on the orders of the Mauryan emperor Ashoka, the two most impressive are the Lomas Rishi and Sudama Caves. They are remarkable for the highly lustrous polish on the stone, and for how the caves have been shaped to imitate the rounded wood and bamboo dwellings which were common at that time. Even the interior walls have perpendicular grooves cut into the stone, in imitation of bamboo strips. The facade of the Lomas Rishi Cave has fine lattice-work carving and a charming row of elephants paying homage to stupas. These caves were used by the Ajivika sect of ascetics, who were contemporaries of the Jain and Buddhist orders.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The caves in Dungeshwari Hills are said to have protected Lord Buddha before he descended to the sacred town of Bodh Gaya. It is believed that this is the same cave (also called the Mahakala caves), which protected Lord Buddha for six years before he travelled to Bodh Gaya for attaining enlightenment. These caves now house several temples which are widely visited by pilgrims who follow the trail of Lord Buddha’s journey. Dungeshwari Hills are located at a distance of about 12-15 kms from Gaya, along the Falgu river. Chinese pilgrim Hiuen Tsang has mentioned these hills in his travelogue. The hills are most famous for the cave temples where Lord Buddha is said to have meditated before arriving in Gaya for his enlightenment.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The holiest site for Buddhists from all over the world, Bodh Gaya is the place where the Buddha attained enlightenment. The focal point of the town is the Mahabodhi Temple , whose soaring pyramidal spire dominates the landscape. The temple is enclosed on three sides by a 1st-century BC stone railing, carved with lotus medallions and scenes from the Buddha’s life, and includes the sacred Bodhi Tree, under which the Buddha meditated before he attained enlightenment. The original temple at this spot was a circular stupa, built by the Mauryan king Ashoka in the 3rd century BC, but a major reconstruction in the 7th century AD gave the temple its present form. In the 12th century, it was severely damaged by Muslim invaders but faithfully restored in the 14th century by Burmese kings, who also added replicas of the main spire at each corner of the temple. Then, as Buddhism went into a near eclipse in northern India, the temple site was flooded and silted over, and effectively “lost” for centuries. Some Burmese Buddhists rediscovered it in the late 19th century. The temple ruins were then excavated and restored. Today, Bodh Gaya once again flourishes as an international centre for Buddhism. Temples and monasteries built by various countries, including China, Japan, Sri Lanka, Vietnam, Thailand, Taiwan, Korea, Bhutan and Nepal, dot the town. The Thai Temple is the most picturesque, while the modern Japanese Temple is remarkable for the 25-m (82-ft) high Buddha statue that towers in front of it. The Bhutanese and Tibetan Monasteries are filled with colourful murals and prayer wheels, and both are always thronged by red-robed monks. In the courtyard around the Mahabodhi Temple, monks meditate at the stupas, novitiates have their heads shaved, and pilgrims pray before the Bodhi Tree. For three weeks during the winter, a tented city springs up around the temple, as thousands of monks and pilgrims congregate here for the Monlam Chenmo Prayers, often presided over by the Dalai Lama and other venerated figures from the Buddhist world. Across the street, the Archaeological Museum has fragments of the beautiful original 3rd-century BC temple railing, and bronze and stone images from the 8th to 12th centuries, which were excavated during the restoration of the temple.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "According to local lore, the original Bodhi Tree (Ficus religiosa) was cut down by Emperor Ashoka’s wife because she was jealous of the time he spent at his Buddhist devotions. The emperor then revived the tree by nurturing its roots with gallons of milk and built a protective stone railing around it. The tree that stands today is said to come from the same stock as the original tree. Ashoka’s son Mahinda took a sapling from the original tree to Sri Lanka on one of his proselytizing missions. The tree flourished there, and its sapling was later brought back to be planted at Bodh Gaya after the original tree had died. The Mahabodhi Temple complex, a UNESCO World Heritage monument, marks the site where, more than 2,500 years ago, Prince Siddhartha meditated on the causes of human suffering, found the answers he was seeking under the Bodhi Tree, and became the Buddha – the Enlightened One. The best time to visit the complex is at dusk, when thousands of oil lamps bathe the temple in a golden light, and the sound of Buddhist prayers fills the air. The gateway to the temple is made of granite and covered with inscriptions from the Buddha’s teachings. It dates back to the 8th century. Gaya is not just a city; it is a hymn sung by the ages. Its stones breathe devotion, and its waters cradle faith.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The caves in Dungeshwari Hills (about 12-15 kilometers from Gaya, along the Falgu River) are believed to have protected Lord Buddha for six years before he descended to Bodh Gaya. These caves, also known as the Mahakala caves , are where Lord Buddha is said to have meditated before arriving in Gaya for enlightenment. Though lacking visual appeal, the caves offer a surreal experience due to their association with Lord Buddha.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Mahabodhi Temple , located in Bodh Gaya, Bihar, India, is a place of worship and a living testament to history. It marks the spot where Lord Buddha attained enlightenment (Bodhi), a pivotal moment in the development of Buddhism. As one of the oldest brick temples in India, it stands as a testament to the enduring legacy of Lord Buddha.",
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gaya",
+        "source_url": "https://www.incredibleindia.gov.in/en/bihar/gaya",
+        "retrieved_at": "2026-09-22T18:36:24.214191+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

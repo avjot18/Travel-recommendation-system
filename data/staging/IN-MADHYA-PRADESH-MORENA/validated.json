@@ -1,0 +1,513 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-MORENA",
+  "destination_name": "Morena",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Gwalior airport (GWL)"
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Morena Railway Station (MRA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked away in the dramatic landscapes of the Chambal Valley in northern Madhya Pradesh, Morena is one of India's most surprising heritage destinations. Known for its spectacular cluster of medieval temples, the region offers a fascinating mix of ancient architecture, rugged ravine landscapes, and stories that blend mythology, history, and local folklore. While many travellers know the Chambal for its legendary dacoits, few realize that the same isolation helped preserve some of Central India's finest temple complexes.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlike more crowded heritage destinations, Morena rewards visitors with peaceful exploration, striking monuments, and a chance to discover a lesser-known chapter of India's architectural legacy. From intricately carved sandstone temples to unique circular shrines and towering structures that have stood for centuries, Morena is a paradise for history enthusiasts, photographers, and offbeat travellers alike.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Morena flourished as an important centre of temple building between the 7th and 12th centuries under the Gurjara-Pratiharas and Kachchhapaghatas. Many of these rulers traced their lineage to Lakshmana from the Ramayana , and their patronage led to the creation of some of the region's most impressive monuments.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The name Morena is believed to be derived from Mor (peacock), reflecting the abundance of peacocks that once inhabited the area. Even today, these graceful birds can often be spotted around several heritage sites, especially during the early morning hours.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Morena's appeal is its remarkable collection of temple complexes, each showcasing a different aspect of medieval Indian architecture.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bateshwar Temple Complex is Morena's most iconic attraction. Comprising more than 200 restored sandstone temples, the complex creates a breathtaking sight amidst the Chambal landscape and is considered one of India's most significant restoration success stories.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Mitawali stands atop a hill and is renowned for its rare circular design. The temple offers stunning views of the surrounding countryside and remains one of the most distinctive monuments in central India.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Padavali Temple is celebrated for its intricately carved walls depicting scenes from Hindu mythology and is often visited alongside Mitawali.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakanmath Temple, Sihoniya is an imposing Shiva temple known for its towering structure and striking appearance. Rising dramatically against the skyline, it is among the most photographed monuments in the region.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Naresar Temple Group offers a quieter experience, featuring beautifully preserved early medieval temples nestled amidst natural surroundings.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to Morena is incomplete without sampling its famous Gajak , a traditional winter delicacy made from sesame seeds and jaggery. Morena's Gajak is renowned across India for its crisp texture and rich flavour. Travellers should also try Bedai , a popular local breakfast served with spicy potato curry, and Malpua , a sweet delicacy made with jaggery and flour that is especially popular in the Tanwarghar region.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Morena is between October and March , when the weather is ideal for exploring multiple heritage sites comfortably. Early mornings are particularly rewarding, offering cooler temperatures and opportunities to spot peacocks around the temple complexes.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Gwalior Airport (GWL) is the nearest airport (approx. 43.9 km) and offers connectivity to major Indian cities.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Morena Railway Station (MRA) is well connected to Delhi, Gwalior, Agra, Jhansi, and other important cities.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Morena is located about 35-55 km from Gwalior , making it an easy day trip. A private vehicle is the best option for visiting the scattered temple sites, many of which are located in rural areas.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Bateshwar complex contains more than 200 temples restored from near-complete ruin.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Chausath Yogini Temple at Mitawali is famous for its unique circular layout.",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kandariya Mahadev Temple, Khajuraho- The Grandeur of carvings and divinity!",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahakal Lok Corridor and Its enchanting attractions",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Malwa Cuisine of Madhya Pradesh - A tinge of rich flavours!",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Raneh Falls - A preserved area with Magnificent Waterfall around underrated Canyon with colourful rocks and lush green Forest with active wildlife around Ken river in Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chausath Yogini Temple, Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Central Museum, Indore a kaleidoscope of art and history",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlocking Heritage and Adventure: An extraordinary Road Trip in Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Rock Art Wonders Of Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Brahma Temple In Khajuraho, Madhya Pradesh",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Janapav Kuti Unravelling the Sacred Origins of Lord Parshuram's Birthplace",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "10 Exciting Things You Should Definitely Do in Indore!",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 5 Cities to Enjoy the Best Street Food in India",
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Morena",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/morena",
+        "retrieved_at": "2026-09-22T18:36:36.439361+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

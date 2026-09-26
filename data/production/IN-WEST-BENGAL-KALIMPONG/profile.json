@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-WEST-BENGAL-KALIMPONG",
+  "name": "Kalimpong",
+  "state_or_ut": "West Bengal",
+  "region": null,
+  "description": "Kalimpong is an officially listed tourism destination in West Bengal, India. It is best treated as a heritage, culture, mountains travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "culture",
+    "mountains",
+    "food",
+    "nature"
+  ],
+  "best_for": [
+    "food",
+    "heritage",
+    "tea",
+    "mountains",
+    "culture"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 4.2,
+      "maximum_celsius": 18.8
+    },
+    "february": {
+      "minimum_celsius": 5.6,
+      "maximum_celsius": 20.4
+    },
+    "march": {
+      "minimum_celsius": 8.0,
+      "maximum_celsius": 23.9
+    },
+    "april": {
+      "minimum_celsius": 11.1,
+      "maximum_celsius": 27.0
+    },
+    "may": {
+      "minimum_celsius": 12.1,
+      "maximum_celsius": 27.9
+    },
+    "june": {
+      "minimum_celsius": 14.1,
+      "maximum_celsius": 28.3
+    },
+    "july": {
+      "minimum_celsius": 14.7,
+      "maximum_celsius": 27.6
+    },
+    "august": {
+      "minimum_celsius": 14.7,
+      "maximum_celsius": 27.9
+    },
+    "september": {
+      "minimum_celsius": 13.9,
+      "maximum_celsius": 26.9
+    },
+    "october": {
+      "minimum_celsius": 11.6,
+      "maximum_celsius": 25.7
+    },
+    "november": {
+      "minimum_celsius": 9.3,
+      "maximum_celsius": 23.2
+    },
+    "december": {
+      "minimum_celsius": 6.4,
+      "maximum_celsius": 20.7
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of West Bengal",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Bagdogra International Airport (IXB), Bagdogra"
+    ],
+    "railway_station": [
+      "New Jalpaiguri Junction Railway Station (NJP)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in West Bengal",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kalimpong",
+      "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/kalimpong",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

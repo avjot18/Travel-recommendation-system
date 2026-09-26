@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-JHARKHAND-JAMSHEDPUR",
+  "destination_name": "Jamshedpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Sonari Airport (IXW), Jamshedpur Netaji Subhas Chandra Bose International Airport (CCU), Kolkata Birsa Munda Airport (IXR), Ranchi"
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Tatanagar Junction Railway Station (TATA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 6.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 44.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 41.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.1,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.7,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.4,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Netaji Subhas Chandra Bose International Airport (CCU), Kolkata",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tatanagar Junction Railway Station (TATA)",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jamshedpur, often hailed as the Steel City of India, is a quintessential example of harmony between industrial prowess and natural beauty. Founded by the visionary industrialist Jamsetji Tata in 1907 and named after him, it is situated in the eastern part of Jharkhand. It offers visitors a unique blend of urban development and lush landscapes. At the heart of Jamshedpur's identity is the Tata Steel Plant, Asia's first integrated steel mill, which is a testament to India's industrial revolution. The plant shaped the city's economic landscape and laid the foundations for its diverse social fabric. Visitors are often intrigued by the plant's grandeur and the city's meticulously planned layout, attributed to the renowned town planner Julius V. Lobo. Although access to the plant may be restricted, its presence is palpable throughout the city, reminding visitors of Jamshedpur's historical significance in India's industrial narrative.",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its industrial legacy, Jamshedpur surprises visitors with its verdant spaces, a rare sight in urban industrial hubs. The Jubilee Park, gifted to the citizens by Tata Steel on the company's Golden Jubilee, is a sprawling green oasis in the city's heart. Modelled after the Vrindavan Gardens of Mysore, it is beautifully illuminated on the birth anniversary of Jamsetji Tata, creating a spectacle that draws both locals and tourists. The Park's meticulously landscaped gardens, fountains, and a mini zoo make it a perfect retreat for nature lovers. Another jewel in Jamshedpur's crown is the Dimna Lake , nestled at the foothills of the Dalma range. It is a serene spot for picnics and morning walks, offering breathtaking views and a peaceful escape from the city's hustle. The lake, also a crucial water reservoir for the city, provides opportunities for water sports, making it a popular destination for adventure enthusiasts. The Dalma Wildlife Sanctuary, extending over the Dalma Hills, is a thrilling haven for wildlife and nature enthusiasts. Home to elephants, barking deer, and many bird species, it offers treks and safaris that allow visitors to immerse themselves in the region's natural bounty. The hilltop Shiva Temple, accessible by a steep drive or trek, draws pilgrims and tourists alike, especially during the Shivratri festival. The Bhuvaneshwari Temple and the Rankini Mandir present serene environments and architectural beauty for those interested in spirituality and architecture. The Sir Dorabji Tata Park, known for its beautifully manicured gardens and annual flower show, is another not-to-miss spot. The confluence of natural beauty, spirituality, and architectural marvels in Jamshedpur offers all visitors a comprehensive and enriching experience. Approximately 45 kilometers from Jamshedpur, Ghatshila is a picturesque town known for its scenic beauty and Satyajit Ray's famous movie \"Aparajito\" locations. The town is embraced by the Subarnarekha River and dense forests, which house the Phuldungri Hills and Burudih Lake, making it an ideal spot for a peaceful retreat. Culturally, Jamshedpur is a melting pot, with numerous festivals celebrated with fervour, reflecting the city's diverse ethnic makeup. The Tata Steel Zoological Park , near Jubilee Park, houses various species and delights children and adults with a safari ride. The Russi Mody Centre for Excellence and the Tata Football Academy highlight the city's commitment to sports and education, contributing to its vibrant community life.",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The culinary scene in Jamshedpur is as vibrant and diverse as its culture, offering an array of local dishes and eateries that promise to tantalize the taste buds. The city is particularly famous for its street food and delicacies such as litti chokha, a traditional Bihari dish made of stuffed whole wheat dough balls with roasted gram flour and spices, served with mashed potatoes and eggplant. Another must-try is the dhuska, a deep-fried rice and lentil pancake, often served with spicy potato or mutton curry. For those seeking a more formal dining experience, The Boulevard Hotel offers an eclectic mix of Indian, Chinese, and Continental cuisine, catering to diverse palates. Hotel Alcor, with its elegant ambiance, serves exquisite North Indian and Continental dishes, making it a popular choice among locals and tourists. For authentic Bengali cuisine, one should not miss the Bangla Ranna, known for its fish curry and rice. The mix of traditional eateries and modern restaurants in Jamshedpur ensures that every meal is an experience. One of the most significant and widely appreciated events is the Tata Steel Kolkata Literary Meet, which extends to Jamshedpur. This event attracts literature enthusiasts for discussions, readings, and author interactions. These festivals present a splendid opportunity for visitors to experience Jamshedpur's rich traditions and communal spirit. Jamshedpur's traditional and modern shopping experience offers an eclectic mix of local handicrafts, textiles, jewellery, and contemporary fashion. The Bistupur Market is a bustling hub where shoppers can find various items, from clothing and accessories to electronics and household goods. For a more traditional shopping experience, Sakchi Market provides a glimpse into the local lifestyle, offering everything from fresh produce and spices to handmade crafts and traditional attire. The best time to visit Jamshedpur is during the winter months from October to February, when the weather is pleasant, with temperatures ranging from 10°C to 28°C. This period is ideal for exploring the city's attractions and participating in outdoor activities without the discomfort of the scorching summer heat or the monsoon rains. The cool and comfortable climate enhances the experience of visiting local sights, attending festivals, and indulging in street food tours. Reaching Jamshedpur is convenient, as it is well-connected by road, rail, and air. The nearest airport is Sonari Airport in Jamshedpur, catering to private and charter flights. At the same time, the Birsa Munda Airport in Ranchi, approximately 150 kilometers away, serves as the nearest commercial airport with regular flights from major cities across India. The city boasts an efficient railway network. Tatanagar Junction is a major and busy railway station connecting Jamshedpur to key cities like Kolkata, Mumbai, Delhi, and Chennai through several express and superfast trains. Road travelers can access Jamshedpur via National Highway 33, which has a well-maintained network of roads and national highways linking it to neighboring cities and states, making road trips an enjoyable option.",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With over 30% of its total land area covered by lush greenery , Jamshedpur is one of the greenest cities in India. It offers a refreshing environment amidst the bustling industrial landscape.",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering local food delicacies in Jamshedpur",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the unique shopping gems of Jamshedpur",
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Jamshedpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/jamshedpur",
+        "retrieved_at": "2026-09-22T18:36:30.357987+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

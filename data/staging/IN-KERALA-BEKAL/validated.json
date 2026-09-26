@@ -1,0 +1,294 @@
+{
+  "destination_id": "IN-KERALA-BEKAL",
+  "destination_name": "Bekal",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Mangaluru International Airport (IXE), Mangalore Kozhikode Airport (CCJ),Kozhikode"
+      },
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bekal Fort Railway Station (BFR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mangaluru International Airport (IXE), Mangalore",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine sun-drenched beaches inviting you to leave your footprints in the warm sand, majestic forts whispering stories of battles fought, and serene backwaters offering an escape into the heart of nature.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kerala's Malabar Coast unfolds an array of hidden gems, and Bekal, a quaint town located in the Kasargod district, shines brightly amongst them. The town is renowned primarily for its iconic and well-preserved Bekal Fort, the largest fort in Kerala, and its pristine, untouched beaches.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bekal isn't your typical tourist destination. It’s a place where time seems to move slower, letting you unwind and reconnect with yourself. Gracing the shores of the Arabian Sea, Bekal promises tranquillity and a laid-back charm that will soothe your soul.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Towering over Bekal's serene landscape stands the town’s crown jewel - the grand Bekal Fort . This 300-year-old marvel claims the title of Kerala's largest fort. Imagine a colossal structure meticulously crafted from laterite slabs, its imposing figure rising 130 feet above sea level. Its unique keyhole shape adds to its intrigue, hinting at the strategic brilliance of its builders. Perched strategically on a steep cliff by the Arabian Sea, the fort offers breathtaking panoramic views that will leave you in awe.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short journey outwards unveils another historical treasure – the Chandragiri Fort. This 17th-century fort, built by Sivappa Naik, overlooks the confluence of the Payaswini River and Arabian Sea. Unlike the bustling Bekal Fort, Chandragiri offers serenity. Here, you can truly soak in the beauty of the surroundings.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But Chandragiri isn't just about history; it's about adventure too. Embark on a thrilling boat trip from Chandragiri Bridge and explore nearby islands and hidden palm groves. For an even more immersive experience, the Chandragiri Boat Club offers a variety of options – speedboat rides, houseboat cruises, island camping, and wildlife tours. Local fishermen near the Chandragiri Bridge can also become your guides, taking you on unforgettable backwater journeys and island explorations.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The natural beauty of Bekal can instantly nourish your soul, especially its unspoiled beaches. If you crave a secluded haven, Kappil Beach in Kasargod beckons. Here, pristine sands stretch endlessly before you, and the only sound you hear is the gentle murmur of the waves.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Want a classic beach experience? Bekal Beach , right next to the Bekal Fort, will give you the perfect blend of relaxation and exploration. This partially sandy, partially rocky stretch provides ample space for a long, leisurely stroll, making it ideal for quality time with loved ones.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short distance away lies Pallikere Beach, a serene haven of golden sand. Here, the Bekal Fort stands sentinel, offering a breathtaking backdrop for your beachside adventures.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you wish to experience Kerala's renowned backwaters, Bekal has a treat for you. Glide through the serene Valiyaparamba Backwaters on a traditional kettuvallam (Kerala's houseboat) and witness lush greenery and a glimpse of local flora and fauna. As you navigate the waterways, you'll approach Valiyaparamba Island, the largest in the Kavvayi backwaters.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a touch of the mystical, venture into the Nityanandashram Caves. This spiritual centre, established by revered leader Swami Nityananda, houses a network of 45 caves carved from a single rock! With a stunning Panchaloha idol of Swami Nityananda and six entrances, these caves invite you to explore and introspect.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "When in Bekal, don't limit yourself to exploring the natural wonders. Embark on a spiritual trail that will rejuvenate your soul. Journey back to the 9th century at the unique Ananthapura Lake Temple, located 5 km from Kumbala. Set amidst a picturesque lake, the temple’s main deity is Sree Padmanabha, an incarnation of Vishnu, sitting regally on the serpent god Adisesha.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the second-oldest mosque in India, the Malik Deenar Mosque, near Kasaragod town. This architectural marvel boasts a palace-like structure, built in the traditional Kerala style, featuring two storeys and massive beams.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Don't miss the Madhur Ganapathy Temple near Kasaragod. Here, Lord Ganesha takes centre stage, though Lord Shiva is the main deity. Marvel at the temple's architecture as the Madhuvaahini (Payaswani) River adds a touch of serenity to your visit.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Seek blessings on the shores of the Arabian Sea at the Thrikkannad Shiva Temple close to Bekal. This Shiva temple, known for its unique rituals performed to ensure the well-being of the souls of the deceased, will offer you a glimpse into local traditions. Finally, delve into history at the revered Mallikarjuna Temple, considered one of the oldest in Kasaragod. This spiritual site, dedicated to Lord Shiva, holds a legendary connection to Arjuna, one of the Pandavas from the Hindu epic Mahabharata, who is said to have adorned the idol here.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another must-visit is Bela Church, also known as Our Lady of Sorrows Church. The captivating Gothic-style construction is sure to leave you in awe. Step inside and marvel at the historic, age-old paintings.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No Kerala adventure is complete without a tantalising exploration of its cuisine, and Bekal is no exception. Bekal specialises in steamed and fried dishes. Indulge in fluffy puttu, idli, delicate idiappam, or soft ada – all steamed to perfection. For a crispier experience, try the sweet fried bananas or fiery bhajji (fried chillies).",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In Kerala, you cannot miss savouring Sadhya, a traditional feast served on a banana leaf. Other quintessential Keralan delicacies you can try are payasam (sweet rice pudding), tangy pickled mango, and refreshing local fruit juices.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bekal embraces Kerala's love affair with fresh seafood. Dive into the local specialities – the fragrant fish curry and the crisp fried calamari. Head to the numerous sea-view restaurants offering delectable seafood dishes and an array of South Indian cuisine.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kerala's festival spirit spills over to Bekal! Witness vibrant temple celebrations throughout the year, like the five-day Mallikarjuna temple festival or the Bekal Fort Mukhya Prana temple's showcase of Kathakali and Yakshagana. Don't miss the colourful Kalasam and Pattulsavam festivals at Madiyankulam Durga Temple. And for a contemporary twist, immerse yourself in the 10-day Bekal International Beach Festival with its lively mix of markets, sand sculptures, and thrilling water sports!",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness a mesmerising 1500-year-old tradition come alive in Bekal: Theyyam. This ritualistic dance sees performers embody deities, warding off evil with vibrant costumes and captivating movements. Look for these performances in houses, tharavads (ancestral homes), and shrines.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bekal welcomes visitors year-round, but the ideal time to visit depends on your preferences. Plan your trip between November and February for the most pleasant weather, when the monsoon rains have subsided and the skies are clear and sunny. However, if you enjoy lush greenery and don't mind occasional showers, the monsoon season (June to September) offers a different perspective of Bekal's natural beauty.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "So, pack your bags and prepare to be captivated by the untamed beauty of Bekal.",
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bekal",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/bekal",
+        "retrieved_at": "2026-09-22T18:36:32.698738+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

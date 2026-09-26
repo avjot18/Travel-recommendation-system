@@ -1,0 +1,152 @@
+{
+  "destination_id": "IN-RAJASTHAN-AJMER",
+  "name": "Ajmer",
+  "state_or_ut": "Rajasthan",
+  "region": null,
+  "description": "Ajmer is an officially listed tourism destination in Rajasthan, India. It is best treated as a heritage, desert, culture travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "desert",
+    "culture",
+    "food",
+    "luxury"
+  ],
+  "best_for": [
+    "forts",
+    "palaces",
+    "desert",
+    "photography",
+    "culture"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 5.9,
+      "maximum_celsius": 29.2
+    },
+    "february": {
+      "minimum_celsius": 9.0,
+      "maximum_celsius": 32.5
+    },
+    "march": {
+      "minimum_celsius": 13.3,
+      "maximum_celsius": 38.0
+    },
+    "april": {
+      "minimum_celsius": 18.7,
+      "maximum_celsius": 41.7
+    },
+    "may": {
+      "minimum_celsius": 22.0,
+      "maximum_celsius": 43.5
+    },
+    "june": {
+      "minimum_celsius": 21.6,
+      "maximum_celsius": 43.1
+    },
+    "july": {
+      "minimum_celsius": 23.0,
+      "maximum_celsius": 39.1
+    },
+    "august": {
+      "minimum_celsius": 22.7,
+      "maximum_celsius": 35.8
+    },
+    "september": {
+      "minimum_celsius": 21.9,
+      "maximum_celsius": 37.5
+    },
+    "october": {
+      "minimum_celsius": 16.8,
+      "maximum_celsius": 37.3
+    },
+    "november": {
+      "minimum_celsius": 11.6,
+      "maximum_celsius": 33.9
+    },
+    "december": {
+      "minimum_celsius": 7.2,
+      "maximum_celsius": 30.4
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Rajasthan",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Jaipur International Airport (JAI), Jaipur Indira Gandhi International Airport (DEL), Delhi Kishangarh Airport (KOH), Kishangarh"
+    ],
+    "railway_station": [
+      "Ajmer Junction Railway Station (AII)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Rajasthan",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Ajmer",
+      "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/ajmer",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

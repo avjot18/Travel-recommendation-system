@@ -1,0 +1,433 @@
+{
+  "destination_id": "IN-HIMACHAL-PRADESH-BILASPUR",
+  "destination_name": "Bilaspur",
+  "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chandigarh International Airport (IXC) Shimla Airport (SLV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kiratpur Sahib Railway Station (KART)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled at the foothills of the Bandla Hills, Bilaspur is a destination where history and nature weave a tale of timeless charm. At an altitude of 673 meters, this picturesque town sits along the shimmering waters of the Gobind Sagar Lake, a man-made marvel created by the Bhakra Dam on the Sutlej River. Bilaspur is not just a scenic getaway-it’s a living chronicle of Himachal’s royal past, spiritual heritage, and engineering wonders.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Once the capital of the princely state of Kahlur, Bilaspur’s roots trace back to the 7th century, when the Chandel Rajputs established their kingdom here. The old town was submerged after the construction of Bhakra Dam in 1963, but Bilaspur rose again on higher ground, carrying forward its legacy with pride. Today, it stands as the first planned hill town of Himachal Pradesh-a blend of tradition and modernity.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur’s crown jewel is the Gobind Sagar Lake, one of India’s largest man-made reservoirs, stretching across 170 square kilometers. Its turquoise waters, framed by rolling hills, create a spellbinding panorama. Spend a day boating on the lake, try your hand at game fishing, or simply sit by its banks and watch the sun dip behind the mountains, turning the sky into a canvas of gold and crimson.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adventure seekers will find plenty to thrill their senses. The lake is a hub for water sports, including rowing and angling, while the surrounding hills offer trekking trails that lead to breathtaking viewpoints. For an adrenaline rush, head to Bandla Hills for paragliding and soak in aerial views of the valley.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur is steeped in spirituality, with temples and shrines that echo centuries of devotion. The Naina Devi Temple, perched atop a hill, is one of the most revered Shakti Peeths in India. Legend says the eyes of Goddess Sati fell here during Lord Shiva’s cosmic dance, giving the temple its name. Pilgrims flock here during Navratri fairs, filling the air with chants and colors.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Another gem is the Vyas Cave, believed to be the meditation site of Maharishi Vyas, the sage who composed the Mahabharata. Nearby, the Markandeya Temple offers a serene retreat amid lush greenery, while the Sheetla Mandir adds to the town’s spiritual aura.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur is home to the iconic Bhakra Dam, one of India’s tallest dams and a testament to human ingenuity. Standing here, you’ll witness the sheer scale of this structure and the vast expanse of Gobind Sagar Lake it created. Don’t miss the Kandrour Bridge, a suspension bridge over the Sutlej River, once among the highest in Asia-a perfect spot for photography and short walks.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bilaspur’s cultural fabric is vibrant and deeply rooted in Himachali traditions. The town comes alive during festivals like Lohri, Baisakhi, and the famous Naina Devi Fair, where you can witness the traditional Nati dance and shop for local handicrafts-handwoven shawls, wooden artifacts, and colorful Himachali caps.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Treat your taste buds to authentic Himachali cuisine. Relish Sidu, a steamed bread stuffed with walnuts, savor the creamy Madra, and warm up with a bowl of Thukpa. Pair these delicacies with a cup of piping hot tea as you gaze at the serene lake-it’s a moment of pure bliss.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Chandigarh International Airport (IXC) , located approximately 135 km from Bilaspur. Shimla Airport (SLV) , about 85 km away, serves as an alternative, though with limited flight connectivity.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: The nearest broad‑gauge railway station is Kiratpur Sahib Railway Station (KART) in Punjab, situated around 65 km from Bilaspur. Anandpur Sahib Railway Station (ANSB) , approximately 70 km away, is another convenient railhead.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Bilaspur is well connected by road and lies on NH 205 , making it easily accessible by buses and taxis . It is around 85 km from Shimla , 135 km from Chandigarh , and 350 km from Delhi , with regular bus services operated by state and private transport providers.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gobind Sagar Lake was formed by the Bhakra Dam on the Sutlej River and is among India’s largest man-made reservoirs.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Naina Devi Ji is one of the revered Shaktipeeths; tradition holds that the Goddess’s eyes (naina) fell here.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bhakra Dam, part of the Bhakra-Nangal project, has been called a “Temple of Modern India,” symbolizing the nation’s early hydroelectric ambition.",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 Cafes in Shimla: A Guide to the Best Coffee and Snacks in the Queen of Hills",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food Guide - Must-Try Local Foods in Shimla and Rest of Himachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Hill Stations in Himachal Pradesh That Are Ideal for a Summer Vacation with Kids",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shimla With Friends? Try Something Different!",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travelling from Delhi to Shimla like a Boss!",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tourist Places in Shimla You Must Not Miss on Your Next Trip",
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bilaspur",
+        "source_url": "https://www.incredibleindia.gov.in/en/himachal-pradesh/bilaspur",
+        "retrieved_at": "2026-09-22T18:36:28.494264+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

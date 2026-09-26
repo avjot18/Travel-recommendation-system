@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-TAMIL-NADU-CHENNAI",
+  "destination_name": "Chennai",
+  "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Chennai International Airport (MAA), Chennai"
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Chennai Central Railway Station (MAS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 18.9,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 33.5
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 24.1,
+        "maximum_celsius": 37.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 24.7,
+        "maximum_celsius": 41.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.4,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 37.6
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 37.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 35.9
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 19.6,
+        "maximum_celsius": 31.2
+      },
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai International Airport (MAA), Chennai",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai, formerly known as Madras, is a city of contrasts, where ancient temples stand tall amidst skyscrapers and traditional dance forms share the stage with contemporary art. A beautiful blend of South Indian traditions and modernity, Chennai, the capital of Tamil Nadu is one of the important metro cities of India. Be its cuisine, culture or development, Chennai is a cultural hot spot and a leader in modern India.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visiting Chennai as a tourist is an exciting and enriching experience. The city has a unique charm with its blend of rich history, vibrant culture, and modern amenities. As a tourist, you'll find yourself captivated by a few hundred magnificent temples, each with its own architectural marvels and spiritual significance. No wonder it is known worldwide as the city of temples. The warmth and friendliness of the locals add to the welcoming atmosphere, making you feel right at home. Whether you're exploring historical sites, enjoying the lively cultural scene, or simply relaxing by the sea on some of the best beaches in the country, visiting Chennai as a tourist promises to be an unforgettable journey filled with delightful experiences. History has it that the name Chennai was derived from the name of Chennappa Nayaka, a Nayak ruler who served as a general under Venkata Raya of the Vijayanagara Empire from whom the British East India Company acquired the town in 1639. Chennai was previously known as Madras, a name which probably was derived from Madrasapattinam, a fishing village north of Fort St. George. Today Chennai stands as a city that seamlessly blends tradition with contemporary elements, offering an enchanting experience to all its visitors. Nestled along the south-eastern coast of India, the city is celebrated for its deep-rooted cultural heritage, lively festivals, tantalising cuisine and picturesque shorelines.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Historically, Chennai region was part of the Chola, Pandya, Pallava and Vijayanagara kingdoms during various eras. The coastal land which then contained the fishing village Madrasapattinam, was purchased by the British East India Company in the 17th century. British garrison established Madras city and port, and built Fort St. George, the first British fortress in India. The city was made the winter capital of the Madras Presidency, a colonial province of the British Raj in the Indian subcontinent. After India gained its independence in 1947, Madras continued as the capital city of the Madras State and present-day Tamil Nadu. The city was officially renamed as Chennai in 1996.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai, the vibrant capital of Tamil Nadu, boasts of several iconic landmarks that epitomize its rich heritage and cultural significance. Among these, Marina Beach stands out as one of the longest urban beaches globally, offering stunning views of the Bay of Bengal and serving as a favourite spot for locals and tourists alike. Fort St. George , dating back to 1644, holds the distinction of being the first English fortress in India. Today, it houses the Tamil Nadu Legislative Assembly and the Fort Museum , showcasing artefacts from the colonial era, providing a glimpse into Chennai's historical past. The Kapaleeshwarar Temple , dedicated to Lord Shiva, showcases magnificent Dravidian-style architecture, adorned with intricate sculptures and towering gopurams. Another religious gem, the Parthasarathy Temple , is a 6th-century Hindu Vaishnavite temple dedicated to Lord Vishnu . These temples remain significant religious and cultural landmarks in the city, attracting devotees and visitors throughout the year. Meanwhile, the Santhome Cathedral Basilica , built over the tomb of Saint Thomas the Apostle, is a revered pilgrimage site for Christians, known for its neo-Gothic architecture and serene ambience. Other notable landmarks include the Government Museum , Vivekananda House (Ice House), Valluvar Kottam , Arignar Anna Zoological Park and MGR Memorial , each contributing to Chennai's rich tapestry of history, culture, and architectural splendour. Together, these landmarks showcase Chennai's diverse and vibrant character, inviting visitors to explore its captivating heritage and timeless charm.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The beaches of Chennai offer a unique and diverse experience that's worth exploring. Marina Beach, one of the longest urban beaches in the world, is a prominent attraction known for its vast expanse of golden sand and stunning views of the Bay of Bengal. Besant Nagar Beach, also known as Elliot's Beach, is a favourite hangout spot for locals and tourists alike. It's less crowded compared to Marina Beach and offers a more relaxed atmosphere. Covelong Beach, located a short drive from Chennai, is known for its picturesque setting and water sports activities like surfing and windsurfing. The serene surroundings and fishing village nearby add to its charm, making it an ideal spot for a day trip away from the city. For nature lovers, the hidden gem of Muttukadu Beach offers tranquil backwaters and scenic boat rides. It's a peaceful escape from the hustle and bustle of the city, perfect for those seeking a quieter beach experience. Overall, the beaches of Chennai cater to different preferences, whether you're looking for a lively ambience, water sports or a peaceful retreat amidst nature. Each beach has its own character and offers a glimpse into the coastal beauty of this vibrant city.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai emerges as a cultural hub where ancient traditions seamlessly intertwine with contemporary influences. The city comes alive during festivals such as Pongal, a fervently celebrated harvest festival, and the Margazhi Festival, a month-long extravaganza of classical music and dance. Visitors can immerse themselves in the captivating performances of Bharatanatyam, a classical dance form native to Tamil Nadu, or revel in the soul-stirring melodies of Carnatic music, which holds a special place in the hearts of Chennaites.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to Chennai would be incomplete without savouring its culinary offerings. The city presents a culinary paradise, offering a delectable array of experiences, ranging from street food delights to upscale dining options. Delight in the bold flavours of authentic Chettinad cuisine, characterized by its aromatic spices and flavourful curries or indulge in the iconic South Indian breakfast of crispy dosas and fluffy idlis paired with piping hot sambar and chutney. For seafood enthusiasts, a trip to the bustling fish markets of Kasimedu promises a feast for the senses, with freshly caught seafood transformed into mouth-watering dishes.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In conclusion, Chennai emerges as a city of contrasts, where the past seamlessly converges with the present, creating a tapestry of tradition and modernity. Whether exploring its historical landmarks, immersing oneself in its vibrant cultural scene or indulging in its diverse culinary offerings, Chennai promises an immersive experience that leaves an indelible mark on every visitor. With its rich heritage, lively festivals and culinary treasures, Chennai stands as a captivating destination that beckons travellers to unravel the secrets of India's cultural mosaic. There are innumerable tourist attractions close to Chennai. The list includes Mahabalipuram (Mamallapuram), Pondicherry (Puducherry), Kanchipuram, Vedanthangal Bird Sanctuary, Kovalam and Tirupati. These attractions offer a diverse range of experiences, from exploring ancient heritage sites to relaxing on pristine beaches and immersing yourself in spiritual retreats. They make excellent day trips or weekend getaways from the bustling city of Chennai.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chennai is well connected by all means of transport. Chennai International Airport (Meenambakkam) is not very far from the city and is one of the busiest in the country. There are daily flights here from various cities in the country as well as international flights from major countries. If one intends to travel by train, Chennai Central (Puratchi Thalaivar Dr. M. G. Ramachandran Central Railway Station) is the busiest station providing access to other major cities and smaller towns across India. Further, there are various national highways connecting Chennai with Trichy, Bengaluru, Coimbatore and Tiruvallur.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Marina Beach in Chennai is one of the longest urban beaches in the world, stretching over 13 kilometers along the Bay of Bengal.",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Foodies Guide To Trying Local Cuisine In Chennai and Tamil Nadu",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring Chennai's vibrant shopping scene",
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chennai",
+        "source_url": "https://www.incredibleindia.gov.in/en/tamil-nadu/chennai",
+        "retrieved_at": "2026-09-22T18:36:45.033556+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

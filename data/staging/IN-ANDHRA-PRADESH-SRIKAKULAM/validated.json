@@ -1,0 +1,543 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-SRIKAKULAM",
+  "destination_name": "Srikakulam",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Visakhapatnam Airport (VTZ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Srikakulam Road Railway Station (CHE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Welcome to the land of Srikakulam, a costal city located in the northeastern part of Andhra Pradesh. Bordered by the Bay of Bengal and traversed by the Nagavali River, Srikalulam is renowned for its ancient temples, Buddhist heritage, pristine beaches, rich handicrafts and lip-smacking delicacies.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "IIf you are planning to visit this beautiful city, start your journey by paying obeisance to the Sun God at the famous Suryanaryana Swamy Temple at Arasavalli. One of the two major Sun temples in India, this ancient holy site is believed to be built in 7th century CE by King Devendra Varma, a great ruler of Eastern Ganga dynasty of Kalinga. It fell into disrepair over the centuries and was reconstructed in 1778 CE by a philanthropist, Elamanchili Pullaji Panthulu.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built in Kalinga style of architecture, the temple has been constructed in such a way that twice a year, in March and September, the rays of the Sun fall at the feet of the deity , making it a sight to behold.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other prominent pilgrimage centres where you can pay your reverence are Srikurmam Temple , one of the rare temples dedicated to Lord Vishnu in Kurma (tortoise) avatar and the Sri Mukhalingam Temple, an important Shaivite shrine known for its exquisite Kalinga-style architecture.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mandasa , a historic village in Srikakulam district, is also a must-visit destination. Known as Manjusha, this village is famous for its ancient Vasudeva Perumal Temple, the royal fort and the traditional medicinal sweet, Mandasa Palakova.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "These sacred sites, combined with traditional festivals, rituals, and the serene natural surroundings, make Srikakulam a notable destination for religious tourism.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If archeology is something that fascinates you, Srikarilulam has to be on your travel list. It is a major center of Buddhist heritage, offering valuable insights into the evolution of Buddhism in India. Salihundam, located on the banks of the Vamsadhara River is significant Buddhist archaeological site in Srikakulam district. Dating from the 2nd century BCE to the 12th century CE, the site contains stupas, viharas, chaitya halls, and a Maha Stupa, representing Theravada, Mahayana, and Vajrayana traditions. Unique features include a star-shaped stupa, rock-cut stupas inside chaitya grihas, wheel-pattern brick stupas, inscriptions, and a museum housing sculptures of Buddha, Jain Tirthankaras, and other deities.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other important Buddhist sites in the district include Danthapuri, believed to have been developed after the Kalinga War under Emperor Ashoka, as well as Jagati Metta, Singupuram, Nagari Peta, and Dabbaka Vaani Peta.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Craving for a serene setting in the lap of nature, then head to the unexplored beaches of Srikakulam.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kalingapatnam Beach , where the Vamsadhara River meets the Bay of Bengal, is known for its golden sands, tranquil atmosphere, and historical importance as an ancient port and former capital of the Gang Dynasty. The presence of a lighthouse and APTDC accommodation makes it a comfortable yet peaceful retreat.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Baruva Beach , a former British seaport, is another scenic location featuring clean sands, an old shipwreck pillar, and a nearby lighthouse. Less commercialized and calm, it is ideal place for seeking solitude, with facilities such as the Haritha Resort, kayaking, and adventure activities.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you have time on your hands, then do visit Dharbakulam Lake, another picturesque destination in Srikakulam known for calm environment and scenic walking paths. Serving as a habitat for birds and aquatic species, the lake is also a popular spot to indulge in leisure activities such as boating and fishing.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visiting Telineelapuram and Telukunchi Bird Sanctuaries would be another enriching experience if you are at Srikakulam between September to March. During these months, the sanctuaries transform into vibrant havens for a dazzling variety of migratory birds. Species travel from as far as, seeking refuge from their harsh, frozen winters. The sight and sound of these birds against the serene rural landscape make the visit unforgettable.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Handicraft lovers, do not miss visiting the artisan villages of Ponduru and Budithi if you are in Srikakulam. While Budhiti is famous for its distinctive brass and bell metal handicrafts , which have received a Geographical Indication (GI) tag , Ponduru is internationally known for its ultra-fine handwoven Sanna Khadi . The finesse of this Khadi is so impressive that even Mahatam Gandhi preferred it over other varieties.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As no trip is complete until you have explored the authentic local flavours, so don’t forget to grab a bite of Srikakulam’s lip-smacking dishes. From popular vegetarian dishes like Pulihora , a tangy tamarind rice, Pesarattu , a green gram crepe served with ginger chutney, to sweets like Bobbattu and Ariselu , and non-vegetarian dishes like Kodi Kura , a spicy chicken curry, and Chepala Pulusu , a tangy fish curry, Srikakulam has much to offer on its platter.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Srikakulam is during the winter months, from October to March , when the weather is cool, pleasant, and dry, making it ideal for exploring temples as well as enjoying the coastal areas without intense heat or heavy rains.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail : Srikakulam Road Railway Station (CHE) , located about 8–10 km from the city centre, is the nearest major railhead and is well connected to Visakhapatnam, Bhubaneswar, Kolkata, and other key cities along the east coast.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Visakhapatnam International Airport (VTZ) , approximately 115–120 km away, is the nearest airport, offering regular domestic flights and limited international connectivity.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Srikakulam is well connected by road via NH‑16 , with frequent bus services and taxis available from Visakhapatnam, Vizianagaram , and other towns in northern Andhra Pradesh and southern Odisha.",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mandasa, a historic village in Srikakulam boasts one of India's oldest Odia libraries in the historic Mandasa Palace",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Srikurmam is the world's only temple where Lord Vishnu is worshipped as a tortoise (Kurma Avatar)",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Srikakulam",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/srikakulam",
+        "retrieved_at": "2026-09-22T18:36:20.718548+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

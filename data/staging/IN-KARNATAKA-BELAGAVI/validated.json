@@ -1,0 +1,322 @@
+{
+  "destination_id": "IN-KARNATAKA-BELAGAVI",
+  "destination_name": "Belagavi",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Belagavi Airport (IXG), Belagavi Hubballi Airport (HBX), Hubballi"
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Belagavi Railway Station (BGM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 15.1,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 18.0,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 20.3,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 35.0
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 29.3
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.1,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.5,
+        "maximum_celsius": 28.2
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 29.0
+      },
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine strolling through bustling markets filled with colourful textiles and aromatic spices, or sipping on a cup of filter coffee at a local café where time seems to slow down. Belagavi is all about taking it easy and immersing yourself in the simple joys of life. Known for its laid-back vibe and rich heritage, Belagavi welcomes you with open arms.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi, earlier known as “Venugrama” or the “Bamboo Village” is one of the oldest, strong, prominent and well cultured historical places nestling high in the Western Ghats. The old town area with cotton and silk weavers stands gloriously besides the modern, bustling, tree-lined British Cantonment. Belagavi was also known as Belgaum till very recent times. It is a city brimming with historical landmarks, cultural diversity and scenic vistas. From ancient forts and temples to lively markets and tranquil parks, Belagavi promises an enchanting experience for tourists eager to delve into its rich heritage and scenic delights.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi's legacy traces back to the Ratta Dynasty with lineage to the Rashtrakuta Dynasty, Vijayanagar rulers, Bijapur Sultans or Bahmanis, Marathas (Shivaji Maharaj) and finally by the British in that order. The Belagavi Fort , erected by the Rattas in the 12th century, stands as a testament to the city's strategic significance. Adorned with formidable walls, bastions, and intricate carvings, the fort offers a glimpse into the region's storied past. Within its precincts lies the Kamal Basti Jain Temple , celebrated for its intricate architecture and embellished carvings.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi lies in the zone of cultural transition between Karnataka, Maharashtra and Goa with a known antiquity clearly traceable up to 2nd century A.D. Due to its proximity with the states of Maharashtra and Goa, Belagavi has acquired the cultural flavour of these states and blended it with the local Kannada culture to create a rich heritage, which is unique in its manifestation. As a result Belagavi thrives as a cultural melting pot, evident in its festivals, gastronomy and customs. Festivities like Ganesh Chaturthi, Navaratri and Diwali pulsate with vibrant processions, music and dance. The city's culinary landscape tantalises with local delights such as Jolada Roti, Enne Gai and the renowned Belgaum Kunda sweet. Wander through the bustling markets of Shahapur and Khade Bazaar to procure traditional crafts, textiles and spices.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi shelters ancient temples and spiritual retreats, each steeped in lore and architectural grandeur. The revered Sri Ramakrishna Mission Ashram, nestled along the Malaprabha River, draws devotees and seekers seeking solace. Among the prominent temples are Shri Hari Mandir, Kapileshwara Temple, and Maruti Temple, offering serene sanctuaries for contemplation amidst tranquil environs.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi's allure extends to its verdant landscapes, rolling hills, and idyllic parks. The majestic Gokak Falls, cascading along the Ghataprabha River, captivate with their scenic grandeur. The visitors can explore natural marvels like Hidkal Dam, Rakaskop Reservoir, and Bhimgad Wildlife Sanctuary, ideal for birdwatching, trekking, and boating adventures.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In essence, Belagavi epitomises Karnataka's rich tapestry of history, culture and natural allure. From its ancient edifices and vibrant festivals to its serene landscapes, Belagavi beckons travellers to immerse themselves in its diverse heritage. With its hospitality and timeless charm, Belagavi invites exploration, promising unforgettable memories. Nearby attractions include Amboli waterfalls and Dandeli for river rafting.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi is connected to Bengaluru by air, as the airport is around 7 kilometres from the city and is situated in Sambra. Additionally, Belagavi has a very well-connected rail network. It is connected to almost all the major cities of South India. Belagavi is also connected to most of the places in South and West India by roads and highways. The main bus stand is situated near the old town area.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Belagavi has a thriving handloom industry , known for its production of traditional textiles and fabrics.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The famous Kittur Rani Chennamma Memorial is located in Belgaum.",
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Belagavi",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/belagavi",
+        "retrieved_at": "2026-09-22T18:36:30.966760+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

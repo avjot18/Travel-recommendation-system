@@ -1,0 +1,151 @@
+{
+  "destination_id": "IN-LAKSHADWEEP-KAVARATTI",
+  "name": "Kavaratti",
+  "state_or_ut": "Lakshadweep",
+  "region": null,
+  "description": "Kavaratti is an officially listed tourism destination in Lakshadweep, India. It is best treated as a beach, marine, adventure travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "beach",
+    "marine",
+    "adventure",
+    "relaxation"
+  ],
+  "best_for": [
+    "scuba",
+    "snorkelling",
+    "lagoon",
+    "island relaxation"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March",
+    "April"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 2.6,
+      "maximum_celsius": 29.8
+    },
+    "february": {
+      "minimum_celsius": 4.4,
+      "maximum_celsius": 33.8
+    },
+    "march": {
+      "minimum_celsius": 9.6,
+      "maximum_celsius": 38.8
+    },
+    "april": {
+      "minimum_celsius": 15.0,
+      "maximum_celsius": 42.5
+    },
+    "may": {
+      "minimum_celsius": 20.5,
+      "maximum_celsius": 44.5
+    },
+    "june": {
+      "minimum_celsius": 21.8,
+      "maximum_celsius": 43.7
+    },
+    "july": {
+      "minimum_celsius": 22.5,
+      "maximum_celsius": 38.6
+    },
+    "august": {
+      "minimum_celsius": 21.7,
+      "maximum_celsius": 34.7
+    },
+    "september": {
+      "minimum_celsius": 19.1,
+      "maximum_celsius": 36.9
+    },
+    "october": {
+      "minimum_celsius": 12.8,
+      "maximum_celsius": 37.3
+    },
+    "november": {
+      "minimum_celsius": 7.8,
+      "maximum_celsius": 34.0
+    },
+    "december": {
+      "minimum_celsius": 3.9,
+      "maximum_celsius": 30.6
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Lakshadweep",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Agatti Island Airport (AGX), Agatti"
+    ],
+    "railway_station": [
+      "Ernakulam Junction Railway Station (ERS)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Lakshadweep",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kavaratti",
+      "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

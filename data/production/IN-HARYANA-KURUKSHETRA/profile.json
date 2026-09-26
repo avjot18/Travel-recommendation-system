@@ -1,0 +1,150 @@
+{
+  "destination_id": "IN-HARYANA-KURUKSHETRA",
+  "name": "Kurukshetra",
+  "state_or_ut": "Haryana",
+  "region": null,
+  "description": "Kurukshetra is an officially listed tourism destination in Haryana, India. It is best treated as a heritage, culture, recreation travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "heritage",
+    "culture",
+    "recreation",
+    "food"
+  ],
+  "best_for": [
+    "weekend trips",
+    "heritage",
+    "family travel",
+    "food"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 2.9,
+      "maximum_celsius": 25.7
+    },
+    "february": {
+      "minimum_celsius": 5.4,
+      "maximum_celsius": 29.8
+    },
+    "march": {
+      "minimum_celsius": 10.1,
+      "maximum_celsius": 36.6
+    },
+    "april": {
+      "minimum_celsius": 14.9,
+      "maximum_celsius": 43.2
+    },
+    "may": {
+      "minimum_celsius": 19.9,
+      "maximum_celsius": 46.3
+    },
+    "june": {
+      "minimum_celsius": 21.7,
+      "maximum_celsius": 45.9
+    },
+    "july": {
+      "minimum_celsius": 23.7,
+      "maximum_celsius": 42.5
+    },
+    "august": {
+      "minimum_celsius": 23.9,
+      "maximum_celsius": 39.5
+    },
+    "september": {
+      "minimum_celsius": 20.9,
+      "maximum_celsius": 39.1
+    },
+    "october": {
+      "minimum_celsius": 14.7,
+      "maximum_celsius": 37.8
+    },
+    "november": {
+      "minimum_celsius": 8.7,
+      "maximum_celsius": 33.3
+    },
+    "december": {
+      "minimum_celsius": 3.7,
+      "maximum_celsius": 27.9
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "budget-to-mid-range",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Haryana",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+    ],
+    "railway_station": [
+      "Kurukshetra Junction (KKDE)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Haryana",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kurukshetra",
+      "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

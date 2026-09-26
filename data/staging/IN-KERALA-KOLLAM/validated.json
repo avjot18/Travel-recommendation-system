@@ -1,0 +1,343 @@
+{
+  "destination_id": "IN-KERALA-KOLLAM",
+  "destination_name": "Kollam",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thivandrum International Airport (TRV), Thiruvananthapuram"
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kollam Junction Railway Station (QLN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.4,
+        "maximum_celsius": 23.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 6.0,
+        "maximum_celsius": 26.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.5,
+        "maximum_celsius": 31.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 13.8,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 42.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 43.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.8,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.7,
+        "maximum_celsius": 25.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thivandrum International Airport (TRV), Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled along the tranquil shores of the Arabian Sea in the southern Indian state of Kerala, Kollam emerges as a hidden gem, steeped in history, culture, and natural beauty. Known as the \"Cashew Capital of the World\" and boasting the oldest port in Kerala, Kollam invites travellers to embark on a journey of discovery, where every corner reveals a new facet of its timeless charm. Kollam is a charming destination that offers a perfect blend of natural beauty, cultural heritage, and maritime history. Whether exploring its backwaters, relaxing on its beaches, or experiencing its vibrant festivals, visitors to Kollam are sure to be captivated by the city's unique charm and allure.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With a history dating back over two millennia, Kollam has been a thriving center of trade and commerce since ancient times. As one of the oldest seaports on the Malabar Coast, Kollam served as a crucial hub for the lucrative spice trade between India and the rest of the world. Traders from distant lands, including the Phoenicians, Romans, Arabs, and Chinese, frequented its shores, leaving behind a rich tapestry of cultural influences that continue to shape Kollam's identity.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ashtamudi Lake, located in the heart of Kollam, is one of the largest and most scenic lakes in Kerala. The lake, known for its eight arms or channels (hence the name \"Ashtamudi\"), is a picturesque water body surrounded by lush greenery, coconut groves, and traditional fishing villages. Houseboat cruises on Ashtamudi Lake are a popular tourist attraction, offering visitors a tranquil and immersive experience amidst Kerala's backwaters.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kollam is blessed with several pristine beaches along its coastline, offering opportunities for relaxation, water sports, and leisurely strolls. The most famous beach in Kollam is Kollam Beach , located near the city center, which attracts visitors with its golden sands, swaying palm trees, and panoramic views of the Arabian Sea. Other beaches in the vicinity include Thirumullavaram Beach and Thangassery Beach.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kollam is home to numerous temples, churches, mosques, and other religious landmarks that reflect its cultural diversity and religious tolerance. The Thangassery Lighthouse , located on Thangassery Beach, is a historic landmark that offers panoramic views of the coastline. The Kollam Pooram, a traditional temple festival held annually at the Asramam Maidan, is one of the most colourful and vibrant festivals in the region, featuring processions, fireworks, and cultural performances.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kollam is renowned for its cashew industry, with the city being one of the largest producers of cashew nuts in Kerala. The cashew processing industry in Kollam dates back over a century and plays a significant role in the local economy. Visitors to Kollam can visit cashew processing units, shops, and markets to learn about the cashew industry and purchase a variety of cashew products.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated in Kollam district, Jatayu Earth's Centre invites travellers around the globe to indulge in adventure. This tourist hub located 1000 ft above sea level owns the largest bird sculpture in the world. The majestic statue is 200 feet long, 150 feet wide and 70 feet tall. Adventure games are available such as Burma bridges, commando nets, log walk, vertical ladder, chimney climbing or side joola in the backdrop of breathtaking views of nature here.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its historical landmarks and natural wonders, Kollam inspires visitors with its serene ambiance, warm hospitality, and timeless allure. It is a place where time seems to slow down, allowing travellers to reconnect with themselves and the world around them. As you wander through the narrow lanes of Kollam's old town, adorned with colonial-era buildings and bustling markets, you'll find yourself immersed in a world of bygone charm and contemporary vibrancy. It is a city where tradition and modernity coexist in perfect harmony, where every sunset paints the sky in hues of gold and crimson, and where every moment is infused with a sense of wonder and possibility.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ancient Seaport: Kollam, also known as Quilon, is one of the oldest seaports in the world with a history that dates back over 2,000 years.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cashew Capital: Kollam is renowned as the \"Cashew Capital of the World\" due to its prominence in the cashew nut processing industry.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Historic Churches: Kollam is home to several historic churches that reflect its colonial past. St. Thomas Church, established by Portuguese missionaries in 1614, is one of the oldest European churches in India.",
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kollam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+        "retrieved_at": "2026-09-22T18:36:33.226280+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "destination_id": "IN-KERALA-KOCHI",
+  "destination_name": "Kochi",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Kochi"
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ernakulam Junction Railway Station (ERS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 17.6,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 18.4,
+        "maximum_celsius": 36.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 36.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 34.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Kochi",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ernakulam Junction Railway Station (ERS)",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "\"Kochi is not just a city; it is a living, breathing testament to the beauty of diversity, the power of resilience, and the magic of human creativity.\" - Rabindranath Tagore As you set foot in Kochi, nestled along Kerala's serene coastline, you'll quickly realise that you've stepped into a city of fascinating contrasts. This vibrant hub on India's southwestern coast is a place where the past and present dance in harmony, offering you a unique blend of experiences. Stroll through the bustling streets of modern Kochi, and you'll find yourself swept up in the energy of a thriving cosmopolitan city. But take a turn down a quiet lane, and suddenly, you're transported back in time. The old-world charm of Kochi's historic districts will envelop you, with centuries-old monuments whispering tales of bygone eras. This harmonious blend of modernity and tradition is what makes Kochi truly special. Aptly nicknamed the ‘Queen of the Arabian Sea,’ Kochi has been a port city welcoming ships from across Asia and Europe since the 14th century. Kochi's geography is as diverse as its culture. You'll find yourself constantly surprised by the changing landscapes - from the endless expanse of the Arabian Sea to the west to the lush Western Ghats rising in the east. Take a boat ride through the serene backwaters, witness fishing hamlets, explore the charming coastal enclaves of Fort Kochi and Mattancherry, or venture into the surrounding hills for breathtaking views. Each area offers its own unique flavour, ensuring that every day of your visit brings new discoveries.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi has a long and illustrious history, dating back to ancient times as a prominent trading hub for spices, silk, and other commodities. Over the centuries, it attracted traders from around the world, including Arabs, Chinese, and Europeans, who left their mark on the city's architecture, culture, and cuisine. Kochi is known for its cultural diversity, with a harmonious blend of Hindu, Muslim, Christian, Jewish, Konkani and Gujarati communities. This diversity is reflected in the city's festivals, religious landmarks, and culinary traditions.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi is home to several landmarks and attractions that showcase its rich heritage and natural beauty. The city bears the architectural imprint of its colonial past, with well-preserved colonial-era buildings, churches, and forts. Fort Kochi, in particular, is dotted with charming colonial structures, narrow streets, and vibrant art galleries, making it a favourite destination for history buffs and art enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Start your journey in Fort Kochi, Kochi's historic crown jewel. Snap a photo with the iconic Chinese fishing nets, massive cantilevered structures that jut dramatically into the water. Explore Jew Town, a centre of Jewish heritage in India. Visit the famed synagogue and browse the shops for unique antiques that whisper stories of the past. Marvel at the architectural mastery of the Mattancherry Palace, also known as the Dutch Palace. This breathtaking structure reflects Kerala's colonial past with its intricate details, transporting you back in time.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Walk in the footsteps of history at St. Francis Church, one of the oldest churches in India. This architectural gem boasts a unique \"top-hole\" design and is a major tourist attraction. Find peace and artistic inspiration at the Santa Cruz Basilica, a prominent heritage centre. Be captivated by the stained-glass masterpiece depicting the Last Supper and the mesmerising murals adorning the interior.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi isn't just about history - it's a nature lover's paradise! Kerala itself is a haven of lush greenery, and Kochi offers a chance to experience it firsthand. Cruise through the picturesque backwaters of Vembanad Lake, a tranquil escape amidst vibrant landscapes. Unwind on the pristine sands of Cherai Beach or Fort Kochi Beach, soaking up the sun and the calming rhythm of the waves. Island hop through the charming islands of Bolgatty, Vypin, and Gundu, each offering a unique island experience. Be a part of something special at Kumbalangi, India's first eco-friendly tourist village. Here, sustainable practices meet breathtaking beauty, creating an unforgettable adventure.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi, a paradise for food lovers, is renowned for its diverse culinary scene influenced by its multicultural heritage. The city's food offerings, ranging from spicy seafood dishes to aromatic Kerala cuisine and international fare, cater to every palate. Kochi's status as the official food capital of Kerala is underscored by its high number of restaurants and the wide variety of foods available, including its famous non-vegetarian dishes.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Some of the must-try dishes include Avial, a medley of vegetables cooked in a creamy coconut base, often served as part of the elaborate Sadhya feast (a traditional vegetarian spread presented on a banana leaf). For a comforting breakfast, savour Puttu Kadala, a steamed rice cake dish served with black gram curry. Idiyappam (delicate rice noodles), Nadan Kozhi Varuthathu (a spicy chicken dish), and Fish Molly (succulent fish cooked in coconut gravy) are other popular choices. And to quench your thirst, sip on Kulukki Sarbath, a refreshing lime juice beverage. This is just a taste of the culinary delights that await you in Kochi!",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in the kaleidoscope of cultures that defines Kochi. Witness the fervour of traditional Kerala festivals like Onam, a harvest celebration marked by elaborate boat races, and Vishu, a vibrant New Year celebration. The city also embraces North Indian traditions, coming alive with the colours of Holi and the lights of Diwali. Christmas and Easter find Christians joyously observing their traditions, while Muslims observe Eid ul-Fitr and Milad-e-sherif with devotion. Don't miss the vibrant Cochin Carnival, a ten-day extravaganza held in Fort Kochi every December, pulsating with music, dance, and a spirit of merrymaking.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a deeper dive into Kerala's artistic heritage, catch a mesmerising Kathakali performance at the Kerala Kathakali Center in Fort Kochi. Art lovers, rejoice! The Kochi-Muziris Biennale, a prestigious international art exhibition held in Kochi, is a must-experience event, showcasing contemporary art from around the globe.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi effortlessly blends the best of many worlds—a place where you can start your day with a traditional Kerala breakfast, spend the afternoon exploring colonial architecture, and end the evening at a rooftop bar overlooking the twinkling city lights. While Kochi welcomes visitors year-round, the winter months, between October and March, offer the most pleasant weather for exploring the city.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi also serves as the gateway to Kerala, with its network of interconnected backwaters, lush greenery, and hill stations. From Kochi, you can easily access popular destinations such as Munnar, Alleppey, and Thekkady.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi is the only Indian city to have a water metro system.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Cochin International Airport is the first in the world to operate solely on solar energy.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Land of India's First European Church – Santa Cruz Basilica .",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chinese Fishing Nets is defining feature of Kochi's coastline, believed to have been introduced by Chinese traders centuries ago.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kochi Biennale is India's largest contemporary art exhibition, held every two years in the city.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "St. Francis Church in Fort Kochi is one of the oldest European churches in India.",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kochi",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kochi",
+        "retrieved_at": "2026-09-22T18:36:33.093482+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

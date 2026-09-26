@@ -1,0 +1,293 @@
+{
+  "destination_id": "IN-ARUNACHAL-PRADESH-ITANAGAR",
+  "destination_name": "Itanagar",
+  "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Donyi Polo Airport (HGI) Lilabari Airport (North Lakhimpur) (IXI) Jorhat Airport (JRH)"
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Naharlagun Railway Station (NHLN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 7.7,
+        "maximum_celsius": 27.8
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.1,
+        "maximum_celsius": 30.2
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 33.0
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.7,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 36.2
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.7,
+        "maximum_celsius": 34.9
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 12.5,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 29.1
+      },
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Lilabari Airport (North Lakhimpur) (IXI)",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Itanagar beckons to witness its beauty – the mist-kissed mornings, the sunsets painting the sky in fire. Partake in its traditions – dance with abandon, savour flavours that linger on your tongue. A trip here creates memories that will echo through time, for Itanagar is not just a city but a legacy. The city wears its tribal heritage like a crown, a jewel waiting to be discovered. Itanagar, the capital city of Arunachal Pradesh, unfolds as a splendid canvas of culture, history and natural beauty. Tucked away in north-eastern India, this city serves as the perfect confluence of the ancient and the modern, promising an enriching and enchanting experience for travellers. Nestled amidst the Himalayan foothills, the journey to Itanagar is a prelude to its breathtaking beauty, with winding roads meandering through lush greenery and towering hills. As you enter the city, the first thing that strikes you is its serene ambience, a refreshing break from the clamour of urban sprawl. At the heart of Itanagar's cultural heritage lies the iconic Ita Fort , from which the city derives its name. Built in the 15th century, the fort stands as a testament to the region's architectural prowess and historical depth. Made of special bricks, Ita Fort is not just a historical site but a vantage point offering panoramic views of the entire city, enveloped by the majestic Himalayas. The Jawaharlal Nehru State Museum is another must-visit for anyone keen on delving into the rich tapestry of Arunachal's culture. The museum houses an exquisite collection of textiles, handicrafts, and archaeological finds, each telling its own story of the state's diverse ethnic heritage. Nature lovers and adventure seekers find a haven in Itanagar's picturesque landscapes. Ganga Lake, also known as Gyakar Sinyi, is a tranquil spot nestled amidst primeval forest, ideal for boating or a stroll around its periphery. The lush greenery, vibrant flora, and the quietude of the lake make it a perfect narrative of nature's untouched beauty. For wildlife enthusiasts, the Itanagar Wildlife Sanctuary is a must-visit, home to various flora and fauna, including rare species of birds and orchids. Itanagar and its surrounding regions are a trekker's paradise, with several trails offering breathtaking views and adventurous terrain. One of the most popular treks is to the Itanagar Wildlife Sanctuary, where the path winds through dense forests, allowing trekkers a close encounter with the region's biodiversity. Another notable trek is to the Ziro Valley, renowned for its stunning landscapes and the unique Apatani cultural landscape. These treks challenge the enthusiasts and reward them with the unparalleled beauty of Arunachal Pradesh’s natural world.",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Buddhism is integral to Arunachal's cultural fabric, vividly represented in Itanagar's Golden Pagoda or the Buddha Vihar. This magnificent golden domed temple not only serves as a place of worship but also as a beacon of peace and serenity. The intricate designs and tranquillity that pervade its premises offer a unique spiritual experience. Itanagar also serves as a gateway to explore the wider Arunachal Pradesh, each part of which tells a different story of natural splendour and cultural richness. Be it the Tawang Monastery to the west or the wildlife sanctuaries to the north and east, Itanagar forms the starting point for a voyage into the heart of the Northeast.",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Local cuisine in Itanagar is a delightful fusion of tribal traditions and a testament to the region's biodiversity. Nestled in the verdant embrace of Arunachal Pradesh, the food is a delightful fusion of indigenous tribal traditions and Tibetan influences. A culinary journey through the city will introduce you to an array of traditional dishes made with indigenous ingredients, offering a unique and memorable taste. Rice is the unwavering staple and reigns supreme in Itanagar. It graces every meal, whether steamed, fried, or transformed into noodles. It is often accompanied by bamboo shoots, fish, and green leafy vegetables. One must try local delicacies like Thukpa, a noodle soup, and Momos, steamed dumplings filled with meat or vegetables. Try an authentic taste of indigenous cuisine. A few outlets offer fusion food that blends local flavours with contemporary cooking styles. For a taste of sweet, traditional bakeries produce baked goods. Itanagar thus offers a diverse palate that caters to both traditional and modern tastes, making it a culinary destination in its own right.",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Itanagar is vibrant with cultural festivities that reflect the region's rich heritage. Prominent among them is the Nyokum Yullo festival, celebrated by the Nyishi tribe with great fervour, involving traditional dances, rituals and the sharing of feasts. The Losar Festival, marking the Tibetan New Year, is another significant event showcasing monastic dances, colourful decorations and the spirit of renewal. These festivals not only bring together the diverse communities of Arunachal Pradesh but also offer a fantastic spectacle for tourists, filled with traditional music, dance and authentic local cuisine. When shopping in Itanagar, looking for Apatani weave products or Monpa wood carvings can be rewarding. The intricately designed bamboo and cane handicrafts are also not to be missed, as they embody the skilled craftsmanship of the local artisans. These items serve as beautiful reminders of your visit to Itanagar and support the local economy and traditional crafts. For a more varied shopping experience, head to Naharlagun Market, where you can explore an assortment of local produce, textiles, and traditional attire alongside more conventional merchandise. The Ita Fort market is perfect for purchasing local handicrafts, including beautiful cane and bamboo products, traditional handloom weaving items, and vibrant tribal costumes. It’s a great place to experience the local culture and find unique souvenirs.",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To the north, the majestic Himalayas embrace Itanagar, their snow-capped peaks a silent audience. To the south, the fertile plains of the Brahmaputra River stretch out, inviting life. Itanagar's climate is a gentle lover – warm summers brush against cool winters, each season painting the city in hues of memory. And when the monsoons arrive, they kiss the earth, birthing a vibrant green paradise. Itanagar is a gateway to unexplored trails that meander through lush forests and lead to remote hilltops, offering breathtaking views and a closer look at the region's biodiversity. Poma Bamboo Forest Trek leads through dense bamboo forests and offers a unique glimpse into Arunachal’s rich flora. The Poma River adds to the scenic beauty, making it a peaceful retreat for nature lovers. Pakhui Wildlife Sanctuary Trek, situated on the outskirts of Itanagar, is perfect for those looking to immerse themselves in the biodiversity of the Eastern Himalayas, with the possibility of encountering diverse wildlife in their natural habitat. Embarking on these less-travelled paths allows adventurers to unveil the hidden gems of the north-eastern frontier, making Itanagar a truly unique destination for those looking to venture beyond conventional tourist spots. As you step into Itanagar's embrace, let its spirit infuse your veins and may your footsteps echo alongside those who walked before you. For in this city, where past and present converge, adventure awaits and hope blooms eternal. The best time to visit Itanagar is from October to April when the pleasant weather enables visitors to enjoy outdoor activities and explore its scenic beauty comfortably. To reach Itanagar, travellers can fly to the nearest airport in Tezpur, Assam, and then take a scenic drive to the city. Alternatively, they can take a direct train to Naharlagun railway station, just a few kilometres away.",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A culinary journey through Itanagar and Arunachal Pradesh",
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Itanagar",
+        "source_url": "https://www.incredibleindia.gov.in/en/arunachal-pradesh/itanagar",
+        "retrieved_at": "2026-09-22T18:36:21.643303+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

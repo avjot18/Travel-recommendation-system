@@ -1,0 +1,91 @@
+{
+  "destination_id": "IN-UTTARAKHAND-CHAMOLI",
+  "destination_name": "Chamoli",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jolly Grant Airport (DED)"
+      },
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the majestic embrace of the Garhwal Himalayas, Chamoli is a serene and picturesque district in Uttarakhand, India. Often referred to as the \"Abode of Gods\", Chamoli is a treasure trove of natural beauty, spiritual sanctity, and rich cultural heritage. This enchanting land, with its snow-capped peaks, verdant valleys, and crystal-clear rivers, offers a sublime experience that inspires and rejuvenates the soul. Chamoli is steeped in mythology and ancient legends, making it a significant pilgrimage destination. According to Hindu mythology, Chamoli is the birthplace of the epic Mahabharata. The Pandavas are believed to have spent a considerable part of their exile here. The region is dotted with temples and sacred sites that attract pilgrims from all over the world.",
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chamoli is home to Sri Hemkund Sahib, one of the highest Gurudwaras in the world. Situated at an altitude of 4,329 metres, this sacred Sikh pilgrimage site is dedicated to Guru Gobind Singh, the tenth Sikh Guru. The serene Hemkund Lake, surrounded by snow-capped peaks, adds to the spiritual aura of this pristine location. Chamoli is also home to Hemkund Sahib, one of the highest Gurudwaras in the world. Situated at an altitude of 4,329 metres, this sacred Sikh pilgrimage site is dedicated to Guru Gobind Singh, the tenth Sikh Guru. The serene Hemkund Lake, surrounded by snow-capped peaks, adds to the spiritual aura of this pristine location.",
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most enchanting natural wonders of Chamoli is the Valley of Flowers, a UNESCO World Heritage Site. This stunning national park is a riot of colours, with meadows carpeted with endemic alpine flowers against a backdrop of snow-covered peaks. The Valley of Flowers is a paradise for trekkers, botanists, and nature lovers, offering a unique blend of adventure and tranquillity. Adjacent to the Valley of Flowers lies the Nanda Devi National Park , another UNESCO World Heritage Site. Named after the sacred Nanda Devi peak, India's second-highest mountain, the park is a haven for biodiversity. It is home to rare and endangered species such as the snow leopard, Himalayan musk deer, and various high-altitude flora and fauna. The park's rugged terrain and pristine beauty make it a coveted destination for mountaineers and adventurers.",
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chamoli is a cultural heartland of the Garhwali people, whose traditions and customs are deeply rooted in the region's history. The vibrant local culture is reflected in folk music, dance, and festivals. Visitors can experience the warmth and hospitality of the Garhwali people and participate in their traditional celebrations, such as the Nanda Devi Raj Jat Yatra, a grand pilgrimage and cultural event held every twelve years.",
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chamoli offers a plethora of trekking routes that cater to all levels of adventurers. From the challenging Roopkund Trek, which leads to the mysterious Skeleton Lake, to the serene Kuari Pass Trek, offering panoramic views of the Himalayan ranges, there is something for every trekking enthusiast. Mountaineers can also attempt to scale peaks like Nanda Devi, Kamet, and Trishul, each offering a thrilling and rewarding experience. The Alaknanda River, flowing through Chamoli, provides excellent opportunities for white-water rafting. The river's rapids offer a thrilling adventure for rafting enthusiasts. Camping along the riverbanks and in the lush valleys of Chamoli adds to the adventure, allowing visitors to immerse themselves in the region's natural beauty. Chamoli is not just a destination; it is an experience that touches the soul and awakens the senses. Its stunning landscapes, sacred sites, and rich cultural heritage offer a unique blend of adventure, spirituality, and tranquillity. Whether you seek the thrill of the mountains, the peace of the valleys, or the spiritual solace of its sacred sites, Chamoli welcomes you with open arms and a promise of unforgettable memories.",
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Chamoli",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/chamoli",
+        "retrieved_at": "2026-09-22T18:36:49.224224+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "destination_id": "IN-UTTARAKHAND-NEW-TEHRI",
+  "destination_name": "New Tehri",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jolly Grant Airport, Dehradun (DED)"
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Rishikesh Railway Station (RKSH)"
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perched high above the shimmering waters of Tehri Lake, New Tehri is a destination that beautifully blends natural grandeur, modern planning, and adventure. Unlike many Himalayan towns that have evolved over centuries, New Tehri represents a remarkable story of transformation. Overlooking one of India's largest reservoirs and surrounded by forested hills and snow-capped peaks, the town has emerged as one of Uttarakhand's most exciting tourism destinations.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Serving as the headquarters of the Tehri Garhwal district, New Tehri attracts travelers seeking everything from peaceful mountain retreats and spiritual experiences to thrilling water sports and outdoor adventures. Its elevated location offers breathtaking views of the lake below, while its clean surroundings and pleasant climate provide an ideal escape from the bustle of city life.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The story of New Tehri is closely linked with the construction of the iconic Tehri Dam. Before the dam project, the historic town of Tehri stood at the confluence of the Bhagirathi and Bhilangna rivers and served as the capital of the erstwhile Garhwal Kingdom.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "With the construction of the Tehri Dam, the old town gradually submerged beneath the waters of the reservoir. To accommodate the displaced population, a new, well-planned township was developed on the surrounding hills, giving rise to present-day New Tehri.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Today, while the waters of Tehri Lake conceal a chapter of Garhwal's history, New Tehri stands as a symbol of resilience, adaptation, and progress, seamlessly combining its rich heritage with modern infrastructure.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The defining feature of New Tehri is undoubtedly the spectacular Tehri Lake. Stretching across the valleys and surrounded by rolling Himalayan hills, the vast expanse of blue water creates a stunning contrast against the rugged mountain landscape.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The lake is formed by the Tehri Dam, built on the Bhagirathi River. Recognized as the highest dam in India and among the largest hydroelectric projects in the world, the structure is an engineering marvel that has transformed the region's geography and economy.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From various viewpoints across New Tehri, visitors can witness panoramic vistas of the lake winding through mountain valleys. During sunrise and sunset, the calm waters reflect changing colors of the sky, creating some of the most picturesque scenes in Uttarakhand.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Over the years, New Tehri has earned a reputation as one of North India's leading adventure tourism hubs. The expansive waters of Tehri Lake offer ideal conditions for a wide range of recreational activities that draw thrill-seekers from across the country.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visitors can enjoy Jet skiing, Speed boating, Kayaking, Banana boat rides, Water zorbing, Paddle boarding, Parasailing, Scuba diving experiences, Floating camps and lakeside camping",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The combination of crystal-clear waters and dramatic Himalayan landscapes makes every adventure activity here far more memorable than traditional water sports destinations.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For travelers seeking a mix of excitement and relaxation, few places in Uttarakhand offer a better balance than New Tehri.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its waters, New Tehri serves as an important base for exploring the higher reaches of the Garhwal Himalayas. Several trekking routes and nature trails begin in the surrounding region, attracting both experienced trekkers and casual hikers.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forests surrounding the town are rich in oak, pine, and deodar trees, while higher elevations reveal breathtaking views of distant Himalayan ranges. Whether embarking on a multi-day mountain trek or enjoying a simple nature walk, visitors are rewarded with fresh mountain air and spectacular scenery at every turn.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most remarkable attractions near New Tehri is the Dobra-Chanti Bridge. Spanning the vast waters of Tehri Lake, it is recognized as India's longest motorable single-lane suspension bridge.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The bridge not only improves connectivity between remote villages but also offers stunning panoramic views of the reservoir and surrounding mountains. Standing on or driving across the bridge provides a unique perspective of the lake's immense scale, making it a favorite spot for photography and sightseeing.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While adventure drives much of New Tehri's tourism, the region also offers a spiritual side. Surrounded by ancient temples and dense forests, the area provides opportunities for peaceful exploration and reflection.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Among the notable places of worship is the Kyunkaleshwar Mahadev Temple , a revered shrine that attracts devotees throughout the year. The tranquil environment around these temples enhances the spiritual experience, allowing visitors to connect with both nature and faith.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Many travelers also combine their visit with a trip to Devprayag , one of Uttarakhand's most sacred river confluences where the Bhagirathi and Alaknanda rivers meet to form the holy Ganga. The town's spiritual significance and scenic beauty make it a rewarding excursion from New Tehri.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit New Tehri is from March to June and September to November . Spring and summer bring pleasant weather, making it ideal for sightseeing, lake activities, and outdoor exploration. Autumn offers crystal-clear skies and magnificent mountain views, while the monsoon transforms the landscape into a lush green paradise. Winter can be quite cold but offers a peaceful atmosphere and beautiful views of the surrounding hills.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Jolly Grant Airport, Dehradun (DED) , located approximately 90 km from New Tehri. Taxis and shared transport services are readily available for the onward journey.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: The nearest major railway station is Rishikesh Railway Station (RKSH) , while Haridwar Railway Station (HW) provides wider connectivity to major Indian cities. From both stations, taxis and buses operate regularly to New Tehri.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: New Tehri is well connected by road to Dehradun, Rishikesh, Haridwar, Mussoorie, Srinagar, and other major destinations in Uttarakhand. Regular buses and taxis make reaching the town convenient, while the scenic drive through the Garhwal Himalayas adds to the overall travel experience.",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling the Top 8 Adventure Activities in Dehradun",
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - New Tehri",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/new-tehri",
+        "retrieved_at": "2026-09-22T18:36:50.519721+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

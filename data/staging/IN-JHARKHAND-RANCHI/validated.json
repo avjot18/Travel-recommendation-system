@@ -1,0 +1,353 @@
+{
+  "destination_id": "IN-JHARKHAND-RANCHI",
+  "destination_name": "Ranchi",
+  "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Birsa Munda Airport (IXR), Ranchi"
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ranchi Junction Railway Station (RNC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.5,
+        "maximum_celsius": 28.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.8,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 16.9,
+        "maximum_celsius": 39.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 41.3
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.7,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 34.1
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.1,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.4,
+        "maximum_celsius": 31.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 5.8,
+        "maximum_celsius": 27.4
+      },
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of India, Ranchi stands as a testament to Jharkhand's serene beauty and cultural richness. With its vibrant blend of urban sophistication and lush green landscapes, Ranchi invites travellers to explore its myriad attractions, where nature and modernity coexist perfectly, offering a tranquil escape from bustling city life. The city's essence lies in its breathtaking natural surroundings, marked by cascading waterfalls, dense forests, and tranquil lakes. Among these natural wonders, the Hundru Falls demands a special mention. Plummeting from a height of over 300 feet, it is one of the most stunning waterfalls in the region, offering a majestic view that captivates the heart and soul of every visitor, leaving them in awe of nature's grandeur. Ranchi's geographical diversity is further exemplified by its rolling hills and lush landscapes. Tagore Hill, a natural marvel and cultural gem, offers a panoramic city view. Named after the Nobel laureate Rabindranath Tagore, who is said to have written a part of his famous work here, the hill beckons those who seek tranquility amidst nature’s lap. Trekking here offers an adventurous trail leading to a breathtaking view of the city, especially enchanting at sunset.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of Ranchi's urban landscape lies the Pahari Mandir, a temple dedicated to Lord Shiva atop a hill. This sacred site offers spiritual solace and a vantage point overlooking the city, offering breathtaking views, especially at dawn and dusk. The Jagannath Mandir, echoing the architectural style of Puri's famous temple, hosts the annual Rath Yatra, drawing devotees from across the nation and showcasing the city's vibrant cultural fabric. Ranchi's commitment to preserving its natural and cultural heritage is evident in its numerous parks and museums. The Ranchi Science Center, with its planetarium and galleries, educates and entertains visitors of all ages, making science accessible and fun. The Rock Garden, created out of the rocks of Gonda Hill, is a creative manifestation of art and nature, providing a picturesque setting for leisure and picnics.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "This city, famed for its cascading waterfalls, verdant parks, and crystal-clear lakes, offers a serene escape into nature's embrace. Among its major attractions, the Dassam Falls , with its spectacular cascade of water from 144 feet, presents a breathtaking sight. The serene Nakshatra Van, a park conceptualized according to astrological principles, provides a tranquil retreat with beautifully landscaped gardens and thematic areas representing the zodiac signs. Nearby, the Birsa Zoological Park is a haven for wildlife enthusiasts. It showcases a diverse range of flora and fauna to promote conservation education among visitors. For those seeking activities, Ranchi does not disappoint. Boating in the placid waters of Ranchi Lake, situated at the foot of Ranchi Hill, provides a peaceful respite from the hustle and bustle of city life. Adventure seekers can head to Jonha Falls for a thrilling day of rappelling down the side of the waterfall, embracing the challenge amidst stunning natural scenery.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ranchi is a city with festivals reflecting the region's rich cultural and religious diversity. Sarhul, the festival of flowers, marks the beginning of the spring season and is celebrated with great fervor among the tribal communities, featuring traditional dances, music, and rituals. The colorful festival of Karma is another significant tribal celebration dedicated to the Karam Tree, symbolizing fertility and prosperity. The city is also a gateway to exploring Jharkhand's rich tribal culture. The Tribal Museum offers an insightful journey into the lives, traditions, and art forms of the local tribes, enriching visitors' understanding of the region's indigenous heritage. Visit the Tribal Research Institute and Museum to delve into Jharkhand's indigenous communities' rich heritage and traditions. The Tribal Emporium offers many tribal artifacts, including beautiful Paitkar paintings and Dhokra metal art, perfect for unique souvenirs. The weekly markets in nearby tribal villages are also worth exploring for those purchasing directly from the artisans. As dusk falls, Ranchi’s urban life pulsates with energy. Like the Firayalal Chowk, named after Albert Ekka, winner of the 1971 Param Veer Chakra. Its bustling markets are a treasure trove of handicrafts, textiles, and local delicacies, reflecting the city's diverse cultural tapestry.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dining in Ranchi is a delightful experience. Local eateries and upscale restaurants offer a taste of the local cuisine, and dishes like the traditional Chilka Roti, Dhuska, Tilkut, Anarsa, and Mitha Khaja tantalize the taste buds. The city’s culinary landscape is a delightful fusion of traditional tribal dishes and North Indian flavours. The bustling food streets of Ranchi, especially around Albert Ekka Chowk, come alive at night, offering a palate of flavors from street-side vendors serving everything from kebabs to jalebis. The ideal time to visit Ranchi is from October to March, during the Autumn and Winter months. The weather during this period is pleasantly cool and perfect for exploring the city's myriad attractions, from waterfalls and lakes to gardens and temples. This season also witnesses Ranchi's festive glory, with several local festivals and events adding to the city’s vibrant cultural atmosphere. Ranchi is well-connected by air, road, and rail, making it accessible from various parts of India. Birsa Munda Airport, located about 7 km from the city center, operates regular flights to and from major cities like Delhi, Kolkata, and Mumbai. Ranchi Railway Station is another primary gateway, with several trains linking the city to other major destinations. For those preferring road travel, Ranchi is linked by a network of national and state highways, and regular bus services are available from neighboring cities, providing both luxury and budget options for travellers.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ranchi is often called the \"City of Waterfalls\" because of the numerous waterfalls nearby, including the Hundru, Jonha, and Dassam Falls.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through religious spots in Ranchi",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ranchi: Overnight bikepacking trip to the Ganj",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Blog link - https://veloventure.in/f/overnight-bikepacking-trip-to-the-ganj?blogcategory=Jharkhand+%26+Ranchi Not that long or short weekends really matter in current times but I never miss an opportunity to travel. This weekend, I and my friends decided to make the most of it by travelling to McCluskeiganj for an overnight getaway from Ranchi. I chose to go on my bicycle while my friends drove down to this beautiful little town. McCluskiganj is a famous Anglo-Indian settlement 60 kms away from the city. You won’t find any Anglo Indians living there anymore but they left behind some beautiful bungalows, bakeries and homestays for us to experience. The place has a sense of calmness and is apt to make your creative mind alive. The town has lush green surroundings, dirt tracks and fresh air to breathe. It has lakes, rivers and beaches to be lazy at. A holy place which houses a church, temple and mosque in the same place, next to each other. A symbol of unity in disparity.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "My first pitstop on way to Mckluskiganj I packed my bags, had them on my bicycle and started riding just before noon. It was sunny but still not too harsh. I felt great being on my bike again with panniers. The first hour was spent escaping the city traffic but the moment I was out, I was in sheer nature. The fields had turned golden as paddies have ripen and reduced traffic made it a pleasant ride for me. However, the strong headwind made me push a bit harder. A few miles fast forward, I reached Bijupara, a small village junction from where I had to turn right and ride another 27 kms to reach Mcluskiganj. The ride from here to the ganj was sheer magic. It had lush green forest on both sides of the road, while the occasional views of the valley and small hilltops only added more beauty to this ride. I felt like stopping several times, to click photographs and capture moments, but then a side of me continued to enjoy the ride, smelling the forest around me and feeling the cold breeze gushing through my face.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The forest of Mcluskiganj My friends crossed me with 15 kms still to go and stopped to catch up on the ride and to refuel ourselves with some beer & food. It was a fun time catching up with them but I started riding soon again. The forest only got dense and pretty as I reached closer to Mckluskiganj. I could feel the chill in the air as the trees kept the sun and warmth away. I was enjoying the music of nature, with almost no traffic and civilization around. This is when I decided to stop, soak it all in and take some photos before reaching the destination. I reached Raja's Bungalow, our stay for the night. It was exactly what I was looking for. A small resort, with basic amenities, nestled in the middle of the forest, green lawns, cricket ground, treehouse, and foods cooked in country style. After settling in our rooms and having some food, we moved out. The time I was in a car as we drove towards Degadugi River. Rushing through time to reach there before sunset. The riverbank has a scenic backdrop of a hill, a small broken bridge and a large sandbank which makes it a perfect river beach. Visit this place for sunset or sunrise and I am sure you won't b disappointed with the views. The river, along with its banks, looks especially beautiful during the monsoons and winters.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Degadugi River and Sunset By the time we came back to Raja's Bungalow, it was already dark and we started feeling the chill as the temperature dropped. The bonfire was ready, drinks poured, music and conversation filled in, and I had a wonderful time worth cherishing forever with my favourite bunch of people. The next morning, was just another day about being lazy, the roads and being back home. Hope you find the blog helpful. Mcluskiganj makes a perfect place for a weekend getaway and overnight bikepacking trip.",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The river beach which makes the river a perfect picnic spot",
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Ranchi",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/ranchi",
+        "retrieved_at": "2026-09-22T18:36:30.541581+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

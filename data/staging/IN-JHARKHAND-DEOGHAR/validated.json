@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-JHARKHAND-DEOGHAR",
+  "destination_name": "Deoghar",
+  "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Deoghar Airport (DGH), Deoghar Jay Prakash Narayan Airport (PAT), Patna Bodhgaya Airport (GAY), Gaya"
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Deoghar Junction Railway Station (DGHR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 6.5,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 9.8,
+        "maximum_celsius": 35.6
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 13.6,
+        "maximum_celsius": 39.6
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 44.2
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.7,
+        "maximum_celsius": 41.8
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.8,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.2,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 17.1,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 11.7,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 7.4,
+        "maximum_celsius": 30.1
+      },
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jay Prakash Narayan Airport (PAT), Patna",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated beside the Mayurakshi River in Jharkhand, Deoghar beckons as a sanctuary for both the soul and the senses. This holy city, roughly 240 km from Ranchi, is revered as Jharkhand's most sacred site, renowned for its ancient temples and profound spiritual significance. The city's name, derived from the Sanskrit words 'Deva' (deity) and 'Ghar' (abode), signifies its status as the abode of gods and goddesses. Deoghar's crown jewel is the Baba Baidyanath Dham , one of the twelve revered Jyotirlingas (shrines dedicated to Lord Shiva) and a holy site for Hindu pilgrims. Legend tells of Lord Shiva being carried here by demon king Ravana, who broke a sacred vow, causing the Lord to remain forever rooted. The city is also a prominent Shaktipeeth, a sacred site honouring the divine feminine energy, Shakti. This unique confluence of Shiva and Shakti makes Deoghar a powerful pilgrimage destination, where devotees feel the presence of both deities. Deoghar's charm extends beyond its religious significance. Immerse yourself in the city's serene environment, lush greenery, and picturesque location. The dry, pleasant climate makes it a haven for relaxation, even earning it the title of a health resort. It's a place where you can truly unwind and find peace. Deoghar promises a captivating blend of spiritual significance, natural beauty, and tranquillity. Are you ready to discover this hidden gem?",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Deoghar is a treasure trove of spiritual experiences. Prepare to be awestruck by the towering Baidyanath Temple, the heart of this pilgrimage destination. At 72 feet tall, it's the largest among a complex of 22 temples, each waiting to be explored. Witness the incredible Shravan pilgrimage every monsoon season when thousands of devotees embark on a rigorous 100-kilometre journey on foot, carrying holy water to offer to Baba Baidyanath. Their pilgrimage concludes at Basukinath, another sacred site 43 kilometres from Deoghar. Visit the beautiful Naulakha Mandir , named for the vast sum (nine lakh rupees) spent on its construction. This temple, dedicated to goddess Radha and Lord Krishna, boasts stunning architecture that resembles Belur Math in West Bengal. Seeking peace and tranquillity? Immerse yourself in serenity at Satsang Ashram, the headquarters of the Satsang movement. For an even deeper spiritual experience, venture 12 km outside the city to Rikhiapeeth, one of India's oldest yoga ashrams. This ‘tapobhumi,’ meaning ‘land of austerity,’ is renowned for the intense spiritual practices of Swami Satyananda.",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Deoghar isn't just a spiritual sanctuary; it's a haven for nature lovers, too! Prepare to be surprised by the beauty of Trikut Pahar , a hill teeming with adventure. Hike through scenic trails, soar through the skies on the ropeway, or simply relax amidst the natural splendour. Wildlife enthusiasts can keep their eyes peeled for exciting encounters while everyone can enjoy a safe and refreshing escape. Trikut Pahar caters to all, offering stunning 360-degree views of Deoghar from its peak. Head to Nandan Pahar, a charming hillock bordering the town. Here, you'll find the renowned Nandi Temple, facing its counterpart, the majestic Lord Shiva temple. This scenic spot boasts breathtaking panoramic views of the district, making it the perfect place to witness both sunrise and sunset. For a thrilling yet spiritual experience, escape to Tapovan Pahar, a verdant mountain named for its history as a meditation ground for sages in ancient times. Trek up to the hill, explore its caves and visit the Taponath Mahadev Temple and a sacred pool, all nestled amidst breathtaking scenery.",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its spiritual significance, Deoghar pulsates with traditions, heritage, and the beauty of folk arts. Deoghar's cultural soul shines through in its music, captivating dance forms, lively festivals, and age-old rituals. Deoghar comes alive during its numerous seasonal fairs. Witness the fervour of Shivratri, the reverence of Shravana Sombari, and the joyous celebration of Shri Panchami. But that's not all! The city also plays host to Gopashtami Mela, Dussehra Mela, Makar Sankranti Mela, Newan Mela, and Durga Puja, each offering a unique glimpse into Deoghar's cultural heritage. Beyond the spiritual, Deoghar promises a captivating cultural experience.",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you seek religious solace, an adrenaline rush, or a delightful cultural immersion, Deoghar has something for everyone. For the most comfortable weather, plan your visit between October and March, when pleasant temperatures make exploring Deoghar a truly unforgettable experience. Are you ready to embark on your Deoghar discovery?",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rikhiapeeth , also called Sri Sri Panch Dashanam Paramhansa Alakhbarah, is among the oldest yoga ashrams in the country.",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Satsang Ashram has a free kitchen called Anandabazar, a museum and a zoo within its complex, that are open to visitors.",
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Deoghar",
+        "source_url": "https://www.incredibleindia.gov.in/en/jharkhand/deoghar",
+        "retrieved_at": "2026-09-22T18:36:30.231030+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

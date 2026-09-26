@@ -1,0 +1,164 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-KAKINADA",
+  "destination_name": "Kakinada",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Visakhapatnam International Airport (VTZ) Rajahmundry Airport (RJA) Vijayawada International Airport (VGA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kakinada Town Railway Station (CCT)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visakhapatnam International Airport (VTZ)",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled on the eastern coast of Andhra Pradesh, India, Kakinada is a bustling city with a rich history, vibrant culture, and significant economic importance.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada's history dates back to ancient times when it served as a prominent trading port for the flourishing maritime trade along the Bay of Bengal. The region has been mentioned in historical texts dating back to the 2nd century BCE, highlighting its strategic location and commercial significance.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "During the colonial era, Kakinada came under the influence of various European powers, including the Dutch East India Company. The Dutch established a trading post in the city in the 17th century, leaving behind a legacy of colonial architecture, churches, and administrative buildings that still stand as reminders of the city's colonial past.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada is a melting pot of cultures, with influences from Telugu, Dutch, British, and other communities shaping its unique identity. The city's diverse population celebrates festivals, traditions, and art forms that reflect this rich cultural heritage, creating a vibrant tapestry of customs and rituals.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada is a major economic hub in Andhra Pradesh, with its port being one of the busiest and most important ports on the eastern coast of India. The port handles a significant volume of cargo, including agricultural products, petroleum, and chemicals, contributing to the region's economic growth and development.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada's coastline is adorned with pristine beaches, serene backwaters, and lush mangrove forests, offering breathtaking views and recreational opportunities for locals and visitors alike. The Uppada Beach, Coringa Wildlife Sanctuary, and Hope Island are popular destinations for nature lovers and adventure enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada is home to several educational institutions, including universities, colleges, and schools, that offer quality education and training in various disciplines. The city's educational infrastructure attracts students from across the country, contributing to its reputation as an academic center of excellence.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada's culinary scene is a delightful fusion of traditional Andhra flavors and coastal specialties. The city is renowned for its seafood delicacies, including prawns, fish curry, and crab masala, which tantalize the taste buds of locals and tourists alike.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada hosts a variety of festivals and cultural events throughout the year, showcasing the city's vibrant spirit and communal harmony. The Sri Bhavannarayana Swamy Rathotsavam, Kakinada Beach Festival, and Sri Vasavi Kanyaka Parameswari Festival are some of the popular events that attract thousands of revelers and devotees.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kakinada, with its rich history, economic significance, and natural beauty, is a city brimming with opportunities and experiences waiting to be explored. Whether it's unravelling the mysteries of its colonial past, indulging in its culinary delights, or basking in the serenity of its coastal landscapes, Kakinada offers a captivating journey of discovery and delight for travellers and residents alike. Visit the attractions - Shri Bhavannarayana Swamy temple, Sri Kukkuteswara Swamy Temple, Coringa Wildlife Sanctuary, Hope Island, Kakinada Beach , Adurru Excavation site and many more.",
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kakinada",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/kakinada",
+        "retrieved_at": "2026-09-22T18:36:20.008974+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "destination_id": "IN-RAJASTHAN-BHARATPUR",
+  "destination_name": "Bharatpur",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI), Jaipur Indira Gandhi International Airport (DEL), Delhi"
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bharatpur Junction Railway Station"
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.3,
+        "maximum_celsius": 26.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 38.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 17.8,
+        "maximum_celsius": 44.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 46.7
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 23.0,
+        "maximum_celsius": 44.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 24.4,
+        "maximum_celsius": 42.4
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 38.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.4,
+        "maximum_celsius": 38.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 16.5,
+        "maximum_celsius": 37.9
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.4,
+        "maximum_celsius": 34.8
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.1,
+        "maximum_celsius": 28.0
+      },
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur International Airport (JAI), Jaipur",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you step into the city of Bharatpur, the former capital of the Jat kingdom, you can't help but feel a palpable sense of history permeating the air. This captivating city in the east of Rajasthan traces its roots all the way to the 5 th century BC when the Matsya kingdom flourished here. Legend has it that the city's very name is connected to the revered Bharat, the younger brother of Lord Ram, while the prestige of Laxman, Ram's other sibling, is indelibly etched into Bharatpur's state seals.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Known as the ‘Eastern Gateway to Rajasthan,’ Bharatpur will enchant you from the moment you arrive. Majestic palaces and fortresses stand tall, their intricate facades and ornate architectural details hinting at the regal heritage that has shaped this city. The bustling markets and lively streets offer a glimpse into local life, while the serene natural landscapes that envelop Bharatpur provide a peaceful contrast to the city's energy.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "But Bharatpur's greatest claim to fame is the magnificent Keoladeo Ghana National Park. This UNESCO World Heritage Site is a true avian paradise, home to over 370 species of birds that flock to its lush wetlands and marshes.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Let’s dive deep into this captivating fusion of history, wildlife, and cultural experiences called Bharatpur!",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Tucked within Bharatpur lies the vibrant wetland oasis of Keoladeo Ghana National Park, one of the world's most important breeding and feeding grounds for a dazzling array of birdlife. Originally a private hunting reserve for the Maharajas and British in the 1850s, this protected habitat is now yours to explore and enjoy.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As you tread its expansive network of trails, you'll be treated to a dazzling display of migratory birds, such as ducks, geese, waders, raptors, flycatchers and more. The park was once home to the graceful Siberian cranes! Keep your eyes peeled for other wildlife as well, including basking pythons, painted storks, spotted deer, wild boar, and the elusive jackal. Whether you're a seasoned ornithologist or a nature enthusiast, Keoladeo will leave you breathless.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "To truly understand Bharatpur, delve into its past. The 18 th century saw Maharaja Suraj Mal's rise to power. This visionary leader captured the fort that would become the city's cornerstone and left his mark by building forts, palaces, and other architectural wonders that stand as testaments to his reign and continue to enthral visitors today.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "And that’s why your first stop must be the impressive Lohagarh Fort, a 19 th -century citadel surrounded by a moat. True to its name, which translates to ‘Iron Fort,’ this formidable structure has withstood countless attacks throughout the centuries. Step inside the fort's gates and explore the intriguing monuments like Kothi Khas, Mahal Khas, Moti Mahal, and Kishori Mahal, each reflecting a different aesthetic sensibility. Look out for the imposing Jawahar Burj and Fateh Burj. Don’t forget to visit the revered Shri Banke Bihari Temple, dedicated to Lord Krishna, located within the fort complex.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Adjacent to the fort, you'll find the stunning Bharatpur Palace and Museum, a fusion of Mughal and Rajput architecture. Housed within the palace walls lies the Kamra Khas, a treasure trove of historical artefacts, regal relics, and exquisite artwork. Don’t miss it if you want to explore this region's past.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "No visit to Bharatpur would be complete without stopping at the city's spiritual heart—the magnificent Ganga Mandir, considered one of Rajasthan's most beautiful temples. Step inside and marvel at the idol of Goddess Ganga, crafted from pristine white marble, apart from a 4-ft statue of King Bhagiratha.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A short distance away, the Laxman Mandir, adorned in stunning pink stone, awaits. Dedicated to Lord Rama's brother, this temple is a visual treat with intricately carved doors, pillars, ceilings, and grandiose arches that will leave you breathless.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you seek a haven of peace, then head to the Chawad Devi Temple. Unlike bustling temples, Chawad Devi beckons with its tranquil atmosphere. Arrive early in the morning to experience the magic of the temple bathed in the golden light of dawn.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While Bharatpur offers a wealth of experiences, don't miss the chance to explore captivating destinations nearby. Just a short journey north awaits Deeg, a charming town boasting embellished palaces and gardens that are a visual feast. Here, you can wander the grand Deeg Palace, a magnificent 18th-century summer retreat adorned with ornate fountains and striking Rajput-Mughal architectural elements.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Continue your journey to Kaman (or Kamaban), an ancient town in the Braj region where Lord Krishna spent his early years. Here, you can explore the ruins of the fascinating Chaurasi Khamba (84 pillars) monument. If you happen to travel in August or September, you can experience the Kaman Utsav—a lively two-day carnival celebrating the vibrant colours of the traditional Indian festival Janmashtami, honouring Lord Krishna's birthday.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Journey south of Bharatpur, and you will come across Band Baretha. This former wildlife reserve of the Bharatpur rulers is now a haven for birdwatchers. Over 200 species call Band Baretha home, including the elusive Black Bittern. Explore the verdant landscape surrounding the dam built by the Maharajas, and keep an eye out for the charming palace—a reminder of the area's royal past .",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Plan your trip to Bharatpur around the vibrant yet soulful Brij Mahotsav festival honouring Lord Krishna. Celebrated for three days in March, this vibrant event takes place in the Brij region, encompassing parts of Bharatpur district. Witness people dressed in colourful attire, their voices raised in joyous songs as they perform the Raslila – a traditional dance reenacting the captivating love story of Radha and Krishna. As the festival is held on the eve of Holi (the renowned festival of colours), the air is filled with infectious energy. Don't miss this chance to become part of this joyous spectacle!",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "After you’re mesmerised by the national park, don't forget to factor in some shopping time in Bharatpur! As you wander its bustling streets, you'll be captivated by the intricately crafted treasures on display—from the vibrant Jaipur handlooms that make for stunning sarees and suits to the dazzling jewellery studded with precious and semi-precious stones that showcase Rajasthan's artistic traditions.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Visit the iconic Mathura Gate Bazaar, where you can browse an array of traditional Rajasthani costumes and accessories, or head to the bustling Chaurburja Bazaar, where the shops spill out onto the crowded streets, offering everything from clothing and shoes to intricate marble carvings and antiques.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "After your shopping spree, get ready to satisfy your cravings. Bharatpur's cuisine tells a story—a tale of royal heritage, local communities, and age-old traditions. The fare is predominantly vegetarian, so prepare to be treated to a symphony of flavours with dishes like dal baati churma (a hearty lentil and wheat dish), gatte ki sabzi (gram flour dumplings in a flavourful sauce), and moong dal halwa (a sweet lentil pudding). Try pyaaz ki kachori (crispy onion pastries) for a satisfying snack. For the non-vegetarians, laal maas, a fiery mutton curry, is a must-try. Hit the bustling streets and indulge in some street food – from samosa to gol gappe.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you're drawn to Bharatpur's legendary wildlife or historic grandeur, this enchanting city in Rajasthan will linger long in your memories. So, pack your bags and get ready to explore this hidden gem of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The ideal time to visit Bharatpur is from October to March, offering spectacular views of migratory birds at the Keoladeo National Park.",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ganga Mandir’s construction took nearly 90 years!",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Built in the mid-19th century, Maharaja Balwant Singh funded Ganga Mandir in a unique way – by requesting a one-month salary donation from the city's wealthy residents!",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through Bharatpur’s flavours",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Harmonizing health and happiness in Bharatpur",
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bharatpur",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bharatpur",
+        "retrieved_at": "2026-09-22T18:36:42.858807+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

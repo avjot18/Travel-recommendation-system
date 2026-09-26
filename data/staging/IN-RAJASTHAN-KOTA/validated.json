@@ -1,0 +1,503 @@
+{
+  "destination_id": "IN-RAJASTHAN-KOTA",
+  "destination_name": "Kota",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Kota Airport (KTU)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kota Junction (KOTA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Set gracefully along the banks of the Chambal River in southeastern Rajasthan, Kota is a city of layered identities. Known nationally as an education hub, it is also a destination enriched by royal heritage, striking natural landscapes, spiritual traditions, and distinctive arts and crafts. Kota invites travelers to slow down, explore deeper, and discover a lesserknown yet captivating side of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kota rose to prominence in the 17th century as a princely state ruled by the Hada Chauhans. Its regal legacy still dominates the cityscape through palaces and museums that echo tales of valor and refinement. The City Palace, overlooking the Chambal River, is the city’s architectural centerpiece. Inside, the Maharao Madho Singh Museum displays rare miniature paintings, royal costumes, weaponry, and manuscripts that reflect Kota’s distinctive artistic style and courtly traditions. The palace complex, with its ornate halls and balconies, offers a captivating journey into the region’s royal past.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kota holds a special place on Rajasthan’s cultural map for its traditional arts and textiles, many of which continue to be practiced by local artisan communities.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is worldfamous for Kota Doria , a lightweight, finely woven fabric made from a blend of silk and cotton. Recognizable by its distinctive square patterns known as khat, Kota Doria sarees are prized for their airy texture and elegance, making them ideal for warm climates. The craft originated in the nearby village of Kaithoon , where handloom weaving remains a generational occupation. Visiting Kaithoon offers travelers a rare opportunity to see the weaving process firsthand and understand the precision behind this heritage textile.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kota is also renowned for its Kota school of miniature painting, a branch of the Bundi tradition . These artworks are known for dramatic compositions, hunting scenes, lush landscapes, and expressive motion, particularly depictions of royal hunts and court life. Fine examples can be viewed in local museums.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unlike the arid imagery often associated with Rajasthan, Kota is surrounded by fertile plains, forested hills, and flowing rivers. The Chambal River , one of India’s cleanest, defines the city’s environmental character. Boat safaris reveal gharials, crocodiles, river dolphins, and migratory birds, an unexpected wildlife experience in the state. Nearby, the Mukundara Hills Tiger Reserve offers forest trails, rocky landscapes, and rich biodiversity.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Modern Kota is synonymous with education, attracting students from across the country for competitive exam preparation. This academic culture lends the city a youthful energy, blending cafés, libraries, and hostels into its traditional neighborhoods. Despite its fastpaced academic life, Kota retains calm corners—riverbanks, gardens, and heritage sites—where the city’s older rhythm still thrives.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kota’s food reflects the robust flavors of the Hadoti region . Signature dishes include kota kachori, dal baati churma, gatte ki sabzi , and seasonal sweets. Simple yet hearty, the cuisine complements the city’s grounded, welcoming character.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The most pleasant time to visit Kota is from October to March , when temperatures are moderate and ideal for sightseeing. Monsoon months (July–September) are especially scenic, bringing waterfalls and greenery to life.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest airport is Kota Airport (KTU) , located approximately 10 km from the city centre, with limited domestic connectivity. Jaipur International Airport (JAI) , about 245 km away, offers wider national and international flight options, with onward travel to Kota by road or rail.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Kota Junction Railway Station (KOTA) is a major railhead on the Delhi–Mumbai route and is well connected to major cities including Delhi, Jaipur, Mumbai, Udaipur, and Bhopal. The station is centrally located, with taxis, autorickshaws, and local transport readily available.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Kota is well connected by road and lies on National Highway NH52 (formerly NH12) . Regular staterun and private bus services operate from Jaipur, Udaipur, Indore, and Delhi.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mukundara Tiger Reserve became Rajasthan’s third tiger reserve in 2013 forming an important wildlife corridor.",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Best Jaipur viewpoints – where to go for Jaipur sunset views",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Phenomenal Things To See In Ajmer, Rajasthan",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perfect pre-wedding shoot ideas in Udaipur",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the religious spots in Bikaner",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palace on Wheels: Experience Royalty on India's Luxury Train - Route & Price Details",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Of blues & golds: Jodhpur Jaisalmer 4 day itinerary",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of golden beauty and natural wonders",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through its religious spots in Jaisalmer",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A lip-smacking culinary journey of Jodhpur",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Udaipur's ultimate shopping paradise!",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's gateway to the serene beauty of Nature!",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enter Jaisalmer's treasure-filled markets",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Jaisalmer's culinary kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through Bharatpur’s flavours",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Harmonizing health and happiness in Bharatpur",
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kota",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/kota",
+        "retrieved_at": "2026-09-22T18:36:44.131588+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

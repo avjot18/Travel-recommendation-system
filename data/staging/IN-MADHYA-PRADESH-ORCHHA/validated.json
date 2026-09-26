@@ -1,0 +1,269 @@
+{
+  "destination_id": "IN-MADHYA-PRADESH-ORCHHA",
+  "destination_name": "Orchha",
+  "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Virangana Lakshmibai Railway Station (VGLB)"
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.3,
+        "maximum_celsius": 28.5
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 10.9,
+        "maximum_celsius": 32.6
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 16.2,
+        "maximum_celsius": 38.5
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 27.0,
+        "maximum_celsius": 45.6
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 28.8,
+        "maximum_celsius": 45.4
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 27.1,
+        "maximum_celsius": 40.3
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 26.2,
+        "maximum_celsius": 36.7
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 24.8,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 13.1,
+        "maximum_celsius": 34.2
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 8.5,
+        "maximum_celsius": 29.9
+      },
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rajmata Vijayaraje Scindia Airport Gwalior (GWL), Gwalior",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Virangana Lakshmibai Railway Station (VGLB)",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the Bundelkhand region of Madhya Pradesh, 'Orchha', whose name means a hidden gem, is a UNESCO World Heritage City. Rudra Pratap Singh founded the kingdom of Orchha in the 15th century, but Akbar under the Mughal Empire captured it. Jahangir later gifted it to Vir Singh Bundela in the 16th century as a token of loyalty. Under the Bundela reign, Orchha flourished with its unique Indo-Muslim architectural style monuments, resulting from the cultural amalgamation of the Rajput kingdom in the Mughal era.",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At its heart, the Orchha Fort complex has three magnificent palaces. Built in the traditional Rajput style, Raj Mahal stands tall as a testament to the past glories of the Bundela kings. King Udait Singh built the exquisite Sheesh Mahal, also known as the Palace of Mirrors. To welcome Emperor Jahangir to Orchha, King Udait Singh built the Jahangir Mahal , in a blend of Mughal and Rajput styles. But there is more to Orchha than palaces, exquisite temples, cenotaphs and havelis that dot the landscape. The Chaturbhuj Temple, meaning one with four arms, refers to the avatar of Lord Vishnu. Located at the heart of Orchha, it is a stunning Hindu shrine devoted to Lord Vishnu. Originally built in the sixteenth century to house a statue of Lord Rama, this temple-fort complex remained unfulfilled. Legend has it that Queen Ganeshi Bai once meditated on the riverbanks during a journey to Ayodhya, and Lord Rama appeared before her. He agreed to return with her to Orchha on two conditions: he would be the sole king, and his final house would be wherever he sat. The queen then built a temple for Lord Rama, but he reminded her of his condition that he would remain where he was put down first. As a result, her palace became his home and Madhukar Shah moved his capital to Tikamghar, leaving Lord Rama as the sole ruler of Orchha. Today, the former King of Orchha's summer palace still exists outside the town, but Lord Rama is considered the Raja of Orchha. The Ram Raja Temple in Orchha is the only temple that worships Lord Ram as a king and not as a god. The evening aarti at the temple is a spectacular display of devotion, music, and incense. The stunning Laxmi Narayan temple has an abundance of scratch paintings throughout. It features well-preserved murals inside and offers fantastic views from the climbable roof. The Bundela chieftain Raja Bir Singh Deo built the temple in 1662 AD, dedicating it to the goddess Lakshmi, revered as the protector of riches. Orchha's Laxmi Temple is known for its abundance of exquisitely executed murals rather than the idols housed within, ornate exteriors, or soaring entrance gates. The Bundela dynasty's 14 cenotaphs are located on the banks of the river Betwa. Each cenotaph, dedicated to a particular ruler and his consort, is a work of art with distinctive Rajput architecture, elaborate domes, and decorated facades. The gateway to the Orchha Wildlife Sanctuary is across the Betwa River, near the cenotaphs. The sanctuary spans a small area, home to a variety of interesting wildlife species. Orchha is a bird lover's paradise, and the Betwa River creates an amazing ecosystem for both domestic and seasonal migratory birds. The cenotaphs of Orchha are breeding sites for a rare Indian species of long-billed vultures. Bundelkhandi cuisine is a must-try for food enthusiasts. The town's street food stalls and local eateries serve traditional dishes loved for generations. Poha, Jalebis, and Bhutte ki Kees are some must-try dishes. Head to Orchha and experience firsthand why this little gem is considered so unique.",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Orchha is known for its cenotaph, also known as the Chatrice , on the banks of the Betwa River .",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The architectural wonders or Orchha have been proposed for UNESCO World Heritage nomination.",
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping",
+        "Getting Around Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Orchha",
+        "source_url": "https://www.incredibleindia.gov.in/en/madhya-pradesh/orchha",
+        "retrieved_at": "2026-09-22T18:36:36.577181+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

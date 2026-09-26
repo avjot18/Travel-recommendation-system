@@ -1,0 +1,493 @@
+{
+  "destination_id": "IN-ANDHRA-PRADESH-NELLORE",
+  "destination_name": "Nellore",
+  "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Tirupati Airport (TIR) Chennai International Airport (MAA)"
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nellore Railway Station (NLR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located on the serene banks of the Penna River, Nellore is a culturally rich district in the southern Indian state of Andhra Pradesh. Often celebrated as the “ Shrimp Capital of India ,” this vibrant destination offers far more than its global seafood reputation. From ancient temples and sacred rivers to serene beaches and rich local culture, Nellore invites travelers to explore a side of coastal Andhra that is authentic, peaceful, and deeply rooted in heritage.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nellore’s name is synonymous with aquaculture. Its fertile delta, nourished by the Penna River and a network of canals, has made the region a powerhouse of shrimp farming. Vast stretches of carefully managed ponds dot the landscape, producing high-quality shrimp that are exported across the world.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For visitors, this thriving industry offers a fascinating glimpse into modern rural entrepreneurship. Local cuisine like prawn curries, spicy fry preparations, and coastal delicacies very well reflects this abundance and showcase Nellore’s bold flavors and culinary pride. Food lovers will find the region especially rewarding, where every meal tells a story of land, water, and livelihood.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nellore’s spiritual heart beats strong through its ancient temples and sacred sites. The Talpagiri Ranganathaswamy Temple , over 600 years old, stands beside the Pennar River and is famed for its towering gopuram and reclining idol of Lord Vishnu.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nearby temples such as Narasimhakonda , built in the 9th century by Pallava rulers, and the Sri Mallikarjuna Swamy Kamakshi Tayee Temple at Jonnawada are few other revered sites in Nellore. Penchalakona Temple, an ancient Narasimha shrine set amidst rocky hills and forests, is one of the Nava Narasimha temples and is especially vibrant during Narasimha Jayanthi.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Scattered across the district are numerous temples dedicated to Shiva, Vishnu, and local deities, each reflecting unique architectural styles and regional traditions. Festivals bring these shrines alive with music, rituals, and colorful processions, offering visitors a chance to experience Nellore’s living spiritual culture rather than just observe it.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond temples and towns, Nellore opens up to the Bay of Bengal with unspoiled coastal beauty. Mypadu Beach, the most popular seaside escape, is known for its clean sands, gentle waves, and relaxed atmosphere. Unlike crowded tourist beaches, Mypadu offers tranquility, which is perfect for quiet walks, sunrise views, and family outings.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Other lesser-known beaches like Kotha Koduru Beach along the Nellore coast provide explorers with raw natural beauty, fishing hamlets, and stunning sea views. These shores reflect the simple coastal lifestyle, where the rhythm of the day is guided by tides and tradition.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nellore offers a refreshing nature retreat where water, wildlife, and modern marvels come together in perfect harmony. The serene Pulicat Lake , one of India’s largest brackish water lagoons, is a haven for migratory birds and peaceful boat rides. Adding to this natural richness is the Pulicat Bird Sanctuary which is the second largest Bird Sanctuary in India. Home to a variety of bird species, such as flamingos, pelicans, storks, herons, and ducks, this sanctuary is a must-visit for wildlife enthusiasts.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The majestic Somasila and Kandaleru Dams are other scenic wonders surrounded by rolling hills, ideal for relaxation and photography. Adding a dynamic contrast is the Krishnapatnam Port that reflects Nellore’s growing coastal significance, blending natural beauty with impressive maritime infrastructure. The port presents an impressive sight of cargo ships against the coastal landscape.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "October-March is the best time to visit Nellore as the weather is pleasant during this time.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Nellore Railway Station (NLR) is the nearest railhead, well connected to major cities across Andhra Pradesh and neighbouring states.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Tirupati Airport (TIR), located approximately 120 km away, is the closest airport with domestic connectivity. Chennai International Airport (MAA), about 185–190 km away, serves as the nearest major international airport with wider flight options.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: The destination is easily accessible by road from Nellore, Tirupati, and Chennai, with well‑maintained highways and regular bus and taxi services available from nearby towns and cities",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Talpagiri Ranganathaswamy Temple houses a rare 10-foot-long reclining idol of Lord Ranganatha on Adisesha, with Goddess Sridevi on his chest and 26-inch-high idols of Sridevi and Bhudevi placed at his feet.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Krishnapatnam port is named after the Vijayanagar Emperor, Sri Krishnadevaraya, who used to operate it centuries ago.",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Vishakhapatnam's Top Street Food Treasures In MPV Colony",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The 8 best adventure sports in and around Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A canvas of culture: Exploring the artistic marvels of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Witness Anantapur’s natural beauty unfold",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a taste of Anantapur’s culinary delights",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A Journey Through Kurnool's Spiritual Sites",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Rekindle Your Faith with the South Indian Temple Trail",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering the culinary delights of Tirupati",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Read This Before You Plan Your Trip to Tirupati",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of greenery: Discovering the unspoiled beauty of Visakhapatnam",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Visakhapatnam: A shopper's paradise by the sea",
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Nellore",
+        "source_url": "https://www.incredibleindia.gov.in/en/andhra-pradesh/nellore",
+        "retrieved_at": "2026-09-22T18:36:20.403029+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

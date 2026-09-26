@@ -1,0 +1,410 @@
+{
+  "destination_id": "IN-PUNJAB-FIROZEPUR",
+  "destination_name": "Firozepur",
+  "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Firozepur Cantonment Railway Station (FZR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sri Guru Ram Dass Jee International Airport (ATQ)",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Firozepur Cantonment Railway Station (FZR)",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Located along the India–Pakistan border in Punjab, Firozepur is a historic city shaped by centuries of political, cultural, and military significance. Believed to have been founded in the 14th century by Sultan Ferozeshah Tughluq, the city has long held a strategic position in northern India, witnessing key events from medieval times through the colonial era.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Its location near the Sutlej River made Firozepur an important military outpost, particularly during the Anglo-Sikh wars and the British campaigns in the region. Over time, the town evolved into a place closely connected with India’s freedom struggle, giving it a distinctive identity rooted in courage and sacrifice.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most significant landmarks here is the National Martyrs Memorial at Hussainiwala , situated near the border. This is the final resting place of India’s legendary freedom fighters—Shaheed Bhagat Singh, Rajguru, and Sukhdev—who were cremated here in 1931. Today, the memorial serves as a powerful tribute, drawing visitors who come to honour their legacy and reflect on India’s journey to independence.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Firozepur also commemorates bravery through the Saragarhi Gurudwara , which honours the extraordinary sacrifice of 21 Sikh soldiers who defended their post in the historic Battle of Saragarhi. Every year on September 12, Saragarhi Day is observed with gatherings and tributes, keeping the memory of their courage alive.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its historical landmarks, the town offers glimpses of local life through its bustling bazaars, traditional eateries, and simple charm. From old lanes serving iconic Punjabi snacks to quiet stretches along the border, Firozepur presents a travel experience that is reflective rather than fast-paced.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "While in Firozepur, visitors can explore a mix of historical and local attractions that provide a deeper sense of the region. The Hussainiwala border area is central to the experience, where the retreat ceremony and memorial create a solemn yet memorable visit. Within the town, Saragarhi Gurudwara Sahib stands as an important site of remembrance. Walking through areas like Sirki Bazaar offers a glimpse into everyday local life, while food lovers can stop by popular spots known for traditional flavours such as kulche, poori, lassi, and pickles. Landmarks like Barki Memorial and the historic Hussainiwala Railway Station , the last station on the northern railway line before the border, also add to the local exploration circuit.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Firozepur is between October and March , when the weather is pleasant and suitable for sightseeing. This period is ideal for visiting outdoor sites such as memorials and attending ceremonies at the border. Summers can be quite hot, while winters offer a more comfortable travel experience.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: The nearest major airport is Sri Guru Ram Dass Jee International Airport, Amritsar , located around 110–120 km away. Chandigarh Airport is another option, though slightly farther.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Train: Firozepur is well connected by rail, with Firozepur Cantonment Railway Station serving as a key junction linked to major cities in Punjab and beyond.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: The city is accessible by road from Amritsar, Ludhiana, Chandigarh, and Delhi . State-run and private buses, along with taxis, provide convenient connectivity across Punjab.",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Hussainiwala Memorial marks the cremation site of Bhagat Singh, Rajguru, and Sukhdev",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "25 Top Amritsar Experiences You Must Have In The Holy City Of Punjab",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through Ludhiana’s religious spots",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Retail therapy in Jalandhar’s vibrant markets",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A shopper's paradise of heritage and elegance",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shop to your heart’s content in Ludhiana",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Where culture blossoms in music, art, and craftsmanship",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Gateway to Entertainment in Patiala",
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Firozepur",
+        "source_url": "https://www.incredibleindia.gov.in/en/punjab/firozepur",
+        "retrieved_at": "2026-09-22T18:36:41.179562+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

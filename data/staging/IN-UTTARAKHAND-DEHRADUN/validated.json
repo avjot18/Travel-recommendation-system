@@ -1,0 +1,342 @@
+{
+  "destination_id": "IN-UTTARAKHAND-DEHRADUN",
+  "destination_name": "Dehradun",
+  "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jolly Grant Airport (DED), Dehradun"
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Dehradun Railway Station (DDN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 24.5
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.1,
+        "maximum_celsius": 27.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.4,
+        "maximum_celsius": 32.2
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 12.3,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 16.6,
+        "maximum_celsius": 39.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 19.3,
+        "maximum_celsius": 38.7
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 33.1
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 18.5,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 12.0,
+        "maximum_celsius": 31.7
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.2,
+        "maximum_celsius": 28.6
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 4.6,
+        "maximum_celsius": 25.4
+      },
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Can you imagine a place so spellbindingly beautiful that it inspired a legendary musician like George Harrison of the Beatles to pen a song about it? Well, that's the kind of captivating beauty Dehradun is. Situated at a lofty altitude of 1,400 feet in the Garhwal Himalayan region of Uttarakhand, Dehradun is cradled in the undulating Doon Valley, embraced by soaring peaks. This popular hill station will leave you awestruck with its gushing waterfalls, verdant Sal forests, enigmatic caves, and enchanting spots perfect for picnics. It boasts a pleasant year-round climate and breathtaking surroundings that will make you want to extend your stay indefinitely. Established by the revered Sikh Guru Baba Ram Rai in 1675, the city is also believed to be the abode of Guru Dronacharya, the legendary teacher from the Indian epic Mahabharata. For those captivated by ancient lore, legends suggest that Lord Rama and his brother Lakshmana graced this very site after their triumph over the demon king Ravana. You’ll love the city’s laid-back vibe and be amused at how it seamlessly blends the conventional with the contemporary, offering a delightful mix of quaint cafés, heritage monuments, and bustling bazaars. The city’s a hub for education - home to some of India’s prestigious schools and institutions, from the Doon School to the Indian Military Academy. For thrill-seekers, Dehradun is an absolute paradise. Not only does it serve as the base camp for numerous exhilarating treks, such as the Kempty Falls Trek, Dhanaulti Trek, and Nag Tibba Trek, but it also offers adrenaline-pumping activities like paragliding, skydiving, rafting, and bungee jumping. Come, let’s discover more about the places to visit and things to do in this beautiful and historical city of Dehradun!",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dehradun is a feast for the senses when it comes to natural beauty! Just a hop, skip, and jump from the city centre, you'll find yourself surrounded by surreal landscapes. First up, explore the Robber's Cave (or Guchhupani). This natural wonder features a river flowing right through the cave! Hike and wade your way through the cool water and discover a hidden waterfall at the end. Feeling more relaxed? Head to Sahastradhara, meaning ‘a thousand springs.’ This idyllic picnic spot boasts sulphur springs known for their healing properties. Take a dip in the cool water, or simply soak up the beauty of the surroundings. Animal lovers will love the Dehradun Zoo, located in the foothills of the Shivalik range and home to various species, including spotted deer. For a truly unforgettable experience, venture out to Rajaji National Park , 36 km south of the city. This park offers enthralling elephant safaris and a chance to encounter tigers, leopards and over 400 species of birds! If serenity is your goal, Dehradun has you covered. Find peace at the Asan Barrage , a pristine lake perfect for nature lovers and birdwatchers. Enjoy water sports like rowing or kayaking, or simply relax by the water's edge. Lachhiwala Nature Park offers another haven for relaxation, with lush greenery and a charming ambience.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Uttarakhand is called Dev Bhoomi (the land of gods), and its capital, Dehradun, beautifully captures its divine essence and offers a treasure trove of shrines. Start your journey at the Tapkeshwar Mahadev Temple, a captivating cave shrine dedicated to Lord Shiva. Here, a mesmerising spectacle awaits – water trickles from the ceiling, continuously bathing the Shiva Linga! Pay your respects at the revered Guru Ram Rai Gurudwara, a 17th-century Sikh pilgrimage site that boasts over 500 stunning mural paintings. Immerse yourself in the tranquillity of the Mindrolling Monastery , one of India's most important Buddhist learning centres. Pray or meditate at its massive prayer hall or gaze upon the awe-inspiring 35-meter-high statue of Lord Buddha. Don't miss the Chaar Sidh Peeth - four holy temples in each direction, said to grant wishes if visited in one day without eating. They are Lakshman Sidh Peeth, Kalu Sidh Peeth, Manak Sidh Peeth, and Madhu Sidh Peeth, all nestled amid serene settings. Venture beyond the city limits to discover even more spiritual gems like the Daat Kali Temple, Santala Devi Temple and Paonta Sahib.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its breathtaking scenery and spiritual sanctuaries, you must explore iconic spots in Dehradun where the whispers of the past come alive. Pay your respects at the Khalanga War Memorial , erected by the British, which commemorates the bravery of Gurkha soldiers, their legendary courage forever etched in stone. Head over to the expansive Forest Research Institute , a renowned landmark of the city. This architectural gem, boasting a blend of Greco-Roman and colonial styles, will leave you speechless. Nature enthusiasts won't want to miss the six forest museums housed within. Step inside the Chetwode Hall at the Indian Military Academy and gain a glimpse into the world of the Indian Army, and a sense of their rigorous discipline and unwavering dedication. In the heart of the city, the six-faced Clock Tower (Ghanta Ghar) stands tall, a silent sentinel keeping watch over Dehradun. Look closer, and you’ll find the names of Dehradun's freedom fighters etched on gleaming gold plaques adorning the tower.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dehradun is a delicious adventure for your taste buds! While it's famous for lychees and world-class basmati rice and boasts everything from hearty North Indian fare to authentic Tibetan cuisine, the real star is the local Pahadi specialities—they're what dreams are made of! Try Chole Katlambe (a chickpea curry with flaky bread), Phaanu (a lentil soup), Kandalee ka Saag (a greens dish), Kafuli (a green gravy dish), or Aloo ke Gutke (a spicy potato snack). The city is also famous for its bakeries, like Ellora's and Bake Masters, which churn out delectable biscuits and flaky rusks. You must try (and pack) the local favourite stick jaw candy! Grab a plate of piping hot pooris from the legendary Chetan Puri Wala, or satisfy your sweet tooth with traditional treats like Bal Mithai, Ras Malai and Jhangora ki Kheer at Kumar Sweets or Anandam Sweets!",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forget everything you think about boring souvenir shops. In Dehradun, you'll find a treasure trove of unique finds waiting to be discovered. Love a good deal? Head to the bustling Paltan Bazaar near the clock tower. This market, although famous for Basmati rice, also buzzes with affordable goodies – clothes, shoes, handicrafts, souvenirs, and more! It's the perfect place to snag unique keepsakes and local treasures. The Tibetan Market is your stop for antique jewellery, handcrafted items, and colourful apparel. Craving trendy styles? Indira Market has you covered. This market caters to fashionistas, offering the latest trends at prices you’ll love! If you prefer the comfort of malls, check out Pacific Mall and Crossroads Mall, which offer a haven for brand-name stores, trendy cafes, and family-friendly entertainment.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dehradun isn't just about stunning vistas and daytime adventures. After a day of exploring temples or trekking through caves, unwind and let loose at Dehradun's vibrant nightlife scene! The city boasts a lively collection of pubs, clubs, lounges, bars, and restaurants, each offering a unique atmosphere for your evening entertainment. Head to the happening Rajpur Road, where the coolest pubs and clubs are clustered together. Dance the night away, mingle with friendly locals, or simply enjoy a drink and good conversation!",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "As a major part of the Garhwal region, the city pulsates with the rhythm of its heritage. Fairs and festivals are where a city's soul truly comes alive, and Dehradun bursts with colourful celebrations throughout the year. Plan your trip around one of these exciting events: witness the energy and devotion of the Magh Mela on January 14th, or be swept up in the vibrant celebration of the Sikh community during the Jhanda Mela in March, attracting devotees from all over. Celebrate Lord Shiva at the sacred Tapkeshwar Mela held on Shivratri, or delve into India's rich heritage and folk traditions at the annual 15-day Virasat Festival. Dehradun has even more to offer the curious explorer – keep an eye out for the Laxman Sidhha Fair, Bissu Fair, and Mahasu Devta's Fair, each with its unique charm and local flavour.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dehradun acts as your springboard to unforgettable experiences. Located just 240 km from Delhi, it is the perfect base camp for exploring a treasure trove of nearby destinations. Head to Mussoorie, the ‘Queen of Hills’ situated just 28 km north of Dehradun. This charming hill station offers breathtaking views, a romantic ambience, and a delightful escape from the hustle and bustle. Venture further to Chakrata, a hidden gem that offers breathtaking views of the Yamuna Valley and thrilling activities like skiing and mountain climbing. For a unique dose of spirituality and adventure, head to Rishikesh, which offers whitewater rafting, bungee jumping, and yoga all in one place! A short journey takes you to Haridwar, one of India's most revered pilgrimage sites. Immerse yourself in the sacred atmosphere and witness the awe-inspiring Ganga Aarti ceremony.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Doon Valley is calling you with its stunning scenery, unforgettable adventures, spiritual vibes, and delicious surprises. Dehradun is pleasant year-round, but the best times to visit are from March to June and October to December.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Forest Research Institute in Dehradun is the only one of its kind to exist in India.",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Unveiling the Top 8 Adventure Activities in Dehradun",
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Dehradun",
+        "source_url": "https://www.incredibleindia.gov.in/en/uttarakhand/dehradun",
+        "retrieved_at": "2026-09-22T18:36:49.353377+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

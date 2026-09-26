@@ -1,0 +1,392 @@
+{
+  "destination_id": "IN-MAHARASHTRA-MAHABALESHWAR",
+  "destination_name": "Mahabaleshwar",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Pune Airport (PNQ), Pune"
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Wathar Railway Station (WTR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 9.2,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 10.5,
+        "maximum_celsius": 31.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 13.4,
+        "maximum_celsius": 33.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.2,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 15.3,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 15.8,
+        "maximum_celsius": 30.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 15.8,
+        "maximum_celsius": 22.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 15.7,
+        "maximum_celsius": 22.2
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 14.3,
+        "maximum_celsius": 26.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.0,
+        "maximum_celsius": 28.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 12.7,
+        "maximum_celsius": 28.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 28.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahabaleshwar! The name evokes a heavenly aura of scenic vistas, sacred auras, and sweet indulgences! Among the most popular hill stations in Maharashtra, Mahabaleshwar beckons with its beauty, peace and divinity. Mahabaleshwar stands as a timeless tribute to spirituality, its ancient temples resonating with echoes of reverence through the ages. Cradled in the embrace of the Sahyadri Mountains, its name is derived from the mighty ‘Mahabali’ alluding to the 500-year-old Mahabaleshwar Temple here, a revered sanctuary dedicated to Lord Shiva. In addition, Mahabaleshwar is also home to the Krishnabai Temple , believed to be the point of origin of the mighty River Krishna. Yet the town is so much more, beyond its core of divinity. Having borne witness to the rule of various powers through history, its architecture and culture vividly embody this diversity. Listen and you can still hear whispers of grandeur in its magnificent forts. Perched beautifully at an altitude of 4500 feet, Mahabaleshwar is also a haven of natural bounty. Its lush fields adorned with the ruby-red jewels of strawberries, the golden hues of forest honey, and the earthy richness of Wai turmeric, is a testament to the region's agricultural abundance. Strawberry season finds its streets full of vendors selling an array of strawberry products, including strawberry shakes, jams and more. Mahabaleshwar invites you to embark on a journey of discovery – a journey that winds through the annals of history, across the vistas of natural splendour, and into the heart of architectural richness. Here, amidst the timeless echoes of the past and the unique trails of the present, lies a sanctuary for the soul – a place where serenity, spirituality, and sweetness converge in perfect harmony. And don’t forget to make time to visit Panchgani , its twin town just 20 kilometres away, a buzzing hub of beauty and fun.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahabaleshwar's rich history unfolds through centuries of dynastic reigns and pivotal moments. Initially under the control of Raja Bhoj II until 1209, the arrival of King Singhan Yadav in 1215 marked a turning point in the architecture and culture of the region. During the early 13th century, King Singhan commissioned the construction of a modest temple in Old Mahabaleshwar, catering primarily to the Mahadev Koli tribals. This period also witnessed the establishment of a vital water tank at the source of the Krishna River. As dynasties rose and fell, Mahabaleshwar saw a transition to Maratha rule under the Chandra Rao More family in the 16th century, ushering in an era of renaissance and renewal. The venerable Old Mahabaleshwar Temple was rebuilt, standing as a testament to the enduring devotion of Lord Mahabali. In 1656, the illustrious Chhatrapati Shivaji Maharaj seized control of Javli and Mahabaleshwar, including the iconic Pratapgarh Fort , cementing his place in history as a legendary warrior and ruler. With his ascendance, Mahabaleshwar entered a new chapter of prosperity and strategic significance. Finally, during the British Empire's reign in 1819, Mahabaleshwar was assimilated into the territory of the Raja of Satara, paving the way for the establishment of New Mahabaleshwar, which became the summer capital of the Bombay Presidency. This fusion of cultures and influences has shaped Mahabaleshwar into the storied destination it is today.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "At the heart of this spiritual oasis lies the ancient Mahabaleshwar Temple , a sanctuary of faith dating back centuries, offering solace and spiritual contemplation amidst tranquil surroundings. Experience the spiritual majesty of Mahabaleshwar as you journey through its sacred sites. At the heart of this mystical hill station lies the ancient Mahabaleshwar Temple, a revered sanctuary dedicated to Lord Shiva. This 500-year-old divine abode boasts a self-originated lingam and a history steeped in legend. Marvel at the intricate architecture, including a gold platform donated by the great Maratha king Shivaji himself, as you immerse yourself in the spiritual aura of this sacred shrine. As you traverse the winding paths of this beautiful town, discover the Krishnabai Temple , with its storied past and divine tales about the mighty river Krishna. Perched majestically on a cliff, this 19th-century marvel stands as a silent guardian over the town. Witness the stone-carved cow, from whose mouth flows the sacred waters believed to birth the Krishna River. Feel the serenity wash over you as you partake in the auspicious rituals surrounding this revered shrine, steeped in both history and holiness. No spiritual journey in Mahabaleshwar is complete without a visit to the Panchganga Temple , a celestial confluence of five holy rivers. Built in the 13th century by Yadava King Raja Singha Deo, this black stone marvel enchants pilgrims with its divine architecture and serene ambiance. Witness the sanctity of the kunds, where the sacred waters merge, and partake in the age-old traditions that have echoed through the corridors of time. Let the tranquil beauty of Mahabaleshwar's spiritual treasures guide you on a journey of self-discovery and divine blessings. As you delve deeper into the spiritual richness of Mahabaleshwar, encounter the awe-inspiring Bhavani Temple , a testament to devotion and divine blessings. Established by none other than the legendary Chhatrapati Shivaji Maharaj himself in 1661, this revered shrine beckons pilgrims with its ancient allure. Venture further into the spiritual realm of Mahabaleshwar and discover the Hanuman Temple within the ancient walls of Pratapgarh Fort. Built over 350 years ago under the guidance of Shivaji Maharaj's revered guru, Swami Ramdas, this temple holds a rare and unique statue of Lord Hanuman. Feel the palpable presence of the revered deity as you bask in the tranquil ambiance of this sacred sanctuary.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into the past and embark on a journey of discovery through Mahabaleshwar's rich heritage. Begin your adventure at the iconic Pratapgarh Fort , a towering symbol of Maratha valour and resilience. Built in 1665 by the legendary Chhatrapati Shivaji Maharaj, this majestic fortress offers panoramic vistas of the surrounding landscape and echoes with tales of courage and triumph. Immerse yourself in the history and folklore that surround Pratapgarh, including the legendary encounter between Shivaji and Adilshahi General Afzal Khan, a pivotal moment in Maratha history that continues to captivate visitors to this day. Next, delve into the colonial charm of Morarji Castle, a splendid architectural gem in the hills of Mahabaleshwar. Built in the colonial style, this picturesque castle exudes elegance and grandeur, transporting you to a bygone era. Explore its red walls, sea green roof, and exquisite gardens, and discover its unique role in India's independence movement, including serving as a resting place for Mahatma Gandhi during his visits to the region. From Maratha fortresses to colonial castles, Mahabaleshwar's heritage gems await your exploration, promising a journey through time and tradition unlike any other.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into a world of joyous celebrations as Mahabaleshwar comes alive with a calendar full of festivals and events. Kickstart your festivities at the annual Strawberry Fair, a delightful extravaganza held at Mapro Gardens during the Easter weekend. Here, amidst the scenic beauty of Mahabaleshwar, indulge your senses in the sweet aroma and succulent flavours of strawberries, the jewel fruit of the region. Local farmers proudly showcase their bountiful harvests, offering free samples of innovative strawberry-based products that entice the taste buds and ignite the imagination. It's a celebration of nature's bounty and the spirit of community that defines Mahabaleshwar's agricultural heritage. As the seasons change, so does the rhythm of celebration in Mahabaleshwar. During Ganesh Chaturthi, the town comes alive with fervent devotion and exuberant festivities, mirroring the spirit of Maharashtra's rich culture. Witness the colourful processions, the melodious chants, and the cheerful gatherings that fill the air with infectious energy and reverence. And when Diwali arrives, Mahabaleshwar dons its finest attire, illuminating the night sky with a dazzling display of lights and colours. From the bustling streets to the serene hillsides, every corner of the region radiates with the warmth of celebration and the spirit of togetherness. And don't miss \"I Love Panchgani\", a local festival that pays homage to the arts, culture, and literature of this enchanting hill station, adding a touch of magic to the festivities. Whether you're a food enthusiast, a culture lover, or simply seeking moments of joy and connection, Mahabaleshwar's festivals and events promise an unforgettable experience that will leave you spellbound and yearning for more.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Step into a world of breath-taking natural beauty as you explore the captivating landscapes of Mahabaleshwar. From the majestic peaks of Panchgani to the tranquil waters of Venna Lake, every corner of this enchanting hill station offers a new adventure waiting to be discovered. Venture to Arthur's Seat, where you'll be treated to panoramic views of the Deccan and Konkan regions, as well as the lush green valleys below. Continue your exploration at Elephant's Head Point, where the striking resemblance of a mountain rock to an elephant's head will leave you spellbound. Journey to Babington Point, a tranquil escape amidst unspoiled natural beauty, and take in the awe-inspiring views of the Solshi Valley and Koyna Valley. Lose yourself in the lush greenery of the hills, the cascading waterfalls, and the serene lakes that dot the landscape, and experience nature in its purest form. Take a trip to Kaas Pathar, a UNESCO World Heritage Site known as the Plateau of a Million Flowers. Here, amidst a riot of colours, rare and endemic flora bloom in abundance, creating a spectacle that must be seen to be believed. Wander through fields of golden-hued Mickey Mouse flowers and pink-lavender-purple balsams, and marvel at the beauty of Seeta’s tears and orchids. Finally, immerse yourself in the rich biodiversity of Koyna Wildlife Sanctuary, home to majestic tigers, leopards, and a stunning variety of bird species. With its diverse landscapes and abundant wildlife, Mahabaleshwar offers a nature lover's paradise like no other.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mahabaleshwar isn't just about picturesque landscapes and serene lakes; it's also a playground for adventure enthusiasts seeking an adrenaline rush. Explore a myriad of entertainment and adventure options, such as boating at the sprawling 28-acre picturesque Venna Lake that is sure to get your spirits soaring. Head to Panchgani’s amusement parks, where themed rides, Ferris wheels, and roller coasters await. Brace yourself for a day filled with excitement as you tackle thrilling attractions like bungee jumping and Zyclone rides. For the little ones, there's a dedicated garden play area to keep them entertained while you enjoy the adrenaline-pumping adventures. Feeling the need for speed? How about go-karting on a mountain. Challenge your friends and family to a race around the track, or try your hand at other fun activities like bungee trampoline and dashing cars. For those who prefer to soar high above the clouds, paragliding in Panchgani offers a unique opportunity to experience the thrill of flight amidst breath-taking scenery. Feel the wind in your hair as you glide through the air, taking in panoramic views of lush greenery and rolling hills. Whether you're a seasoned pro or a first-time flyer, Panchgani's paragliding tours offer an unforgettable adventure for everyone. And for the nature lovers and adventure seekers, Mahabaleshwar offers a range of exhilarating trekking options. From the historic Pratapgarh Fort Trek to the scenic Tapola Trek, there's a trail for every level of experience. Lace up your hiking boots, grab your camera, and prepare for an unforgettable journey through Mahabaleshwar's pristine wilderness. Whether you're racing around a go-kart track, soaring through the skies, or trekking through the mountains, Mahabaleshwar offers endless opportunities for adventure and excitement. So, pack your bags, embrace the thrill, and get ready for the adventure of a lifetime!",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its breath-taking landscapes, Mahabaleshwar beckons visitors to explore its cultural heritage through the lens of art and craft. At the heart of this creative oasis lies the Devrai Art Village, a sanctuary for indigenous craftsmanship in the quaint town of Panchgani. Here, amidst the serene hills, artisans breathe life into stone and brass through the innovative Rock Dhokra technique. This unique fusion of traditional craftsmanship and modern innovation results in captivating sculptures that embody the essence of Mahabaleshwar's artistic spirit. Step into the enchanting world of Mahabaleshwar's Wax Museum, where lifelike replicas and heart-warming exhibits await your exploration. Located in Moleshwar Village, this captivating museum showcases a diverse collection of wax sculptures crafted by visually impaired artisans, showcasing their remarkable talent and skill. It's a celebration of art, empowerment, and inclusivity that reflects the soulful essence of Mahabaleshwar's artistic community.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Don't forget to indulge in the region's incredible souvenirs, from delectable preserves to exquisite woodcrafts, each offering a tangible memento of your unforgettable journey through Mahabaleshwar's unique landscape. Immerse yourself in the sights, sounds, and flavours at Mahabaleshwar's bustling Town Bazaar, a haven for shoppers seeking treasures and unforgettable experiences. Begin your exploration by indulging your taste buds in the freshest fruit products the region has to offer. From tantalising jams and marmalades to succulent preserves and jellies, each bite is a delicious reminder of Mahabaleshwar's rich agricultural heritage. And don't forget to sample the jewel of the region – fresh strawberries that burst with flavour and sweetness, leaving a lasting impression long after your visit. Come strawberry season, it’s not just the shops! You will find its streets full of vendors selling an array of strawberry products, including strawberry shakes, jams and more. As you wander through the maze of shops, you'll discover an array of handcrafted wonders that capture the essence of Mahabaleshwar's artistic spirit. Admire the intricate designs of locally made wood products and beautifully carved walking sticks, each a testament to the skill and craftsmanship of local artisans. Whether you're searching for rustic leather goods, handcrafted trinkets, or dazzling costume jewellery, Mahabaleshwar is where you are sure to find treasures.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Prepare to treat your taste buds on a culinary adventure in the enchanting hills of Mahabaleshwar. Begin your gastronomic exploration amidst the beauty of Mapro Gardens, where the succulent sweetness of fresh strawberries takes centre stage. Indulge in a delightful array of strawberry-infused treats, from creamy shakes to luscious ice creams, all crafted with the finest fruits plucked straight from the garden. Don't miss the annual Strawberry Festival, where you can sample unconventional strawberry-based products and take home delectable jams, marmalades, and syrups to relive the magic of Mahabaleshwar's flavours. Venture further into the heart of the hills to Manghar Honey Village, India's first 'Village of Honey', where the sweet nectar of pure honey awaits. Join a guided tour at the Bee Breeding Centre and discover the secrets of beekeeping while immersing yourself in the soothing aroma of honey. Continue your culinary odyssey at Madhusagar Honey Factory, a beacon of honey tourism, where you can explore the fascinating world of honey production and savour a variety of high-quality honey products, each infused with its own unique health benefits. Complete your epicurean journey with a visit to Mahabaleshwar's iconic eateries, where tradition and taste converge to create unforgettable culinary experiences. From the historic charm of Imperial Store to the timeless delights of Elsie's Bakery, each establishment offers a glimpse into the rich culinary heritage of the region. Indulge in home-cooked delights at Bagicha Corner, where fresh vegetables and local ingredients come together to create authentic flavours that have stood the test of time. Whether you're craving sweet indulgences or savoury delights, Mahabaleshwar invites you to discover the true essence of its gastronomic treasures.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Standing tall at a whopping 3500 feet above sea level, Pratapgarh Fort is truly awe-inspiring. The fort is ingeniously divided into two parts. The upper fort is built on the crest of the hill, surrounded by sheer cliffs that drop up to 250 metres. The sprawling lower fort is fortified with 10-12 meters high towers and bastions at corners on projecting spurs.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The sanctum sanctorum of the Mahabaleshwar Temple has a 500-year-old ‘Swayambhu’ (self-originated) lingam in the shape of Rudraksha.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Krishnabai Temple in Mahabaleshwar is believed to be the point of origin of the mighty River Krishna.",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Best 14 Things To Do in Mahabaleshwar – The Top Experiences You Should Not Miss Out On",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Preserving the cultural heritage of Mahabaleshwar",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Relish the local flavours of Mahabaleshwar",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Experience fun and frolic in Mahabaleshwar",
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mahabaleshwar",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/mahabaleshwar",
+        "retrieved_at": "2026-09-22T18:36:37.857926+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

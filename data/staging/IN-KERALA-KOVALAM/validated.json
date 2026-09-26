@@ -1,0 +1,453 @@
+{
+  "destination_id": "IN-KERALA-KOVALAM",
+  "destination_name": "Kovalam",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Thiruvananthapuram International Airport (TRV)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Thiruvananthapuram Central Railway Station (TVC)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram International Airport (TRV)",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thiruvananthapuram Central Railway Station (TVC)",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kovalam is one of Kerala’s most iconic beach destinations, celebrated for its three crescent-shaped beaches, calm turquoise waters, and relaxed tropical charm. Framed by a rocky headland that forms a naturally sheltered bay, Kovalam offers an ideal setting for swimming, sea bathing, and leisurely beach walks. The destination effortlessly blends natural beauty with wellness, adventure, and cultural experiences, making it a favourite among both domestic and international travellers.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "From sunbathing under the tropical sun to enjoying soothing Ayurvedic therapies, Kovalam promises a rejuvenating escape. Adventure seekers can opt for catamaran rides and water activities, while those looking to unwind can explore yoga centres and wellness retreats overlooking the sea. Evenings in Kovalam are lively, with beachfront cafés, cultural performances, and gentle nightlife that extend late into the night, creating an atmosphere that is both vibrant and laid-back.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "One of the most visited attractions here is Lighthouse Beach, home to the historic Vizhinjam Lighthouse. A climb to the top offers sweeping views of the Arabian Sea and the surrounding coastline, making it a must-visit spot for photography enthusiasts and sunset lovers alike. The rhythmic sound of the waves and the fresh sea breeze enhance the experience, leaving visitors with lasting memories.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond its beaches, Kovalam invites exploration into its serene natural surroundings. The scenic Karamana River offers peaceful boat rides through lush landscapes, while Vellayani Lake serves as a tranquil picnic spot ideal for boating and fishing. History and heritage enthusiasts can visit the ancient Vizhinjam Rock Cut Cave Temple , a rare archaeological site dedicated to Lord Shiva that reflects the region’s rich cultural legacy. Art lovers will enjoy the Kovalam Art Gallery and the Kerala Art and Craft Village , where traditional crafts and local artistry come alive.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Accommodation options in Kovalam range from luxury beachfront resorts and five-star hotels to budget-friendly cottages and wellness retreats. The culinary scene is equally diverse, offering authentic Kerala cuisine alongside international flavours. Located just 16 kilometres from Thiruvananthapuram, Kovalam is also an excellent base for exploring nearby city attractions such as the Padmanabhaswamy Temple, Napier Museum , and Sri Chitra Art Gallery .",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Combining pristine beaches, wellness experiences, cultural richness, and easy accessibility, Kovalam stands out as a complete coastal holiday destination that promises relaxation, discovery, and unforgettable moments.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kovalam features three distinct beaches spread across a scenic 17-kilometre coastline. Together, they form the signature crescent shape that defines the destination.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "1. Lighthouse Beach: The southernmost beach of Kovalam, Lighthouse Beach is named after the Vizhinjam Lighthouse perched atop the Kurumkal hillock. It is the most vibrant stretch, known for swimming, cafés, and panoramic sea views.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "2. Hawah Beach : Also known as Eve’s Beach, Hawah Beach features a rocky promontory and calm bay. It is a working beach used by local fishermen and offers visitors a glimpse into everyday coastal life.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "3. Samudra Beach : Separated from Lighthouse Beach by a large rocky outcrop, Samudra Beach is quieter and less crowded. It is ideal for travellers seeking solitude and scenic beauty.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A visit to the Vizhinjam Marine Aquarium adds an educational and engaging dimension to a Kovalam holiday. Located close to the beach, the aquarium showcases a fascinating variety of marine life native to the Arabian Sea. Colourful fish species, turtles, and other sea creatures offer visitors an insight into the rich underwater biodiversity of Kerala’s coastline. It is an ideal stop for families, children, and anyone curious about marine ecosystems.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road : Kovalam is located approximately 12–15 kilometres from Thiruvananthapuram, it is well connected by road to major towns and cities in Kerala. Regular buses, taxis, and private vehicles operate from Thiruvananthapuram, The scenic coastal drive itself enhances the travel experience, making the journey as enjoyable as the destination.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air : The nearest airport is Thiruvananthapuram International Airport, located approximately 15 kilometres from Kovalam. The airport is well connected to major Indian cities and several international destinations, ensuring easy access for both domestic and overseas travellers.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail : Thiruvananthapuram Central Railway Station is the closest railhead, offering excellent connectivity to important cities across India. From the station, Kovalam can be reached conveniently by taxi or local transport.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kovalam is internationally renowned for its authentic Ayurvedic therapies and yoga retreats. The destination attracts wellness seekers from around the world who come to experience traditional healing practices in a serene beachfront setting, combining natural beauty with holistic rejuvenation.",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Celebrating The Festival of Love and Lights at Varkala",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Munnar travel blog – Tourist places, best time to visit, hotels and more",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "5 Sanctuaries you must visit to explore wildlife in Kerala",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Forte Kochi is a gem on Princess Street of Fort Kochi, Kerala",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "What to Eat and Where to Eat in Thiruvananthapuram",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kovalam",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/kovalam",
+        "retrieved_at": "2026-09-22T18:36:33.481454+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "destination_id": "IN-KERALA-KOLLAM",
+  "name": "Kollam",
+  "state_or_ut": "Kerala",
+  "region": null,
+  "description": "Kollam is an officially listed tourism destination in Kerala, India. It is best treated as a backwaters, nature, wellness travel stop, with exact attractions, current conditions and venue details resolved through live place and tourism searches.",
+  "travel_styles": [
+    "backwaters",
+    "nature",
+    "wellness",
+    "beach",
+    "food",
+    "culture"
+  ],
+  "best_for": [
+    "backwaters",
+    "wellness",
+    "couples",
+    "food",
+    "nature"
+  ],
+  "traveler_types": [],
+  "pace": [],
+  "crowd_level": null,
+  "best_months": [
+    "October",
+    "November",
+    "December",
+    "January",
+    "February",
+    "March"
+  ],
+  "season_profile": {
+    "january": {
+      "minimum_celsius": 3.4,
+      "maximum_celsius": 23.5
+    },
+    "february": {
+      "minimum_celsius": 6.0,
+      "maximum_celsius": 26.5
+    },
+    "march": {
+      "minimum_celsius": 9.5,
+      "maximum_celsius": 31.9
+    },
+    "april": {
+      "minimum_celsius": 13.8,
+      "maximum_celsius": 38.6
+    },
+    "may": {
+      "minimum_celsius": 18.4,
+      "maximum_celsius": 42.6
+    },
+    "june": {
+      "minimum_celsius": 20.4,
+      "maximum_celsius": 43.4
+    },
+    "july": {
+      "minimum_celsius": 21.5,
+      "maximum_celsius": 39.1
+    },
+    "august": {
+      "minimum_celsius": 20.9,
+      "maximum_celsius": 36.0
+    },
+    "september": {
+      "minimum_celsius": 19.1,
+      "maximum_celsius": 35.2
+    },
+    "october": {
+      "minimum_celsius": 14.3,
+      "maximum_celsius": 33.9
+    },
+    "november": {
+      "minimum_celsius": 8.8,
+      "maximum_celsius": 30.0
+    },
+    "december": {
+      "minimum_celsius": 4.7,
+      "maximum_celsius": 25.6
+    }
+  },
+  "ideal_duration_days": [],
+  "budget_tier": "mid-range-to-premium",
+  "activities": [
+    {
+      "name": "local sightseeing",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "heritage and cultural exploration",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "local food experiences",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "photography",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    },
+    {
+      "name": "short excursions",
+      "description": null,
+      "category": null,
+      "best_seasons": []
+    }
+  ],
+  "attractions": [],
+  "food_highlights": [
+    "Regional cuisine of Kerala",
+    "Local vegetarian and non-vegetarian specialties",
+    "Street food and regional snacks where available"
+  ],
+  "stay_areas": [],
+  "transport": {
+    "airport": [
+      "Thivandrum International Airport (TRV), Thiruvananthapuram"
+    ],
+    "railway_station": [
+      "Kollam Junction Railway Station (QLN)"
+    ]
+  },
+  "pros": [
+    "Officially listed tourism destination in Kerala",
+    "Can be combined with nearby destinations",
+    "Useful as a retrieval candidate for personalized itinerary generation"
+  ],
+  "cons": [
+    "Exact attraction availability can change",
+    "Current prices and opening hours require live lookup",
+    "Travel time can vary by season, traffic and local conditions"
+  ],
+  "notes": "Destination identity is sourced from the Ministry of Tourism directory. Descriptive recommendation fields are normalized AI enrichment and are NOT presented as official wording. Verify destination-specific details before production display.",
+  "data_quality": "medium",
+  "verification_status": "official_page_enriched",
+  "source_metadata": [
+    {
+      "source_name": "Incredible India - Kollam",
+      "source_url": "https://www.incredibleindia.gov.in/en/kerala/kollam",
+      "retrieved_at": null,
+      "source_type": "official_tourism_page"
+    }
+  ]
+}

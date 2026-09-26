@@ -1,0 +1,393 @@
+{
+  "destination_id": "IN-KERALA-PALAKKAD",
+  "destination_name": "Palakkad",
+  "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Cochin International Airport (COK), Cochin Coimbatore International Airport (CJB), Coimbatore Kozhikode International Airport (CCJ), Kozhikode"
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Palakkad Junction Railway Station (PGT) Coimbatore Junction Railway Station (CBE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 39.3
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 22.6,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 37.9
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 22.2,
+        "maximum_celsius": 34.5
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 32.1
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 22.0,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 22.3,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 21.3,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 20.6,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cochin International Airport (COK), Cochin",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore International Airport (CJB), Coimbatore",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kozhikode International Airport (CCJ), Kozhikode",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Coimbatore Junction Railway Station (CBE)",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled amidst the picturesque landscapes of Kerala, Palakkad stands as a testament to the timeless allure of history, culture, and natural beauty. With its ancient fortresses, serene backwaters, and lush greenery, Palakkad invites travellers to embark on a journey of discovery and inspiration. Palakkad is more than just a destination; it is a journey through time, a celebration of resilience, and a testament to the enduring spirit of humanity. It is a place where the echoes of history resonate through ancient fortresses, where the fragrance of flowers mingles with the rustle of palm fronds, and where the beauty of nature inspires awe and wonder. As you wander through the verdant landscapes of Palakkad, immerse yourself in its rich cultural tapestry, and embrace the serenity of its natural beauty, you'll discover a sense of peace and inspiration that transcends words. Palakkad invites you to embark on a voyage of discovery, to unravel the mysteries of the past, and to forge new memories that will linger in your heart long after you've bid farewell to this enchanting land.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad, often hailed as the \"Granary of Kerala,\" boasts a rich tapestry of history that dates back to ancient times. The region has been a melting pot of cultures, shaped by the influences of various dynasties and civilisations. From the megalithic monuments of the Stone Age to the majestic fortresses of the medieval era, Palakkad's heritage speaks volumes about its storied past. One of Palakkad's most iconic landmarks is the Palakkad Fort, a testament to the region's strategic importance and military prowess. Built by Hyder Ali of Mysore in the 18 th century, the fort has witnessed centuries of history unfold within its sturdy walls, serving as a silent sentinel of the region's resilience and fortitude.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad district is situated in the northern part of Kerala, bordered by the Nilgiri Hills and the state of Tamil Nadu to the east. The district is characterised by fertile plains, interspersed with hills, rivers, and forests. The climate of Palakkad is tropical, with hot summers, moderate monsoons, and cool winters. The region receives ample rainfall during the southwest monsoon season, which nourishes its agricultural fields and contributes to its lush vegetation.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is renowned for its agricultural prowess and is often referred to as the \"Rice Bowl of Kerala.\" The district's fertile soil and favourable climate support the cultivation of a variety of crops, including rice, coconut, spices, and pulses. Palakkad's agricultural economy is primarily based on farming, with rice cultivation being the dominant crop. The district also produces significant quantities of mangoes, bananas, and vegetables, contributing to Kerala's food security and economy.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad has a rich historical heritage, with traces of ancient civilisations dating back to the Neolithic period. The region has been inhabited by various dynasties and cultures over the centuries, including the Chera, Chola, and Pandya kingdoms. The historic Palakkad Fort, built by Hyder Ali of Mysore in the 18 th century, is a prominent landmark that bears testimony to the region's tumultuous past. The fort, with its massive walls and bastions, has played a strategic role in the defence of the region against foreign invasions.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is known for its cultural diversity and harmonious coexistence of different communities and religions. The district is home to people belonging to various ethnicities, including Malayali’s, Tamil Brahmins, and indigenous tribal communities such as the Kurichiyars and Mudugars. This cultural diversity is reflected in the region's cuisine, festivals, and traditions, which are influenced by a blend of Kerala's and Tamil Nadu's cultures.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is blessed with abundant natural beauty, including verdant forests, cascading waterfalls, and scenic vistas. The district is home to several prominent tourist attractions, such as the Silent Valley National Park , Parambikulam Tiger Reserve, and Malampuzha Dam. These natural wonders offer opportunities for wildlife spotting, trekking, and eco-tourism, allowing visitors to immerse themselves in the region's pristine wilderness.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is an educational hub in Kerala, with numerous schools, colleges, and educational institutions catering to students from across the state. The district is home to the prestigious Government Victoria College, one of the oldest colleges in Kerala, established in 1866. Palakkad's educational institutions offer courses in a variety of disciplines, including arts, science, commerce, and engineering, contributing to the intellectual and academic development of the region.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad boasts a rich cultural heritage, with a vibrant tradition of music, dance, and performing arts. The district is known for its unique classical dance form, known as \"Palakkad Kathakali,\" which is characterised by its graceful movements and expressive gestures. Palakkad also hosts several cultural festivals and events throughout the year, including the Kalpathy Ratholsavam, a famous chariot festival held at the historic Kalpathy Vishwanatha Swamy Temple. Palakkad is a region of rich cultural heritage, natural beauty, and agricultural abundance. With its scenic landscapes, historic landmarks, and vibrant cultural traditions, Palakkad offers visitors a unique and enriching experience that showcases the best of Kerala's cultural and natural treasures.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is often referred to as the Granary of Kerala due to its rich agricultural heritage and abundance of paddy fields.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Palakkad Gap, also known as the Palghat Gap, is a low mountain pass in the Western Ghats that connects Kerala to Tamil Nadu.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palakkad is known for the annual Kalpathy Ratholsavam , a chariot festival held at the historic Kalpathy Vishwanatha Swamy Temple.",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring The Religious Gems of Palakkad",
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Palakkad",
+        "source_url": "https://www.incredibleindia.gov.in/en/kerala/palakkad",
+        "retrieved_at": "2026-09-22T18:36:34.179072+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

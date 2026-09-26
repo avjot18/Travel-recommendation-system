@@ -1,0 +1,372 @@
+{
+  "destination_id": "IN-HARYANA-GURUGRAM",
+  "destination_name": "Gurugram",
+  "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Indira Gandhi International Airport (DEL), Delhi"
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Gurgaon Railway Station (GGN)"
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 25.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 4.9,
+        "maximum_celsius": 29.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.6,
+        "maximum_celsius": 35.7
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 14.5,
+        "maximum_celsius": 42.9
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 45.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.6,
+        "maximum_celsius": 45.0
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.5,
+        "maximum_celsius": 40.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.1,
+        "maximum_celsius": 38.1
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 37.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.2,
+        "maximum_celsius": 35.2
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.5,
+        "maximum_celsius": 26.6
+      },
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Indira Gandhi International Airport (DEL), Delhi",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled in the heart of Haryana , India, Gurugram, also known as Gurgaon, is a bustling metropolis that seamlessly blends rich history with modernity. From its humble origins as a sleepy agricultural town to its current status as a thriving business hub, Gurugram has undergone a remarkable transformation over the years.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gurugram's history dates back thousands of years, with evidence of human settlements found in archaeological sites such as Sohna and Farrukhnagar. The region was once part of the legendary kingdom of Kuru, mentioned in ancient Indian texts like the Mahabharata. During the British colonial era, Gurugram was a sleepy agrarian village, known primarily for its fertile lands and traditional way of life. However, the construction of the Delhi–Rewari railway line in the late 19th century brought the town into the spotlight, facilitating trade and transportation.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Following India's independence in 1947, Gurugram experienced gradual urbanization and industrialization. However, it was not until the late 20th century that the city underwent a dramatic transformation, emerging as a leading center for technology, finance, and commerce.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "In the 1990s and early 2000s, Gurugram witnessed a boom in the information technology (IT) and business process outsourcing (BPO) sectors, earning it the moniker \"Cyber City.\" Multinational corporations flocked to the city, attracted by its strategic location, skilled workforce, and modern infrastructure.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Cyber Hub : Indulge your taste buds at Cyber Hub, a food and entertainment destination that offers a tantalizing array of dining options, from street food stalls to gourmet restaurants.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sultanpur National Park : Escape the hustle and bustle of the city and reconnect with nature at Sultanpur National Park, a bird sanctuary that is home to over 250 species of birds, making it a paradise for birdwatchers and nature lovers.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ambience mall : Shop till you drop at Ambience Mall, one of the largest shopping complexes in India, featuring a diverse selection of international and domestic brands, as well as entertainment options such as cinemas and gaming zones.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Museo camera, centre for the photographic arts : This museum in DLF Phase IV is dedicated to the art and history of photography. It showcases an impressive collection of antique cameras and offers various workshops and exhibitions. Gurugram is a city of contrasts, where ancient heritage coexists with modernity, and tradition blends seamlessly with innovation. As it continues to evolve and grow, Gurugram remains a symbol of India's economic prowess, cultural vibrancy, and limitless potential. Whether you're a history buff, a business traveller, or a leisure seeker, Gurugram offers something for everyone, making it a truly unforgettable destination.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gurugram has a link with Indian epic 'Mahabharata'. It is believed to be the village of guru Dronacharya and was called guru-gramam (guru's village).",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Gurugram is also known as the Millennium City due to the number of multinational companies that have set up their offices here.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The city is also home to a number of world-class golf courses, including the DLF Golf and Country Club.",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 14 things to do in Gurgaon: A melting pot of culture, art, and entertainment",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Thrilling escapades in and around Gurgaon",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Top 15 things to do in Gurgaon: A melting pot of culture, art, and entertainment",
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Gurugram",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/gurugram",
+        "retrieved_at": "2026-09-22T18:36:27.866833+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

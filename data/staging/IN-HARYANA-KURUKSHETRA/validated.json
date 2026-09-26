@@ -1,0 +1,282 @@
+{
+  "destination_id": "IN-HARYANA-KURUKSHETRA",
+  "destination_name": "Kurukshetra",
+  "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh"
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Kurukshetra Junction (KKDE)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.9,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.4,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 10.1,
+        "maximum_celsius": 36.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 14.9,
+        "maximum_celsius": 43.2
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 46.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 45.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 23.7,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 23.9,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 20.9,
+        "maximum_celsius": 39.1
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 37.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 8.7,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.7,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shaheed Bhagat Singh International Airport (IXC), Chandigarh",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurukshetra, one of India's ancient and sacred sites, is steeped in historical and mythological significance. This city in Haryana is famously known as the site of the epic battle of Mahabharata. Upon entering Kurukshetra, one is greeted by an amalgamation of spirituality and history. At the heart of Kurukshetra lies the Brahma Sarovar , a vast water tank believed to have been created by Lord Brahma. It is an awe-inspiring sight, especially during sunrise and sunset when the Sarovar reflects the changing hues of the sky. Pilgrims and tourists gather here to take a holy dip, believed to absolve sins and grant spiritual merit. Nearby, the Jyotisar is revered as the place where Lord Krishna delivered the sacred Bhagavad Gita to Arjuna. A large banyan tree is a silent witness to the divine discourse where Lord Krishna revealed the timeless wisdom of the Bhagavad Gita to Arjuna. As you sit beneath its gnarled branches, the verses come alive—the clash of dharma, the cosmic dance of duty and destiny. Close your eyes, and perhaps you will hear the celestial chariots thundering across the battlefield, carrying the world's weight. Visitors often feel lost in contemplation under its ancient branches, feeling connected to Krishna's timeless teachings. Another significant temple is the Bhadrakali Temple , one of the 51 Shakti peeths dedicated to Kali. Devotees flock here to seek blessings and experience spiritual solace. Another landmark, the Kurukshetra Panorama and Science Centre , offers a blend of mythology and science. This museum houses a life-like panorama of the Mahabharata battle, engaging displays on astronomy, and exhibitions on various scientific phenomena to foster curiosity and learning. A visit to the serene Sannihit Sarovar should not be missed. This sacred tank is believed to be the meeting point of seven Saraswati rivers. On Amavasya (New Moon night), devotees throng here, as it is believed that taking a dip in its waters on this day equals performing numerous Ashvamedha Yagnas, a highly cherished Vedic ritual. The Sheikh Chilli's Tomb offers Mughal-era grandeur for those seeking architectural splendor. This mausoleum, dedicated to the Sufi saint Sheikh Chilli Jalal, features intricate designs and gardens that provide a tranquil retreat from the city's bustle. Kurukshetra University is a beacon of learning and academia. Its sprawling campus and excellent facilities attract students from all over India. The university hosts cultural and educational events that enrich the region's intellectual landscape. Beyond the ancient, Kurukshetra embraces the modern. The Kalpana Chawla Memorial Planetarium takes you on a cosmic odyssey—a voyage through galaxies, black holes, and stardust. As the dome envelops you, you become a celestial wanderer, tracing the footsteps of the late astronaut Kalpana Chawla. Science and dreams collide here, and the sky becomes a canvas for infinite possibilities. Or seek solace amidst the tranquil beauty of the Saraswati Sanctuary, a haven for diverse birdlife. Kurukshetra is not just a city but a journey through time. Its temples, tanks, and heritage sites resonate with valour, devotion, and wisdom stories. Whether one visits as a pilgrim, a history enthusiast, or a wanderer, Kurukshetra promises a profound and enriching experience, touching hearts and minds with its timeless legacy.",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Shopping in Kurukshetra is an experience in itself. The local bazaars buzz with activity, displaying a variety of handicrafts, textiles, and religious artifacts. The local artisans craft exquisite handloom textiles, pottery, and brassware, reflecting the city’s cultural heritage. Souvenirs such as miniature idols of deities and handwoven fabrics make great keepsakes. Before you leave, seek out the pottery stalls lining the streets. Here, artisans mould clay into vessels that echo the past—a touch of Kurukshetra's soul. Pick up a terracotta lamp, a symbol of enlightenment, or a handcrafted vase that whispers stories of forgotten dynasties. These souvenirs carry the weight of time, connecting you to the cosmic tapestry that binds us all.",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Food enthusiasts will find Kurukshetra's culinary scene delightful, with dishes rich in local flavours. At the heart of every meal is a roti (flatbread). Whether it is made from wheat or baajra (pearl millets), these wholesome breads are best enjoyed hot and fresh off the stove. Pair your rotis with traditional dishes like Singri ki sabzi and Cholia. These flavourful combinations form a typical North Indian menu. Do not miss Kadhi Pakora, a tangy yogurt-based curry with fried gram flour dumplings, and Sarson ka Saag (mustard greens). Sweets like Meethe Chawal (Sweet Rice), Churma, and Ghewar add a delightful end to any meal, but no Haryanvi feast is complete without a bowl of Kheer. This creamy rice pudding, simmered with milk, sugar, and aromatic spices, is a comforting and indulgent treat. Remember, Kurukshetra's cuisine isn't just about food—it's a journey through history and culture. The best time to visit Kurukshetra is during the winter months, from October to March. The weather during this period is pleasant and comfortable, with temperatures ranging from 5°C to 25°C, making it ideal for sightseeing and outdoor activities. This time of year, also coincides with several important Hindu festivals, such as Diwali and Holi, which provide a culturally rich experience. Avoid visiting in the summer (April to June) as temperatures can soar above 40°C, making outdoor activities challenging. Kurukshetra is well-connected and accessible by various modes of transport. By air, the nearest major airport is the Chandigarh Airport, which is 100 kilometres away. You may also opt for the Indira Gandhi International Airport in New Delhi, but it is 160 kilometers from Kurukshetra. You can hire a taxi or train from the airport to reach Kurukshetra. Its railway station, Kurukshetra Junction, is well-connected to major Indian cities like Delhi, Chandigarh, and Amritsar. Haryana Roadways and private operators from nearby cities also operate regular bus services. If you prefer driving, Kurukshetra is accessible via the National Highway 44, which connects it to major cities in the region. As you step back into the world beyond, remember that this sacred land is not just a place; it's a pilgrimage of the heart.",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurukshetra is considered one of India's best places to witness a solar eclipse. Brahma Sarovar becomes a congregation point for pilgrims seeking spiritual merit during such celestial events.",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kurukshetra - Exploring The Religious And Heritage Sites",
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kurukshetra",
+        "source_url": "https://www.incredibleindia.gov.in/en/haryana/kurukshetra",
+        "retrieved_at": "2026-09-22T18:36:28.109342+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

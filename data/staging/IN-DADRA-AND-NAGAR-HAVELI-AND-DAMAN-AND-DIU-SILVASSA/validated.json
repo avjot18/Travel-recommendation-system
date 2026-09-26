@@ -1,0 +1,362 @@
+{
+  "destination_id": "IN-DADRA-AND-NAGAR-HAVELI-AND-DAMAN-AND-DIU-SILVASSA",
+  "destination_name": "Silvassa",
+  "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Surat International Airport (STV) Chhatrapati Shivaji Maharaj International Airport (BOM)"
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Vapi Railway Station (VAPI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 4.2,
+        "maximum_celsius": 18.8
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 5.6,
+        "maximum_celsius": 20.4
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 8.0,
+        "maximum_celsius": 23.9
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 27.0
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 12.1,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 28.3
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 27.6
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 14.7,
+        "maximum_celsius": 27.9
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 13.9,
+        "maximum_celsius": 26.9
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 11.6,
+        "maximum_celsius": 25.7
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 9.3,
+        "maximum_celsius": 23.2
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.4,
+        "maximum_celsius": 20.7
+      },
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shivaji Maharaj International Airport (BOM)",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the clamour of well-trodden tourist trails lies a secret gem waiting to be explored: Silvassa. A verdant haven situated amidst rolling hills, where serene lakes shimmer under a clear blue sky. Silvassa, a little paradise in the lush embrace of Dadra and Nagar Haveli, is a quaint city that beckons you with a promise of tranquillity. A place where captivating shades of green soothe the senses and energise the soul. But Silvassa's charm extends beyond its natural beauty. This city boasts rich tribal heritage, waiting to unveil its captivating stories and traditions to the curious explorer. Come, breathe in the fresh, unpolluted air, feel the gentle caress of a tropical breeze, and prepare to embark on a journey that blends nature's tranquillity with cultural vibrancy.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you yearn for natural beauty, Silvassa is just the right place for you. Immerse yourself in the emerald embrace of the Vanganga Lake Garden , a picturesque expanse dotted with lush greenery, manicured lawns, and shimmering water bodies. Stroll along pathways bordered by vibrant flowerbeds, their fragrance mingling with the crisp morning air. Rent a paddleboat and glide across the tranquil surface, or simply unwind on the grassy banks, soaking in the serenity. Continue your odyssey with the famed Dudhni Lake , a vast lake built on Madhuban Dam's reservoir. Take a serene Shikara (boat) ride along its tranquil waters, or indulge in water sports like jet skiing, canoeing, speed boating, and kayaking. The lake offers a sanctuary for diverse birdlife - a treat if you’re a birdwatcher and love to capture nature with your lens! Another charming spot you can visit is the Hirwa Van Garden which boasts lush greenery, vibrant flowers, and cascading waterfalls - perfect for a relaxing stroll or a picnic with loved ones! Intrigued by the cosmos? Then Nakshatra Garden is a must-visit! This unique astro-themed haven boasts a captivating collection of plants and trees linked to the zodiac signs, ponds with playful ducks, and beautiful walking paths.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Craving an encounter with the wild? The Vasona Lion Safari Park awaits you with a thrilling adventure – a safari encounter with the majestic Asiatic Lion. This park, part of the Dadra and Nagar Haveli Wildlife Sanctuary, has a diverse range of wildlife beyond the king of the jungle. Keep your eyes peeled for graceful deer species like sambar and chital, as well as elegant blackbucks. The vibrant birdlife will also captivate you, with sightings of the flame-backed woodpecker, dazzling peacocks, and melodious thrushes a distinct possibility. Heading towards Khanvel, don't miss the Satmalia Deer Park , offering a chance to spot these same creatures and more. And for an unforgettable panoramic view, climb the machan (watchtower) near the water hole, soaking in the beauty of the sanctuary and the Madhuban Dam.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get a chance to delve deep into Silvassa’s history at the Portuguese-style Church of Our Lady of Piety , a majestic edifice dating back to the 18 th century. Admire the intricate Gothic architecture and the impressive stained-glass windows that bathe the interiors in a kaleidoscope of colours. In for a historical detour? Journey 27 km from Silvassa to Sanjan , a town steeped in heritage. Explore the first Parsi settlements in India, marvel at ancient Hindu sculptures, and witness the iconic Sanjan Memorial Column – a significant pilgrimage site for the Parsi community.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Head straight to the beautiful Baps Shri Swaminarayan Temple , a marvel in marble that graces the banks of the Daman Ganga River. This architectural masterpiece is a feast for the eyes, guaranteed to spark your wanderlust with just a single photograph. As you approach, the intricate carvings and the sheer scale of the temple will leave you awestruck. For a unique spiritual experience, visit the Om Nikhileshwar Mahadev Temple , a captivating structure shaped like the sacred Om symbol. The temple, dedicated to Lord Shiva, is spread over 40,000 sq ft, has 400 pillars, and is made without steel! Don’t miss it.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For a spiritual and cultural immersion, pay a visit to the Bindrabin Temple (often called Tadkeshwara Temple), a serene riverside shrine dedicated to Lord Shiva. Located just 18 km from Silvassa, this picturesque spot boasts intricate carvings and cultural performances, that give you a sneak peek into the city’s heritage.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Explore the captivating world of Warli painting in Silvassa. This tribal art form, characterised by its simple geometric shapes and symbolic figures, narrates the stories and traditions of the Warli people, an indigenous tribe of western India. Kilvani Road, the city's bustling marketplace, is a treasure trove for Warli art enthusiasts. Here, you can browse through a mesmerising array of paintings and also find handmade products, woven baskets, mats and a plethora of other beautiful articles made by local artisans.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Silvassa's culinary scene is a delightful fusion of Gujarati and Maharashtrian influences. Savour the delightful Ubadiyu, a rich potato and lentil stew simmered to perfection, or a freshly-made Thepla, a flatbread typically stuffed with a spiced lentil mixture. Other must-try dishes include Sev Usal, Doodh Pak, Gujarati Thali.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The best time to visit Silvassa is during the winter months, from October to March. During this period, the weather is pleasant and sunny, making it ideal for exploring the outdoors and participating in water sports activities. The monsoon season, from July to September, can be quite wet, but it also offers a lush and verdant landscape. Silvassa beckons you to embark on a journey of discovery. Come, and experience the perfect blend of nature's serenity, and cultural vibrancy in this hidden gem!",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The Baps Shri Swaminarayan Temple has an intricately carved central mandir built entirely from a special light pink-coloured marble rock, with no structural steel or cement being used.",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Embrace the serenity of nature in Silvassa",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Immerse yourself in the vibrant arts and handicrafts of Silvassa",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discovering Spirituality And Adventure In Silvassa",
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Silvassa",
+        "source_url": "https://www.incredibleindia.gov.in/en/dadra-and-nagar-haveli-and-daman-and-diu/silvassa",
+        "retrieved_at": "2026-09-22T18:36:52.705326+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

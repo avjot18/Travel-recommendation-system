@@ -1,0 +1,322 @@
+{
+  "destination_id": "IN-MAHARASHTRA-IGATPURI",
+  "destination_name": "Igatpuri",
+  "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Nashik International Airport (ISK), Nagpur Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai"
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Nasik Road Railway Station (NK)"
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 5.9,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 7.9,
+        "maximum_celsius": 35.3
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 11.1,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.5,
+        "maximum_celsius": 40.8
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.1
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.4,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 20.8,
+        "maximum_celsius": 31.6
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 20.2,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.0,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 13.2,
+        "maximum_celsius": 33.7
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 10.3,
+        "maximum_celsius": 32.8
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 6.6,
+        "maximum_celsius": 32.4
+      },
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nashik International Airport (ISK), Nagpur",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Chhatrapati Shivaji Maharaj International Airport (BOM), Mumbai",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ever see a postcard and think, \"This place can't be real\"? Well, hold onto your hat because Igatpuri in Maharashtra is about to blow your mind. This hill station nestled in the Western Ghats is the living definition of picturesque—think lush green mountains painted by nature, majestic waterfalls thundering down their slopes, and a cool, refreshing climate that'll have you sighing in contentment. Nestled in the Nashik district, Igatpuri is a quick escape from the bustling cities of Mumbai and Pune, making it a perfect weekend getaway. The town rests in the lap of the majestic Sahyadri Hills, boasting some of the range's highest peaks. During the monsoon season, the town transforms into a visual masterpiece – the hills erupt in vibrant green, and waterfalls reach their peak majesty. But Igatpuri's beauty isn't just for the eyes. As an adventurer, you can test your limits with a trek to the historic forts. The region is emerging as a hub for thrilling activities – from rock climbing and rappelling to riverside camping and more. For the spiritually inclined, a prominent meditation centre and various temples beckon, offering a chance to find inner peace. The Nashik district is even home to one of the twelve revered Jyotirlingas – the Trimbakeshwar Temple. So, are you ready to discover this haven in the hills? Let's delve deeper and explore the captivating experiences that await you in Igatpuri!",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The region’s stunning scenery makes it an adventurer's paradise. Get your adrenaline pumping with a host of epic experiences in and around Igatpuri. Start with conquering the Tringalwadi Fort. This majestic fort, perched 3,000 feet above sea level, offers breathtaking views of the Sahyadri Hills. For trekkers and hikers, the challenging trails leading to the fort are an adventure in itself. Along the way, you can also discover ancient caves and temples. If you’re a staunch trekker, challenge yourself with the legendary Alangad Madangad Kulangad (AMK) trek - considered the toughest trek in the region. Dense forests, steep inclines, and rocky terrain will test your limits, but the reward is worth it as you end up being at the Kulang Fort, where the panoramic views of the Sahyadri mountains stretch out before you. Head south of Igatpuri and trek to the Kalsubai Peak in Bhandardara. This beauty, nicknamed the ‘Everest of Maharashtra,’ is the state's highest point. The views from the top are epic, and the climb is a challenge. Go camping here and stay in tents!",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Travel further south and unleash your inner explorer at Sandhan Valley or the ‘Valley of Shadows’, a spectacular canyon where the sun's rays barely reach the ravines. But this doesn't mean the fun stops! Here, you can swap trekking for rappelling and rock climbing, ignite a bonfire under the star-studded sky, and camp amidst the dramatic scenery.",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Get ready to be wowed by landscapes that look straight out of a fairytale. Like the famous Camel Valley , a valley shaped, you guessed it, like a camel! Here, crisp, fresh air fills your lungs, and breathtaking views steal your breath away. A short distance from the Bhatsa River, this valley also boasts a roaring 1,000-foot waterfall! Neighbouring the Camel Valley and at the end of Kasara Ghat is the Bhatsa River Valley, where you encounter captivating views of the Western Ghats, all lush and green, sprinkled with gushing waterfalls. Here, you can also visit the Ghatandevi Temple, dedicated to the protector of the ghats – Ghatandevi. The mountains of Harihar, Durvar Utvad, and Trimak rise majestically behind the temple, adding a touch of grandeur to the scene.",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A little further, deep in the forest, the Vihigaon Waterfalls await. This cascading beauty is perfect for a refreshing dip or, if you're feeling daring, go for some thrilling rappelling—especially during the monsoon season! Want to just chill by some water? The Bhavali Dam is your answer. This picturesque spot offers a tranquil escape, perfect for unwinding and soaking up the beauty of nature. You can also visit the Vaitarna Dam, 45 km west of Igatpuri. This gravity dam, nestled on the Vaitarna River, is surrounded by lush greenery, making it the perfect spot for a picnic with a view. Kayaking and boating are also on the menu!",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Igatpuri isn't just a haven for nature lovers and thrill seekers – it's also a place where you can find peace and recharge your soul. The region is steeped in spiritual significance, offering opportunities for quiet reflection and connection with something larger than yourself. Visit one of the top attractions of Igatpuri – the famed Vipassana International Academy, also known as Dhamma Giri. This is one of the world's largest meditation centres, where you can learn the art of Vipassana meditation, a practice focused on self-observation and self-discovery. The serene environs of the place with the backdrop of Sahyadri hills will calm your senses. The entrance to this centre is marked by the magnificent Myanmar Gate, a popular tourist spot in itself. Inspired by Thai architecture, this photogenic landmark stands proudly against the backdrop of majestic mountains, creating a truly inspiring scene. Venture 58 km north of Igatpuri and embark on a pilgrimage to the revered Trimbakeshwar Temple. As one of the twelve sacred Jyotirlingas (representations of Lord Shiva) in the world, this temple holds immense significance for Hindus. The unique feature here is the Jyotirlinga itself, with its three faces representing Lord Brahma, Lord Vishnu, and Lord Shiva. Head south of Igatpuri and discover the Amruteshwar Temple, a hidden gem dating back 1,200 years. Dedicated to Lord Shiva, this temple is built in the Hemadpanthi architectural style, boasting exquisite rock carvings.",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Your Igatpuri adventure wouldn't be complete without a dive into the authentic Maharashtrian cuisine. Expect a generous use of coconut and peanuts alongside onion or garlic, creating a unique flavour profile. Some must-try dishes include varan bhaat (lentil soup with rice), the fiery mirchi thecha (a green chilli chutney), misal pav (sprout curry served with bread), kothimbir wadi (coriander fritters), vada pav (classic Maharashtrian snack) and Tambda (spicy mutton gravy), among many others. Beyond the Maharashtrian fare, you'll find a variety of cuisines to tantalise your taste buds. North Indian curries, South Indian dosas, Jain specialities, Chinese delights, and even Continental options are all on the menu. Top it all off with a creamy glass of masala milk – the perfect ending to a perfect day exploring Igatpuri. The region offers a variety of dining options to suit every taste and budget. If you're on the road, the Mumbai-Nashik expressway is lined with ‘dhabas’ (local eateries), perfect for a quick pit stop and a taste of local flavours.",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Whether you seek a serene escape from the city's hustle, a spiritual sojourn, or an adventure-filled escapade, Igatpuri promises to deliver an unforgettable experience. So, pack your bags and let this enchanting hill station whisk you away into a world of natural wonders and timeless charm. For the most captivating experience, plan your visit during the monsoons (June – September) or winters (October – February) when the landscapes transform into a verdant paradise!",
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Igatpuri",
+        "source_url": "https://www.incredibleindia.gov.in/en/maharashtra/igatpuri",
+        "retrieved_at": "2026-09-22T18:36:37.441511+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

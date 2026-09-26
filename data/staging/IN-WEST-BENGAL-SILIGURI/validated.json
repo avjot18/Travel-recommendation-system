@@ -1,0 +1,184 @@
+{
+  "destination_id": "IN-WEST-BENGAL-SILIGURI",
+  "destination_name": "Siliguri",
+  "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Bagdogra International Airport (IXB), Bagdogra"
+      },
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Siliguri Junction Railway Station (SGUJ)"
+      },
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bagdogra International Airport (IXB), Bagdogra",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri Junction Railway Station (SGUJ)",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine a place where the majestic Himalayas rise from the plains, their snow-capped peaks piercing the azure sky. A place where the gentle murmur of the Mahananda River mingles with the rhythmic thrum of bustling bazaars. A place brimming with natural beauty, and pulsating with a vibrant cultural heart. This is Siliguri. The captivating gateway to Northeast India, waiting to be explored by you. Siliguri's charm is woven into its poetic name, which means a stack of pebbles, alluding to the abundant boulders that once dotted the banks of the Mahananda River that flows gracefully through the heart of the city. A dense forest for centuries, Siliguri is a small yet lively city today famous for its 3 Ts – tea, timber and tourism! With its prime location in the state of West Bengal, the city serves as the starting point for journeys to enchanting destinations like Darjeeling and Sikkim. Come, let’s discover Siliguri and embark on an offbeat expedition through this gateway to the extraordinary.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri isn't just a gateway to the Himalayas, it's a treasure trove waiting to be explored. Immerse yourself in the colonial charm of the Darjeeling Himalayan Railway , fondly known as the Toy Train. This UNESCO World Heritage Site chugs along breath-taking vistas, offering a delightful journey back in time. It’s an experience you just can’t miss! Take a stroll across the magnificent Coronation Bridge , an architectural masterpiece that marks King George VI and Queen Elizabeth’s coronation. Imagine standing on the bridge, the cool mountain air brushing your face as you gaze down at the sparkling blue waters winding their way through the valley below. It's a truly panoramic vista that will leave you breathless. For a deeper dive into Siliguri's heritage, head to the Trishakti Heritage Complex near the city. Uncover the stirring tales of the Trishakti Corps warriors, and honour the fallen heroes who fought in World War II at their memorial, and delve into their remarkable history through captivating artefacts at the museum.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri boasts a surprising array of natural wonders. Picture yourself strolling amidst emerald tea gardens, their gentle slopes carpeted with fragrant green leaves. Explore Sepoy Dhura, a charming village enveloped by these lush plantations, and witness the fascinating process of tea plucking first-hand. Breathe in the fresh mountain air, explore the region’s tea culture and soak in the panoramic views – a perfect escape from the city's bustle. For an exciting wildlife encounter, head to the Mahananda Wildlife Sanctuary. Keep your eyes glued for elephants, deer, and a dazzling variety of birds as you explore this haven for nature lovers. You can also visit the Bengal Safari Park to see Bengal tigers, Asiatic black bears, and other exotic animals up close. Explore the park through a thrilling safari ride, choosing from different options to suit your preference.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you’re seeking spiritual solace, Siliguri offers a chance to cultivate inner peace with its tranquil havens. On the banks of Teesta River, ascend the picturesque hills overlooking Kanchenjunga to visit the Sevoke Kali Mandir, the oldest temple in the city. Dedicated to Goddess Kali, the temple is revered by newlyweds for blessings! Breathe in the serenity at the Salugara Monastery , where a majestic 100-foot stupa dominates the skyline, housing revered Buddhist relics within its sacred walls. Or immerse yourself in the vibrant architecture and tranquil meditation halls of the Ewam India Buddhist Monastery where lush gardens and the teachings of Buddha await! Visit the Lokenath Baba Temple, a tribute to the esteemed Bengal saint. Marvel at the extraordinary split idol portraying Lord Shiva and Lokenath Baba united in divine harmony. Discover tranquillity at ISKCON Temple, a sanctuary of peace amidst the hustle and bustle, and pay homage at the shrines dedicated to Lord Krishna and Radha Rani.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri isn't just about sights; it's a feast for all senses. Inhale the intoxicating aroma of freshly brewed Darjeeling tea, a world-renowned delicacy born in the nearby hills. This vibrant city boasts a unique culinary scene influenced by its diverse heritage. Imagine indulging in a blend of Indian, Nepalese, and Bengali flavours. Don't miss local specialities like crispy sel roti (rice doughnuts), hearty thukpa (Tibetan noodle soup), and savoury phaley (fried lentil dumplings). Wander through the Hong Kong Market, a famous bazaar and a kaleidoscope of colours and sounds. Here, you can find everything from local handicrafts and Tibetan trinkets to international brands and foreign apparel. Head to Mahabirsthan, renowned for its beautiful fabrics at incredibly reasonable prices or go to Bidhan Market for shawls, fabrics, bags, and carpets. For those seeking unique keepsakes, don't miss Seth Srilal Market, a treasure trove of exquisite silver jewellery. For curious minds, a visit to the North Bengal Science Centre, just a few kilometres from Siliguri, is a must. From a science park to a digital planetarium, there's plenty to spark your curiosity.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri serves as the perfect base camp for your Himalayan adventure. Darjeeling, the ‘Queen of Hills,’ is a scenic journey away, offering breath-taking views of Mount Kanchenjunga, the world's third-highest peak. Embark on a thrilling trek through the verdant Singalila National Park, home to diverse flora and fauna. Or take a white-water rafting trip on the Teesta River, an adrenaline-pumping experience that will leave you breathless.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri is a fantastic starting point, but don't let your adventure end there! Venture out to discover North Bengal's captivating hidden gems. Just 55 km away, Mirik awaits with its lush tea gardens and emerald green lake, Sumendu (also known as Mirik Jhil). Imagine peaceful strolls along the vibrant waterfront, breathing in the crisp mountain air. Kurseong, a hill station, boasts breath-taking scenery and a serene atmosphere. This haven for artists, located 51 km from Siliguri, will surely inspire you with its stunning beauty. And for a dose of vibrant ecology, rich history, and diverse culture, head to Sukna. This charming town, just 12 km away, sits at the edge of the Mahananda Wildlife Sanctuary and is easily accessible by auto-rickshaw. Escape to Kalimpong, the ‘land of kings', with its epic Kanchenjunga views and verdant valleys. Venture further into the heart of Sikkim and discover Gangtok, the capital city. This pristine hill station, situated amidst mountains and clouds, serves as a haven for nature lovers and adventure seekers. So, add these hidden gems to your itinerary and transform your Siliguri trip into an unforgettable exploration!",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Siliguri isn't a city to be rushed. Take your time, wander its streets, strike up conversations with friendly locals, and discover its hidden corners. So, pack your bags, as the place where the magic of the Himalayas meets the warmth of the plains, awaits you. The ideal time to visit Siliguri is between November and February when you can experience its delightful winter!",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Salugara Monastery houses a 100 ft. stupa, covered in elaborate engravings, which is the centrepiece of the monastery’s fame and is venerated by monks.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "After traveling on the Toy Train, Mark Twain is said to have called it the “most enjoyable day on Earth”.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "According to many legends, the Mahananda Wildlife Sanctuary is said to be the dwelling place of the legendary Himalayan Yeti.",
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Siliguri",
+        "source_url": "https://www.incredibleindia.gov.in/en/west-bengal/siliguri",
+        "retrieved_at": "2026-09-22T18:36:51.720047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

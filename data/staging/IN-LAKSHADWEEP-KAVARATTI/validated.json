@@ -1,0 +1,332 @@
+{
+  "destination_id": "IN-LAKSHADWEEP-KAVARATTI",
+  "destination_name": "Kavaratti",
+  "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Agatti Island Airport (AGX), Agatti"
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Ernakulam Junction Railway Station (ERS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 2.6,
+        "maximum_celsius": 29.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 4.4,
+        "maximum_celsius": 33.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 9.6,
+        "maximum_celsius": 38.8
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 15.0,
+        "maximum_celsius": 42.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 20.5,
+        "maximum_celsius": 44.5
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.8,
+        "maximum_celsius": 43.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 22.5,
+        "maximum_celsius": 38.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 34.7
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.1,
+        "maximum_celsius": 36.9
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 12.8,
+        "maximum_celsius": 37.3
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 7.8,
+        "maximum_celsius": 34.0
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 3.9,
+        "maximum_celsius": 30.6
+      },
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Ernakulam Junction Railway Station (ERS)",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Imagine yourself basking on a sun-drenched white sand beach, with turquoise waters lapping at your toes. Crystal-clear lagoons teeming with vibrant fish shimmer nearby, and untouched coral reefs beckon visitors. Welcome to Kavaratti, the crown jewel of Lakshadweep, a secluded paradise in the Arabian Sea. Kavaratti, the archipelago's capital, isn't just about picture-perfect beaches. Dive beneath the surface and discover a kaleidoscope of coral reefs brimming with life. Kayak across the lagoon or glide in a glass-bottom boat, marvelling at the underwater ballet of exotic marine creatures. Whether you're a seasoned scuba diver or a curious snorkeler, Kavaratti's underwater wonders will leave you breathless. Beyond its natural beauty, Kavaratti boasts of a rich cultural heritage. Explore the island's soul through its 52 mosques, each a testament to the deep faith that permeates this captivating land. Are you ready to dive deep into this paradise?",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Situated around 400 km off the Indian coast from Kochi, Kavaratti isn't just a haven for relaxation; it's a playground for water adventurers! The calm lagoon is a dream come true for scuba diving beginners. Gentle currents and clear waters let you ease into the underwater world, surrounded by vibrant coral reefs and colourful fish. But for the more experienced divers, the open water beyond the reef offers a whole new level of excitement.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Need a break from diving? The west lagoon is perfect for calmer water activities. Kayak across the crystal-clear water, feel the spray as you windsurf, or explore hidden coves in a canoe. And don't miss Chicken Neck Point on the south side of the island! This spot is a haven for water sports enthusiasts, with world-class scuba diving and snorkelling opportunities. Here, you can explore a kaleidoscope of coral reefs teeming with marine life. Not a diver? No problem! Hop on a glass-bottom boat and witness the underwater magic without getting wet. Kavaratti has something for every kind of water adventurer – are you ready to make a splash?",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kavaratti's surrounding seas are a treasure trove for underwater enthusiasts, teeming with everything from gentle giants to vibrant tropical fish. As you enter the atoll through Harbour Mouth, prepare to be dazzled by a majestic display of Giant Sea Fans, towering Triveli, and swaying Gorgonians. For adrenaline seekers, the southern tip at Zing Zing Par offers encounters with awe-inspiring large sharks, graceful spotted eagle rays, and barracuda schools tearing through the crystal-clear water.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Head to Governor's Reef, a haven for soft coral enthusiasts, particularly the fiery red varieties. The Wall of Wonder on the northwest side boasts thrilling underwater caverns waiting to be explored by cave divers. Witness different species of turtles in their natural habitat at Turtle's Nest. Windmill Point offers a close encounter with grey reef sharks, spotted rays, playful batfish, and a variety of groupers. This is just a taste of the incredible marine encounters that await you in Kavaratti.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond the turquoise waters and vibrant coral reefs, discover a deep sense of peace within the island's numerous mosques. Among these, the 17th-century Ujra Mosque reigns supreme. Renowned for its ornate architecture and meticulous wood carvings, whispers surround its ceiling – crafted, some say, from a single piece of driftwood. Explore the artistry of the islanders further at Ajara and Jamnath Mosque, where intricate carvings tell their own stories.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "There are more wonders awaiting you in Kavaratti. Head to the nearby aquatic museum and be surrounded by a kaleidoscope of vibrant coral reef fish, the graceful movements of sharks, the playful antics of clownfish, and the intriguing shapes of sea cucumbers! For a different perspective, climb to the top of the Kavaratti Lighthouse and let the salty breeze tousle your hair. Look down, and you’ll be greeted by the breathtaking sight of the turquoise Lakshadweep Sea stretching as far as the eye can see! Explore the serene Kavaratti Beach, a perfect spot to enjoy water sports, go for a swim, and soak up the sun on the warm sand.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Nestled close to Kerala, Lakshadweep’s cuisine reflects the warm embrace of its neighbour. Steeped in history and flavoured by trade winds, the island's food is a tropical symphony. Fresh seafood takes centre stage, with tuna starring in a multitude of dishes, while crab curries and even baby octopus add a touch of intrigue. But vegetarians needn't fret! The fragrant bounty of South India spills onto your plate, with comforting idli and dosa alongside vibrant avial and flaky Malabar parottas. Every meal is a celebration of fresh, local ingredients waiting to tantalise your taste buds.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kavaratti isn't just a standalone paradise; it's the heart of Lakshadweep's island magic. Island hop through a chain of mini-paradises, each offering its own unique charm. Agatti, the only island in Lakshadweep with an airport, is a great starting point for your Lakshadweep exploration. Bangaram , a pristine teardrop-shaped island, boasts some of Lakshadweep's most breathtaking beaches, ideal for those seeking a secluded haven. Dive into a world of turquoise lagoons and fascinating coral debris on Kalpeni Island. Discover a unique cultural heritage on Minicoy , known for its crescent-shaped lagoon, the traditional Lava Folk Dance, and a towering lighthouse. Thinnakara offers an off-the-beaten-path experience, perfect for those seeking a hidden gem.",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kavaratti beckons with its endless summer – thanks to its tropical climate, temperatures remain consistent year-round. But for the ultimate comfort zone, aim for a visit between October and March. During these peak months, Kavaratti truly shines with pleasant weather, ideal for soaking up the sun, diving into crystal-clear waters, and exploring the island's many wonders. Kavaratti is accessible by ships and flights from Kochi, the gateway city to Lakshadweep. So, when will you be trading your routine for paradise?",
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Kavaratti",
+        "source_url": "https://www.incredibleindia.gov.in/en/lakshadweep/kavaratti",
+        "retrieved_at": "2026-09-22T18:36:54.122069+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

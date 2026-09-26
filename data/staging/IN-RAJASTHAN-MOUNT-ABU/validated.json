@@ -1,0 +1,533 @@
+{
+  "destination_id": "IN-RAJASTHAN-MOUNT-ABU",
+  "destination_name": "Mount Abu",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Maharana Pratap Airport in Udaipur (UDR) Sardar Vallabhbhai Patel International (AMD)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Abu Road Railway Station (ABR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 10.7,
+        "maximum_celsius": 32.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 13.3,
+        "maximum_celsius": 36.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 17.5,
+        "maximum_celsius": 39.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 40.9
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 42.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 40.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 21.5,
+        "maximum_celsius": 36.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 21.9,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 21.7,
+        "maximum_celsius": 35.8
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.2,
+        "maximum_celsius": 35.1
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 14.1,
+        "maximum_celsius": 33.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 11.0,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Maharana Pratap Airport in Udaipur (UDR)",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Sardar Vallabhbhai Patel International (AMD)",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A cool, green haven in the heart of the desert state Rajasthan, is Mount Abu, located in the age-old Aravalli range at an altitude of 1,722 metres above sea level, this charming retreat offers a welcome respite from the sultry desert climate, earning its reputation as a preferred leisure destination for travellers across the country. With pleasant weather throughout the year, Mount Abu feels like nature’s own sanctuary, where gentle breezes replace desert heat and rolling green hills stretch as far as the eye can see.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dense forests, tranquil lakes such as Nakki Lake, and seasonal waterfalls add to its scenic allure, making Mount Abu an ideal destination for nature lovers, photographers, and peace seekers alike. Beyond its natural charm, the hill station also holds deep religious significance, especially for the Jain community, with magnificent marble temples showcasing extraordinary architectural brilliance. With its seamless fusion of natural beauty, spiritual heritage, and historical elegance, Mount Abu continues to captivate tourists and remains an essential highlight of almost every Rajasthan travel itinerary.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The history of Mount Abu is deeply intertwined with myths, legends, and early historical references, tracing its origins back to the Puranic age when it was known as Arbudaranya, meaning “the forest of Arbhuda.” According to ancient texts and legends, this serene mountain retreat once served as the hermitage of Sage Vashistha after his famed rivalry with Sage Vishwamitra. A popular myth recounts the tale of a serpent named Arbhuda who saved the life of Nandi, the sacred mount of Lord Shiva, lending the region its original name, later shortened to Mount Abu. Historically, Mount Abu, also referred to as the Arbhuda Mountains, was home to the Gurjaras, a fact supported by several inscriptions and literary works, including Dhanpala’s Tilakmanjari, which emphasize the region’s strong association with this ancient community.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mount Abu offers a rich mix of natural beauty and cultural depth, best experienced through its iconic attractions. At the heart of the hill station lies Nakki Lake , believed to be India’s first manmade lake, where visitors can enjoy tranquil boat rides and mesmerizing sunsets against a backdrop of forested hills; the lake also holds national significance as one of the sites where Mahatma Gandhi’s ashes were immersed. Overlooking the lake is the famed Toad Rock View Point , a striking igneous rock formation shaped like a toad and considered the informal mascot of Mount Abu—easily climbable and rewarding visitors with panoramic views of the lake and surrounding greenery. Towering above all is Guru Shikhar , the highest peak of the Aravalli range, reached by climbing about 300 steps to the revered Guru Dattatreya Temple; the site draws both pilgrims and nature lovers seeking sweeping vistas.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Equally captivating are the Dilwara Jain Temples , an exquisite group of five marble temples dating from the 11th to 16th centuries, celebrated worldwide for their unmatched architectural precision and intricate carvings. Adding to the town’s spiritual aura is the Achleshwar Mahadev Temple , dedicated to Lord Shiva and built around a naturally formed Shiva linga, believed by legend to bear the divine toe print of the deity; its serene ambience, detailed filigree work, numerous Nandi statues, and myth-laden underground pit make it a compelling stop for devotees and history enthusiasts alike.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mount Abu Summer Festival: A two–three-day celebration with folk music and dance (Ghoomar, Gair), boat races on Nakki Lake, qawwali evenings, and fireworks, timed to Buddha Purnima in May.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mount Abu Winter Festival: Year-end carnival, in recent years with a grand procession, Deep-daan at Nakki Lake, cultural shows, sports, and fireworks to ring in the New Year.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mount Abu can be visited all year, but November to February is the most popular period due to its cool, pleasant weather that is ideal for sightseeing and outdoor activities. March to June offers a comfortable summer escape compared to Rajasthan’s plains, especially in the evenings, while July to September brings monsoons that make the hills lush and scenic, appealing to travellers who prefer greenery and fewer crowds.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Air: Maharana Pratap Airport (UDR) in Dabok, Udaipur, 176–185 km from Mount Abu is the nearest airport. Additionally, Sardar Vallabhbhai Patel International (AMD) , is 220–222 km away, with wider national and international connectivity.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Rail: Abu Road (ABR) , 27–28 km from city center is the nearest railway station.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "By Road: Excellent highway access from Udaipur (165–170 km) and Ahmedabad (225–235 km); the final 28 km climb from Abu Road is scenic with hairpin bends.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mount Abu is the only hill station in Rajasthan, earning it the nickname “an oasis in the desert.” Surrounded by the arid plains of the state, it stands at an elevation of about 1,220 metres, with its highest peak, Guru Shikhar, reaching 1,722 metres in the Aravalli Range.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "The famed Dilwara Jain Temples of Mount Abu are considered architectural masterpieces, dating back to the 11th–13th centuries and carved entirely from white marble. Their interiors are so intricately detailed that they are often regarded as some of the finest stone carvings in India.",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "7 Best Jaipur viewpoints – where to go for Jaipur sunset views",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Phenomenal Things To See In Ajmer, Rajasthan",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Perfect pre-wedding shoot ideas in Udaipur",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Exploring the religious spots in Bikaner",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Palace on Wheels: Experience Royalty on India's Luxury Train - Route & Price Details",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Of blues & golds: Jodhpur Jaisalmer 4 day itinerary",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "An oasis of golden beauty and natural wonders",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A journey through its religious spots in Jaisalmer",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A lip-smacking culinary journey of Jodhpur",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Udaipur's ultimate shopping paradise!",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Udaipur's gateway to the serene beauty of Nature!",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Enter Jaisalmer's treasure-filled markets",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Discover Jaisalmer's culinary kaleidoscope",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "A gastronomic journey through Bharatpur’s flavours",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Harmonizing health and happiness in Bharatpur",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Dadra and Nagar Haveli and Daman and Diu",
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mount Abu",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/mount-abu",
+        "retrieved_at": "2026-09-22T18:36:44.274281+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

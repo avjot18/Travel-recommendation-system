@@ -1,0 +1,124 @@
+{
+  "destination_id": "IN-ODISHA-MAYURBHANJ",
+  "destination_name": "Mayurbhanj",
+  "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Biju Patnaik Airport (BBI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mayurbhanj Road Railway Station (NMBR)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayurbhanj, located in the northeastern part of Odisha, is a land rich with cultural heritage, natural beauty, and an abundance of wildlife. This gorgeous district is home to the famous Similipal National Park, a UNESCO Biosphere Reserve, which offers lush forests, beautiful waterfalls, and a wealth of biodiversity. Beyond its wilderness, Mayurbhanj is deeply rooted in its royal past, with remnants of ancient palaces and temples that tell many tales as you explore the architectural marvels, trek through dense forests, or simply take in the beauty of nature. The region is renowned for its traditional dance forms like Chhau, a UNESCO-recognised cultural heritage, which displays the artistry and warrior spirit of the locals. The numerous fairs and festivals celebrated here reflect the colourful local culture.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "For history and architecture lovers, Mayurbhanj offers a fascinating journey. The grand Haripur King Palace, though in ruins, narrates tales of the mighty Bhanja dynasty with its intricate designs and regal aura. Kichakeswari Temple , an architectural gem built from black stone, stands as a symbol of devotion and artistic excellence in Khiching. Explore the Dargadahi Square, a historical site that reflects the rich cultural fusion of the region. For those drawn to mythological connections, Samibrukhya Hills , believed to have sheltered the Pandavas during their exile, offer intrigue and adventure.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayurbhanj is a paradise offering a beautiful retreat amidst its unspoiled landscapes. The breathtaking Sitakund Waterfall, in Similipal National Park , enchants you with its tranquil pool and stories that connect us with Sita from the Ramayana. The mighty Jaranda Falls cascades down in a magical display of raw beauty, making it a favourite with adventure seekers. Bhimkund, a deep blue water reservoir linked to Bhima from the Mahabharata, captivates both pilgrims and nature lovers. The lush forests and abundant wildlife of Similipal add to the district’s charm, making it an experience with jungle safaris, birdwatching, and trekking.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Beyond sightseeing, Mayurbhanj provides ample opportunities for adventure and exploration. You can trek through the dense forests of Similipal, go birdwatching, or experience the thrill of jungle safaris. Interacting with local tribal communities and witnessing their traditional crafts, including intricate Dokra metalwork and handwoven textiles, is a fascinating cultural experience. Additionally, attending the famous Chhau dance performances adds a very unique experience and artistic flair to your visit.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayurbhanj offers a taste of authentic Odia cuisine, enriched with local tribal flavours. One must try the famous Mudhi Mansa, a titillating combination of puffed rice (mudhi) and spicy mutton curry. Other delicacies include Dalma (lentils cooked with vegetables), Santula (a lightly spiced mixed vegetable dish), and Pakhala (fermented rice with curd). Local sweets like Chhena Poda and Arisa Pitha add a delightful touch to the gastronomic experience.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "If you are wanting to explore beyond Mayurbhanj, the nearby destinations offer additional attractions. Baripada, the district headquarters, is known for its grand Rath Yatra, second only to Puri’s festival. Devkund, a sacred waterbody surrounded by temples, is a beautiful site to visit. You can also explore the nearby districts of Balasore and Keonjhar, to see pretty beaches and charming hill stations.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mayurbhanj is the birthplace of Chhau , a martial arts-inspired dance form that blends storytelling with acrobatics. Recognised by UNESCO, this dance is performed during festivals.",
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show results",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show results",
+        "Festivals & Events Clear all Show results",
+        "Food & Beverage",
+        "Shopping",
+        "Getting Around Airports Railway Stations Clear all Show results",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mayurbhanj",
+        "source_url": "https://www.incredibleindia.gov.in/en/odisha/mayurbhanj",
+        "retrieved_at": "2026-09-22T18:36:40.510047+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

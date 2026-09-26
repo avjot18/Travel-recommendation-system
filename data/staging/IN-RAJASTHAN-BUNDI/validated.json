@@ -1,0 +1,95 @@
+{
+  "destination_id": "IN-RAJASTHAN-BUNDI",
+  "destination_name": "Bundi",
+  "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Jaipur International Airport (JAI), Jaipur"
+      },
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Bundi Railway Station (BUDI)"
+      },
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Jaipur International Airport (JAI), Jaipur",
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bundi, originally known as ‘Hadoti’, is a remarkable place with a rich history and a plethora of ancient monuments. Artefacts from the Stone Age that date back 5,000 to 2,000 years have been found here. In addition to these, several awe-inspiring temples are famous for their intricate sculptures and murals. But that's not all! The city is also home to impressive mediaeval forts, palaces, havelis and stepwells that serve as the city's main attractions. According to popular belief, Bunda Meena, a former ruler of the Meena tribe, was the inspiration for the name Bundi. Bundi has a rich history that is evident in its forts, which were built to protect its strategic location. This is not surprising as Bundi is an oasis in the arid landscape of Rajasthan, with its rivers, lakes, and beautiful waterfalls. Just outside the town, there are fertile farmlands that produce a variety of vegetables, flowers, mustard, and fruits. Beyond the orchards that surround the town, there are undulating hilly forests, indigenous villages, and animals, including the rare tiger, that Rudyard Kipling's 'Jungle Book' depicts as its homeland.",
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Bundi, like other parts of Rajasthan, boasts magnificent forts, with the Taragarh Fort being the most impressive among them. Built by the native Rajputs, the Bundi Fort is also nearby, hidden in a small valley. The hilltop fortress is surrounded by impressive fortifications that provide vantage points to survey the Jait Sagar Lake, the purple hills, Bundi village and the surrounding area. The ruined palace of Sukh Mahal , which precariously hangs over the 4-kilometre-long Jait Sagar Lake, is a fitting inspiration for the lake's name.",
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Apart from the numerous Rajput structures, such as palaces and stepwells, Bundi town is also home to the Chaurasi-Khambon-ki-Chhatri, a cenotaph with eighty-four pillars. In 1683, the Maharaja of Bundi, Rao Raja Anirudh, built this exquisite tomb to honour Deva, the nurse who cared for and guided the prince during his childhood. Bundi is renowned for its paintings, a school of Rajasthani art that emerged in the 17th century and continued to thrive until the late 1800s. The princely kingdom of Bundi and the adjoining principality of Kota, practice this kind of miniature paintings. Lush greenery, stunning night skies, water depicted in a unique way as light swirls against a dark backdrop and energetic movements, are all hallmarks of Bundi school paintings. Stunning murals, despite the decay and disrepair that surround them, adorn the walls of the Bundi Palace and Chitra Shala, which houses a collection of these works. One almost feels transported to mediaeval times when looking at these delicate murals. Make time to visit the ‘ Ramgarh Vishdhari Sanctuary ’ which is the country's 52nd tiger reserve and Rajasthan's fourth one after Ranthambore, Sariska and Mukundra tiger reserves. One can spot a variety of wild animals like the Indian wolf, leopard, striped hyena, sloth bear, golden jackal, chinkara, and nilgai among other animals. The cuisine in this place is an experience that stimulates all the senses. You must try the local delicacies like Dal Bati Churma, Ker Sangri and Gatte ki Sabzi. The bustling markets of Bundi offer handmade paintings from the Bundi School of Art. The handloom industry here is a must-see. No machines are used here, making each item simply unique. Like other places in Rajasthan, festivals here are a riot of colours. The Gangaur Festival celebrates the harvest, spring and marital fidelity. The Teej Utsav (festival) is celebrated with great enthusiasm, but in Bundi, it is called 'Kajali Teej Mela' and is celebrated on the third day of 'Bhadra Pad,' unlike other places where it is celebrated on the third day of 'Shravana Pad.' Keshoraipatan, a town located on the banks of the Chambal River, has a fair on Kartik Purnima. In the 3-day Bundi Utsav (festival) here, you can capture the ethnicity of Rajasthan.",
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "Tourism Information Centre",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Bundi",
+        "source_url": "https://www.incredibleindia.gov.in/en/rajasthan/bundi",
+        "retrieved_at": "2026-09-22T18:36:43.133725+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "destination_id": "IN-KARNATAKA-MYSURU",
+  "destination_name": "Mysuru",
+  "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+  "blocks": [
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "airport",
+        "value": "Mysore Airport (MYQ), Mysore Kempegowda International Airport (BLR), Bengaluru"
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "transport",
+      "content": {
+        "transport_type": "railway_station",
+        "value": "Mysuru Junction Railway Station (MYS)"
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "january",
+        "minimum_celsius": 16.2,
+        "maximum_celsius": 29.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "february",
+        "minimum_celsius": 17.3,
+        "maximum_celsius": 31.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "march",
+        "minimum_celsius": 19.4,
+        "maximum_celsius": 33.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "april",
+        "minimum_celsius": 21.0,
+        "maximum_celsius": 34.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "may",
+        "minimum_celsius": 21.2,
+        "maximum_celsius": 33.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "june",
+        "minimum_celsius": 20.4,
+        "maximum_celsius": 30.0
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "july",
+        "minimum_celsius": 19.9,
+        "maximum_celsius": 28.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "august",
+        "minimum_celsius": 19.8,
+        "maximum_celsius": 28.6
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "september",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 29.5
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "october",
+        "minimum_celsius": 19.7,
+        "maximum_celsius": 29.4
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "november",
+        "minimum_celsius": 18.7,
+        "maximum_celsius": 28.7
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "temperature",
+      "content": {
+        "month": "december",
+        "minimum_celsius": 16.9,
+        "maximum_celsius": 28.3
+      },
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Kempegowda International Airport (BLR), Bengaluru",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Uncover the artistic soul of Mysuru as you meander through its vibrant neighbourhoods adorned with colourful murals and street art. Marvel at the creativity of local artists as they transform drab walls into stunning works of art, reflecting the city's dynamic spirit and cultural heritage.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "It is situated at the foothills of the Chamundi Hills and is about 140 km southwest of the state's capital, Bengaluru. Known for its heritage structures, palaces, and its culture, Mysuru has been called the 'City of Palaces', the 'Heritage City' and the 'Cultural Capital of Karnataka'. Visiting Mysuru is like stepping into a vibrant kaleidoscope of colours, flavours, and culture. From the moment you arrive, you're enveloped in a sense of wonder and excitement, as if every street corner holds a new adventure waiting to be discovered. The majestic Mysore Palace, standing tall as a testament to the city's regal past is a spectacular sight. But what truly sets Mysuru apart is its warmth and hospitality. Whether you're chatting with locals over a cup of steaming chai or sharing a laugh with fellow travellers, there's a sense of camaraderie and connection that makes you feel home right at the onset of your visit. Wandering through the bustling markets, you can't help but be captivated by the sights and sounds of everyday life, from the vibrant textiles to the tantalising aroma of street food wafting through the air. As the traditional seat of the Wadiyar dynasty, the city functioned as the capital of the Kingdom of Mysore for almost six centuries (1399 to 1947). However a mention for another brave ruler Tipu Sultan is synonymous with Mysuru, he was called “Sher-e-Mysore” (the tiger of Mysore). He was a modern ruler, and there were several innovations during his rule, including a new coinage system and calender, and a new land revenue system that encouraged the Mysore silk industry and toys industry. He encouraged science and innovation and pioneered rocket artillery and the iron clad Mysorean rockets were used to defend the city of Mysuru when the British attacked.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mysore developed into a splendid city with excellent planning, wide roads, superlative edifice, and elegant parks. In present times tour to Mysore has become quite prevalent as the modern city has managed to preserve its picturesque location and historic beauty.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mysuru is a melting pot of cultures, where traditions from across India converge to create a vibrant mix of heritage. The city is renowned for its vibrant festivals, including the world-famous Mysore Dasara, a ten-day extravaganza that celebrates the triumph of good over evil. During Dasara, the city comes alive with colourful processions, traditional music and dance performances, and spectacular fireworks displays, attracting millions of visitors from around the globe. During Dasara a lot of folk artists visit the city of Mysuru and perform. In the olden days they performed before the King, today they perform on the streets of Mysuru or in specially designated areas. Presentation of Folk Art by popular folk groups of the state has become an established and regular part of the Dasara celebrations. Other forms of popular traditional dances include Dollu Kunitha performed by the men of the Kuruba community Puja Kunitha, Beesu Kamsale and Somana Kunita (the Mask Dance).",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mysuru's history is as rich and colourful as the tapestries adorning its royal palaces. The illustrious rulers of the mighty Wadiyar dynasty left an indelible mark on its landscape. The iconic Mysore Palace, with its opulent architecture and intricate detailing, stands as a testament to the grandeur of bygone eras. Visitors can step back in time as they wander through its ornate halls, adorned with gilded ceilings, vibrant paintings, and priceless artifacts. Beyond its royal palaces, Mysuru is home to a wealth of architectural marvels that showcase the ingenuity and craftsmanship of its builders. The intricate carvings of the Chamundeshwari Temple, perched atop Chamundi Hill , mesmerise devotees and art aficionados alike. The sprawling grounds of the Jaganmohan Palace, now an art gallery, house a stunning collection of paintings, sculptures, and artifacts that offer a glimpse into Mysuru's cultural heritage. Mysuru's beauty extends beyond its architectural treasures, encompassing lush gardens, tranquil lakes, and verdant hillsides. The Brindavan Gardens, located adjacent to the Krishnarajasagar Dam, are a symphony of colour and fragrance, with cascading fountains, manicured lawns, and vibrant flower beds that enchant visitors of all ages. The serene waters of the Karanji Lake provide a tranquil retreat for nature lovers, where one can spot migratory birds, stroll along scenic pathways, or simply bask in the beauty of the surroundings.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mysuru, a city renowned for its majestic palaces and vibrant culture, is also a culinary paradise for food enthusiasts. Mysuru special food offers a gastronomic journey that delights the senses with its rich flavours, textures, and aromatic spices. From the signature Mysore Pak to the flavourful Bisi Bele Bath, Mysuru famous food has a regal touch that's hard to resist. Let's embark on a culinary tour and explore the famous food of Mysuru that you'll surely want to savour. The unending list of culinary delights of Mysuru includes Chitranna, Mysuru Masala Dosa, Bisi Bele Bath, Ragi Mudde, Shavige Bath and Obbattu.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "paragraph",
+      "content": "Mysuru is a city that captivates the imagination and leaves a lasting impression on all who visit. With its rich history, vibrant culture, and natural beauty, it offers a truly immersive experience that transcends time and space. Whether you're exploring its ancient palaces, reveling in its colourful festivals, or simply savouring its culinary delights, Mysuru promises an unforgettable journey filled with warmth, wonder, and hospitality. So pack your bags and embark on an odyssey of discovery in this enchanting city, where every moment is a celebration of life's beauty.",
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    },
+    {
+      "block_type": "list",
+      "content": [
+        "Top Attractions Heritage Spiritual Wildlife Clear all Show result",
+        "Activities Nature Adventure Weddings Arts Rural Recreation Wellness Clear all Show result",
+        "Festivals & Events Shopping National Occasions Cultural & Spiritual Music & Arts Nature & Wildlife Food & Recreation Sports & Adventure Clear all Show result",
+        "Food & Beverage Street Food Authentically Local Beverages Farm to Table Spices Clear all Show result",
+        "Shopping High Streets Thrift Shopping Bargain Shopping Responsible Shopping Local and Authentic Clear all Show result",
+        "Getting Around Airports Railway Stations Clear all Show result",
+        "ATMs",
+        "Police Stations",
+        "Health Facilities",
+        "Bus stand/Taxi stands"
+      ],
+      "source": {
+        "source_name": "Incredible India - Mysuru",
+        "source_url": "https://www.incredibleindia.gov.in/en/karnataka/mysuru",
+        "retrieved_at": "2026-09-22T18:36:32.188598+00:00",
+        "source_type": "official_tourism_page"
+      }
+    }
+  ]
+}
