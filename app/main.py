@@ -9,9 +9,7 @@ def main():
     graph = build_graph()
 
     query = """
-    I have 4 days and want a peaceful mountain
-    trip with my girlfriend. My budget is low.
-    I don't want extreme cold.
+    What will the weather be like in Manali next weekend?
     """
 
     initial_state = {

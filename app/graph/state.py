@@ -1,4 +1,3 @@
-
 from typing import TypedDict
 
 
@@ -43,6 +42,13 @@ class TravelState(TypedDict, total=False):
     destination_profiles: list
 
     # -------------------------------------------------
+    # Live weather
+    # -------------------------------------------------
+
+    weather_required: bool
+    destination_weather: object
+
+    # -------------------------------------------------
     # Travel planning
     # -------------------------------------------------
 
@@ -64,4 +70,3 @@ class TravelState(TypedDict, total=False):
     grounded: bool
     groundedness_explanation: str
     retry_count: int
- 

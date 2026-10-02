@@ -10,16 +10,33 @@ from app.graph.nodes import (
     evaluate_requirement_fit,
     make_recommendation_decision,
     map_destination,
+    detect_weather_requirement,
+    get_destination_weather,
     plan_trip,
     generate_answer,
     check_groundedness,
     route_after_recommendation,
+    route_after_weather_requirement,
 )
+
+
+def route_after_query_analysis(state):
+
+    travel_profile = state["query_analysis"]
+
+    if travel_profile.intent == "weather_information":
+        return "weather"
+
+    return "normal"
 
 
 def build_graph():
 
     graph = StateGraph(TravelState)
+
+    # -------------------------
+    # Nodes
+    # -------------------------
 
     graph.add_node(
         "analyze_query",
@@ -57,6 +74,16 @@ def build_graph():
     )
 
     graph.add_node(
+        "detect_weather_requirement",
+        detect_weather_requirement
+    )
+
+    graph.add_node(
+        "get_destination_weather",
+        get_destination_weather
+    )
+
+    graph.add_node(
         "plan_trip",
         plan_trip
     )
@@ -72,7 +99,7 @@ def build_graph():
     )
 
     # -------------------------
-    # Main pipeline
+    # Query analysis
     # -------------------------
 
     graph.add_edge(
@@ -80,10 +107,23 @@ def build_graph():
         "analyze_query"
     )
 
-    graph.add_edge(
+    # -------------------------
+    # Query routing
+    # -------------------------
+
+    graph.add_conditional_edges(
         "analyze_query",
-        "rewrite_query"
+        route_after_query_analysis,
+        {
+            "weather": "map_destination",
+            "normal": "rewrite_query",
+        }
     )
+
+    # -------------------------
+    # Normal recommendation
+    # pipeline
+    # -------------------------
 
     graph.add_edge(
         "rewrite_query",
@@ -106,7 +146,7 @@ def build_graph():
     )
 
     # -------------------------
-    # Conditional routing
+    # Recommendation routing
     # -------------------------
 
     graph.add_conditional_edges(
@@ -119,13 +159,39 @@ def build_graph():
     )
 
     # -------------------------
-    # Planning path
+    # Destination mapping
     # -------------------------
 
     graph.add_edge(
         "map_destination",
-        "plan_trip"
+        "detect_weather_requirement"
     )
+
+    # -------------------------
+    # Weather routing
+    # -------------------------
+
+    graph.add_conditional_edges(
+        "detect_weather_requirement",
+        route_after_weather_requirement,
+        {
+            "weather": "get_destination_weather",
+            "continue": "plan_trip",
+        }
+    )
+
+    # -------------------------
+    # Live weather
+    # -------------------------
+
+    graph.add_edge(
+        "get_destination_weather",
+        "generate_answer"
+    )
+
+    # -------------------------
+    # Planning
+    # -------------------------
 
     graph.add_edge(
         "plan_trip",

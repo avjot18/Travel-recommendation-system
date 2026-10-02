@@ -69,6 +69,20 @@ class DestinationRepository:
             destination_id
         )
 
+    def get_destination_by_name(
+    self,
+    name: str
+):
+
+        name_lower = name.strip().lower()
+
+        for destination in self.destinations.values():
+
+            if destination.name.lower() == name_lower:
+                return destination
+
+        return None
+
     def get_all_destinations(self):
 
         return list(

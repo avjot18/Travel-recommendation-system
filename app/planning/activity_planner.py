@@ -1,8 +1,8 @@
- 
 from pydantic import BaseModel, Field
 
 from app.destination.models import (
-    DestinationProfile
+    DestinationProfile,
+    ActivityProfile,
 )
 
 from app.query.analyzer import (
@@ -51,8 +51,21 @@ class ActivityPlanner:
             score = 0.0
             reasons = []
 
+            # ---------------------------------------------
+            # Support structured ActivityProfile
+            # ---------------------------------------------
+
+            if isinstance(
+                activity,
+                ActivityProfile
+            ):
+                activity_name = activity.name
+            else:
+                # Backward compatibility
+                activity_name = activity
+
             activity_lower = (
-                activity.lower()
+                activity_name.lower()
             )
 
             # ---------------------------------------------
@@ -181,7 +194,7 @@ class ActivityPlanner:
 
             planned_activities.append(
                 PlannedActivity(
-                    name=activity,
+                    name=activity_name,
                     priority=priority,
                     match_score=round(
                         score,
@@ -206,4 +219,3 @@ class ActivityPlanner:
             destination=destination.name,
             activities=planned_activities
         )
- 

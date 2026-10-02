@@ -1,6 +1,9 @@
 import time
 
 from app.core.services import ExploreEaseServices
+from app.tools.destination_weather import (
+    DestinationWeatherTool,
+)
 
 
 # Load all expensive services once
@@ -134,14 +137,33 @@ def evaluate_requirement_fit(state):
     return {
         "ranked_destinations": evaluated_destinations
     }
-
 def generate_answer(state):
     start = time.time()
 
     answer = services.generator.generate(
         query=state["query"],
         query_analysis=state["query_analysis"],
-        recommendation_decision=state["recommendation_decision"]
+        recommendation_decision=state.get(
+            "recommendation_decision"
+        ),
+        destination_weather=state.get(
+            "destination_weather"
+        ),
+        destination_profile=state.get(
+            "destination_profile"
+        ),
+        activity_plan=state.get(
+            "activity_plan"
+        ),
+        itinerary_plan=state.get(
+            "itinerary_plan"
+        ),
+        budget_plan=state.get(
+            "budget_plan"
+        ),
+        stay_area_plan=state.get(
+            "stay_area_plan"
+        ),
     )
 
     print(
@@ -152,7 +174,6 @@ def generate_answer(state):
     return {
         "answer": answer
     }
-
 def check_groundedness(state):
 
     print("\nGROUNDEDNESS CHECK:")
@@ -167,27 +188,100 @@ def check_groundedness(state):
         )
     }
 
-
- 
 def map_destination(state):
 
     start = time.time()
 
-    decision = state[
-        "recommendation_decision"
-    ]
+    travel_profile = state.get(
+        "query_analysis"
+    )
+
+    decision = state.get(
+        "recommendation_decision",
+        {}
+    )
 
     candidate = decision.get(
         "candidate"
     )
 
-    if not candidate:
+    # -------------------------------------------------
+    # MODE 1:
+    # Recommendation / trip-planning query
+    # -------------------------------------------------
+
+    if candidate:
+
+        document = candidate[
+            "document"
+        ]
+
+        destination_id = (
+            document.metadata.get(
+                "destination_id"
+            )
+        )
+
+        destination_profile = (
+            services.destination_mapper.document_to_profile(
+                document
+            )
+        )
 
         print(
             "\nDESTINATION MAPPING:"
         )
+
         print(
-            "No recommendation candidate available."
+            "Destination:",
+            document.metadata.get(
+                "destination"
+            )
+        )
+
+        print(
+            "Destination ID:",
+            destination_id
+        )
+
+        print(
+            "Profile mapped:",
+            "YES" if destination_profile else "NO"
+        )
+
+        print(
+            f"[TIME] map_destination: "
+            f"{time.time() - start:.2f}s"
+        )
+
+        return {
+            "destination_profile":
+                destination_profile
+        }
+
+    # -------------------------------------------------
+    # MODE 2:
+    # Direct destination query
+    #
+    # Example:
+    # "What will the weather be like in Manali?"
+    # -------------------------------------------------
+
+    location = None
+
+    if travel_profile:
+
+        location = travel_profile.location
+
+    if not location:
+
+        print(
+            "\nDESTINATION MAPPING:"
+        )
+
+        print(
+            "No recommendation candidate "
+            "or explicit destination available."
         )
 
         print(
@@ -199,48 +293,58 @@ def map_destination(state):
             "destination_profile": None
         }
 
-    document = candidate[
-        "document"
-    ]
-
-    destination_id = (
-        document.metadata.get(
-            "destination_id"
-        )
-    )
-
     destination_profile = (
-        services.destination_mapper.document_to_profile(
-            document
+        services.destination_repository
+        .get_destination_by_name(
+            location
         )
     )
+
+    # -------------------------------------------------
+    # Destination not found
+    # -------------------------------------------------
+
+    if destination_profile is None:
+
+        print(
+            "\nDESTINATION MAPPING:"
+        )
+
+        print(
+            "Could not find destination:",
+            location
+        )
+
+        print(
+            f"[TIME] map_destination: "
+            f"{time.time() - start:.2f}s"
+        )
+
+        return {
+            "destination_profile": None
+        }
+
+    # -------------------------------------------------
+    # Direct destination mapping
+    # -------------------------------------------------
 
     print(
         "\nDESTINATION MAPPING:"
     )
+
     print(
         "Destination:",
-        document.metadata.get(
-            "destination"
-        )
+        destination_profile.name
     )
 
     print(
         "Destination ID:",
-        destination_id
+        destination_profile.destination_id
     )
 
-    if destination_profile:
-
-        print(
-            "Profile mapped: YES"
-        )
-
-    else:
-
-        print(
-            "Profile mapped: NO"
-        )
+    print(
+        "Profile mapped: YES"
+    )
 
     print(
         f"[TIME] map_destination: "
@@ -252,7 +356,110 @@ def map_destination(state):
             destination_profile
     }
  
+def detect_weather_requirement(state):
 
+    start = time.time()
+
+    travel_profile = state.get(
+        "query_analysis"
+    )
+
+    if travel_profile is None:
+
+        print(
+            "\nWEATHER REQUIREMENT:"
+        )
+        print(
+            "Query analysis unavailable."
+        )
+
+        return {
+            "weather_required": False
+        }
+
+    weather_required = (
+        travel_profile.needs_live_weather
+    )
+
+    print(
+        "\nWEATHER REQUIREMENT:"
+    )
+    print(
+        "Live weather required:",
+        weather_required
+    )
+
+    print(
+        f"[TIME] detect_weather_requirement: "
+        f"{time.time() - start:.2f}s"
+    )
+
+    return {
+        "weather_required":
+            weather_required
+    }
+
+
+def get_destination_weather(state):
+
+    start = time.time()
+
+    destination = state.get(
+        "destination_profile"
+    )
+
+    if destination is None:
+
+        print(
+            "\nLIVE WEATHER:"
+        )
+        print(
+            "Destination profile unavailable."
+        )
+
+        return {
+            "destination_weather": None
+        }
+
+    print(
+        "\nLIVE WEATHER:"
+    )
+    print(
+        "Destination:",
+        destination.name
+    )
+    print(
+        "State:",
+        destination.state_or_ut
+    )
+
+    weather_tool = DestinationWeatherTool()
+
+    weather = weather_tool.get_weather(
+        destination=destination.name,
+        state=destination.state_or_ut,
+        forecast_days=7,
+    )
+
+    print(
+        "Weather fetched successfully."
+    )
+
+    print(
+        "Temperature:",
+        weather.weather.temperature_c,
+        "°C"
+    )
+
+    print(
+        f"[TIME] get_destination_weather: "
+        f"{time.time() - start:.2f}s"
+    )
+
+    return {
+        "destination_weather":
+            weather
+    }
 def plan_trip(state):
 
     start = time.time()
@@ -405,7 +612,15 @@ def route_after_recommendation(state):
 
     return "answer"
  
+def route_after_weather_requirement(state):
 
+    if state.get(
+        "weather_required",
+        False,
+    ):
+        return "weather"
+
+    return "continue"
 # def check_groundedness(state):
 
 #     start = time.time()
